@@ -469,10 +469,18 @@ O relato descreve exatamente esse percurso: bote → um vapor → e, ao final, o
 
 ### 🔎 Perguntas em aberto, a fechar com a prima e com a avó Mafalda
 
-1. **Quem contou originalmente?** A frase recebida é *"como ela era a mais velha, ela
-   relatou"*. Não está claro se "ela" é **Maria Luigia** ou **Gina Oliva**, a filha mais
-   velha, que tinha sete anos na noite e seria a única criança do grupo com idade para
-   lembrar. **A cadeia de transmissão muda o peso do relato e precisa ser fixada.**
+1. ✅ **RESPONDIDO (07.09.2026): quem contou foi a PULCHERIA**, filha de Maria Luigia,
+   que tinha **seis anos** na noite do naufrágio. Ela é, ao mesmo tempo, **o assunto do
+   relato e a testemunha dele** — a menina que não saía da cozinha é quem guardou a
+   história do cozinheiro.
+
+   **Cadeia de transmissão:** Pulcheria (testemunha ocular, 6 anos) → filho ou filha dela
+   → a prima (bisneta de Maria Luigia) → João. Três elos, e o primeiro é presencial.
+
+   🔎 **Divergência a conferir:** o relato diz que Pulcheria "era a mais velha", mas a
+   lista do Alhena registra **Ginneta com 7 anos e Pulgheria com 6**. Ou Gina morreu cedo e
+   Pulcheria virou a mais velha do ramo, ou uma das idades está trocada. Perguntar à prima.
+   Não altera o relato; altera como o livro o apresenta.
 2. **O nome da prima**, para citar a fonte.
 3. **O cozinheiro tem nome na história da família?** Registrar a descrição exatamente como
    é contada.

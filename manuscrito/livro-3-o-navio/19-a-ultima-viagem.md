@@ -31,16 +31,6 @@ Não existe um documento sequer que registre o que aquelas sete pessoas fizeram 
 
 O que dá para fazer é reconstruir o navio em volta delas. É o que este capítulo faz.
 
-E aqui eu preciso dizer de onde vem quase tudo o que vem a seguir.
-
-Nos dias seguintes ao naufrágio, jornais da Argentina e do Brasil entrevistaram dezenas de sobreviventes. Vinte desses depoimentos chegaram até mim, em tradução, com nome, idade e procedência de cada depoente.
-
-São a melhor fonte que existe sobre esta travessia. São, na prática, a *única* fonte sobre o que se passou dentro daquele navio.
-
-Ainda não localizei o jornal, a data e a página de cada um. Estou atrás. Enquanto não achar, uso os depoimentos e digo, toda vez, o que eles são: relatos colhidos por repórteres, poucos dias depois, de gente que tinha acabado de sair da água.
-
-Isso não é pouco. E não é prova.
-
 O navio quebrou pela primeira vez logo no começo.
 
 Chegou a Barcelona com cerca de um dia de atraso, por problema de máquina. Consertaram e seguiram.
