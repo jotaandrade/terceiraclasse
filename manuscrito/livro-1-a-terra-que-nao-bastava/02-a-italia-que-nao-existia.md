@@ -115,9 +115,9 @@ Virou italiano aos quarenta e nove anos sem sair de casa. O filho dele, Vincenzo
 
 A fronteira atravessou os dois enquanto os dois estavam parados.
 
-Durante muito tempo eu achei que a história de Luigi terminava aí, e escrevi assim: o homem que nunca foi a lugar nenhum e a quem o mapa mudou debaixo dos pés.
+A história de Luigi Forner parecia terminar aí: o homem que nunca foi a lugar nenhum e a quem o mapa mudou debaixo dos pés.
 
-Estava errado.
+Não termina.
 
 A genealogia impressa em *Storia di Castelcucco*, o livro de história local que reconstruiu essas linhagens, traz ao lado do nome dele uma anotação de seis palavras:
 

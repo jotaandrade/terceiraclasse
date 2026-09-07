@@ -135,9 +135,9 @@ Foi essa a adolescência dele. Não a de quem foge de uma catástrofe num dia, m
 
 Duas precisões, porque elas importam.
 
-A primeira: quase tudo isso é sobre Castelcucco, o vilarejo de Fausto. Rosa morava em Monfumo, quatro quilômetros dali, outro comune, com administração própria e ordens próprias. Durante muito tempo eu escrevi aqui que não sabia o que tinha acontecido lá.
+A primeira: quase tudo isso é sobre Castelcucco, o vilarejo de Fausto. Rosa morava em Monfumo, quatro quilômetros dali, outro comune, com administração própria e ordens próprias.
 
-A mesma tabela responde em parte.
+A mesma tabela responde por ela, em parte.
 
 **Monfumo: 307 refugiados numa população de 1.661. Dezoito vírgula cinco por cento.**
 
@@ -145,7 +145,7 @@ Oito vezes a taxa de Castelcucco. Não é Cavaso e não é catástrofe, mas tamb
 
 O que a tabela não diz é quem saiu, quando, nem se os Forner estavam entre eles. Diz só que a vila de Rosa esvaziou bem mais que a vila de Fausto, e que os dois adolescentes desta história passaram o mesmo inverno em dois lugares que responderam de maneira diferente à mesma montanha.
 
-A segunda é uma correção minha. Quase todo relato geral sobre aquele front repete que os civis que viviam colados à linha foram retirados em 1917, e eu escrevi isso antes de verificar. É plausível e é compatível com a documentação, mas a ordem específica, com a lista de quais localidades e quais casas, ainda não apareceu.
+A segunda é sobre o que se costuma dizer. Quase todo relato geral sobre aquele front repete que os civis que viviam colados à linha foram retirados em 1917. É plausível e é compatível com a documentação, mas a ordem específica, com a lista de quais localidades e quais casas, ainda não apareceu.
 
 Então fica assim, e só assim: ordem e revogação em novembro de 1917, sgombero facultativo e parcial em fevereiro de 1918, evacuação ampla na primavera de 1918. O resto é provável, e está esperando documento.
 

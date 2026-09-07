@@ -660,9 +660,9 @@ quem passa um ano e meio esperando para saber se vai ter que ir embora.""",
 
 A primeira: quase tudo isso é sobre Castelcucco, o vilarejo de Fausto. Rosa morava em
 Monfumo, quatro quilômetros dali, outro comune, com administração própria e ordens
-próprias. Durante muito tempo eu escrevi aqui que não sabia o que tinha acontecido lá.
+próprias.
 
-A mesma tabela responde em parte.
+A mesma tabela responde por ela, em parte.
 
 <strong>Monfumo: 307 refugiados numa população de 1.661. Dezoito vírgula cinco por
 cento.</strong>
@@ -675,10 +675,10 @@ a vila de Rosa esvaziou bem mais que a vila de Fausto, e que os dois adolescente
 história passaram o mesmo inverno em dois lugares que responderam de maneira diferente à
 mesma montanha.
 
-A segunda é uma correção minha. Quase todo relato geral sobre aquele front repete que
-os civis que viviam colados à linha foram retirados em 1917, e eu escrevi isso antes
-de verificar. É plausível e é compatível com a documentação, mas a ordem específica,
-com a lista de quais localidades e quais casas, ainda não apareceu.
+A segunda é sobre o que se costuma dizer. Quase todo relato geral sobre aquele front
+repete que os civis que viviam colados à linha foram retirados em 1917. É plausível e é
+compatível com a documentação, mas a ordem específica, com a lista de quais localidades
+e quais casas, ainda não apareceu.
 
 Então fica assim, e só assim: ordem e revogação em novembro de 1917, sgombero
 facultativo e parcial em fevereiro de 1918, evacuação ampla na primavera de 1918. O
@@ -889,10 +889,10 @@ em 6 de agosto de 1862, também nasceu austríaco e virou italiano aos quatro.
 
 A fronteira atravessou os dois enquanto os dois estavam parados.
 
-Durante muito tempo eu achei que a história de Luigi terminava aí, e escrevi assim: o
-homem que nunca foi a lugar nenhum e a quem o mapa mudou debaixo dos pés.
+A história de Luigi Forner parecia terminar aí: o homem que nunca foi a lugar nenhum e a
+quem o mapa mudou debaixo dos pés.
 
-Estava errado.""",
+Não termina.""",
 
 """A genealogia impressa em <em>Storia di Castelcucco</em>, o livro de história local que
 reconstruiu essas linhagens, traz ao lado do nome dele uma anotação de seis palavras:
