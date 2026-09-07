@@ -477,10 +477,28 @@ O relato descreve exatamente esse percurso: bote → um vapor → e, ao final, o
    **Cadeia de transmissão:** Pulcheria (testemunha ocular, 6 anos) → filho ou filha dela
    → a prima (bisneta de Maria Luigia) → João. Três elos, e o primeiro é presencial.
 
-   🔎 **Divergência a conferir:** o relato diz que Pulcheria "era a mais velha", mas a
-   lista do Alhena registra **Ginneta com 7 anos e Pulgheria com 6**. Ou Gina morreu cedo e
-   Pulcheria virou a mais velha do ramo, ou uma das idades está trocada. Perguntar à prima.
-   Não altera o relato; altera como o livro o apresenta.
+   ✅ **DIVERGÊNCIA RESOLVIDA (07.09.2026): Pulcheria NÃO era a mais velha. Gina era.**
+   Três fontes independentes fecham sem folga:
+
+   | | nascimento | calc. em 25.10.1927 | Alhena 28.10 | Brás 31.10 |
+   |---|---|:-:|:-:|:-:|
+   | **Gina Oliva** | 28.03.1920, atto 21/1920 | **7** | 7 | 7 |
+   | **Pulcheria** | ~1921, ato não localizado | ~6 | **6** | 6 |
+   | Rino | 26.01.1923 | **4** | 4 | 4 |
+   | Danilo Angelo | 11.02.1925, atto 16/1925 | **2** | 2 | 2 |
+
+   Os atos italianos batem com as duas listas brasileiras, lavradas em cidades diferentes,
+   por órgãos diferentes, com três dias de intervalo. **Gina era um ano mais velha.**
+
+   🔴 **O que isso quer dizer, e não enfraquece o relato:** o "mais velha" é deslize de
+   transmissão, não de memória. Pulcheria foi a **segunda** filha, tinha **seis anos**, e
+   provavelmente virou a guardiã da história por um motivo melhor do que a idade:
+   **era ela quem estava na cozinha.** A noite tinha um rosto para ela. Para os irmãos,
+   não tinha.
+
+   🔎 **Continua valendo perguntar à prima:** o que aconteceu com a Gina, e se ela
+   também contava alguma coisa. Uma testemunha de sete anos e outra de seis, do mesmo
+   episódio, seria o cruzamento oral mais valioso que este projeto poderia ter.
 2. **O nome da prima**, para citar a fonte.
 3. **O cozinheiro tem nome na história da família?** Registrar a descrição exatamente como
    é contada.
