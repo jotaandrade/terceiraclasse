@@ -1935,8 +1935,8 @@ casa de Saboia, concedida em ouro, prata ou bronze por ato específico. Ela é d
 alguém fez alguma coisa, e vem com uma justificativa escrita, uma <em>motivazione</em>,
 que descreve o ato.
 
-Essa é a medalha que importa. E é a que tem um documento associado que ainda pode ser
-encontrado.""",
+Essa é a medalha que importa. E quer dizer que em algum arquivo italiano existe uma folha
+de papel que diz o que Sante Forner fez.""",
 
 """A segunda é a <em>Medaglia commemorativa della guerra italo-austriaca 1915-1918</em>, e
 ela é de outra natureza.
@@ -1962,13 +1962,12 @@ Ela vinha com fascette, pequenas barras presas à fita. Uma barra para cada ano 
 que o soldado tivesse servido no mínimo quatro meses, e cada barra traz o ano gravado:
 1915, 1916, 1917, 1918.
 
-As barras são a folha de serviço dele, em metal, na parede da casa do Giorgio.
+As barras são a folha de serviço dele, em metal, na parede da casa do Giorgio. Cada uma
+traz o ano gravado, e juntas dizem em quantas campanhas ele esteve e quais foram.
 
-Se a fotografia do quadro tiver resolução suficiente, ou se alguém puder tirar uma nova
-de perto, dá para contar as barras e ler os anos. Isso diz, sem precisar de arquivo
-nenhum, em quantas campanhas Sante Forner esteve e quais foram.
+Estão ali desde 1920.
 
-É a pesquisa mais barata deste livro inteiro e ainda não foi feita.""",
+Ninguém nunca as contou.""",
 
 """A terceira medalha eu não consigo identificar pela descrição.
 
@@ -1976,9 +1975,7 @@ A família a chama de medalha de campanha. Pode ser a Medalha Interaliada da Vit
 os países vencedores emitiram em versões nacionais a partir de 1922, pode ser uma
 comemorativa da unidade, pode ser outra coisa.
 
-Fica registrado como não identificado, porque inventar aqui seria fácil e seria errado.
-Uma foto frontal do quadro, com luz e sem reflexo, resolve em cinco minutos para quem
-entende de numismática militar italiana.""",
+Fica sem nome, porque inventar aqui seria fácil e seria errado.""",
 
 """Sante Forner voltou.
 
@@ -1991,8 +1988,7 @@ Morreu em 1947, aos cinquenta e quatro anos.
 Nunca emigrou. Nunca viu o Brasil. E é quase certo que nunca voltou a ver a irmã Rosa
 depois de 1927, porque ninguém naquela condição atravessava o Atlântico duas vezes.""",
 
-"""E existe um segundo objeto, que estava na pasta o tempo todo e que eu nunca tinha lido
-de verdade.
+"""E existe um segundo objeto, guardado na mesma pasta.
 
 Em 8 de março de 1940 o Comune di Asolo emitiu a <em>carta d'identità</em> de Sante
 Forner. Ela está no acervo desta família, gasta nas dobras, com uma marca de vinte e cinco
