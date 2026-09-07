@@ -77,6 +77,15 @@ metáfora. A causa registrada é neoplasia de orofaringe, não câncer de língu
 **Fontes orais.** Não corrigir a entrevistada durante a gravação, nunca — nem data errada.
 Divergência entre depoimento e documento se resolve no papel, depois.
 
+**Não atacar e não expor ninguém.** *(regra do autor, 07.09.2026)* O livro mostra que as
+testemunhas discordam; não julga qual delas mente, e não usa a vida pessoal de um depoente
+para descredibilizar o que ele disse. Não insinua encobrimento sem documento. Não nomeia
+pessoas vivas em episódios que as constranjam — colaboradores de árvores genealógicas,
+funcionários, parentes distantes entram anônimos ou não entram.
+
+Quando duas versões se contradizem, procurar primeiro **o que elas têm em comum** — quase
+sempre existe, e quase sempre é mais forte do que a disputa.
+
 ---
 
 ## Pendências que bloqueiam publicação
