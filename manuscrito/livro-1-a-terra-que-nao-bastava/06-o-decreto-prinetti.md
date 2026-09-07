@@ -77,17 +77,15 @@ Vinte e quatro anos depois do decreto, Fausto Miotto embarcou.
 
 Não como colono recrutado, não com passagem paga por ninguém, não dentro de um contrato assinado antes de sair. Foi por conta própria, primeiro, sozinho, do jeito que boa parte da emigração vêneta passou a se fazer depois de 1902: alguém vai, se estabelece, e chama.
 
-Isso é uma afirmação sobre ele, e não sobre o sistema. Como se viu no capítulo anterior, em 1923 ainda saía de Gênova gente subsidiada, com patrão declarado, neste mesmo navio. O que se pode dizer do Fausto é que ele não estava entre eles.
+Como se viu no capítulo anterior, ainda saía de Gênova gente subsidiada em 1923, com patrão declarado antes do embarque, neste mesmo navio. Fausto não estava entre eles.
 
 Depois chamou a mulher.
 
-E aqui eu preciso desfazer um raciocínio meu.
+E a mulher, quando veio, veio pelo mesmo caminho.
 
-Durante muito tempo escrevi que Rosa Forner estava no *Principessa Mafalda* porque a passagem subvencionada tinha acabado. Que o decreto de 1902 tinha empurrado esta família para dentro de um transatlântico comercial.
+**Rosa Forner não estava sendo recrutada. Estava indo encontrar o marido.**
 
-Não foi isso. O documento de 1923 mostra que o transporte subsidiado ainda existia, e existia neste navio.
-
-O motivo é outro, é mais simples e é melhor: **ela não estava sendo recrutada. Ela estava indo encontrar o marido.**
+É uma diferença que parece pequena e que decide tudo o que vem depois.
 
 Reunião familiar não é colonização, e o Estado de São Paulo não pagava por ela.
 
@@ -97,23 +95,21 @@ Ela pagou para estar ali.
 
 Junto com a irmã, com quatro sobrinhos e com um filho de um ano.
 
-Escrevi, na versão anterior deste capítulo, que uma canetada dada em Roma determinou em que tipo de embarcação esta família atravessaria o oceano vinte e cinco anos depois.
+Seria bonito dizer que uma canetada dada em Roma pôs esta família naquele navio, vinte e cinco anos depois.
 
-Era uma boa frase. Não se sustenta.
+Não é verdade, e o documento de 1923 é a prova: aquele navio ainda levava gente subsidiada.
 
-O decreto de 1902 é fato, e o efeito imediato dele sobre o fluxo é fato. O que eu não posso dizer é que ele pôs Rosa naquele navio, porque em 1923 aquele navio ainda transportava gente subsidiada.
+O que o decreto fez foi mais modesto, e ainda assim grande. Mudou quem podia ir sem dinheiro e quem precisava juntar. Empurrou uma parte da emigração vêneta para o modelo de um por vez, por conta própria, chamando os outros depois.
 
-O que o decreto fez foi mais modesto e ainda assim grande: mudou quem podia ir sem dinheiro e quem precisava juntar. Empurrou uma parte da emigração vêneta para o modelo de um por vez, por conta própria, chamando os outros depois. A família Miotto cabe inteira dentro desse modelo.
+**A família Miotto cabe inteira dentro desse modelo.**
 
-História é feita disso, e também é feita de corrigir a própria frase quando o documento aparece.
+Fica um buraco neste capítulo, e ele é grande.
 
-Fica um buraco aberto, e ele é meu.
+O Decreto N. 2400, de 13 de julho de 1918, citado no cabeçalho daquela Relação de 1923, é a base legal *brasileira* do transporte subsidiado. Do lado italiano, não sei até quando a proibição de 1902 continuou valendo na prática, nem se foi revogada, nem se simplesmente deixou de ser aplicada.
 
-O Decreto N. 2400, de 13 de julho de 1918, citado no cabeçalho daquela Relação de 1923, é a base legal *brasileira* do transporte subsidiado. Do lado italiano, eu não sei até quando a proibição de 1902 continuou valendo na prática, nem se foi revogada, nem se simplesmente deixou de ser aplicada.
+Sem essa peça, este capítulo não pode dizer que a proibição durou até 1927, e também não pode dizer que caiu antes.
 
-Sem essa peça, este capítulo não pode afirmar que a proibição durou até 1927, e também não pode afirmar que caiu antes.
-
-Fica declarado assim até o documento aparecer.
+Fica assim, declarado, até o documento aparecer.
 
 Há uma última ironia neste capítulo, e ela é silenciosa.
 
