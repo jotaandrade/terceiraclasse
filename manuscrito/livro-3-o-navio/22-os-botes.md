@@ -81,8 +81,6 @@ Ao primeiro estalo, correram todos ao depósito para pegar os coletes salva-vida
 
 *Só então* os imigrantes, cegos de medo, derrubaram três botes no mar e se atiraram neles de um jeito tão desordenado que os três viraram.
 
-Na versão de Lynose, a terceira classe não começou o pânico. Reagiu a ele.
-
 Eu não vou escolher entre as três.
 
 E preciso dizer por quê, porque a essa altura já ficou claro de que lado eu venho.
