@@ -1,0 +1,418 @@
+<title>Gravar a Mafalda</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@1,6..96,400;1,6..96,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Jost:wght@400;500;600&display=swap">
+
+<style>
+:root{
+  --paper:#F2F5F4;
+  --panel:#E7ECEA;
+  --ink:#14201E;
+  --mute:#65746F;
+  --sea:#1B4A57;
+  --ox:#8A3128;
+  --rule:#CFD8D5;
+  --rail:#B7C4C0;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0F1514;
+    --panel:#18201F;
+    --ink:#E4EAE8;
+    --mute:#93A29E;
+    --sea:#79B7C6;
+    --ox:#D98C81;
+    --rule:#25302E;
+    --rail:#36433F;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0F1514;
+  --panel:#18201F;
+  --ink:#E4EAE8;
+  --mute:#93A29E;
+  --sea:#79B7C6;
+  --ox:#D98C81;
+  --rule:#25302E;
+  --rail:#36433F;
+}
+
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"EB Garamond",Georgia,"Times New Roman",serif;
+  font-size:19px;
+  line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:44rem;margin:0 auto;padding:3.5rem 1.5rem 6rem;}
+
+/* ---------- cabeçalho ---------- */
+.masthead{display:flex;flex-direction:column;gap:.9rem;padding-bottom:1.6rem;border-bottom:1px solid var(--rule);}
+.eyebrow{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;
+  font-size:.7rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--sea);
+}
+.masthead h1{
+  font-family:"Bodoni Moda",Didot,Georgia,serif;
+  font-style:italic;font-weight:400;
+  font-size:clamp(2.6rem,9vw,3.9rem);
+  line-height:.98;margin:0;text-wrap:balance;
+}
+.dek{margin:0;max-width:34rem;color:var(--mute);font-size:1.05rem;}
+.vitals{
+  display:flex;flex-wrap:wrap;gap:.4rem 1.4rem;margin-top:.2rem;
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;
+  font-size:.76rem;letter-spacing:.05em;color:var(--mute);
+  font-variant-numeric:tabular-nums;
+}
+.vitals b{font-weight:500;color:var(--ink);}
+
+/* ---------- seções ---------- */
+.sec{margin-top:3.2rem;}
+.sec-head{display:flex;align-items:baseline;gap:.75rem;margin-bottom:1.2rem;}
+.sec-head h2{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;
+  font-size:.82rem;font-weight:600;letter-spacing:.15em;text-transform:uppercase;
+  margin:0;color:var(--ink);
+}
+.sec-head .when{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;
+  font-size:.72rem;letter-spacing:.06em;color:var(--mute);
+  font-variant-numeric:tabular-nums;white-space:nowrap;
+}
+.sec-head::after{content:"";flex:1;height:1px;background:var(--rule);}
+.lede{margin:0 0 1.2rem;color:var(--mute);font-size:.98rem;max-width:36rem;}
+
+/* ---------- checklist ---------- */
+.check{display:flex;flex-direction:column;gap:.1rem;}
+.check label{
+  display:grid;grid-template-columns:1.4rem 1fr;gap:.7rem;align-items:start;
+  padding:.5rem .6rem;border-radius:3px;cursor:pointer;
+}
+.check label:hover{background:var(--panel);}
+.check input{
+  margin:.28rem 0 0;width:1rem;height:1rem;accent-color:var(--sea);cursor:pointer;
+}
+.check input:checked + span{color:var(--mute);text-decoration:line-through;text-decoration-color:var(--rail);}
+.check span small{
+  display:block;font-family:Jost,"Helvetica Neue",Arial,sans-serif;
+  font-size:.78rem;color:var(--mute);margin-top:.12rem;letter-spacing:.01em;
+}
+
+/* ---------- lista simples de instruções ---------- */
+.steps{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:.75rem;}
+.steps li{padding-left:1.1rem;position:relative;}
+.steps li::before{
+  content:"";position:absolute;left:0;top:.62em;
+  width:.34rem;height:.34rem;border-radius:50%;background:var(--rail);
+}
+.steps b{font-weight:500;}
+
+/* ---------- fala gravada ---------- */
+.say{
+  background:var(--panel);border-left:2px solid var(--sea);
+  padding:1.1rem 1.3rem;margin:1.1rem 0;border-radius:0 3px 3px 0;
+  display:flex;flex-direction:column;gap:.8rem;
+}
+.say p{margin:0;font-style:italic;}
+.say .who{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;font-style:normal;
+  font-size:.68rem;font-weight:600;letter-spacing:.15em;text-transform:uppercase;color:var(--sea);
+}
+
+/* ---------- faça / não faça ---------- */
+.rules{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:2rem;}
+.rules h3{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;
+  font-size:.72rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;
+  margin:0 0 .9rem;padding-bottom:.45rem;border-bottom:1px solid var(--rule);
+}
+.rules .do h3{color:var(--sea);}
+.rules .dont h3{color:var(--ox);}
+.rules ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:.8rem;}
+.rules li{font-size:1rem;line-height:1.45;}
+.rules .dont li{padding-left:.9rem;border-left:1px solid var(--ox);}
+.rules em{color:var(--mute);font-size:.88rem;font-family:Jost,"Helvetica Neue",Arial,sans-serif;font-style:normal;display:block;margin-top:.2rem;}
+
+/* ---------- roteiro ---------- */
+.legend{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;font-size:.78rem;color:var(--mute);
+  margin:0 0 1.6rem;
+}
+.legend i{font-family:"EB Garamond",Georgia,serif;font-size:1rem;color:var(--ink);}
+.block{
+  display:grid;grid-template-columns:5.2rem 1fr;gap:0 1.5rem;
+  padding-bottom:2.2rem;
+}
+.block:last-of-type{padding-bottom:0;}
+.clock{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;
+  font-size:.74rem;font-weight:500;letter-spacing:.06em;color:var(--sea);
+  font-variant-numeric:tabular-nums;padding-top:.35rem;
+  border-top:2px solid var(--sea);
+}
+.block-body{border-top:1px solid var(--rule);padding-top:.35rem;}
+.block-body h3{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;
+  font-size:.95rem;font-weight:500;letter-spacing:.02em;margin:0 0 .5rem;
+}
+.aim{margin:0 0 1rem;font-family:Jost,"Helvetica Neue",Arial,sans-serif;font-size:.83rem;color:var(--mute);line-height:1.5;}
+.qs{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:.6rem;}
+.qs li{font-style:italic;font-size:1.06rem;padding-left:.85rem;border-left:1px solid var(--rail);}
+.note{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;font-style:normal;
+  font-size:.82rem;color:var(--mute);margin:1rem 0 0;line-height:1.55;
+}
+.note b{color:var(--ink);font-weight:500;}
+
+/* ---------- destaque único ---------- */
+.flag{
+  margin-top:1.4rem;padding:1rem 1.2rem;border:1px solid var(--ox);border-radius:3px;
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;font-size:.85rem;line-height:1.55;color:var(--ink);
+}
+.flag b{color:var(--ox);font-weight:600;letter-spacing:.02em;}
+
+.path{
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;font-size:.8rem;
+  background:var(--panel);padding:.15rem .4rem;border-radius:2px;color:var(--ink);
+  overflow-wrap:anywhere;
+}
+
+.colophon{
+  margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--rule);
+  font-family:Jost,"Helvetica Neue",Arial,sans-serif;font-size:.75rem;color:var(--mute);letter-spacing:.03em;
+}
+
+a{color:var(--sea);}
+:focus-visible{outline:2px solid var(--sea);outline-offset:2px;}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;}}
+
+@media (max-width:34rem){
+  body{font-size:18px;}
+  .block{grid-template-columns:1fr;gap:.5rem;}
+  .clock{border-top:none;padding-top:0;}
+  .block-body{border-top:none;padding-top:0;}
+}
+
+@media print{
+  body{background:#fff;color:#000;font-size:11.5pt;}
+  .wrap{padding:0;max-width:none;}
+  .sec{margin-top:1.6rem;page-break-inside:avoid;}
+  .block{page-break-inside:avoid;}
+  .check label:hover{background:none;}
+  .colophon{display:none;}
+}
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="eyebrow">Terceira Classe &middot; trabalho de campo</div>
+    <h1>Gravar a Mafalda</h1>
+    <p class="dek">Sessão 1. Ela tem 89 anos e é a única testemunha viva da cadeia oral. Hoje não se apura nada: hoje se estabelece o ritual e se pega o que só ela tem.</p>
+    <div class="vitals">
+      <span><b>6 de setembro de 2026</b></span>
+      <span>Duração máxima <b>90 min</b></span>
+      <span>Mafalda Miotto Terra, <b>n. 02.01.1937</b></span>
+    </div>
+  </header>
+
+  <!-- ============================================================ -->
+  <section class="sec">
+    <div class="sec-head"><h2>Antes de sair</h2><span class="when">15 min</span></div>
+    <p class="lede">O desastre mais comum em história oral não é a pergunta errada. É o arquivo único que corrompe.</p>
+    <div class="check" id="kit">
+      <label><input type="checkbox"><span>Dois gravadores rodando ao mesmo tempo<small>Celular principal + qualquer segundo aparelho. Ligue os dois, confirme os dois.</small></span></label>
+      <label><input type="checkbox"><span>Modo avião nos dois<small>Uma ligação recebida encerra a gravação no meio da frase.</small></span></label>
+      <label><input type="checkbox"><span>5 GB livres e bateria cheia<small>90 min de áudio dão ~150 MB. Vídeo come 20× isso.</small></span></label>
+      <label><input type="checkbox"><span>Carregador, e uma tomada já localizada na sala</span></label>
+      <label><input type="checkbox"><span>Caderno de papel e caneta<small>Toda dúvida vira anotação, nunca interrupção.</small></span></label>
+      <label><input type="checkbox"><span>No máximo três fotos, e no bolso<small>Foto destrava memória como nada. Também sequestra a sessão inteira. Guarde para quando ela travar.</small></span></label>
+      <label><input type="checkbox"><span>Água para os dois</span></label>
+    </div>
+  </section>
+
+  <!-- ============================================================ -->
+  <section class="sec">
+    <div class="sec-head"><h2>A sala</h2><span class="when">5 min</span></div>
+    <ul class="steps">
+      <li><b>Cômodo pequeno e macio.</b> Sofá, cortina, tapete, toalha de mesa. Cozinha não: azulejo e fórmica devolvem tudo e a voz fica oca.</li>
+      <li><b>Desligue TV, rádio, ventilador.</b> A geladeira também, se puder. O zumbido é inaudível hoje e insuportável no dia de transcrever.</li>
+      <li><b>Celular sobre um pano dobrado</b>, a 30–40 cm dela, apontado para ela. Nunca direto na madeira, que transmite cada batida de xícara.</li>
+      <li><b>Sente ao lado dela, não de frente.</b> De frente com um aparelho no meio vira depoimento.</li>
+      <li><b>Se for filmar</b>, o segundo celular fica fixo, plano aberto, e você não encosta mais nele. Câmera que se mexe faz a pessoa se lembrar de que está sendo filmada.</li>
+    </ul>
+  </section>
+
+  <!-- ============================================================ -->
+  <section class="sec">
+    <div class="sec-head"><h2>Os dois primeiros minutos</h2><span class="when">com o gravador já ligado</span></div>
+    <p class="lede">Isto não é formalidade. É o que transforma uma conversa de família em fonte citável, e é o que te dá o direito de publicar.</p>
+
+    <div class="say">
+      <span class="who">Você, para o gravador</span>
+      <p>Hoje é 6 de setembro de 2026. Estou na casa da minha avó, Mafalda Miotto Terra. Quem grava sou eu, João José de Andrade Neto. Sessão número um.</p>
+    </div>
+
+    <div class="say">
+      <span class="who">Você, para ela</span>
+      <p>Vó, eu tô gravando. É pra escrever um livro sobre a senhora e sobre a bisa Rosa. A senhora deixa? E se a senhora falar alguma coisa e depois não quiser que entre, é só me falar que eu tiro.</p>
+    </div>
+
+    <p class="note"><b>Espere ela responder antes de seguir.</b> A resposta dela, na voz dela, é o seu consentimento registrado. E cumpra a promessa: se ela pedir para tirar alguma coisa, tira.</p>
+  </section>
+
+  <!-- ============================================================ -->
+  <section class="sec">
+    <div class="sec-head"><h2>As regras</h2><span class="when">a parte difícil</span></div>
+    <div class="rules">
+      <div class="do">
+        <h3>Faça</h3>
+        <ul>
+          <li>Uma pergunta por vez, curta.<em>Pergunta longa é pergunta que já contém a resposta.</em></li>
+          <li>Conte até cinco depois que ela parar.<em>O melhor material da sessão vem no silêncio depois da resposta, quando ela acha que já acabou.</em></li>
+          <li>Pergunte <i>como era</i>, nunca <i>a senhora lembra de</i>.<em>A segunda forma se responde com sim ou não.</em></li>
+          <li>Peça a cena, não o resumo: <i>me conta um dia em que isso aconteceu</i>.</li>
+          <li>Pergunte cheiro, som, temperatura, o que tinha na mesa.<em>Aos 89 a sensação está muito mais firme que a data.</em></li>
+          <li>Balance a cabeça em vez de dizer “aham”.<em>O “aham” fica em cima da voz dela para sempre.</em></li>
+        </ul>
+      </div>
+      <div class="dont">
+        <h3>Não faça</h3>
+        <ul>
+          <li>Não corrija ela. Nem data errada.<em>Anote e resolva no documento depois. Corrigida uma vez, ela passa a ter medo de errar — e o detalhe seca na hora.</em></li>
+          <li>Não termine as frases dela.</li>
+          <li>Não pergunte <i>por quê</i>.<em>“Por quê” convida explicação pronta. Pergunte o que ela viu e o que ela ouviu.</em></li>
+          <li>Não pule em cima quando ela disser algo grande.<em>Só “como assim, vó?” — e silêncio.</em></li>
+          <li>Não desligue o gravador se ela se emocionar.<em>A não ser que ela peça. Pare de perguntar, ofereça água, espere. Emoção não é falha da entrevista.</em></li>
+          <li>Não passe de 90 minutos.<em>Cansaço vira confusão, e confusão gera material que você vai ter que descartar depois.</em></li>
+        </ul>
+      </div>
+    </div>
+    <div class="flag"><b>Hoje o Enrico fica de fora.</b> Não é assunto de sessão 1, conforme combinado. Se ela puxar sozinha, deixe correr sem perguntar nada e siga adiante.</div>
+  </section>
+
+  <!-- ============================================================ -->
+  <section class="sec">
+    <div class="sec-head"><h2>O roteiro</h2><span class="when">90 min</span></div>
+    <p class="legend">Em <i>itálico</i>, o que você fala. Em cinza, o que você faz. Não precisa dar conta de tudo — a lista existe para você nunca ficar sem a próxima pergunta, não para ser cumprida.</p>
+
+    <div class="block">
+      <div class="clock">0–10 min</div>
+      <div class="block-body">
+        <h3>Para o registro</h3>
+        <p class="aim">Terreno fácil, de propósito. Aquece a voz dela, aquece a sua, e deixa o arquivo identificado sem ambiguidade.</p>
+        <ul class="qs">
+          <li>Vó, fala seu nome inteiro pra mim.</li>
+          <li>Onde a senhora nasceu, e em que dia?</li>
+          <li>Como chamavam seu pai e sua mãe?</li>
+          <li>Quantos irmãos a senhora teve? Fala o nome de cada um.</li>
+          <li>Desde que a senhora nasceu, onde a senhora morou? Na ordem.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="block">
+      <div class="clock">10–35 min</div>
+      <div class="block-body">
+        <h3>A casa</h3>
+        <p class="aim">São José do Rio Pardo, anos 1940. É aqui que está o material que ninguém mais no mundo tem — e o que some primeiro.</p>
+        <ul class="qs">
+          <li>Como era a casa? Me leva por dentro dela.</li>
+          <li>Quantos cômodos? Onde a senhora dormia?</li>
+          <li>Tinha luz? Tinha água dentro de casa?</li>
+          <li>Qual era o cheiro da casa de manhã?</li>
+          <li>O que tinha na mesa no dia a dia? E no domingo?</li>
+          <li>Quem acordava primeiro?</li>
+          <li>O que a senhora fazia o dia inteiro, quando era menina?</li>
+          <li>A senhora foi à escola? Até quando?</li>
+          <li>Qual é a coisa mais antiga que a senhora lembra da vida inteira? A primeira de todas.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="block">
+      <div class="clock">35–65 min</div>
+      <div class="block-body">
+        <h3>O pai e a mãe</h3>
+        <p class="aim">Fausto e Rosa como pessoas, não como personagens de naufrágio. Você já tem os documentos deles; o que falta é o corpo, a voz e o humor.</p>
+        <ul class="qs">
+          <li>Me descreve o seu pai. Como ele era de corpo, como ele falava.</li>
+          <li>O Fausto trabalhava com quê?</li>
+          <li>Ele falava italiano em casa? Com quem?</li>
+          <li>Tem alguma palavra que só ele falava? Fala do jeito que ele falava.</li>
+          <li>E a sua mãe? Como era a Rosa?</li>
+          <li>As mãos dela — o que ela fazia com as mãos o dia inteiro?</li>
+          <li>A Rosa era brava? Era de rir?</li>
+          <li>Ela cantava? Cantava o quê?</li>
+          <li>Ela falava da Itália? O que ela contava?</li>
+          <li>A Rosa tinha medo de alguma coisa?</li>
+          <li>Eles conversavam sobre voltar?</li>
+          <li>Chegava carta dos que ficaram lá?</li>
+        </ul>
+        <p class="note"><b>“Tinha medo de alguma coisa?”</b> é a porta para a água e para o mar sem que você precise citar o navio. Se ela entrar por ali sozinha, deixe ir e não conduza.</p>
+      </div>
+    </div>
+
+    <div class="block">
+      <div class="clock">65–85 min</div>
+      <div class="block-body">
+        <h3>Carta branca</h3>
+        <p class="aim">A história que ela já contou mil vezes, inteira, sem corte. Você não está apurando: está registrando a versão canônica da família, com as palavras e a ordem que ela escolhe.</p>
+        <ul class="qs">
+          <li>Vó, agora eu queria que a senhora me contasse a história do navio do jeito que a senhora conta. Eu não vou perguntar nada, só vou escutar.</li>
+        </ul>
+        <p class="note"><b>E aí você cala a boca de verdade.</b> Sem checar data, sem citar a Hospedaria do Brás, sem confrontar nada com o Livro 100. Conferir documento com testemunha é trabalho do mês três, e feito hoje só ensina ela a duvidar da própria memória.<br><br>Se ela terminar em quatro minutos, faça só isto e solte de novo: <i>a senhora ouviu isso dela quando? Quantos anos a senhora tinha?</i></p>
+      </div>
+    </div>
+
+    <div class="block">
+      <div class="clock">85–90 min</div>
+      <div class="block-body">
+        <h3>Fecho</h3>
+        <ul class="qs">
+          <li>Vó, o que a senhora acha que eu tinha que ter perguntado e não perguntei?</li>
+          <li>Posso voltar semana que vem?</li>
+        </ul>
+        <p class="note">A primeira é a melhor pergunta da história oral: entrega a pauta das próximas semanas de graça. Depois diga a data em voz alta outra vez e só então pare a gravação.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================ -->
+  <section class="sec">
+    <div class="sec-head"><h2>Depois</h2><span class="when">nos 30 min seguintes</span></div>
+    <p class="lede">Antes de fazer qualquer outra coisa. É neste intervalo que a maioria das gravações se perde.</p>
+    <ul class="steps">
+      <li><b>Copie os arquivos para três lugares.</b> Um deles é <span class="path">Familia Miotto\Gravacoes\</span> — a pasta já está criada, e o Drive faz o backup sozinho.</li>
+      <li><b>Nomeie na hora:</b> <span class="path">2026-09-06_mafalda_sessao-01_audio.m4a</span></li>
+      <li><b>Escreva dez linhas enquanto está fresco:</b> como ela estava, o que ela repetiu, onde ela desviou, o que travou, o que você quer perguntar semana que vem.</li>
+      <li><b>Anote as palavras em dialeto foneticamente</b>, do jeito exato que você ouviu. Não tente escrever certo em italiano — o certo é o que ela disse.</li>
+      <li><b>Não transcreva hoje.</b> Só salve.</li>
+    </ul>
+  </section>
+
+  <div class="colophon">As Três Mafaldas &middot; sessão 1 de uma série semanal &middot; ela faz 90 anos em 2 de janeiro de 2027</div>
+
+</div>
+
+<script>
+(function(){
+  var box = document.getElementById('kit');
+  if(!box) return;
+  var inputs = box.querySelectorAll('input[type=checkbox]');
+  try{
+    var saved = JSON.parse(localStorage.getItem('kit-sessao1') || '[]');
+    inputs.forEach(function(el,i){ el.checked = !!saved[i]; });
+  }catch(e){}
+  box.addEventListener('change', function(){
+    try{
+      var state = [];
+      inputs.forEach(function(el){ state.push(el.checked); });
+      localStorage.setItem('kit-sessao1', JSON.stringify(state));
+    }catch(e){}
+  });
+})();
+</script>

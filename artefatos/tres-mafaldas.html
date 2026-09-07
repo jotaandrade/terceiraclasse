@@ -1,0 +1,797 @@
+<title>Terceira Classe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@1,6..96,400;1,6..96,500;0,6..96,400&family=Jost:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<style>
+  :root {
+    --bg:        #E6E2D6;
+    --surface:   #F0EDE4;
+    --ink:       #14181A;
+    --ink-soft:  #4A5457;
+    --rule:      #C7C1B1;
+    --rule-soft: #D8D3C5;
+    --accent:    #8A6712;
+    --sea:       #2F5E5C;
+    --warn:      #9E3120;
+
+    --f-display: "Bodoni Moda", "Didot", Georgia, serif;
+    --f-body:    "Jost", "Futura", "Century Gothic", system-ui, sans-serif;
+    --f-mono:    "IBM Plex Mono", ui-monospace, "SFMono-Regular", Consolas, monospace;
+
+    --step--1: 0.812rem;
+    --step-0:  1.0625rem;
+    --step-1:  1.32rem;
+    --step-2:  1.72rem;
+    --step-3:  2.35rem;
+    --step-4:  3.4rem;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg:        #0D1214;
+      --surface:   #151C1F;
+      --ink:       #E9E4D8;
+      --ink-soft:  #93A09F;
+      --rule:      #273237;
+      --rule-soft: #1C2529;
+      --accent:    #C99B3E;
+      --sea:       #6FA8A2;
+      --warn:      #D4664F;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --bg:        #0D1214;
+    --surface:   #151C1F;
+    --ink:       #E9E4D8;
+    --ink-soft:  #93A09F;
+    --rule:      #273237;
+    --rule-soft: #1C2529;
+    --accent:    #C99B3E;
+    --sea:       #6FA8A2;
+    --warn:      #D4664F;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--f-body);
+    font-size: var(--step-0);
+    font-weight: 300;
+    line-height: 1.62;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 63rem; margin: 0 auto; padding: 0 1.5rem 6rem; }
+
+  .masthead { padding: 4.5rem 0 2.5rem; border-bottom: 1px solid var(--rule); }
+
+  .kicker {
+    font-family: var(--f-mono);
+    font-size: var(--step--1);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 0 0 1.75rem;
+  }
+
+  h1 {
+    font-family: var(--f-display);
+    font-style: italic;
+    font-weight: 400;
+    font-size: var(--step-4);
+    line-height: 1.02;
+    letter-spacing: -0.015em;
+    margin: 0;
+    text-wrap: balance;
+  }
+
+  .sub {
+    font-family: var(--f-body);
+    font-weight: 300;
+    font-size: var(--step-1);
+    color: var(--ink-soft);
+    margin: 0.8rem 0 0;
+    max-width: 36rem;
+    line-height: 1.4;
+  }
+
+  .premise { max-width: 34rem; margin: 1.6rem 0 0; font-size: var(--step-0); }
+
+  .statline {
+    display: flex; flex-wrap: wrap; gap: 0 2.25rem; margin-top: 2.5rem;
+    font-family: var(--f-mono); font-size: var(--step--1);
+    color: var(--ink-soft); font-variant-numeric: tabular-nums;
+  }
+  .statline b { color: var(--accent); font-weight: 500; }
+
+  section {
+    display: grid;
+    grid-template-columns: 8.5rem minmax(0, 40rem);
+    gap: 0 3rem;
+    padding: 3.25rem 0;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+  section:last-of-type { border-bottom: 0; }
+
+  .rail {
+    font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.12em;
+    text-transform: uppercase; color: var(--ink-soft); line-height: 1.5; padding-top: 0.55rem;
+  }
+
+  .col { min-width: 0; }
+
+  h2 {
+    font-family: var(--f-display); font-style: italic; font-weight: 400;
+    font-size: var(--step-3); line-height: 1.1; margin: 0 0 1.1rem; text-wrap: balance;
+  }
+
+  h3 {
+    font-family: var(--f-body); font-weight: 500; font-size: var(--step-0);
+    letter-spacing: 0.01em; margin: 2rem 0 0.5rem;
+  }
+
+  p { margin: 0 0 1.05rem; }
+  p:last-child { margin-bottom: 0; }
+
+  em { font-family: var(--f-display); font-style: italic; }
+  strong { font-weight: 600; color: var(--ink); }
+  a { color: var(--accent); text-underline-offset: 3px; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+
+  blockquote {
+    margin: 1.75rem 0; padding-left: 1.3rem; border-left: 2px solid var(--accent);
+    font-family: var(--f-display); font-style: italic;
+    font-size: var(--step-2); line-height: 1.28;
+  }
+  blockquote cite {
+    display: block; font-family: var(--f-mono); font-style: normal;
+    font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--ink-soft); margin-top: 0.7rem;
+  }
+
+  /* books of the book */
+  .parts { border-top: 1px solid var(--rule-soft); }
+  .part {
+    display: grid; grid-template-columns: 6rem 1fr 4.5rem; gap: 0 1rem;
+    padding: 1rem 0; border-bottom: 1px solid var(--rule-soft);
+  }
+  .part .pn {
+    font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.1em;
+    color: var(--accent); padding-top: 0.28rem; font-variant-numeric: tabular-nums;
+  }
+  .part .pt { font-weight: 500; }
+  .part .pd { font-size: 0.93rem; color: var(--ink-soft); line-height: 1.5; }
+  .part .pp {
+    font-family: var(--f-mono); font-size: 0.72rem; color: var(--ink-soft);
+    text-align: right; padding-top: 0.32rem; font-variant-numeric: tabular-nums; white-space: nowrap;
+  }
+
+  /* triptych */
+  .triptych {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px;
+    background: var(--rule); border-block: 1px solid var(--rule); margin: 1.4rem 0;
+  }
+  .tri { background: var(--bg); padding: 1.3rem 1.05rem 1.4rem; display: flex; flex-direction: column; gap: 0.35rem; }
+  .tri .no { font-family: var(--f-mono); font-size: 0.7rem; letter-spacing: 0.12em; color: var(--ink-soft); }
+  .tri .nm { font-family: var(--f-display); font-style: italic; font-size: var(--step-1); line-height: 1.15; }
+  .tri .dt { font-family: var(--f-mono); font-size: 0.76rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+  .tri .ft { font-size: 0.88rem; line-height: 1.45; color: var(--ink-soft); margin-top: 0.15rem; }
+  .tri.lives { background: var(--surface); }
+  .tri.lives .nm { color: var(--accent); }
+  .tri.lives .ft { color: var(--ink); }
+
+  /* titles */
+  .titles { display: flex; flex-direction: column; margin: 0.5rem 0 0; }
+  .ti {
+    display: grid; grid-template-columns: 1.6rem 1fr; gap: 0 0.9rem;
+    padding: 1.05rem 0; border-top: 1px solid var(--rule-soft); align-items: baseline;
+  }
+  .ti:last-child { border-bottom: 1px solid var(--rule-soft); }
+  .ti .mk { font-family: var(--f-mono); font-size: 0.72rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+  .ti .tt { font-family: var(--f-display); font-style: italic; font-size: var(--step-2); line-height: 1.15; }
+  .ti .sb { font-size: 0.92rem; color: var(--ink-soft); margin-top: 0.3rem; line-height: 1.5; }
+  .ti.pick .mk, .ti.pick .tt { color: var(--accent); }
+  .ti.pick .mk::after { content: "▸"; }
+
+  .tag {
+    display: inline-block; font-family: var(--f-mono); font-size: 0.68rem;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent);
+    border: 1px solid var(--accent); padding: 0.15rem 0.45rem; margin-left: 0.55rem; vertical-align: 0.28em;
+  }
+
+  /* scenes */
+  .scenes { counter-reset: sc; margin-top: 0.5rem; }
+  .sc { display: grid; grid-template-columns: 2.4rem 1fr; gap: 0 0.9rem; padding: 0.68rem 0; border-bottom: 1px solid var(--rule-soft); }
+  .sc:first-child { border-top: 1px solid var(--rule-soft); }
+  .sc::before {
+    counter-increment: sc; content: counter(sc, decimal-leading-zero);
+    font-family: var(--f-mono); font-size: 0.72rem; color: var(--sea);
+    padding-top: 0.3rem; font-variant-numeric: tabular-nums;
+  }
+  .sc b { font-weight: 500; display: block; }
+  .sc span { font-size: 0.92rem; color: var(--ink-soft); line-height: 1.5; }
+
+  .note {
+    border: 1px solid var(--rule); border-left: 2px solid var(--warn);
+    background: var(--surface); padding: 1rem 1.15rem; margin: 1.5rem 0;
+    font-size: 0.95rem; line-height: 1.55;
+  }
+  .note.good { border-left-color: var(--sea); }
+  .note .lbl {
+    font-family: var(--f-mono); font-size: 0.68rem; letter-spacing: 0.12em;
+    text-transform: uppercase; color: var(--warn); display: block; margin-bottom: 0.35rem;
+  }
+  .note.good .lbl { color: var(--sea); }
+
+  ul.plain { list-style: none; padding: 0; margin: 0.75rem 0 0; display: flex; flex-direction: column; gap: 0.6rem; }
+  ul.plain li { position: relative; padding-left: 1.5rem; font-size: 0.97rem; line-height: 1.5; }
+  ul.plain li::before { content: "·"; position: absolute; left: 0.4rem; top: 0; color: var(--accent); font-weight: 600; }
+
+  .tablewrap { overflow-x: auto; margin-top: 0.9rem; }
+  table { border-collapse: collapse; width: 100%; min-width: 34rem; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.62rem 0.9rem 0.62rem 0; border-bottom: 1px solid var(--rule-soft); vertical-align: top; }
+  th {
+    font-family: var(--f-mono); font-weight: 500; font-size: 0.68rem;
+    letter-spacing: 0.11em; text-transform: uppercase; color: var(--ink-soft); border-bottom-color: var(--rule);
+  }
+  td.when, td.lang {
+    font-family: var(--f-mono); font-size: 0.8rem; color: var(--accent);
+    white-space: nowrap; font-variant-numeric: tabular-nums;
+  }
+  td.lang { color: var(--ink-soft); }
+  tr.gap td { color: var(--ink); }
+  tr.gap td.lang { color: var(--sea); }
+
+  .stack { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: var(--rule-soft); border: 1px solid var(--rule-soft); margin-top: 0.9rem; }
+  .stack div { background: var(--bg); padding: 0.85rem 1rem; }
+  .stack dt { font-family: var(--f-mono); font-size: 0.68rem; letter-spacing: 0.11em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 0.25rem; }
+  .stack dd { margin: 0; font-size: 0.95rem; }
+
+  footer {
+    padding-top: 2.5rem; font-family: var(--f-mono); font-size: 0.72rem;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft); border-top: 1px solid var(--rule);
+  }
+
+  @media (max-width: 860px) {
+    section { grid-template-columns: 1fr; gap: 0; padding: 2.5rem 0; }
+    .rail { padding: 0 0 0.9rem; }
+    .triptych, .stack { grid-template-columns: 1fr; }
+    .part { grid-template-columns: 5rem 1fr; }
+    .part .pp { grid-column: 2; text-align: left; padding-top: 0.3rem; }
+    :root { --step-4: 2.6rem; --step-3: 1.95rem; --step-2: 1.5rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <p class="kicker">Dossiê de projeto · versão 2 · Set 2026</p>
+    <h1>Terceira Classe</h1>
+    <p class="sub">A travessia italiana para o Brasil e o naufrágio do Principessa Mafalda</p>
+    <p class="premise">
+      Não é uma história de família com pano de fundo histórico. É uma história da imigração italiana
+      para o Brasil contada de dentro do porão, por alguém que tem os documentos de quem estava lá.
+    </p>
+    <p class="statline">
+      <span>Centenário <b>25.10.2027</b></span>
+      <span>Extensão alvo <b>420 a 480 pp</b></span>
+      <span>Livro atual <b>110 pp</b></span>
+    </p>
+  </header>
+
+  <section>
+    <div class="rail">01<br>Correção<br>de rota</div>
+    <div class="col">
+      <h2>O problema não é escopo, é profundidade</h2>
+      <p>
+        A versão anterior deste dossiê propunha um livro de memória familiar com um gancho esperto.
+        Você está certo: aquilo é um capítulo, não a obra. Corrigido.
+      </p>
+      <p>
+        Mas o diagnóstico do livro que você já escreveu também precisa mudar, porque ele explica exatamente
+        por que a história parece perder força. Veja a distribuição de páginas:
+      </p>
+
+      <div class="tablewrap">
+        <table>
+          <thead><tr><th>Capítulo</th><th>Assunto</th><th>Páginas</th></tr></thead>
+          <tbody>
+            <tr><td class="lang">1</td><td>A Itália no início do século XX</td><td class="when">4</td></tr>
+            <tr><td class="lang">2</td><td>A migração italiana para o Brasil</td><td class="when">5</td></tr>
+            <tr><td class="lang">3</td><td>O vapor Principessa Mafalda</td><td class="when">5</td></tr>
+            <tr><td class="lang">4</td><td>O naufrágio</td><td class="when">5</td></tr>
+            <tr><td class="lang">8 e 9</td><td>Genealogias Miotto e Forner</td><td class="when">10</td></tr>
+            <tr><td class="lang">14 e 16</td><td>Cadernos de imagens</td><td class="when">24</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p style="margin-top:1.2rem">
+        O sumário de 17 capítulos já promete a obra completa. O que existe embaixo de cada título são
+        quatro a cinco páginas. <strong>Você escreveu o índice do livro grande, não o livro grande.</strong>
+        E como tudo tem o mesmo peso, a genealogia parece ocupar o mesmo espaço que um século de história,
+        o que faz o conjunto soar como álbum de família.
+      </p>
+      <p>
+        A correção não é tirar a família. É transformar quatro páginas sobre a Itália pós-unificação
+        em quarenta, e quatro páginas sobre o navio em sessenta.
+      </p>
+      <blockquote>
+        Escopo vem da história. Profundidade vem das pessoas. Os personagens são o veículo, não o limite.
+      </blockquote>
+
+      <h3>O segundo diagnóstico: onde a história se perdeu</h3>
+      <p>
+        O livro atual diz que Rosa embarcou grávida e que Enrico nasceu no Brasil. O registro da Hospedaria
+        prova que ele tinha um ano e estava a bordo. Só que <strong>a avó Mafalda sempre contou a versão
+        certa.</strong> Ela sabia que o irmão estava no navio. O erro não veio da memória de família, veio
+        da hora de escrever.
+      </p>
+      <p>
+        Isso é mais importante do que parece, por dois motivos.
+      </p>
+      <ul class="plain">
+        <li><strong>A cadeia oral aguentou cem anos e a escrita quase a quebrou em um.</strong> Rosa contou
+        a Mafalda, Mafalda contou a João, e nada se perdeu no caminho. A perda aconteceu na transcrição.
+        Isso não é vergonha, é assunto: um livro sobre memória familiar que admite ter errado a própria
+        memória ganha uma autoridade que nenhum livro impecável tem.</li>
+        <li><strong>A memória arredonda para o mito.</strong> Quem escreve a partir de uma história ouvida
+        muitas vezes tende, sem perceber, a empurrá-la para a forma mais arquetípica. <em>Mulher grávida
+        sobrevive ao naufrágio e dá à luz na terra nova</em> é um formato de lenda. <em>Mulher sobrevive
+        segurando um bebê de um ano</em> é o que aconteceu. O primeiro é mais redondo, o segundo é mais
+        verdadeiro e mais violento. Vale escrever sobre essa tentação, porque ela vai voltar em cada
+        capítulo.</li>
+      </ul>
+      <div class="note good">
+        <span class="lbl">Efeito colateral metodológico</span>
+        A testemunha foi aferida. O depoimento de Mafalda acaba de bater com um documento primário de 1927
+        que ninguém da família tinha visto. Daqui em diante, quando ela disser algo que não dá para
+        comprovar, existe razão documentada para confiar. Isso é o que transforma memória oral em fonte.
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">02<br>A lacuna<br>real</div>
+    <div class="col">
+      <h2>O que existe e o que não existe</h2>
+      <p>
+        Sua intuição está certa, mas precisa de precisão, porque é isso que você vai dizer a uma editora.
+      </p>
+
+      <div class="tablewrap">
+        <table>
+          <thead><tr><th>Obra</th><th>Idioma</th><th>Para quem</th></tr></thead>
+          <tbody>
+            <tr>
+              <td>Angelo Trento, <em>Do outro lado do Atlântico</em> (Unesp)</td>
+              <td class="lang">PT</td><td>Acadêmico. Referência da imigração italiana, sem personagem.</td>
+            </tr>
+            <tr>
+              <td>Zuleika Alvim, <em>Brava Gente!</em></td>
+              <td class="lang">PT</td><td>História social de São Paulo, 1870 a 1920. Acadêmico.</td>
+            </tr>
+            <tr>
+              <td>Ovidio Lagos, <em>Principessa Mafalda</em></td>
+              <td class="lang">ES</td><td>O navio, com foco na primeira classe e no público argentino.</td>
+            </tr>
+            <tr>
+              <td><em>El naufragio del Princesa Mafalda</em>, TN</td>
+              <td class="lang">ES</td><td>Documentário de TV, 42 minutos. Está no seu acervo.</td>
+            </tr>
+            <tr class="gap">
+              <td><strong>Narrativa em português que junte a migração, o navio e as pessoas</strong></td>
+              <td class="lang">não existe</td><td>O leitor comum. Trinta milhões de descendentes.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p style="margin-top:1.2rem">
+        Ou seja: a imigração italiana <em>tem</em> bibliografia em português, e é boa, mas é acadêmica.
+        O Principessa Mafalda praticamente <strong>não tem livro em português</strong>. E ninguém, em nenhum
+        idioma, juntou as três camadas com acesso a um arquivo familiar de sobreviventes.
+      </p>
+
+      <div class="note good">
+        <span class="lbl">Por que só você pode escrever</span>
+        Um historiador escreve a camada 1 e a 2 e não tem a Rosa. Um memorialista tem a Rosa e não dá conta
+        da 1 e da 2. Você tem passaporte, registro de estrangeiro, lista de passageiros com o navio de
+        resgate, o ramo italiano que ficou, e uma testemunha viva de 89 anos. Essa combinação não se repete.
+      </div>
+
+      <h3>Os modelos de forma</h3>
+      <p>
+        Erik Larson, <em>Dead Wake</em>, para a metade do navio: um naufrágio único contado com contexto
+        histórico completo e vários passageiros seguidos de perto. E Isabel Wilkerson, <em>The Warmth of
+        Other Suns</em>, para a metade da migração: seis milhões de pessoas e sessenta anos de história
+        contados através de três indivíduos acompanhados em profundidade. Ninguém chama esses livros
+        de rasos, e nenhum deles abre mão de personagem.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">03<br>A forma</div>
+    <div class="col">
+      <h2>Quatro partes, um livro só</h2>
+      <p>
+        Três camadas presentes o tempo todo: a história grande, o navio, e as pessoas. A regra de ofício é
+        que o leitor aprende a camada grande enquanto se preocupa com a pequena. Você nunca para a narrativa
+        para dar aula.
+      </p>
+
+      <div class="parts">
+        <div class="part">
+          <span class="pn">PARTE I</span>
+          <div>
+            <span class="pt">A terra que não bastava</span>
+            <span class="pd">1861 a 1915. O Risorgimento e o mosaico que ele não uniu. A frase do Verdi,
+            <em>l'Unità sarà la nostra rovina</em>. Concentração de terras, impostos, pelagra, fome.
+            O Vêneto e o Friuli. Monfumo, Castelcucco, Feletto Umberto. Os agenciadores e os cartazes.
+            A Grande Guerra e Sante Forner nas trincheiras alpinas.</span>
+          </div>
+          <span class="pp">~110 pp</span>
+        </div>
+        <div class="part">
+          <span class="pn">PARTE II</span>
+          <div>
+            <span class="pt">A travessia</span>
+            <span class="pd">1874 a 1927. O veleiro La Sofia e a Expedição Tabacchi. Gênova como sistema.
+            As companhias de navegação e o negócio da emigração. A terceira classe por dentro. O Decreto
+            Prinetti de 1902, quando a Itália proibiu a emigração subsidiada para o Brasil por causa do
+            tratamento nas fazendas. Santos, a Hospedaria do Brás, o contrato de colono, a dívida.</span>
+          </div>
+          <span class="pp">~110 pp</span>
+        </div>
+        <div class="part">
+          <span class="pn">PARTE III</span>
+          <div>
+            <span class="pt">O navio</span>
+            <span class="pd">1908 a 1928. Construção, o batismo com o nome da princesa, os anos de glamour,
+            a decadência, as falhas mecânicas e a escala africana — Dakar aparece na rota habitual, mas o que
+            as fontes registram da última viagem é a saída de São Vicente, Cabo Verde, em 18.10.1927.
+            A viagem final e quem estava a bordo.
+            17h15, o eixo. A noite, os botes vendidos, os tubarões, o comandante Gulì. 22h10.
+            Os 314. O inquérito, a lenda do ouro, e por que o Brasil esqueceu.</span>
+          </div>
+          <span class="pp">~130 pp</span>
+        </div>
+        <div class="part">
+          <span class="pn">PARTE IV</span>
+          <div>
+            <span class="pt">Os que chegaram</span>
+            <span class="pd">1927 até hoje. A Hospedaria do Brás em 31 de outubro. Rosa reencontra Fausto
+            com Enrico, um ano, vivo. O café, São José do Rio Pardo. 1937, o nome. A formação da identidade
+            ítalo-brasileira. E o presente: a busca, os primos reencontrados, o Giorgio, a casa em Castelcucco.</span>
+          </div>
+          <span class="pp">~110 pp</span>
+        </div>
+      </div>
+
+      <h3>O capítulo Enrico</h3>
+      <p>
+        Dentro do Parte IV, um capítulo próprio, e provavelmente o mais forte da obra.
+        <strong>Enrico Miotto, 1926 a 1998.</strong> Um ano de idade na noite do naufrágio, o sobrevivente
+        mais novo da família. Cresceu calado e reservado. Nunca casou, nunca teve filhos. Morreu sozinho, de
+        <strong>neoplasia de orofaringe</strong> &mdash; Declaração de Óbito nº 5501831, com insuficiência
+        respiratória como causa direta e desnutrição na parte II. Não era câncer de língua, como a família
+        conta e como este dossiê chegou a registrar. Num capítulo cuja regra de escrita é a contenção, o
+        sítio exato importa.
+      </p>
+      <p>
+        A vida inteira dele já está documentada dentro do acervo que você tem em casa. Nunca foi lida junta.
+      </p>
+
+      <div class="tablewrap">
+        <table>
+          <thead><tr><th>Data</th><th>Documento e o que ele diz</th></tr></thead>
+          <tbody>
+            <tr><td class="when">10.10.1926</td><td>Nasce na Itália. Pai Fausto Miotto, mãe Rosa Forner.</td></tr>
+            <tr><td class="when">25.10.1927</td><td>Naufrágio. Está a bordo com <strong>1 ano e 15 dias</strong>, quinze dias depois do primeiro aniversário.</td></tr>
+            <tr><td class="when">31.10.1927</td><td>Hospedaria do Brás, Livro 100 p. 290, família 19270: <em>Enrico, 1, filho</em>.</td></tr>
+            <tr><td class="when">29.12.1949</td><td>Registro de Estrangeiros. 23 anos, <strong>pedreiro</strong>, solteiro, Parque S. Jorge s/n, Penha, São Paulo. Ainda italiano, 22 anos depois de chegar.</td></tr>
+            <tr><td class="when">06.10.1998</td><td>Morre no Conjunto Hospitalar de Sorocaba, 71 anos, aposentado, solteiro. Residência: R. Cervantes 607, Vila Assis, Sorocaba. Naturalidade: Itália. <strong>Quatro dias antes de completar 72.</strong></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p style="margin-top:1.2rem">
+        Duas coisas que esses documentos escondem em plena vista. A primeira: <strong>ele precisou de um
+        registro de estrangeiro.</strong> Uma criança nascida no Brasil em 1927 seria brasileira e nunca
+        teria um. A prova de que a versão do livro atual estava errada estava digitalizada na pasta o tempo
+        todo, ao lado do retrato dele. A segunda: <strong>ele morreu em Sorocaba</strong>, a mesma cidade
+        onde o autor nasceu e cresceu. Não era parente distante. Morava perto.
+      </p>
+
+      <h3>Duas razões técnicas para ele ocupar um capítulo</h3>
+      <ul class="plain">
+        <li><strong>É o único capítulo em que o autor é fonte primária.</strong> Em todo o resto do livro
+        você trabalha com documento e com memória de terceiros. Aqui você conheceu a pessoa. Enrico morreu
+        em 1998, quando você tinha catorze anos. Você tem lembrança própria, e ela vale mais que qualquer
+        certidão.</li>
+        <li><strong>É o único personagem da saga que não deixou ninguém para contar por ele.</strong>
+        Rosa tem você. Maria Luigia tem a Patrícia e a Rosi. Sante tem o Giorgio. Enrico não teve filho
+        nem neto. Sem esse capítulo, o que sobra dele é um registro de estrangeiro e uma linha manuscrita
+        de 1927 dizendo <em>Enrico, 1 ano, filho</em>.</li>
+      </ul>
+
+      <div class="note">
+        <span class="lbl">Regra de escrita, inegociável</span>
+        Não transformar a doença em metáfora. <em>O sobrevivente que perdeu a voz</em> é bonito
+        demais e barato demais, e converte uma pessoa real em figura de linguagem. Escrever o que aconteceu,
+        sem adjetivo, e deixar o leitor chegar sozinho onde tiver que chegar. Se a mão do autor aparecer,
+        a cena morre. A contenção é o que dá o peso.
+      </div>
+
+      <div class="note good">
+        <span class="lbl">Protocolo de entrevista</span>
+        Não começar por ele. Sua avó era irmã do Enrico e acompanhou tudo. Esse assunto só entra depois de
+        muitas horas de gravação, quando o gravador já virou móvel da casa. Comece pelo irmão mais velho na
+        infância, pela fazenda, pelas bobagens. O fim vem por último, se vier.
+        <br><br>
+        A pergunta sobre o que ele sabia já está respondida: <strong>Rosa contou a mesma história aos dois
+        filhos.</strong> Enrico passou a vida inteira sabendo que tinha sobrevivido a uma noite da qual não
+        guardava lembrança nenhuma. Isso não é mais pergunta, é premissa do capítulo.
+        <br><br>
+        O que falta agora é o cotidiano. Como era a rotina da família com ele nos últimos anos em Sorocaba.
+        Quem ia na casa da Vila Assis. E, com cuidado, quem estava por perto no fim.
+      </div>
+
+      <h3>O epílogo, e o lugar certo do gancho</h3>
+      <p>
+        Você tinha razão: <em>As Três Mafaldas</em> não é o livro. Mas é bom demais para jogar fora, e tem
+        um lugar exato. Ele é o epílogo, e é também o motivo secreto que amarra as três camadas, porque as
+        três Mafaldas <strong>são</strong> as três camadas do livro.
+      </p>
+
+      <div class="triptych">
+        <div class="tri">
+          <span class="no">I · A PRINCESA</span>
+          <span class="nm">Mafalda di Savoia</span>
+          <span class="dt">1902 – 1944</span>
+          <span class="ft">A Europa que produziu a fuga. Termina em Buchenwald.</span>
+        </div>
+        <div class="tri">
+          <span class="no">II · O NAVIO</span>
+          <span class="nm">Principessa Mafalda</span>
+          <span class="dt">1908 – 1927</span>
+          <span class="ft">A travessia como máquina. Termina no fundo do Atlântico.</span>
+        </div>
+        <div class="tri lives">
+          <span class="no">III · A MENINA</span>
+          <span class="nm">Mafalda Miotto</span>
+          <span class="dt">1937 – viva</span>
+          <span class="ft">O Brasil. A única das três que chega ao fim do livro respirando.</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">04<br>Título</div>
+    <div class="col">
+      <h2>Revisado para obra ampla</h2>
+      <p>
+        Com o escopo maior, a convenção muda. História popular se intitula com substantivo forte e
+        subtítulo que entrega o alcance.
+      </p>
+
+      <div class="titles">
+        <div class="ti pick">
+          <span class="mk">1</span>
+          <div>
+            <span class="tt">Terceira Classe</span><span class="tag">Recomendado</span>
+            <p class="sb">Subtítulo: <em>A travessia italiana para o Brasil e o naufrágio do Principessa
+            Mafalda.</em> Duas palavras que dizem de que ponto de vista o livro é escrito. Cobre a migração
+            inteira, cabe o navio, cabe a família, e tem a aresta social que o assunto merece.
+            Sua bisavó viajou nela e foi lá embaixo que a maioria dos 314 morreu.</p>
+          </div>
+        </div>
+        <div class="ti">
+          <span class="mk">2</span>
+          <div>
+            <span class="tt">Principessa Mafalda</span>
+            <p class="sb">Subtítulo: <em>O Titanic italiano e a travessia que fundou milhões de famílias
+            brasileiras.</em> A opção mais comercial e a mais fácil de achar numa busca. Coloca o navio
+            como protagonista, o que estreita um pouco a promessa da migração.</p>
+          </div>
+        </div>
+        <div class="ti">
+          <span class="mk">3</span>
+          <div>
+            <span class="tt">O Naufrágio que o Brasil Esqueceu</span>
+            <p class="sb">Promete revelação, funciona bem em vitrine. Um pouco mais gasto como fórmula,
+            e joga todo o peso no naufrágio.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="note">
+        <span class="lbl">Revisão da recomendação anterior</span>
+        Eu havia descartado <strong>O Titanic Italiano</strong> por completo. Com o livro na forma ampla
+        isso foi rigoroso demais, porque agora a obra é história popular de verdade e a expressão é um
+        artefato histórico, usada pelos jornais em 1927. Ela continua fraca como título principal, por ser
+        derivada e por já circular no mercado hispânico, mas é ótima no subtítulo. É onde está na opção 2.
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">05<br>Pesquisa</div>
+    <div class="col">
+      <h2>Onde está o material que falta</h2>
+      <p>
+        Um livro de 450 páginas não sai de acervo doméstico. Estas são as frentes, em ordem de retorno.
+      </p>
+
+      <div class="note good">
+        <span class="lbl">Frente 1, concluída em 05.09.2026 · Rosa localizada</span>
+        <strong>Livro 100, página 290 do Registro de Immigrantes</strong>, Hospedaria do Brás. A página
+        inteira é a entrada dos sobreviventes do naufrágio, em <strong>31 de outubro de 1927</strong>,
+        e a coluna VAPOR diz <em>P. Mafalda</em>, o nome de um navio que já estava no fundo do mar.
+        <br><br>
+        Família 19270: <strong>Forner Rosa, 24, última residência Castelcucco</strong>, e
+        <strong>Enrico, 1 ano, filho.</strong> A coluna de parentesco parece registrar Rosa como chefe da
+        própria família, mas a digitalização disponível não permite afirmar isso com segurança —
+        <strong>conferir em alta resolução antes de usar no texto.</strong><br>
+        Família 19260, linha 5: <strong>Forner Maria, 31, residência Cavaso del Tomba</strong>, com Gina 7,
+        Pulcheria 6, Rino 4 e Danilo 2. Registradas como Forner, não como Dei Agnoli, que é por que ninguém
+        as encontrava. <em>Cavarzo</em> não existe: é Cavaso del Tomba. <em>Dinetta</em> é Gina Oliva,
+        nascida em 28.03.1920, e <em>Dino</em> é Rino, nascido em 26.01.1923.
+        <br><br>
+        Na mesma página: De Rossi, Strufaldi, Lovato, Panarotto, Puldeghinio, Beck. Os mesmos sobrenomes
+        que o capítulo 17 do livro atual lista como famílias sobreviventes. O documento por trás da lista.
+        <br><br>
+        Scan aberto: <code>museudaimigracao.org.br/uploads/portal/acervo/livros/pdfs/L100_290.pdf</code>
+        <br><br>
+        <strong>Consequência:</strong> Rosa não estava grávida a bordo. Enrico já tinha nascido e
+        atravessou o naufrágio com um ano de idade. Os capítulos 5, 6, 7 e a linha do tempo do livro atual
+        partem da premissa contrária e precisam ser reescritos.
+        <br><br>
+        <strong>E a tradição oral estava certa.</strong> Mafalda sempre contou que o irmão estava a bordo.
+        O erro entrou na transcrição, não na memória. Ver seção 01.
+      </div>
+
+      <ul class="plain">
+        <li><strong>O resto do acervo do Museu da Imigração.</strong> Fausto Miotto não aparece nos
+        registros de matrícula e o vapor Mafalda também não, então ele entrou sem passar pela Hospedaria.
+        Procurar nas cartas de chamada e nos requerimentos SACOP. As 23 listas de bordo digitalizadas do
+        Principessa Mafalda cobrem apenas 1915 a 1923.</li>
+        <li><strong>Hemeroteca Digital da Biblioteca Nacional.</strong> Outubro e novembro de 1927, jornais
+        brasileiros dia a dia. Você já tem recortes do Diario Nacional e do Heraldo de Madrid, mas soltos.</li>
+        <li><strong>Arquivo do Estado do Espírito Santo.</strong> A cartilha dos 150 anos que está no seu
+        acervo saiu de lá, e o Cilmar Franceschetto é referência viva em imigração italiana. Fonte e
+        possível prefaciador.</li>
+        <li><strong>Archivio di Stato di Treviso e paróquias de Monfumo e Castelcucco.</strong> Batismos,
+        casamentos, óbitos. O Giorgio pode ir presencialmente, e isso vale mais que dez e-mails.</li>
+        <li><strong>Inquérito marítimo italiano sobre o naufrágio.</strong> A apuração oficial de 1927 e 1928
+        é o material que sustenta o Parte III e é o que ninguém em português foi buscar.</li>
+      </ul>
+
+      <div class="note">
+        <span class="lbl">Correção de uma informação que eu passei antes</span>
+        O escritor entrevistado no documentário e autor do livro sobre o navio é <strong>Ovidio Lagos</strong>,
+        não Duilio. Se você for atrás da bibliografia, é esse o nome.
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">06<br>Experiência<br>digital</div>
+    <div class="col">
+      <h2>O site é o motor de pesquisa, não o folheto</h2>
+      <p>
+        O <em>Persepolis Reimagined</em> é uma produção da Media.Monks com o Getty: WebGL, instancing, LOD,
+        trilha composta com um professor de música persa antiga. Copie a gramática, não a tecnologia.
+        Scroll linear e guiado, transição sem emenda, uma ideia por cena, som como narrativa.
+      </p>
+      <p>
+        O Getty precisou de 3D porque de Persépolis não sobrou quase nada. Você tem o problema invertido.
+        Sobraram os rostos, os carimbos, a lista de passageiros. E sobrou uma voz de 89 anos, que é a coisa
+        que nenhum orçamento compra.
+      </p>
+
+      <div class="scenes">
+        <div class="sc"><div><b>Preto e som de mar</b><span>Um nome sendo escrito. Entra a voz da sua avó.</span></div></div>
+        <div class="sc"><div><b>O Vêneto</b><span>As colinas, a fome, os impostos, o cartaz do Brasil.</span></div></div>
+        <div class="sc"><div><b>Gênova, 1927</b><span>O embarque. A terceira classe por dentro.</span></div></div>
+        <div class="sc"><div><b>A travessia</b><span>Mapa animado: Gênova, Cabo Verde, Abrolhos. Os dias correndo.</span></div></div>
+        <div class="sc"><div><b>17h15</b><span>O eixo se rompe. A cena mais curta de todas.</span></div></div>
+        <div class="sc"><div><b>A noite</b><span>Quase tudo preto, conduzido por áudio.</span></div></div>
+        <div class="sc"><div><b>O Alhena</b><span>A lista real aparece e a linha da família acende.</span></div></div>
+        <div class="sc"><div><b>Santos</b><span>A Hospedaria do Brás. O que acontecia depois do desembarque.</span></div></div>
+        <div class="sc"><div><b>1937</b><span>A menina nasce e recebe o nome do navio.</span></div></div>
+        <div class="sc"><div><b>A busca</b><span>A árvore cresce conforme o scroll. O Giorgio aparece.</span></div></div>
+        <div class="sc"><div><b>A casa</b><span>Castelcucco hoje. A porta de onde a Rosa saiu.</span></div></div>
+        <div class="sc"><div><b>O chamado</b><span>Você é descendente de alguém que estava a bordo? Formulário aberto.</span></div></div>
+      </div>
+
+      <div class="note good">
+        <span class="lbl">Por que a última cena vale mais que todas</span>
+        Existem milhares de descendentes de passageiros do Mafalda no Brasil, na Argentina e na Itália, com
+        documentos em gaveta. Um site bom no ar no centenário faz esse material vir até você, com tempo de
+        sobra para entrar no livro. O site deixa de ser divulgação e vira fonte primária.
+      </div>
+
+      <dl class="stack">
+        <div><dt>Base</dt><dd>Astro estático, uma rota por idioma</dd></div>
+        <div><dt>Scroll</dt><dd>GSAP ScrollTrigger com Lenis</dd></div>
+        <div><dt>Áudio</dt><dd>Howler.js, botão de mudo sempre visível</dd></div>
+        <div><dt>Imagem</dt><dd>AVIF e WebP, preload por cena</dd></div>
+        <div><dt>3D</dt><dd>Nenhum. No máximo um shader de água na cena da noite</dd></div>
+        <div><dt>Idiomas</dt><dd>Português, italiano, espanhol e inglês</dd></div>
+      </dl>
+      <p style="margin-top:1.1rem">
+        O espanhol entra agora por um motivo prático: metade dos passageiros ia para Buenos Aires e
+        Montevidéu, e é lá que está a comunidade que mais lembra do naufrágio.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">07<br>Cronograma</div>
+    <div class="col">
+      <h2>O site no centenário, o livro depois</h2>
+      <p>
+        Uma obra de 450 páginas com pesquisa de arquivo não fica pronta em treze meses, e forçar isso
+        produziria exatamente o livro raso que você não quer. A data do centenário serve para o site.
+      </p>
+
+      <div class="tablewrap">
+        <table>
+          <thead><tr><th>Quando</th><th>O quê</th></tr></thead>
+          <tbody>
+            <tr><td class="when">Set – Dez 2026</td><td>Gravar sua avó toda semana. Gravar a Marta e o Giorgio. Varrer a base do Museu da Imigração atrás de Rosa, Fausto e os Agnoli. Digitalizar o acervo em alta.</td></tr>
+            <tr><td class="when">2027</td><td>Pesquisa pesada: hemeroteca, inquérito italiano, arquivos de Treviso. Produção do site em paralelo. Rascunho dos Partes I e II.</td></tr>
+            <tr><td class="when">25.10.2027</td><td>Site no ar no centenário. Você em Castelcucco com o Giorgio. A chamada de vídeo para sua avó da porta da casa.</td></tr>
+            <tr><td class="when">2028</td><td>Livros III e IV, alimentados pelo que o site trouxe. Proposta para editora com audiência já provada.</td></tr>
+            <tr><td class="when">2029</td><td>Publicação.</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p style="margin-top:1.2rem">
+        Se em algum momento aparecer uma editora querendo antecipar, o material que sustenta a proposta
+        já vai existir: o site, a audiência, o arquivo e dois livros rascunhados.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <div class="rail">08<br>Agora</div>
+    <div class="col">
+      <h2>O que não muda em nenhuma versão deste plano</h2>
+      <p>
+        Título, escopo, estrutura e cronograma podem ser reescritos quantas vezes for preciso.
+        Estas quatro coisas, não.
+      </p>
+      <ul class="plain">
+        <li><strong>Gravar Mafalda, começando este mês.</strong> Conversa gravada, sempre, inclusive as banais.
+        Foto na mão dela destrava memória que pergunta não destrava.</li>
+        <li><strong>Fazer a pergunta central.</strong> Como é carregar o nome do navio. Quando descobriu por quê.
+        Se perguntou à Rosa e o que a Rosa respondeu. E o que ela hoje gostaria de ter perguntado e não perguntou.</li>
+        <li><strong>Gravar a Marta.</strong> Sua mãe conviveu 26 anos com a Rosa, de 1960 a 1986, e provavelmente
+        ninguém nunca pediu esse depoimento a ela.</li>
+        <li><strong>Colocar o Giorgio na câmera</strong> e pedir que ele filme a casa, a igreja, o cemitério
+        e os nomes nas lápides.</li>
+      </ul>
+      <div class="note">
+        <span class="lbl">O que está em jogo</span>
+        Sua avó tem 89 anos e é a última pessoa viva que ouviu a Rosa falar do navio com a Rosa na frente.
+        O livro pode levar três anos. Essa gravação não pode levar três meses.
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    Acervo D:\italiaminha · Livro atual PT 110 pp · Fotos e documentos originais · Documentário TN · Cartilha 150 anos APEES · Referência visual Behance
+  </footer>
+
+</div>
