@@ -2079,8 +2079,7 @@ Castelcucco: ato número 9, parte I, do ano de 1926. Ali ela aparece com o dimin
 Casaram-se em <strong>3 de dezembro de 1926</strong>, em Castelcucco. Ela com vinte e
 três anos, ele com vinte e dois.""",
 
-"""Vale olhar quem eram essas duas pessoas em 1926, porque a essa altura do livro já
-sabemos.
+"""Vale olhar quem eram essas duas pessoas em 1926.
 
 Rosa tinha perdido a mãe aos onze anos. Tinha perdido um irmão, Pietro Luigi, em 1916,
 de causa que continua desconhecida. Tinha outro irmão, Sante, que voltou do Monte Grappa
@@ -2088,10 +2087,8 @@ com três medalhas e o silêncio que normalmente vem junto. Tinha sido criada, n
 pela irmã mais velha, Maria Luigia.
 
 Fausto cresceu numa vila em que ir embora era uma das coisas que os homens faziam. Do pai
-dele, Luigi Miotto, eu tenho o casamento em Maser em 1900, e o nome repetido duas vezes,
-na certidão de nascimento de 1904 e na declaração de óbito de 1979. Entre uma coisa e
-outra, nada. Não é dele a sepultura de Vancouver, e é só isso que o capítulo 4 conseguiu
-provar.
+dele, Luigi Miotto, existem três aparições em papel ao longo de oitenta anos, e entre elas
+nada. Um homem que deixou o nome e não deixou rastro.
 
 Nenhum dos dois tinha herança para receber.""",
 
@@ -2105,8 +2102,7 @@ O casamento foi em 3 de dezembro de 1926.
 
 <strong>O filho nasceu cinquenta e quatro dias antes de os pais se casarem.</strong>""",
 
-"""Quando eu tinha só o ano do casamento, escrevi que talvez Rosa estivesse grávida na
-cerimônia. Não estava. Ela estava com um bebê de quase dois meses no colo.
+"""Rosa não estava grávida na cerimônia. Estava com um bebê de quase dois meses no colo.
 
 Isso não é escândalo e não é fofoca de cartório. É informação sobre como aquela vida
 funcionava.
@@ -2126,13 +2122,13 @@ Duas gerações, a mesma sequência.""",
 
 Não juntos. Não a família toda num navio. Ele primeiro, sozinho.
 
-É importante não ler isso com olhos de hoje. Não foi abandono, foi o procedimento. Depois
-que o decreto de 1902 acabou com a passagem paga, emigrar virou uma operação em duas
-etapas: um homem vai na frente com o dinheiro que a família conseguiu juntar, trabalha,
-arruma onde morar, e então manda buscar.
+É importante não ler isso com olhos de hoje. Não foi abandono, foi o procedimento. Para
+quem não vinha recrutado, emigrar era uma operação em duas etapas: um homem vai na frente
+com o dinheiro que a família conseguiu juntar, trabalha, arruma onde morar, e então manda
+buscar.
 
-Angelo dei Agnoli, casado com Maria Luigia, foi junto ou por perto. Os dois cunhados
-atravessaram, e as duas irmãs ficaram.""",
+Angelo Dei Agnoli, casado com Maria Luigia, fez o mesmo caminho, e antes dele. As duas
+irmãs ficaram para trás nas duas casas.""",
 
 """Pense no que sobrou para Rosa Forner naquele ano.
 
@@ -2140,10 +2136,10 @@ Vinte e três anos. Um filho de meses. Um marido do outro lado do oceano, alcan�
 apenas por carta, com semanas de atraso entre a pergunta e a resposta. A mãe morta havia
 doze anos.
 
-O pai, ao que tudo indica, estava vivo. Isso eu só fui descobrir depois de ter escrito
-esta página de outro jeito, e a versão anterior dizia que não havia adulto nenhum acima
-dela naquela casa. Vincenzo tinha sessenta e quatro anos naquele inverno. Não sei o que
-ele disse, nem se disse alguma coisa. Sei que ela foi assim mesmo.
+O pai vivo, a quatro quilômetros, com sessenta e quatro anos.
+
+Não sei o que Vincenzo Forner disse quando soube, nem se disse alguma coisa. Sei que ela
+foi assim mesmo.
 
 E o inverno de 1926 para 1927 no sopé do Grappa foi o inverno que sempre foi.""",
 
@@ -2152,13 +2148,11 @@ com quatro crianças.
 
 Gina com seis anos. Pulcheria com cinco. Rino com três. Danilo com um.
 
-Vale lembrar em que lugar ela estava. Maria Luigia casou-se em 1917 e foi morar em Cavaso,
-e Cavaso é o comune que, no censo de outubro de 1918, aparece com <strong>2.795 refugiados
-numa população de 3.258</strong>. Oitenta e cinco por cento. Enquanto Castelcucco perdia
-trinta e nove pessoas, a vila para onde ela tinha acabado de se mudar se esvaziava quase
-inteira.
+Maria Luigia tinha casado em 1917 e ido morar em Cavaso, que é a vila que se esvaziou na
+guerra enquanto Castelcucco ficava de pé. Ela chegou lá a tempo de ver quase todo mundo
+sair.
 
-Nove anos depois, ela ia embora de novo. Dessa vez sem volta prevista.
+Nove anos depois, saía ela. Dessa vez sem volta prevista.
 
 Duas irmãs, duas casas, dois maridos ausentes, cinco crianças pequenas entre elas, e a
 mesma correspondência lenta atravessando o Atlântico nos dois sentidos.
@@ -2269,7 +2263,7 @@ era o que se protege. Para elas, virou o que se deixa.""",
 """Aqui termina a parte que se passa em terra firme.
 
 Tudo o que veio até agora, o terremoto de 1695, a fronteira que atravessou dois homens
-parados, o imposto sobre a moagem, a pelagra, os dez filhos, a linha errada num quadro, os
+parados, o imposto sobre a moagem, a pelagra, os dez filhos de uma mulher só, os
 cinco mil subagentes, o cônsul escrevendo de Vitória, o chicote nas fazendas, o bronze
 inimigo no peito do Sante, tudo isso existe neste livro por um motivo só.
 
