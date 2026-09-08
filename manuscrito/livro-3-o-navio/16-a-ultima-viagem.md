@@ -119,9 +119,9 @@ Os três sobreviveram.
 
 Em **24 de outubro de 1927, uma segunda-feira, à uma da tarde**, os apitos da sirene tocaram.
 
-Era exercício. Exercício de emergência, do tipo que todo navio de passageiros fazia e que quase ninguém a bordo levava a sério, porque quase nunca serve para nada.
+Era exercício de incêndio, do tipo que todo navio de passageiros fazia e que quase ninguém a bordo levava a sério, porque quase nunca serve para nada.
 
-O Mafalda tinha vinte e oito horas de vida.
+O Mafalda tinha trinta e três horas de vida.
 
 No dia seguinte, à tarde, aconteceu uma coisa que deixou o porão otimista.
 

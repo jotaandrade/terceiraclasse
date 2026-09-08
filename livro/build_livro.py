@@ -841,7 +841,7 @@ Eram nove pessoas dentro. Remaram com as mãos.""",
 
 Botes velhos num navio velho. Superlotação, porque todo mundo queria o mesmo lugar ao mesmo
 tempo. Lançamento feito às pressas, no escuro, por gente que nunca tinha feito aquilo de
-verdade — o único exercício foi na véspera, ao meio-dia, e era exercício de incêndio.
+verdade — o único exercício foi na véspera, à uma da tarde, e era exercício de incêndio.
 
 E o adernamento.
 
@@ -1116,9 +1116,9 @@ E, a alguns quilômetros dali, com os holofotes acesos, os navios vindo no escur
 CAP24 = [
 """A única coisa boa desta história inteira é que os navios já estavam perto.
 
-Naquela mesma tarde o Mafalda tinha cruzado com o <em>Empire Star</em> e o comandante o
-saudara com um apito longo. Quando o eixo partiu, poucas horas depois, o navio inglês estava
-a cerca de dois quilômetros.
+Pouco antes, naquela mesma tarde, o Mafalda tinha cruzado com o <em>Empire Star</em> e o
+comandante o saudara com um apito longo. Quando o eixo partiu, o navio inglês ainda estava a
+cerca de dois quilômetros.
 
 Não foi previdência de ninguém. Foi rota comercial. Aquele trecho do Atlântico, em outubro
 de 1927, tinha tráfego.""",
@@ -2166,8 +2166,11 @@ e cada troca afastando um pouco mais a linha do porto de onde ela saiu.</strong>
 
 O sobrenome foi embora pelo lado dos homens. A história ficou do outro.
 
-Rosa contou ao Enrico e contou à Mafalda. Maria Luigia teve a Pulcheria, e o que a Pulcheria
-viu chegou a mim pela Patrícia. Mafalda contou à Marta. E chegou a mim.
+Rosa contou ao Enrico e contou à Mafalda. Mafalda contou à Marta. E chegou a mim.
+
+No outro galho foi diferente, e vale reparar: o que a Pulcheria viu passou primeiro pelo
+marido dela, e só então chegou à neta, e da neta a mim. Do lado da Rosa a memória desceu por
+mulheres. Do lado da Maria Luigia, atravessou um homem no meio do caminho.
 
 <strong>Quatro gerações de gente que não se chama Forner carregando o que aconteceu com uma
 mulher chamada Forner.</strong>""",
@@ -3156,10 +3159,10 @@ Os três sobreviveram.""",
 """Em <strong>24 de outubro de 1927, uma segunda-feira, à uma da tarde</strong>, os apitos da
 sirene tocaram.
 
-Era exercício. Exercício de emergência, do tipo que todo navio de passageiros fazia e que
+Era exercício de incêndio, do tipo que todo navio de passageiros fazia e que
 quase ninguém a bordo levava a sério, porque quase nunca serve para nada.
 
-O Mafalda tinha vinte e oito horas de vida.""",
+O Mafalda tinha trinta e três horas de vida.""",
 
 """No dia seguinte, à tarde, aconteceu uma coisa que deixou o porão otimista.
 
@@ -3387,8 +3390,7 @@ distância suficiente. Duas paróquias, dois padres, dois livros de batismo. Mas
 feira, os mesmos santos, as mesmas festas, e famílias que se cruzavam havia gerações sem
 precisar de apresentação.
 
-Casaram-se em 3 de dezembro de 1926, em Castelcucco. Ela com vinte e três anos, ele com
-vinte e dois.
+Vinte e três anos depois, casaram-se em Castelcucco.
 
 O que aconteceu entre esses dois nascimentos e aquele casamento é o assunto de todo o
 resto desta parte do livro.""",
@@ -3752,7 +3754,7 @@ ele quebrou.""",
 """Há uma frase que circula sobre esse período, atribuída a Giuseppe Verdi, e que
 encontrei citada num catálogo do Arquivo Público do Estado do Espírito Santo:
 
-<em>L&rsquo;Unità sarà la nostra rovina. Moriremo tutti di fame.</em>
+<em>L’Unità sarà la nostra rovina. Moriremo tutti di fame.</em>
 
 A unificação será a nossa ruína. Morreremos todos de fome.
 
@@ -4190,7 +4192,7 @@ Quem me deu esses nomes foi <strong>Giorgio Forner</strong>, na Itália, escreve
 fotografias que a família dele guardou por um século. Até recebê-las, eu tinha do lado Miotto
 três linhas de cartório e mais nada.""",
 
-"""A mais velha dessas irmãs chamava-se <strong>Maria Luigia Miotto</strong>.
+"""Uma dessas irmãs, mais velha que Fausto, chamava-se <strong>Maria Luigia Miotto</strong>.
 
 Leia o nome outra vez, porque este livro já tem uma Maria Luigia, e não é esta.
 
@@ -4219,7 +4221,7 @@ Mas o efeito, cem anos depois, é este: <strong>o primo que mora na Itália e qu
 fotografias deste capítulo é meu parente pelos dois lados.</strong> Forner pelo avô, Miotto
 pela avó.
 
-Os dois ramos que este livro vai passar trinta capítulos separando — os que foram e os que
+Os dois ramos que este livro vai passar o resto do tempo separando — os que foram e os que
 ficaram — já estavam amarrados um no outro antes de qualquer um pisar num navio.""",
 
 """Os sobrenomes que sobreviveram nos livros daquelas paróquias são os dos que ficaram.
@@ -4609,7 +4611,7 @@ parente.
 A emigração continuou, mas ficou mais lenta, mais familiar e mais deliberada. Menos
 levas organizadas, mais gente indo atrás de gente.""",
 
-"""Vinte e quatro anos depois do decreto, Fausto Miotto embarcou.
+"""Vinte e cinco anos depois do decreto, Fausto Miotto embarcou.
 
 Não como colono recrutado, não com passagem paga por ninguém, não dentro de um contrato
 assinado antes de sair. Foi por conta própria, primeiro, sozinho, do jeito que boa parte
@@ -4922,8 +4924,8 @@ Giorgio, que hoje mora na mesma região, conhece a história inteira, e é quem 
 
 Morreu em 1947, aos cinquenta e quatro anos.
 
-Nunca emigrou. Nunca viu o Brasil. E é quase certo que nunca voltou a ver a irmã Rosa
-depois de 1927, porque ninguém naquela condição atravessava o Atlântico duas vezes.""",
+Nunca emigrou. Nunca viu o Brasil. Ninguém naquela condição atravessava o Atlântico duas
+vezes, e ele não foi exceção.""",
 
 """E existe um segundo objeto, guardado na mesma pasta.
 
@@ -4986,7 +4988,7 @@ a segunda começar.""",
 """Repare no que ficou de cada lado.
 
 O ramo que partiu tem fotografias, documentos de imigração, uma certidão de óbito em
-Sorocaba e a lembrança de uma senhora de oitenta e nove anos.
+Sorocaba e a lembrança da filha de Rosa, que ainda está viva e ainda conta.
 
 O ramo que ficou tem um quadro na parede, com três medalhas e uma Vitória alada de
 bronze inimigo. E tem, guardada, uma carteira de identidade de 1940 com o rosto dele

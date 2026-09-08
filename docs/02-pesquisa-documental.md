@@ -1906,3 +1906,52 @@ foi atras deles. Este livro existe porque, na quarta geracao, alguem foi."*
 - As **duas Maria Luigia** nao se confundem depois do cap. 4: o alerta esta no proprio texto e
   o cap. 7 desambigua na frase em que aparece.
 - O cap. 12 absorveu bem os tres blocos da chamada; o fecho do Fausto continua de pe.
+
+---
+
+## 28. Leitura profunda, pagina por pagina - 08.09.2026
+
+Os 31 capitulos lidos inteiros, mais varredura mecanica. Doze achados.
+
+### O pior de todos: 22 capitulos fantasma na pasta
+
+`manuscrito/` tinha **53 arquivos para 31 capitulos**. O export sempre escreveu e nunca
+apagou, entao cada renumeracao deixou a versao anterior inteira para tras. Havia duas copias
+de quase todo o Livro II, III e IV, com numeros diferentes - inclusive o cap. 11 cortado hoje.
+**Quem abrisse a pasta veria o livro em duplicata.** Corrigido, e o export passou a limpar.
+
+### Quatro correcoes de hoje de manha tinham sido perdidas
+
+O script que consertava seis erros fazia as substituicoes em memoria, **falhava na quinta por
+assercao e morria antes de gravar**. Os "ok" impressos eram das substituicoes, nao do arquivo.
+Eu consertei so a quinta separadamente e segui achando que as outras tinham entrado.
+
+Perdidas e reaplicadas: "vinte e oito horas de vida" (sao 33), "exercicio de emergencia" (era
+de incendio), "ao meio-dia" (era a uma da tarde), e a contradicao do Empire Star.
+
+**Regra nova:** script de edicao **grava sempre o que deu certo** e reporta o que falhou; nunca
+mais assercao que aborta antes do write. E conferir no arquivo depois, nao no print.
+
+### Erros de conteudo achados na leitura
+
+| Cap. | O que |
+|---|---|
+| 2 | `&rsquo;` cru no meio da citacao de Verdi, aparecendo como texto no export |
+| 4 | *"a mais velha dessas irmas"* - Giorgio escreveu *sorella maggiore di Fausto*, mais velha que ele, nao a mais velha de todas |
+| 4 | *"vai passar trinta capitulos separando"* - numero que quebra a cada renumeracao |
+| 6 | **contradicao interna**: *"vinte e quatro anos depois do decreto"* e, 11 linhas abaixo, *"vinte e cinco anos depois"*. Fausto embarcou em 1927: sao 25 |
+| 7 | *"uma senhora de oitenta e nove anos"* - envelhece sozinho; trocado por *"a filha de Rosa, que ainda esta viva"* |
+| 7 e 8 | a mesma afirmacao (*"e quase certo que nunca mais viu a irma"*) em dois capitulos seguidos |
+| 1 e 8 | frase identica palavra por palavra sobre o casamento |
+| 28 | *"o que a Pulcheria viu chegou a mim pela Patricia"* - impreciso: passou pelo **Joao Betti** antes. E isso enriquece o capitulo, cuja tese e que a memoria desceu por mulheres: **do lado da Maria Luigia ela atravessou um homem no meio do caminho** |
+
+### Ortografia e tipografia
+
+Nenhum erro de acento. Dezessete aspas e apostrofos retos, uniformizados. Zero retas no corpo.
+
+### Verificado e correto
+
+Rosa a nona filha, Maria Luigia a sexta, Sante o quarto - batem com a lista do cap. 4. Todos
+os intervalos entre os dez filhos. Santa parindo dos 21 aos 42. Vincenzo com 64 em 1926 e 65
+em 1927. Gina com 6 no casamento e 7 no naufragio. Seis filhos vivos quando Mafalda nasce.
+Enrico com 1 ano e 15 dias. As doze referencias cruzadas por numero e as quatro por extenso.

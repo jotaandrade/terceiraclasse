@@ -73,7 +73,7 @@ O que ele fez foi mudar quem podia ir e em que condição. Sem passagem paga, ir
 
 A emigração continuou, mas ficou mais lenta, mais familiar e mais deliberada. Menos levas organizadas, mais gente indo atrás de gente.
 
-Vinte e quatro anos depois do decreto, Fausto Miotto embarcou.
+Vinte e cinco anos depois do decreto, Fausto Miotto embarcou.
 
 Não como colono recrutado, não com passagem paga por ninguém, não dentro de um contrato assinado antes de sair. Foi por conta própria, primeiro, sozinho, do jeito que boa parte da emigração vêneta passou a se fazer depois de 1902: alguém vai, se estabelece, e chama.
 

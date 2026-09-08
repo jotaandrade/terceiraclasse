@@ -35,7 +35,7 @@ Eram nove pessoas dentro. Remaram com as mãos.
 
 As razões se acumulam e nenhuma delas é misteriosa.
 
-Botes velhos num navio velho. Superlotação, porque todo mundo queria o mesmo lugar ao mesmo tempo. Lançamento feito às pressas, no escuro, por gente que nunca tinha feito aquilo de verdade — o único exercício foi na véspera, ao meio-dia, e era exercício de incêndio.
+Botes velhos num navio velho. Superlotação, porque todo mundo queria o mesmo lugar ao mesmo tempo. Lançamento feito às pressas, no escuro, por gente que nunca tinha feito aquilo de verdade — o único exercício foi na véspera, à uma da tarde, e era exercício de incêndio.
 
 E o adernamento.
 

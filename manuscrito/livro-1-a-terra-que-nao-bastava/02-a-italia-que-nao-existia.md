@@ -95,7 +95,7 @@ O macinato foi abolido em 1884, dezesseis anos depois. Tarde demais para a gera�
 
 Há uma frase que circula sobre esse período, atribuída a Giuseppe Verdi, e que encontrei citada num catálogo do Arquivo Público do Estado do Espírito Santo:
 
-*L&rsquo;Unità sarà la nostra rovina. Moriremo tutti di fame.*
+*L’Unità sarà la nostra rovina. Moriremo tutti di fame.*
 
 A unificação será a nossa ruína. Morreremos todos de fome.
 

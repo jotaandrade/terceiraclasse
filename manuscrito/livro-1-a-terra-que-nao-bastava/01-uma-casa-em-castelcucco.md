@@ -29,7 +29,7 @@ Esses horários não vêm de memória de família. Vêm dos registros de nascime
 
 Quatro quilômetros, no Vêneto rural daquela época, não são distância nenhuma e são distância suficiente. Duas paróquias, dois padres, dois livros de batismo. Mas a mesma feira, os mesmos santos, as mesmas festas, e famílias que se cruzavam havia gerações sem precisar de apresentação.
 
-Casaram-se em 3 de dezembro de 1926, em Castelcucco. Ela com vinte e três anos, ele com vinte e dois.
+Vinte e três anos depois, casaram-se em Castelcucco.
 
 O que aconteceu entre esses dois nascimentos e aquele casamento é o assunto de todo o resto desta parte do livro.
 

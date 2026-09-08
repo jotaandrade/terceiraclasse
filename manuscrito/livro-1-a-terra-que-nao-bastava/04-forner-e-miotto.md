@@ -157,7 +157,7 @@ Maria Luigia. Amabile Veronica. Vittorio. Asia. E pelo menos mais uma irmã, cuj
 
 Quem me deu esses nomes foi **Giorgio Forner**, na Itália, escrevendo debaixo de fotografias que a família dele guardou por um século. Até recebê-las, eu tinha do lado Miotto três linhas de cartório e mais nada.
 
-A mais velha dessas irmãs chamava-se **Maria Luigia Miotto**.
+Uma dessas irmãs, mais velha que Fausto, chamava-se **Maria Luigia Miotto**.
 
 Leia o nome outra vez, porque este livro já tem uma Maria Luigia, e não é esta.
 
@@ -179,7 +179,7 @@ Numa vila de mil e setecentos habitantes isso não é romance, é geografia. Est
 
 Mas o efeito, cem anos depois, é este: **o primo que mora na Itália e que me mandou as fotografias deste capítulo é meu parente pelos dois lados.** Forner pelo avô, Miotto pela avó.
 
-Os dois ramos que este livro vai passar trinta capítulos separando — os que foram e os que ficaram — já estavam amarrados um no outro antes de qualquer um pisar num navio.
+Os dois ramos que este livro vai passar o resto do tempo separando — os que foram e os que ficaram — já estavam amarrados um no outro antes de qualquer um pisar num navio.
 
 Os sobrenomes que sobreviveram nos livros daquelas paróquias são os dos que ficaram.
 

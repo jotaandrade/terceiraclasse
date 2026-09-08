@@ -171,7 +171,7 @@ Teve filhos e continuou onde sempre esteve. Leo, Delfina e Galliano são dele. D
 
 Morreu em 1947, aos cinquenta e quatro anos.
 
-Nunca emigrou. Nunca viu o Brasil. E é quase certo que nunca voltou a ver a irmã Rosa depois de 1927, porque ninguém naquela condição atravessava o Atlântico duas vezes.
+Nunca emigrou. Nunca viu o Brasil. Ninguém naquela condição atravessava o Atlântico duas vezes, e ele não foi exceção.
 
 E existe um segundo objeto, guardado na mesma pasta.
 
@@ -215,7 +215,7 @@ O homem das três medalhas da primeira guerra tirou carteira de identidade a tem
 
 Repare no que ficou de cada lado.
 
-O ramo que partiu tem fotografias, documentos de imigração, uma certidão de óbito em Sorocaba e a lembrança de uma senhora de oitenta e nove anos.
+O ramo que partiu tem fotografias, documentos de imigração, uma certidão de óbito em Sorocaba e a lembrança da filha de Rosa, que ainda está viva e ainda conta.
 
 O ramo que ficou tem um quadro na parede, com três medalhas e uma Vitória alada de bronze inimigo. E tem, guardada, uma carteira de identidade de 1940 com o rosto dele dentro.
 

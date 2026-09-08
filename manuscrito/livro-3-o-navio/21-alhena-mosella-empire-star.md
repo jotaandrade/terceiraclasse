@@ -7,7 +7,7 @@
 
 A única coisa boa desta história inteira é que os navios já estavam perto.
 
-Naquela mesma tarde o Mafalda tinha cruzado com o *Empire Star* e o comandante o saudara com um apito longo. Quando o eixo partiu, poucas horas depois, o navio inglês estava a cerca de dois quilômetros.
+Pouco antes, naquela mesma tarde, o Mafalda tinha cruzado com o *Empire Star* e o comandante o saudara com um apito longo. Quando o eixo partiu, o navio inglês ainda estava a cerca de dois quilômetros.
 
 Não foi previdência de ninguém. Foi rota comercial. Aquele trecho do Atlântico, em outubro de 1927, tinha tráfego.
 

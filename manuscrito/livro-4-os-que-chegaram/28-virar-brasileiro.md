@@ -101,6 +101,8 @@ E talvez seja por isso que a memória desta família passou por mulher.
 
 O sobrenome foi embora pelo lado dos homens. A história ficou do outro.
 
-Rosa contou ao Enrico e contou à Mafalda. Maria Luigia teve a Pulcheria, e o que a Pulcheria viu chegou a mim pela Patrícia. Mafalda contou à Marta. E chegou a mim.
+Rosa contou ao Enrico e contou à Mafalda. Mafalda contou à Marta. E chegou a mim.
+
+No outro galho foi diferente, e vale reparar: o que a Pulcheria viu passou primeiro pelo marido dela, e só então chegou à neta, e da neta a mim. Do lado da Rosa a memória desceu por mulheres. Do lado da Maria Luigia, atravessou um homem no meio do caminho.
 
 **Quatro gerações de gente que não se chama Forner carregando o que aconteceu com uma mulher chamada Forner.**
