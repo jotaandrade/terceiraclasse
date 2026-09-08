@@ -2421,9 +2421,9 @@ E para saber isso, é preciso começar pelo irmão dele, que nunca navegou.""",
 """<strong>22 de setembro de 1907.</strong> Estaleiro em Riva Trigoso, no litoral perto de
 Gênova.
 
-A Navigazione Generale Italiana ia lançar o primeiro de dois transatlânticos gêmeos
-encomendados para a rota da América do Sul. O primeiro se chamava
-<strong><em>Principessa Jolanda</em></strong>.
+O <strong>Lloyd Italiano</strong>, companhia genovesa fundada três anos antes, ia lançar o
+primeiro de dois transatlânticos gêmeos encomendados para a rota da América do Sul. O primeiro
+se chamava <strong><em>Principessa Jolanda</em></strong>.
 
 Havia autoridade, havia imprensa, havia madrinha, havia multidão. Lançamento de navio grande
 era espetáculo público, e este tinha sido anunciado.""",
@@ -5221,13 +5221,16 @@ IMG_BY_CAP = {
  7:  [('quadro_guerra_europa','O quadro com as três medalhas de guerra de Sante Forner, na parede da casa da família no Vêneto. No diploma, escrito à mão: <em>Forner Sante di Vincenzo</em>. Fotografia enviada por Giorgio Forner.'),
       ('sante_militar','Sante Forner, 1893 a 1947, fardado.'),
       ('sante_familia_completa','Sante Forner ao centro, com a mulher Maria Luigia Miotto. Atrás, o filho Leo; à esquerda, em baixo, o filho Galliano.'),
+      ('carta_identidade_aberta','A carta d’identità de Sante Forner aberta, com o brasão do Regno d’Italia e o Comune di Asolo.'),
       ('sante_forner_documento','Carta d’identità de Sante Forner, Comune di Asolo, 8 de março de 1940. Nato il 16 aprile 1893 a Monfumo. Professione: bracciante. Statura 1,62. Assinada pelo Podestà e datada A. XVIII, o ano dezoito da era fascista.')],
  8:  [('fausto','Fausto Miotto, nascido em Castelcucco em 1904. Casou-se com Rosa Forner em 1926 e partiu sozinho para o Brasil.')],
  10: [('imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890','Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por volta de 1890. Acervo público.'),
       ('pulcheria','<strong>Pulcheria Pasqua Dei Agnoli</strong>, 1921 a 2013. Tinha seis anos na noite do naufrágio, e era ela quem não saía da cozinha. Fotografia de documento, 18 de abril de 1980.')],
  12: [('angelo__dei_agnoli','Passaporte italiano de Angelo Dei Agnoli, Regno d’Italia, com o visto do Consulado Geral do Brasil.'),
       ('angelo_dei_agnoli__jpg','Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de São Paulo. Angelo Dei Agnoli, nascido em 12 de junho de 1898 em Cavaso, filho de Antonio Dei Agnoli e Paschoa Colla, lavrador, casado com Maria Luiza Forner, nascida em 5 de março de 1896 em Monfumo. <em>Desembarcado em 30/4/1927, no porto de Santos, da embarcação Principessa Mafalda.</em> Carimbo da Delegacia de Polícia de Grama.')],
- 13: [('princess_mafalda_of_savoy','Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.')],
+ 13: [('cartaz_lloyd_italiano','Cartaz do <strong>Lloyd Italiano</strong> anunciando o <em>Principessa Mafalda</em>: <em>servizio speciale extra-rapido dall’Europa al Plata</em>, saída de Gênova, escalas em Barcelona e Las Palmas, chegada a Buenos Aires. <strong>Navigazione effettiva 14 giorni.</strong> Traz impressa a lista de passageiros da travessia.'),
+      ('princess_mafalda_of_savoy','Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.')],
+ 16: [('mafalda_barcelona','<em>Barcelona. Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.</em> Cartão-postal de época; o nome do navio se lê na proa. Barcelona era a primeira escala, e foi onde a última viagem parou um dia por avaria. Imagem de sítio de colecionismo, com marca d’água; a procedência original não foi localizada.')],
  21: [('passageiros_agnoli','A família Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>: Danilo 2, Dinetta 7, Dino 4, Maria de 31 e Pulcheria 6, todos em terceira classe.')],
  23: [('rosa_forner_documento','Cédula de identidade de Rosa Forner Miotto, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos.')],
  24: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.'),
@@ -5297,6 +5300,7 @@ SKIP = {'52f7878846e1bd9668eb0502126ae9a0', '571_1', '571_2', '710doxadqgl__sl13
         'quadro_de_guerra', 'rosa_forner', 'sao_joao_da_boa_vista', 'selo', 'stöwer_titanic',
         'tio_henrrique', 'vapor_mafalda'}
 LEG = {
+ 'pandolfo_antonio':'Pandolfo Antonio, 1942 a 2025, primo de Mafalda, filho de Miotto Asia, irmã de Fausto.',
  'divino_betti':'Divino Aparecido Betti, 1948 a 1992, filho de Pulcheria e pai de Patrícia Betti.',
  'angelo__dei_agnoli':'Passaporte de Angelo dei Agnoli, marido de Maria Luigia Forner.',
  'angelo_dei_agnoli__jpg':'Certidão de registro de Angelo dei Agnoli.',

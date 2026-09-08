@@ -1737,3 +1737,44 @@ lados.
 FALTA AINDA: o cap. 29 ("Os que ficaram") argumenta que a linha que ficou seguiu por homens e
 a que foi seguiu por mulheres. Continua verdade, mas agora ha um dado a mais - Giorgio
 descende das duas familias. Avaliar se entra.
+
+## 23. Dois documentos de epoca do proprio navio - 08.09.2026
+
+Estavam na pasta do Drive e nao no repo.
+
+### ERRO CORRIGIDO: o navio era do LLOYD ITALIANO, nao da NGI
+
+`prnc-mafalda-cartaz2.jpg` e um **cartaz de epoca do proprio navio**:
+
+> **LLOYD ITALIANO** - servizio speciale extra-rapido dall'Europa al Plata
+> *Lista dei passeggeri partiti da Genova l'8 Settembre, da Barcellona il 9, da Las Palmas il
+> 12 ed arrivati a Buenos Aires il 23 detto, col nuovo e celerissimo vapore*
+> **Principessa Mafalda** - Navigazione effettiva **14 giorni**
+> Durata del viaggio da Genova (compresa la fermata negli scali) giorni 15
+
+O cap. 13 dizia que **a Navigazione Generale Italiana** encomendou o Jolanda e o Mafalda.
+Errado: foi o **Lloyd Italiano**, companhia genovesa fundada em 1904. A NGI absorveu o Lloyd
+Italiano em 1918 - o navio passou a ela depois. **Corrigido.**
+
+Erro meu junto: ao remover a imagem `familia_forner` eu disse que o "LLOYD ITALIANO" escrito
+nela estava errado. Nao estava. A imagem continua fora por ser composicao gerada com texto
+ilegivel, mas o motivo que eu dei estava errado.
+
+O cartaz confirma tambem os **14 dias** que o livro usa em tres capitulos, e da a escala como
+**Las Palmas** - o que alimenta a questao aberta Dakar x Sao Vicente x Las Palmas.
+
+### PRIMEIRA IMAGEM REAL DO NAVIO
+
+`42915663.jpg` e um cartao-postal de epoca: *"BARCELONA. Puerto. Estacion Maritima. Llegada
+del vapor Principessa Mafalda."* Da para ler o nome na proa. **O livro nao tinha nenhuma
+fotografia verdadeira do navio** desde que as pinturas sairam.
+
+RESSALVA: a imagem tem marca d'agua de `todocoleccion.net`, um sitio de colecionismo. A
+legenda no livro declara isso. **Pendencia de credito, como o panfleto do cap. 5.**
+
+### Tambem importados
+- `carta_identidade_aberta` - a carta d'identita de Sante aberta, com o brasao -> cap. 7
+- `pandolfo_antonio` - cartao de falecimento de Pandolfo Antonio (1942-2025), primo de Mafalda,
+  **filho de Miotto Asia**, irma de Fausto -> caderno.
+  Nota: o sobrenome **Pandolfo** e o mesmo da bisavo Santa Pandolfo. Outro cruzamento entre
+  as familias da regiao, a investigar.
