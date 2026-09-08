@@ -76,6 +76,19 @@ Fica valendo para o resto: o que existe so na tela - botao **Ouvir**, controle d
 sumario clicavel, botoes de virar pagina - e **ferramenta de trabalho**, nao conteudo. Nada
 disso vai para o impresso, e nada disso deve influenciar decisao de texto.
 
+## Regra das imagens
+
+**Dentro de capitulo, so entra documento ou fotografia.** Ilustracao nao entra - e se
+entrar por algum motivo, a legenda tem que dizer que e ilustracao.
+
+**Imagem editada e permitida; esconder a edicao nao.** Vale para restauracao (a fotografia
+da Rosa, no cap. 23) e para tarja (o medico na Declaracao de Obito, no cap. 26). Nos dois
+casos a legenda declara o que foi feito e por que.
+
+**Tratamento visual:** `oval` em retrato de estudio de uma pessoa, `montada` em documento,
+foto de grupo e caderno. Foto de documento com data carimbada na borda fica montada, para
+a dissolucao nao apagar a data.
+
 ## Regras de escrita
 
 **Voz.** Primeira pessoa contida. O autor aparece só quando está fazendo alguma coisa —

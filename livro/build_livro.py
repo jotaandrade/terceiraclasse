@@ -5242,7 +5242,8 @@ IMG_BY_CAP = {
       ('princess_mafalda_of_savoy','Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.','oval')],
  16: [('mafalda_barcelona','<em>Barcelona. Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.</em> Cartão-postal de época; o nome do navio se lê na proa. Barcelona era a primeira escala, e foi onde a última viagem parou um dia por avaria. Imagem de sítio de colecionismo, com marca d’água; a procedência original não foi localizada.','montada')],
  21: [('passageiros_agnoli','A família Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>: Danilo 2, Dinetta 7, Dino 4, Maria de 31 e Pulcheria 6, todos em terceira classe.','montada')],
- 23: [('rosa_forner_documento','Cédula de identidade de Rosa Forner Miotto, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos.','montada')],
+ 23: [('rosa_forner','<strong>Rosa Forner Miotto</strong>, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos, com o filho de um ano no colo. <em>Restauração feita pelo autor: o original está muito danificado.</em>','oval'),
+      ('rosa_forner_documento','A cédula de identidade dela, emitida no Brasil décadas depois.','montada')],
  24: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.','oval'),
       ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e Angelo dei Agnoli com os filhos.','montada'),
       ('gina','<strong>Gina Oliva Dei Agnoli</strong>, nascida em 28 de março de 1920. Tinha sete anos na noite do naufrágio. Uma das duas meninas que podem ter achado o pai.','oval'),
@@ -5308,8 +5309,8 @@ SKIP = {'52f7878846e1bd9668eb0502126ae9a0', '571_1', '571_2', '710doxadqgl__sl13
         'imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890__1',
         'italia_campo_verde', 'italianos_no_barco', 'joao_luca_e_mafalda', 'mafalda_naufragando',
         'mattia', 'princessa_mafalda', 'propaganda_para_italianos_virem_ao_brasil_1024x580',
-        'quadro_de_guerra', 'rosa_forner', 'sao_joao_da_boa_vista', 'selo', 'stöwer_titanic',
-        'tio_henrrique', 'vapor_mafalda'}
+        'quadro_de_guerra', 'sao_joao_da_boa_vista', 'selo', 'stöwer_titanic', 'tio_henrrique',
+        'vapor_mafalda'}
 LEG = {
  'giorgio_vendendo':'Giorgio Forner numa feira, no Vêneto.',
  'mattia_forner':'Mattia, da família Forner na Itália.',
