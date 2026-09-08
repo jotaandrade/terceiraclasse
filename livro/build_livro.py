@@ -5225,7 +5225,8 @@ IMG_BY_CAP = {
  1:  [('asolo','Asolo, a cidade nas colinas para onde desce a estrada que sai de Castelcucco. De Asolo se pega o trem, e de trem em trem se chega a Gênova.','montada')],
  3:  [('giovani_bambini','Fotografia do acervo da família, sem data e sem identificação. Ao fundo, a encosta plantada em faixas — a mesma paisagem descrita neste capítulo, e a mesma economia: pouca terra, dividida, trabalhada de cima a baixo.','montada')],
  4:  [('miotto_tres_irmaos','Três irmãos de Fausto Miotto: <strong>Maria Luigia</strong> ao centro, <strong>Veronica</strong> à direita e <strong>Vittorio</strong>. Fotografia e identificação enviadas por Giorgio Forner, neto de Maria Luigia.','montada'),
-      ('sante_e_maria_luigia_miotto','<strong>Sante Forner e Maria Luigia Miotto.</strong> Ele, irmão de Rosa. Ela, irmã de Fausto. Os dois casamentos desta história cruzaram as mesmas duas famílias.','montada')],
+      ('sante_e_maria_luigia_miotto','<strong>Sante Forner e Maria Luigia Miotto.</strong> Ele, irmão de Rosa. Ela, irmã de Fausto. Os dois casamentos desta história cruzaram as mesmas duas famílias.','montada'),
+      ('forner_martino','Martino Forner, irmão de Sante e de Rosa. Fotografia de época enviada da Itália.','montada')],
  5:  [('panfleto_in_america','“…In América. Terre in Brasile per gli Italiani.” Preto sobre papel barato, com o italiano cheio de erros de composição e um navio no lugar onde deveria estar a terra prometida. Imagem obtida na internet; a procedência não foi localizada.','montada')],
  7:  [('quadro_guerra_europa','O quadro com as três medalhas de guerra de Sante Forner, na parede da casa da família no Vêneto. No diploma, escrito à mão: <em>Forner Sante di Vincenzo</em>. Fotografia enviada por Giorgio Forner.','montada'),
       ('sante_militar','Sante Forner, 1893 a 1947, fardado.','oval'),
@@ -5245,7 +5246,8 @@ IMG_BY_CAP = {
  24: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.','oval'),
       ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e Angelo dei Agnoli com os filhos.','montada'),
       ('gina','<strong>Gina Oliva Dei Agnoli</strong>, nascida em 28 de março de 1920. Tinha sete anos na noite do naufrágio. Uma das duas meninas que podem ter achado o pai.','oval'),
-      ('rino','<strong>Rino Dei Agnoli</strong>, nascido em 26 de janeiro de 1923. Tinha quatro anos. Fotografia de documento, 22 de novembro de 1979.','montada')],
+      ('rino','<strong>Rino Dei Agnoli</strong>, nascido em 26 de janeiro de 1923. Tinha quatro anos. Fotografia de documento, 22 de novembro de 1979.','montada'),
+      ('maria_luiza_e_angelo','Maria Luigia Forner e Angelo Dei Agnoli. Ela sobreviveu ao naufrágio com quatro filhos; ele esperava do outro lado, e tinha atravessado no mesmo navio seis meses antes.','montada')],
  26: [('enrico','Enrico Miotto, 1926 a 1998. Tinha um ano e quinze dias na noite do naufrágio.','montada'),
       ('enrico_registro_de_estrangeiro','Registro de Estrangeiros de Enrico Miotto, 29 de dezembro de 1949. Data de nascimento: 10.10.1926.','montada'),
       ('certidao_de_obito','Declaração de Óbito nº 5501831. Sorocaba, 6 de outubro de 1998. Aposentado, solteiro, natural da Itália, filho de Fausto Miotto e Rosa Forner. Sepultado no Cemitério Santo Antônio. <em>O nome, o registro profissional, o telefone e a assinatura do médico que atestou o óbito foram tarjados nesta reprodução: ele é a única pessoa deste documento que não pertence à família e não escolheu estar neste livro.</em>','montada')],
@@ -5254,11 +5256,16 @@ IMG_BY_CAP = {
       ('mafalda_e_bisnetos','Mafalda e os bisnetos.','montada')],
  29: [('sante_e_familia','Sante Forner e família, na Itália.','montada'),
       ('forner_galliano','Galliano Forner, filho de Sante, com as tropas alpinas em 1950.','oval'),
-      ('giorgio_e_sua_familia','Giorgio Forner e família, o ramo que permaneceu no Vêneto.','montada')],
+      ('giorgio_e_sua_familia','Giorgio Forner e família, o ramo que permaneceu no Vêneto.','montada'),
+      ('galliano_e_esposa','Galliano Forner, filho de Sante, e a mulher.','montada'),
+      ('giorgio_e_pai','Giorgio Forner e o pai, Galliano. Três gerações do ramo que ficou cabem em duas fotografias: Sante, Galliano, Giorgio.','montada'),
+      ('giorgio_e_netos','Giorgio Forner e os netos, no Vêneto. A quinta geração da casa que não atravessou.','montada')],
  30: [('miotto_veronica_vancouver','Miotto Amabile Veronica, irmã de Fausto, com o marido Parisotto Lucindo e a família. Segundo Giorgio, uma das filhas, Valeria, <strong>vive em Vancouver</strong>.','montada')],
  31: [('mafalda_e_joao','Mafalda e o autor.','montada'),
-      ('mafalda_e_joao_luca','Mafalda e o bisneto João Luca, a quem este livro é dedicado.','montada')],
+      ('mafalda_e_joao_luca','Mafalda e o bisneto João Luca, a quem este livro é dedicado.','montada'),
+      ('mafalda_marta_joao_luca','<strong>Mafalda, Marta e João Luca.</strong> A filha de Rosa, a neta de Rosa e o tataraneto de Rosa, na mesma fotografia. A mais velha nasceu dez anos depois do naufrágio; o mais novo, oitenta e cinco anos depois dela.','montada')],
 }
+
 
 
 # O livro sera IMPRESSO: paginas de documento sonoro nao entram no miolo.
@@ -5304,6 +5311,15 @@ SKIP = {'52f7878846e1bd9668eb0502126ae9a0', '571_1', '571_2', '710doxadqgl__sl13
         'quadro_de_guerra', 'rosa_forner', 'sao_joao_da_boa_vista', 'selo', 'stöwer_titanic',
         'tio_henrrique', 'vapor_mafalda'}
 LEG = {
+ 'giorgio_vendendo':'Giorgio Forner numa feira, no Vêneto.',
+ 'mattia_forner':'Mattia, da família Forner na Itália.',
+ 'carlos_e_joao_luca':'Carlos Aparecido de Andrade e o neto João Luca.',
+ 'joao_joao_luca_carlos':'Três gerações: o autor, o filho João Luca e, ao fundo, o pai, Carlos Andrade.',
+ 'marta_e_netos':'Marta Terra Andrade, filha de Mafalda, e os netos.',
+ 'marta_filhos_e_netos':'Marta Terra Andrade com os filhos e os netos.',
+ 'familia_do_autor':'A família do autor.',
+ 'aline_joao_joao_luca':'Aline, o autor e João Luca.',
+ 'aline_e_joao':'Aline e João Andrade.',
  'pandolfo_antonio':'Pandolfo Antonio, 1942 a 2025, primo de Mafalda, filho de Miotto Asia, irmã de Fausto.',
  'divino_betti':'Divino Aparecido Betti, 1948 a 1992, filho de Pulcheria e pai de Patrícia Betti.',
  'angelo__dei_agnoli':'Passaporte de Angelo dei Agnoli, marido de Maria Luigia Forner.',
