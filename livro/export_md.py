@@ -1,12 +1,16 @@
 # -*- coding: utf-8 -*-
-"""Exporta o projeto As Tres Mafaldas para arquivos Markdown no Drive."""
+"""Exporta o livro para Markdown dentro do proprio repo."""
 import io, os, re, sys, unicodedata
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import html2md
 
-OLD = r"C:\Users\joand\AppData\Local\Temp\claude\D--italiaminha\d7ec32c9-3478-48c5-b4dc-cea1c4fb7830\scratchpad"
-NEW = r"C:\Users\joand\AppData\Local\Temp\claude\D--italiaminha\96f3cc2a-e0cc-4d37-99a0-45efcd4ed002\scratchpad"
-OUT = r"D:\italiaminha\As Tres Mafaldas"
+# tudo relativo ao repo: o export nao depende mais de scratchpad de sessao
+HERE = os.path.dirname(os.path.abspath(__file__))          # .../terceiraclasse/livro
+REPO = os.path.dirname(HERE)                               # .../terceiraclasse
+OLD = HERE                                                 # build_livro.py mora aqui
+NEW = HERE
+OUT = REPO                                                 # manuscrito/ e docs/ no repo
+ART = os.path.join(REPO, "artefatos")                      # os HTML auxiliares
 
 def rd(p):
     return io.open(p, encoding='utf-8').read()
@@ -79,7 +83,7 @@ for bn, btitle, byears, bcolor in BOOKS:
 # =====================================================================
 # 2. CADERNO DE BORDO  (fonte: caderno-de-bordo.html)
 # =====================================================================
-cad = rd(os.path.join(OLD, 'caderno-de-bordo.html'))
+cad = rd(os.path.join(ART, 'caderno-de-bordo.html'))
 ROW_RE = (r'<div class="row">\s*<span class="n">(.*?)</span>\s*<span class="t">(.*?)</span>'
           r'\s*<span class="d">(.*?)</span>\s*<span class="pp">(.*?)</span>'
           r'\s*<span class="st">(.*?)</span>\s*</div>')
@@ -126,7 +130,7 @@ divs = resto.find('## Dívidas de pesquisa')
 if divs > -1 and corte > divs:
     L.insert(len(L) - 1, resto[divs:corte].rstrip())
 
-wr('01-caderno-de-bordo.md', '\n'.join(L) + '\n')
+wr('docs/01-caderno-de-bordo.md', '\n'.join(L) + '\n')
 
 # =====================================================================
 # 3. DOSSIE  (fonte: tres-mafaldas.html)
@@ -191,11 +195,11 @@ def html_to_md(path, title):
     return body + '\n'
 
 print('\ndocumentos/')
-wr('00-dossie.md', html2md.convert(rd(os.path.join(OLD, 'tres-mafaldas.html'))))
-wr('03-roteiro-gravacoes.md', html2md.convert(rd(os.path.join(NEW, 'gravar-mafalda.html'))))
+wr('docs/00-dossie.md', html2md.convert(rd(os.path.join(ART, 'tres-mafaldas.html'))))
+wr('docs/03-roteiro-gravacoes.md', html2md.convert(rd(os.path.join(ART, 'gravar-mafalda.html'))))
 
 print('\ntotal escrito: %d palavras' % total_w)
 
 # guarda o indice para o README
-io.open(os.path.join(NEW, 'idx.txt'), 'w', encoding='utf-8').write(
+io.open(os.path.join(HERE, 'idx.txt'), 'w', encoding='utf-8').write(
     repr([(b, t, y, [(n, c, s, w) for n, c, s, w, f in r]) for b, t, y, r in idx]))

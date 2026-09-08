@@ -35,13 +35,13 @@
 
 | # | Capítulo | O que é | pp | Estado |
 |---:|---|---|---:|---|
-| 09 | Gênova | O porto como sistema. A babel de dialetos, a despedida definitiva. | 14 | Leitura |
-| 10 | A terceira classe | O porão por dentro: beliches, comida racionada, sarna, os corpos jogados ao mar. | 15 | Pronto |
+| 09 | Gênova | O porto como sistema. A babel de dialetos, a despedida definitiva. | 14 | **Escrito** |
+| 10 | A terceira classe | O porão por dentro: beliches, comida racionada, sarna, os corpos jogados ao mar. | 15 | **Escrito** |
 | 11 | O negócio da esperança | Companhias de navegação, preço da passagem, dívida, agenciadores. | 14 | Arquivo |
-| 12 | Duas irmãs embarcam | Outubro de 1927. Rosa com Enrico de um ano. Maria Luigia com quatro filhos. | 13 | Pronto |
-| 13 | Escala em Dakar | As falhas de máquina, os alertas, a decisão de seguir viagem. | 13 | Arquivo |
-| 14 | Os que já estavam lá | Fausto e Angelo no Brasil, a casa preparada, a espera. | 13 | Arquivo |
-| 15 | O que o Brasil prometia | Café, contrato de colono, a fronteira entre trabalho livre e o que veio antes. | 15 | Leitura |
+| 12 | Duas irmãs embarcam | Outubro de 1927. Rosa com Enrico de um ano. Maria Luigia com quatro filhos. | 13 | **Escrito** |
+| 13 | Escala em Dakar | As falhas de máquina, os alertas, a decisão de seguir viagem. | 13 | **Escrito** |
+| 14 | Os que já estavam lá | Fausto e Angelo no Brasil, a casa preparada, a espera. | 13 | **Escrito** |
+| 15 | O que o Brasil prometia | Café, contrato de colono, a fronteira entre trabalho livre e o que veio antes. | 15 | **Escrito** |
 
 ## PARTE III — O navio
 
@@ -49,15 +49,15 @@
 
 | # | Capítulo | O que é | pp | Estado |
 |---:|---|---|---:|---|
-| 16 | 1908 | Construção, o batismo com o nome da princesa, o orgulho da marinha mercante. | 13 | Pronto |
-| 17 | Os anos de glória | Primeira classe, salões, diplomatas e industriais. O navio como vitrine. | 12 | Pronto |
-| 18 | O declínio | Envelhecimento, quebras, a conversão em navio de imigrante. | 12 | Arquivo |
+| 16 | 1908 | Construção, o batismo com o nome da princesa, o orgulho da marinha mercante. | 13 | **Escrito** |
+| 17 | Os anos de glória | Primeira classe, salões, diplomatas e industriais. O navio como vitrine. | 12 | **Escrito** |
+| 18 | O declínio | Envelhecimento, quebras, a conversão em navio de imigrante. | 12 | **Escrito** |
 | 19 | A última viagem | Quem estava a bordo. Garovaglio, von Lücken, Bucherer, o comandante Gulì. | 14 | **Escrito** |
-| 21 | A noite | Hora a hora, do estrondo às 22h10. A escuridão, o adernamento, o pânico. | 18 | Pronto |
-| 22 | Os botes | Lugares vendidos, botes danificados, os tubarões. O pior e o melhor das pessoas. | 14 | Pronto |
-| 23 | 22h10 | O navio afunda. Gulì fica a bordo. O médico, o engenheiro, o marinheiro Bernardi. | 12 | Pronto |
-| 24 | Alhena, Mosella, Empire Star | O resgate a noite inteira. O documento mostra que os Forner saíram no Alhena. | 14 | Pronto |
-| 25 | Os 314 | Os mortos, o inquérito italiano, a lenda do ouro, e por que o Brasil esqueceu. | 13 | Arquivo |
+| 21 | A noite | Hora a hora, do estrondo às 22h10. A escuridão, o adernamento, o pânico. | 18 | **Escrito** |
+| 22 | Os botes | Lugares vendidos, botes danificados, os tubarões. O pior e o melhor das pessoas. | 14 | **Escrito** |
+| 23 | 22h10 | O navio afunda. Gulì fica a bordo. O médico, o engenheiro, o marinheiro Bernardi. | 12 | **Escrito** |
+| 24 | Alhena, Mosella, Empire Star | O resgate a noite inteira. O documento mostra que os Forner saíram no Alhena. | 14 | **Escrito** |
+| 25 | Os 314 | Os mortos, o inquérito italiano, a lenda do ouro, e por que o Brasil esqueceu. | 13 | **Escrito** |
 
 ## PARTE IV — Os que chegaram
 
@@ -65,12 +65,12 @@
 
 | # | Capítulo | O que é | pp | Estado |
 |---:|---|---|---:|---|
-| 26 | 31 de outubro | Hospedaria do Brás. Livro 100, página 290, a coluna VAPOR dizendo P. Mafalda. | 13 | Pronto |
-| 27 | O reencontro | Fausto e Angelo recebem as mulheres e as crianças. O que se diz e o que não se diz. | 11 | Campo |
-| 28 | Terra vermelha | O interior paulista, o café, a construção de uma vida do zero. | 14 | Leitura |
-| 29 | Enrico | 1926 a 1998. Só o que os documentos sustentam. Nada além do que você quiser pôr. | 12 | Pronto |
-| 30 | 1937 | Mafalda nasce em São José do Rio Pardo e recebe o nome do navio. | 12 | Campo |
-| 31 | Virar brasileiro | Língua, comida, fé, o dialeto que some. Como uma família italiana deixa de ser italiana. | 14 | Campo |
+| 26 | 31 de outubro | Hospedaria do Brás. Livro 100, página 290, a coluna VAPOR dizendo P. Mafalda. | 13 | **Escrito** |
+| 27 | O reencontro | Fausto e Angelo recebem as mulheres e as crianças. O que se diz e o que não se diz. | 11 | **Escrito** |
+| 28 | Terra vermelha | O interior paulista, o café, a construção de uma vida do zero. | 14 | **Escrito** |
+| 29 | Enrico | 1926 a 1998. Só o que os documentos sustentam. Nada além do que você quiser pôr. | 12 | **Escrito** |
+| 30 | 1937 | Mafalda nasce em São José do Rio Pardo e recebe o nome do navio. | 12 | **Escrito** |
+| 31 | Virar brasileiro | Língua, comida, fé, o dialeto que some. Como uma família italiana deixa de ser italiana. | 14 | **Escrito** |
 | 32 | Os que ficaram, cem anos depois | A linha de Sante: Galliano, Giorgio. O Vêneto do pós-guerra até hoje. | 12 | Campo |
 | 33 | A busca | A pesquisa como enredo. Os primos reencontrados. O dia em que o registro apareceu. | 13 | Pronto |
 | 34 | A casa | Castelcucco hoje. A porta de onde a Rosa saiu. Escrever depois da viagem. | 14 | Campo |
