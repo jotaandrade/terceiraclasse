@@ -43,7 +43,7 @@ E em algum momento Angelo voltou à Itália, porque em 1927 ele fez a travessia 
 
 Existe uma certidão do Serviço de Registro de Estrangeiros, número 61, que registra o desembarque:
 
-**Santos, 30 de abril de 1927. Vindo do vapor Principessa Mafalda.**
+Santos, 30 de abril de 1927. Vindo do vapor Principessa Mafalda.
 
 Pare um segundo nessa linha.
 
@@ -63,7 +63,7 @@ O homem que fez esta família atravessar o Atlântico não deixou registro nenhu
 
 O que dá para dizer é onde ele cabe.
 
-Casou-se em Castelcucco em **3 de dezembro de 1926**, o que prova que estava na Itália naquele dia. Rosa embarcou em Gênova em **11 de outubro de 1927**, o que prova que ele já estava do outro lado, e estabelecido o bastante para mandar buscá-la.
+Casou-se em Castelcucco em 3 de dezembro de 1926, o que prova que estava na Itália naquele dia. Rosa embarcou em Gênova em 11 de outubro de 1927, o que prova que ele já estava do outro lado, e estabelecido o bastante para mandar buscá-la.
 
 Dez meses.
 
@@ -79,7 +79,7 @@ A falta dele naquele livro não é buraco do arquivo. É o retrato de um homem q
 
 O destino, esse eu sei.
 
-**Grama**, hoje São Sebastião da Grama, município da comarca de São José do Rio Pardo, no nordeste do estado de São Paulo. Terra de café.
+Grama, hoje São Sebastião da Grama, município da comarca de São José do Rio Pardo, no nordeste do estado de São Paulo. Terra de café.
 
 Dois documentos põem a família ali: o carimbo da Delegacia de Polícia de Grama na ficha de estrangeiro do Angelo, e o assento de casamento número 660 do cartório de Grama, de 1947, que registra o casamento de uma filha de Fausto e Rosa nascida naquele município.
 
@@ -87,7 +87,7 @@ Era para lá que aquelas sete pessoas estavam indo.
 
 E o que ele foi fazer lá foi o que sabia fazer.
 
-**Agricultor.**
+Agricultor.
 
 O mesmo ofício que a família tinha na encosta do Grappa. A mesma enxada, o mesmo corpo, a mesma terra de outro homem.
 
@@ -111,7 +111,7 @@ Sei o intervalo: Angelo desembarcou de volta em abril, e elas embarcaram em outu
 
 E há um mecanismo por trás desses seis meses, que tem nome e era o mais comum de todos.
 
-Chamava-se **chamada**.
+Chamava-se chamada.
 
 O homem que já estava do outro lado juntava dinheiro, comprava a passagem aqui, e mandava — em remessa, ou como bilhete pré-pago para ser retirado numa agência do porto de Gênova.
 
@@ -129,7 +129,7 @@ Se ele tivesse juntado dois meses antes, ela teria pegado outro navio. Se tivess
 
 Um homem de vinte e três anos, sem português, trabalhando terra que não era dele, mandou buscar a mulher e o filho assim que pôde. Fez a única coisa certa que havia para fazer, e fez o mais rápido que conseguiu.
 
-**E foi isso que escolheu o navio.**
+E foi isso que escolheu o navio.
 
 Em outubro de 1927 os dois sabiam a data.
 

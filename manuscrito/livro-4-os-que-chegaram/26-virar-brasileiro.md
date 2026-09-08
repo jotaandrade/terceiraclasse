@@ -15,11 +15,11 @@ Está na lista dos filhos.
 
 Enrico nasceu na Itália e tem nome italiano. Erminda, Nair, Maria Therezinha, Izaira, Fermino, Rosalia, Luiz e Dionísio nasceram aqui e têm nome daqui.
 
-Uma família não decide num dia parar de ser italiana. Ela vai batizando os filhos e, sem anunciar nada a ninguém, **muda de língua no meio da própria descendência**.
+Uma família não decide num dia parar de ser italiana. Ela vai batizando os filhos e, sem anunciar nada a ninguém, muda de língua no meio da própria descendência.
 
 A parte de repente começou dez meses depois de Mafalda nascer.
 
-Em novembro de 1937, Getúlio Vargas fechou o Congresso e instaurou o Estado Novo. Com ele veio a **campanha de nacionalização**.
+Em novembro de 1937, Getúlio Vargas fechou o Congresso e instaurou o Estado Novo. Com ele veio a campanha de nacionalização.
 
 Escolas em língua estrangeira, fechadas. Jornal em língua estrangeira, proibido. Associações de imigrantes, sob controle. E, em vários lugares, proibido falar a língua em público.
 
@@ -35,13 +35,13 @@ Em agosto de 1942, o Brasil declarou guerra à Itália.
 
 Rosa Forner e Fausto Miotto moravam aqui havia quinze anos, tinham sete filhos brasileiros e trabalhavam a terra de outra pessoa no interior de São Paulo.
 
-De um dia para o outro, viraram **súditos do Eixo**.
+De um dia para o outro, viraram súditos do Eixo.
 
 Carteira de estrangeiro obrigatória. Restrição de circulação. Registro em delegacia.
 
 E é aqui que um papel deste acervo deixa de ser curiosidade de arquivo.
 
-O **registro de estrangeiro de Angelo Dei Agnoli**, com o carimbo da Delegacia de Polícia de Grama, foi o documento que me provou para onde a família tinha ido. Eu o usei como pista de geografia.
+O registro de estrangeiro de Angelo Dei Agnoli, com o carimbo da Delegacia de Polícia de Grama, foi o documento que me provou para onde a família tinha ido. Eu o usei como pista de geografia.
 
 Ele não foi feito para isso. **Foi feito para vigiar.**
 
@@ -55,7 +55,7 @@ O que dá para dizer é que a lei valia para eles.
 
 E há uma coisa que o documento diz sozinho.
 
-Em 29 de dezembro de 1949 — quatro anos depois do fim da guerra, vinte e dois anos depois de ter atravessado o Atlântico com um ano de idade e de ter sido pescado de um naufrágio — **Enrico Miotto ainda era italiano**.
+Em 29 de dezembro de 1949 — quatro anos depois do fim da guerra, vinte e dois anos depois de ter atravessado o Atlântico com um ano de idade e de ter sido pescado de um naufrágio — Enrico Miotto ainda era italiano.
 
 Não é descuido. Naturalizar custava dinheiro, tempo e papel, e para um pedreiro de vinte e três anos não resolvia nada de prático.
 
@@ -71,7 +71,7 @@ Nenhum arquivo guarda isso. Não existe cartório de cozinha.
 
 O que dá para medir é a velocidade.
 
-Na lista do *Alhena*, em 1927, a coluna Instrução diz **Sim** para Rosa Forner. Ela sabia ler, em italiano, num tempo e num lugar em que muita gente não sabia ler em língua nenhuma.
+Na lista do *Alhena*, em 1927, a coluna Instrução diz Sim para Rosa Forner. Ela sabia ler, em italiano, num tempo e num lugar em que muita gente não sabia ler em língua nenhuma.
 
 Os netos dela não falam italiano.
 

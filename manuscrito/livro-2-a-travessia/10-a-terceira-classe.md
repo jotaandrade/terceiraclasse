@@ -23,7 +23,7 @@ A terceira classe do *Principessa Mafalda* não era um convés aberto com gente 
 
 Era um andar de dormitórios, abaixo da linha d’água, com beliches de ferro em duas ou três alturas, separados por sexo, e camarotes de quatro ou seis lugares para as famílias.
 
-**Maria Spinelli**, italiana, terceira classe, conta que às cinco da tarde do dia 25 estava se lavando *na cabine*. Não era um alojamento coletivo. Era um quarto apertado, com porta.
+Maria Spinelli, italiana, terceira classe, conta que às cinco da tarde do dia 25 estava se lavando *na cabine*. Não era um alojamento coletivo. Era um quarto apertado, com porta.
 
 Isso importa, e vou voltar a isso: significa que aquelas pessoas estavam separadas em compartimentos pequenos, embaixo, quando a água entrou.
 
@@ -35,11 +35,11 @@ E a bagagem, que era desinfetada antes do embarque e voltava cheirando a enxofre
 
 Quem morria durante a travessia era enterrado no mar. Não era brutalidade: era o procedimento de um navio com duas semanas de viagem pela frente e sem lugar para guardar um corpo.
 
-O que me interessa é que **o navio anotava isso**.
+O que me interessa é que o navio anotava isso.
 
 Nas folhas de terceira classe de 1923 e 1924, alguém riscou os títulos impressos das colunas de bagagem e escreveu por cima, à mão, quatro palavras em italiano:
 
-**Bauli · Valigie · Denaro · Indirizzo**
+*Bauli · Valigie · Denaro · Indirizzo*
 
 Baús. Valises. Dinheiro. Endereço.
 
@@ -55,7 +55,7 @@ Está preenchido assim, linha após linha:
 
 E, numa linha que eu li três vezes para ter certeza:
 
-***8 baús, 1 valise, £ —, São Paulo.***
+*8 baús, 1 valise, £ —, São Paulo.*
 
 Um traço. Oito baús e um traço.
 
@@ -75,7 +75,7 @@ Na folha de 25 de janeiro de 1924, ao lado de três linhas, alguém escreveu à 
 
 Passou para a segunda classe. No meio da travessia.
 
-Uma das três é **Giannini Giovanni**, cinquenta e três anos, declarado *possidente*, viajando com a filha.
+Uma das três é Giannini Giovanni, cinquenta e três anos, declarado *possidente*, viajando com a filha.
 
 A imagem confortável é a de três mundos lacrados, separados por chapa de aço: os ricos em cima, os pobres embaixo, e nenhuma passagem entre eles.
 
@@ -87,7 +87,7 @@ Quem não podia continuava lá.
 
 Na mesma folha, linha noventa e dois, há um nome riscado em vermelho.
 
-Ao lado, na margem, uma palavra e uma data. A palavra é de leitura difícil e não vou forçá-la. A data não é: **19 de janeiro de 1924**.
+Ao lado, na margem, uma palavra e uma data. A palavra é de leitura difícil e não vou forçá-la. A data não é: 19 de janeiro de 1924.
 
 O navio atracou em Santos no dia 25.
 
@@ -109,7 +109,7 @@ E o navio só ia cheio numa direção.
 
 Descendo da Europa: oitocentas pessoas na terceira classe. Oitocentas e vinte e três numa viagem, setecentas e oitenta e uma noutra, novecentas e dez em junho de 1923, que é o recorde do conjunto que examinei.
 
-Subindo de Buenos Aires: **vinte e três**.
+Subindo de Buenos Aires: vinte e três.
 
 Não era um navio de passageiros que também levava imigrantes. Era um navio de imigrantes que também levava passageiros, e só numa direção.
 
@@ -117,7 +117,7 @@ Quem estava naquele porão em 1927 já não era só italiano.
 
 As colunas de nacionalidade mostram a virada acontecendo em cinco meses: em agosto de 1923 desembarcaram em Santos sessenta e cinco italianos e vinte e oito sírios; em janeiro de 1924, quarenta sírios e trinta e dois italianos.
 
-**Milhem Solk**, libanês de Beirute, na terceira viagem dele à Argentina, disse depois uma frase que resume o andar inteiro: a maioria dos companheiros dele não falava italiano nem espanhol.
+Milhem Solk, libanês de Beirute, na terceira viagem dele à Argentina, disse depois uma frase que resume o andar inteiro: a maioria dos companheiros dele não falava italiano nem espanhol.
 
 Duas semanas dividindo o mesmo ar, a mesma fila e o mesmo cheiro, sem conseguir conversar.
 

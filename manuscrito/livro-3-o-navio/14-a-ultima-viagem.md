@@ -11,7 +11,7 @@ Não muito. Um dia, mais ou menos. O tipo de atraso que ninguém anota e que tod
 
 Dezoito anos antes, quando ele entrou em serviço, um atraso desses teria virado assunto de jornal. Em 1927 já não virava. Era um navio velho fazendo o que navio velho faz.
 
-A bordo iam **novecentos e setenta e um passageiros e duzentos e oitenta e oito tripulantes**. Mil duzentas e cinquenta e nove pessoas, e a maior parte delas na terceira classe.
+A bordo iam novecentos e setenta e um passageiros e duzentos e oitenta e oito tripulantes. Mil duzentas e cinquenta e nove pessoas, e a maior parte delas na terceira classe.
 
 Só que já não era o porão italiano de vinte anos antes.
 
@@ -53,7 +53,7 @@ Nada disso, sozinho, é catástrofe. Tudo isso junto é um navio que já não de
 
 Em algum porto da escala africana o Mafalda parou outra vez, por avaria na máquina de bombordo.
 
-Escrevo *algum porto* pelo mesmo motivo que vou escrever no capítulo seguinte: as descrições da rota habitual do navio citam Dakar, mas o que as fontes registram desta última viagem é a saída de **São Vicente, em Cabo Verde, no dia 18 de outubro**, rumo ao Rio.
+Escrevo *algum porto* pelo mesmo motivo que vou escrever no capítulo seguinte: as descrições da rota habitual do navio citam Dakar, mas o que as fontes registram desta última viagem é a saída de São Vicente, em Cabo Verde, no dia 18 de outubro, rumo ao Rio.
 
 Consta como parada emergencial. Consertaram mais uma vez, com o que havia, e seguiram mais uma vez.
 
@@ -117,7 +117,7 @@ Pecci não acreditou nela. Tirou a família do navio cedo, na noite do naufrági
 
 Os três sobreviveram.
 
-Em **24 de outubro de 1927, uma segunda-feira, à uma da tarde**, os apitos da sirene tocaram.
+Em 24 de outubro de 1927, uma segunda-feira, à uma da tarde, os apitos da sirene tocaram.
 
 Era exercício de incêndio, do tipo que todo navio de passageiros fazia e que quase ninguém a bordo levava a sério, porque quase nunca serve para nada.
 
@@ -139,9 +139,9 @@ Estavam a dois quilômetros do navio inglês quando Lynose ouviu o primeiro esta
 
 Guarde esses dois nomes, porque os dois voltam.
 
-O **Alhena**, que o Mafalda tinha acabado de ultrapassar por vaidade de máquina, é o navio que recolheu Rosa Forner, a irmã e as cinco crianças, e que três dias depois as desembarcou na Ilha das Flores, no Rio de Janeiro.
+O Alhena, que o Mafalda tinha acabado de ultrapassar por vaidade de máquina, é o navio que recolheu Rosa Forner, a irmã e as cinco crianças, e que três dias depois as desembarcou na Ilha das Flores, no Rio de Janeiro.
 
-O **Empire Star**, saudado com apito naquela mesma tarde, tirou da água mais de uma centena de pessoas.
+O Empire Star, saudado com apito naquela mesma tarde, tirou da água mais de uma centena de pessoas.
 
 A coisa que salvou aquela gente já estava à vista quando o eixo partiu.
 

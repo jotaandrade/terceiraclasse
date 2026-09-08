@@ -19,11 +19,11 @@ Angela, 1886. Pietro, 1889. Martino, 1891. Sante, 1893. Bonfiglio, 1898. Giulio,
 
 E depois: Angela, 1898. Onorato, 1900. Alessandro Domenico, 1903. Ausilio Fortunato e Roberto, gêmeos de 1908. Francesco, 1913.
 
-Lida corrida, a lista diz o que não é: **catorze filhos de um casal só**.
+Lida corrida, a lista diz o que não é: catorze filhos de um casal só.
 
 Foi preciso ampliar a fotografia do quadro para enxergar por quê.
 
-Descendo pela direita, a partir de **Cadonà Maria Teresa**, nascida em Monfumo em 1869 e casada com **Abele Alessandro Forner** — irmão de Vincenzo —, há uma linha vertical.
+Descendo pela direita, a partir de Cadonà Maria Teresa, nascida em Monfumo em 1869 e casada com Abele Alessandro Forner — irmão de Vincenzo —, há uma linha vertical.
 
 Ela passa ao lado da primeira fileira sem tocar em nada, e vai se ligar à barra horizontal da segunda.
 
@@ -35,7 +35,7 @@ E o quadro ainda erra por omissão, de um jeito que só se enxerga cruzando com 
 
 Ele traz oito filhos de Vincenzo e Santa. **Foram dez.**
 
-Faltam **Maria Elisabetta**, de 1895, e **Maria Luigia**, de 1896.
+Faltam Maria Elisabetta, de 1895, e Maria Luigia, de 1896.
 
 Leia esse segundo nome outra vez. A genealogia impressa da família deixou de fora a mulher que atravessou o Atlântico com quatro filhos pequenos e sobreviveu ao naufrágio deste livro.
 
@@ -49,7 +49,7 @@ Ele está certo, e é ilegível no tamanho em que foi impresso. A linha existe, 
 
 A diferença entre um documento errado e um documento mal lido não aparece sozinha. Ela só aparece quando alguém desconfia.
 
-E quando finalmente li o quadro direito, ele tinha um único erro de verdade — e o erro era na minha bisavó. Ali Rosa aparece nascida em 1905. O ato de nascimento do comune de Monfumo diz **24 de junho de 1903**.
+E quando finalmente li o quadro direito, ele tinha um único erro de verdade — e o erro era na minha bisavó. Ali Rosa aparece nascida em 1905. O ato de nascimento do comune de Monfumo diz 24 de junho de 1903.
 
 Depois veio o nome da mãe dela, e esse quase derrubou um capítulo inteiro.
 
@@ -81,19 +81,19 @@ Eu passei semanas escrevendo para arquivos italianos atrás de uma informação 
 
 E aí a busca virou outra coisa, e virou por causa de um cemitério em Vancouver.
 
-**Luigi Miotto, pai de Fausto, também emigrou.** Não para o Brasil.
+Luigi Miotto, pai de Fausto, também emigrou. Não para o Brasil.
 
-Existe neste acervo uma *Registration of Death* da Província da Colúmbia Britânica, número 5509-008734. Ela registra a morte de **Louie Miotto**, em 15 de agosto de 1955, na chegada ao Vancouver General Hospital.
+Existe neste acervo uma *Registration of Death* da Província da Colúmbia Britânica, número 5509-008734. Ela registra a morte de Louie Miotto, em 15 de agosto de 1955, na chegada ao Vancouver General Hospital.
 
 Setenta e cinco anos. Quarenta e oito anos no Canadá. Lenhador aposentado, vinte e cinco anos de profissão, última vez que trabalhou em 1951. Morava na Prior Street, 566.
 
-Pai: **Miotto Jack**. Mãe: **Fedato Anna**.
+Pai: Miotto Jack. Mãe: Fedato Anna.
 
 Jack é como um oficial canadense escreve Giacomo. Fedato é como ele escreve Fidato. São Jacobus Miotto e Anna Fidato — o casal que abre o tronco Miotto deste livro.
 
 Só que o documento tem duas linhas que não fecham.
 
-Diz que ele nasceu em **março de 1880**. O certificado de casamento de Maser diz que Luigi Miotto tinha vinte e cinco anos em junho de 1900, o que o põe nascendo por volta de 1875.
+Diz que ele nasceu em março de 1880. O certificado de casamento de Maser diz que Luigi Miotto tinha vinte e cinco anos em junho de 1900, o que o põe nascendo por volta de 1875.
 
 E no campo do estado civil traz uma palavra só: **Single**.
 
@@ -105,7 +105,7 @@ Fui olhar como essa hipótese tinha entrado na minha pesquisa, e achei a hora ex
 
 Numa árvore genealógica colaborativa da internet, o Luigi de Vancouver e o Luigi de Monfumo eram, até pouco tempo atrás, dois perfis separados.
 
-Em **18 de novembro de 2024, às onze e vinte e um da manhã**, um colaborador que eu não conheço unificou os dois. Preservou o canadense, eliminou o de Monfumo, e deu como motivo o texto padrão que o próprio sistema oferece: *a maioria das informações de dados vitais e de parentescos correspondem*.
+Em 18 de novembro de 2024, às onze e vinte e um da manhã, um colaborador que eu não conheço unificou os dois. Preservou o canadense, eliminou o de Monfumo, e deu como motivo o texto padrão que o próprio sistema oferece: *a maioria das informações de dados vitais e de parentescos correspondem*.
 
 **Um clique, num minuto de uma segunda-feira, e o meu bisavô passou a ter um pai que morreu sozinho no Canadá.**
 
@@ -113,9 +113,9 @@ Desfazer não deu.
 
 O sistema desabilita o botão quando já existem edições posteriores à fusão. Foi preciso reconstruir o perfil à mão.
 
-E quem reconstruiu foi um documento brasileiro que estava ali o tempo todo: **a declaração de óbito do próprio Fausto**, lavrada em 13 de agosto de 1979, em São João da Boa Vista.
+E quem reconstruiu foi um documento brasileiro que estava ali o tempo todo: a declaração de óbito do próprio Fausto, lavrada em 13 de agosto de 1979, em São João da Boa Vista.
 
-Ela nomeia por extenso o pai e a mãe dele: **Luigi Miotto e Domenica Ganeo**.
+Ela nomeia por extenso o pai e a mãe dele: Luigi Miotto e Domenica Ganeo.
 
 Setenta e cinco anos depois de Fausto nascer, do outro lado do oceano, um escrivão paulista escreveu os dois nomes certos.
 
@@ -137,13 +137,13 @@ E agora eu preciso dizer que a memória de família faz exatamente a mesma coisa
 
 Há uma versão desta história, contada nesta família há décadas, segundo a qual **Rosa embarcou grávida**, e foi por isso que tiraram as duas mulheres do navio: duas mulheres, cinco crianças e uma grávida.
 
-Enrico tinha um ano e quinze dias e estava a bordo — está no Livro 100 da Hospedaria do Brás. E a filha seguinte, Erminda, nasceu em 10 de novembro de 1928, **doze meses e meio depois do naufrágio**.
+Enrico tinha um ano e quinze dias e estava a bordo — está no Livro 100 da Hospedaria do Brás. E a filha seguinte, Erminda, nasceu em 10 de novembro de 1928, doze meses e meio depois do naufrágio.
 
 Rosa não estava grávida naquele navio. Não há como estar.
 
 E dá para localizar de onde a versão veio.
 
-Quem contava essa história na família era **João Betti**, marido da Pulcheria, que não estava a bordo e ouviu de quem estava.
+Quem contava essa história na família era João Betti, marido da Pulcheria, que não estava a bordo e ouviu de quem estava.
 
 Repare no que aconteceu, porque é bonito e não é vergonhoso: uma mulher grávida com um bebê de colo é uma imagem mais forte do que uma mulher com um bebê de colo. **A memória escorrega sempre na direção da imagem que se sustenta melhor.**
 
@@ -163,11 +163,11 @@ Foi preciso um site de genealogia, cem anos e duas pessoas digitando os próprio
 
 E aqui vem a parte que não tem conserto.
 
-**Pulcheria Pasqua Dei Agnoli morreu em 2013.**
+Pulcheria Pasqua Dei Agnoli morreu em 2013.
 
 A menina de seis anos que estava na cozinha daquele navio, que viu tudo, que viveu noventa e dois anos — estava viva, no Brasil, quando eu já era um adulto feito.
 
-**Maria Luigia morreu em 1992**, aos noventa e seis anos, sessenta e cinco anos depois de ter atravessado aquela noite com quatro filhos pequenos. Eu era menino.
+Maria Luigia morreu em 1992, aos noventa e seis anos, sessenta e cinco anos depois de ter atravessado aquela noite com quatro filhos pequenos. Eu era menino.
 
 As duas estavam vivas, neste país, e eu não sabia que existiam.
 

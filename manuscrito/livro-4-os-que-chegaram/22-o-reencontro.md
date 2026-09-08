@@ -11,13 +11,13 @@ Todos os documentos que eu juntei até aqui registram *que* aquelas sete pessoas
 
 O que vem agora não tem papel nenhum. Tem cadeia oral, e eu vou dizer qual é antes de contar.
 
-**Pulcheria Pasqua Dei Agnoli**, filha de Maria Luigia, tinha seis anos na noite do naufrágio. Nasceu em 1921 e morreu em 2013, aos noventa e dois anos.
+Pulcheria Pasqua Dei Agnoli, filha de Maria Luigia, tinha seis anos na noite do naufrágio. Nasceu em 1921 e morreu em 2013, aos noventa e dois anos.
 
-Ela casou com **João Betti**, nascido em 1920, que não estava naquele navio.
+Ela casou com João Betti, nascido em 1920, que não estava naquele navio.
 
 E foi *ele*, não ela, quem passou a vida contando esta história dentro de casa.
 
-A neta dos dois, **Patrícia Betti**, é categórica: *quem me contou todas as histórias foi meu avô, que era o marido da Pulcheria. Eu só sei da fonte dele.*
+A neta dos dois, Patrícia Betti, é categórica: *quem me contou todas as histórias foi meu avô, que era o marido da Pulcheria. Eu só sei da fonte dele.*
 
 Vale parar um segundo nisso, porque é estranho e é importante.
 
@@ -29,13 +29,13 @@ Quem narrava era o marido. Um homem que ouviu de outra pessoa e recontou por dé
 
 Os dois homens estavam esperando.
 
-**Angelo Dei Agnoli**, marido de Maria Luigia, tinha desembarcado em Santos em 30 de abril de 1927. Seis meses antes.
+Angelo Dei Agnoli, marido de Maria Luigia, tinha desembarcado em Santos em 30 de abril de 1927. Seis meses antes.
 
 Ele veio no *Principessa Mafalda*.
 
 O mesmo navio, o mesmo casco, provavelmente o mesmo porão. Trouxe o marido em segurança em abril e quase matou a mulher e os quatro filhos em outubro.
 
-**Fausto Miotto** também já estava aqui.
+Fausto Miotto também já estava aqui.
 
 Veio antes de Rosa, e é por isso que ela atravessou como chefe da própria família, com um filho de um ano, e não ao lado do marido.
 
@@ -77,7 +77,7 @@ Vale parar um segundo no que isso significa.
 
 Durante seis dias, homens adultos com autoridade e formulário contaram aquela gente. Contaram nos botes, contaram nos navios de resgate, contaram no telegrama, contaram no Rio, contaram no Brás.
 
-**A conta não fechou em fonte nenhuma.** Sobrou gente em toda soma que alguém tentou fazer daquela noite.
+A conta não fechou em fonte nenhuma. Sobrou gente em toda soma que alguém tentou fazer daquela noite.
 
 E o reencontro que importava foi resolvido por uma menina de seis ou sete anos que reconheceu um rosto.
 

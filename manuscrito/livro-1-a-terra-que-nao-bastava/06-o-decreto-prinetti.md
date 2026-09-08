@@ -101,7 +101,7 @@ Não é verdade, e o documento de 1923 é a prova: aquele navio ainda levava gen
 
 O que o decreto fez foi mais modesto, e ainda assim grande. Mudou quem podia ir sem dinheiro e quem precisava juntar. Empurrou uma parte da emigração vêneta para o modelo de um por vez, por conta própria, chamando os outros depois.
 
-**A família Miotto cabe inteira dentro desse modelo.**
+A família Miotto cabe inteira dentro desse modelo.
 
 Fica um buraco neste capítulo, e ele é grande.
 

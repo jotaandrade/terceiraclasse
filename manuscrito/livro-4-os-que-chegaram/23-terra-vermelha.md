@@ -9,7 +9,7 @@ O destino era Grama.
 
 Hoje se chama São Sebastião da Grama. É um município pequeno no nordeste do estado de São Paulo, na região que se chamava Mogiana, e naquela época pertencia à comarca de São José do Rio Pardo.
 
-Eu sei disso por dois papéis: um carimbo da **Delegacia de Polícia de Grama** no registro de estrangeiro de Angelo Dei Agnoli, e um assento de casamento, o número 660 do cartório de Grama, lavrado vinte anos depois.
+Eu sei disso por dois papéis: um carimbo da Delegacia de Polícia de Grama no registro de estrangeiro de Angelo Dei Agnoli, e um assento de casamento, o número 660 do cartório de Grama, lavrado vinte anos depois.
 
 É terra de café.
 
@@ -75,7 +75,7 @@ A cadeia é simples e é a de sempre: um homem vem primeiro, se estabelece e cha
 
 As duas irmãs vieram no mesmo navio porque foram chamadas para o mesmo lugar.
 
-**Em 10 de novembro de 1928, em Grama, nasceu Erminda Miotto.**
+Em 10 de novembro de 1928, em Grama, nasceu Erminda Miotto.
 
 Treze meses depois do naufrágio.
 
@@ -91,7 +91,7 @@ Ninguém deu a eles um ano para se recuperar, e eu desconfio que nem lhes tenha 
 
 Depois de Erminda vieram Nair, Maria Therezinha, Izaira, Fermino, Mafalda, Rosalia, Luiz, Dionísio, e mais uma.
 
-**Onze filhos ao todo**, contando o Enrico. Dez nascidos no Brasil.
+Onze filhos ao todo, contando o Enrico. Dez nascidos no Brasil.
 
 Nem todos chegaram à idade adulta. Rosalia nasceu em 1940 e morreu em 1941, e naquele lugar e naquela época isso não era exceção.
 

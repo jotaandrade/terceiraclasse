@@ -11,9 +11,9 @@ O que existe é uma linha, escrita à margem da certidão de nascimento dela, no
 
 *ha contratto matrimonio con Miotto Fausto in data 03/12/1926 a Castelcucco.*
 
-E a mesma informação do outro lado, à margem da certidão dele, no livro do Comune di Castelcucco: ato número 9, parte I, do ano de 1926. Ali ela aparece com o diminutivo, **Forner Rosina**.
+E a mesma informação do outro lado, à margem da certidão dele, no livro do Comune di Castelcucco: ato número 9, parte I, do ano de 1926. Ali ela aparece com o diminutivo, Forner Rosina.
 
-Casaram-se em **3 de dezembro de 1926**, em Castelcucco. Ela com vinte e três anos, ele com vinte e dois.
+Casaram-se em 3 de dezembro de 1926, em Castelcucco. Ela com vinte e três anos, ele com vinte e dois.
 
 Vale olhar quem eram essas duas pessoas em 1926.
 
@@ -25,7 +25,7 @@ Nenhum dos dois tinha herança para receber.
 
 Agora ponha a outra data ao lado.
 
-Enrico Miotto nasceu em **10 de outubro de 1926**. Está no Registro de Estrangeiros que ele assinou em São Paulo em 1949: nacionalidade italiana, pai Fausto Miotto, mãe Rosa Forner.
+Enrico Miotto nasceu em 10 de outubro de 1926. Está no Registro de Estrangeiros que ele assinou em São Paulo em 1949: nacionalidade italiana, pai Fausto Miotto, mãe Rosa Forner.
 
 O casamento foi em 3 de dezembro de 1926.
 

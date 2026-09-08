@@ -124,7 +124,7 @@ catorze dias depois, cinquenta daquelas pessoas seriam recolhidas do mar e desem
 Rio de Janeiro, e um funcionário da Intendência de Imigração sentou e escreveu os nomes
 numa lista.
 
-Todos com a mesma anotação na coluna do embarque: <strong>Genova, 3ª</strong>.""",
+Todos com a mesma anotação na coluna do embarque: Genova, 3ª.""",
 
 """<strong>Beck Josef</strong>, iugoslavo, cinquenta e três anos, agricultor, com a mulher
 Anna, o filho Ivan de vinte e três e a filha Elizabeth de dezesseis. Iam para São Paulo.
@@ -205,7 +205,7 @@ Duas mulheres e cinco crianças. A mais velha delas tinha sete anos.
 
 Nenhum homem adulto no grupo.""",
 
-"""O navio saiu de Gênova em <strong>11 de outubro de 1927</strong>.
+"""O navio saiu de Gênova em 11 de outubro de 1927.
 
 Um dia antes, em 10 de outubro, Enrico Miotto tinha completado um ano de idade.
 
@@ -263,7 +263,7 @@ deitada no chão, como nas fotografias de vinte anos antes.
 Era um andar de dormitórios, abaixo da linha d’água, com beliches de ferro em duas ou três
 alturas, separados por sexo, e camarotes de quatro ou seis lugares para as famílias.
 
-<strong>Maria Spinelli</strong>, italiana, terceira classe, conta que às cinco da tarde do
+Maria Spinelli, italiana, terceira classe, conta que às cinco da tarde do
 dia 25 estava se lavando <em>na cabine</em>. Não era um alojamento coletivo. Era um quarto
 apertado, com porta.
 
@@ -282,12 +282,12 @@ Quem morria durante a travessia era enterrado no mar. Não era brutalidade: era 
 procedimento de um navio com duas semanas de viagem pela frente e sem lugar para guardar
 um corpo.""",
 
-"""O que me interessa é que <strong>o navio anotava isso</strong>.
+"""O que me interessa é que o navio anotava isso.
 
 Nas folhas de terceira classe de 1923 e 1924, alguém riscou os títulos impressos das
 colunas de bagagem e escreveu por cima, à mão, quatro palavras em italiano:
 
-<strong>Bauli · Valigie · Denaro · Indirizzo</strong>
+<em>Bauli · Valigie · Denaro · Indirizzo</em>
 
 Baús. Valises. Dinheiro. Endereço.""",
 
@@ -303,7 +303,7 @@ Está preenchido assim, linha após linha:
 
 E, numa linha que eu li três vezes para ter certeza:
 
-<strong><em>8 baús, 1 valise, £ —, São Paulo.</em></strong>
+<em>8 baús, 1 valise, £ —, São Paulo.</em>
 
 Um traço. Oito baús e um traço.
 
@@ -326,7 +326,7 @@ Na folha de 25 de janeiro de 1924, ao lado de três linhas, alguém escreveu à 
 
 Passou para a segunda classe. No meio da travessia.
 
-Uma das três é <strong>Giannini Giovanni</strong>, cinquenta e três anos, declarado
+Uma das três é Giannini Giovanni, cinquenta e três anos, declarado
 <em>possidente</em>, viajando com a filha.""",
 
 """A imagem confortável é a de três mundos lacrados, separados por chapa de aço: os ricos em
@@ -343,7 +343,7 @@ Quem não podia continuava lá.""",
 """Na mesma folha, linha noventa e dois, há um nome riscado em vermelho.
 
 Ao lado, na margem, uma palavra e uma data. A palavra é de leitura difícil e não vou
-forçá-la. A data não é: <strong>19 de janeiro de 1924</strong>.
+forçá-la. A data não é: 19 de janeiro de 1924.
 
 O navio atracou em Santos no dia 25.
 
@@ -371,7 +371,7 @@ Descendo da Europa: oitocentas pessoas na terceira classe. Oitocentas e vinte e 
 viagem, setecentas e oitenta e uma noutra, novecentas e dez em junho de 1923, que é o
 recorde do conjunto que examinei.
 
-Subindo de Buenos Aires: <strong>vinte e três</strong>.
+Subindo de Buenos Aires: vinte e três.
 
 Não era um navio de passageiros que também levava imigrantes. Era um navio de imigrantes
 que também levava passageiros, e só numa direção.""",
@@ -382,7 +382,7 @@ As colunas de nacionalidade mostram a virada acontecendo em cinco meses: em agos
 desembarcaram em Santos sessenta e cinco italianos e vinte e oito sírios; em janeiro de
 1924, quarenta sírios e trinta e dois italianos.
 
-<strong>Milhem Solk</strong>, libanês de Beirute, na terceira viagem dele à Argentina,
+Milhem Solk, libanês de Beirute, na terceira viagem dele à Argentina,
 disse depois uma frase que resume o andar inteiro: a maioria dos companheiros dele não
 falava italiano nem espanhol.
 
@@ -469,7 +469,7 @@ no sentido de vir.
 Existe uma certidão do Serviço de Registro de Estrangeiros, número 61, que registra o
 desembarque:
 
-<strong>Santos, 30 de abril de 1927. Vindo do vapor Principessa Mafalda.</strong>""",
+Santos, 30 de abril de 1927. Vindo do vapor Principessa Mafalda.""",
 
 """Pare um segundo nessa linha.
 
@@ -494,8 +494,8 @@ atravessado ele mesmo.""",
 
 """O que dá para dizer é onde ele cabe.
 
-Casou-se em Castelcucco em <strong>3 de dezembro de 1926</strong>, o que prova que estava na
-Itália naquele dia. Rosa embarcou em Gênova em <strong>11 de outubro de 1927</strong>, o
+Casou-se em Castelcucco em 3 de dezembro de 1926, o que prova que estava na
+Itália naquele dia. Rosa embarcou em Gênova em 11 de outubro de 1927, o
 que prova que ele já estava do outro lado, e estabelecido o bastante para mandar buscá-la.
 
 Dez meses.
@@ -515,7 +515,7 @@ conta própria.""",
 
 """O destino, esse eu sei.
 
-<strong>Grama</strong>, hoje São Sebastião da Grama, município da comarca de São José do Rio
+Grama, hoje São Sebastião da Grama, município da comarca de São José do Rio
 Pardo, no nordeste do estado de São Paulo. Terra de café.
 
 Dois documentos põem a família ali: o carimbo da Delegacia de Polícia de Grama na ficha de
@@ -526,7 +526,7 @@ Era para lá que aquelas sete pessoas estavam indo.""",
 
 """E o que ele foi fazer lá foi o que sabia fazer.
 
-<strong>Agricultor.</strong>
+Agricultor.
 
 O mesmo ofício que a família tinha na encosta do Grappa. A mesma enxada, o mesmo corpo, a
 mesma terra de outro homem.
@@ -558,7 +558,7 @@ meses entre uma coisa e outra.""",
 
 """E há um mecanismo por trás desses seis meses, que tem nome e era o mais comum de todos.
 
-Chamava-se <strong>chamada</strong>.
+Chamava-se chamada.
 
 O homem que já estava do outro lado juntava dinheiro, comprava a passagem aqui, e mandava —
 em remessa, ou como bilhete pré-pago para ser retirado numa agência do porto de Gênova.
@@ -583,7 +583,7 @@ Um homem de vinte e três anos, sem português, trabalhando terra que não era d
 buscar a mulher e o filho assim que pôde. Fez a única coisa certa que havia para fazer, e fez
 o mais rápido que conseguiu.
 
-<strong>E foi isso que escolheu o navio.</strong>""",
+E foi isso que escolheu o navio.""",
 
 """Em outubro de 1927 os dois sabiam a data.
 
@@ -608,7 +608,7 @@ CAP21 = [
 """A primeira coisa que aconteceu depois do estrondo foi alguém subir à ponte para
 perguntar.
 
-<strong>Eugenio Gabassi</strong>, vice-cônsul italiano na cidade argentina de Paraná,
+Eugenio Gabassi, vice-cônsul italiano na cidade argentina de Paraná,
 cinquenta e seis anos, foi falar com o comandante assim que sentiu o navio parar.
 
 Voltou tranquilizado. Disseram a ele que não havia com que se preocupar e que, no pior dos
@@ -616,7 +616,7 @@ casos, o navio seria rebocado até o Rio de Janeiro.""",
 
 """Essa frase circulou pelo navio a noite inteira, e matou gente.
 
-<strong>Pedro Volpi</strong>, trabalhador agrícola italiano de trinta e três anos, ficou a
+Pedro Volpi, trabalhador agrícola italiano de trinta e três anos, ficou a
 bordo até o último instante possível. Explicou depois por quê, sem nenhum rancor: o capitão
 tinha dito que o navio ficaria à tona até o dia seguinte.
 
@@ -624,7 +624,7 @@ Ele não estava sendo ingênuo. Estava obedecendo a autoridade do lugar onde est
 
 """E quem não acreditou saiu cedo.
 
-<strong>Pascual Pecci</strong> viajava na segunda classe com a mulher e a filha. Achou que
+Pascual Pecci viajava na segunda classe com a mulher e a filha. Achou que
 o comandante estava enganado sobre o tempo que o navio aguentaria, e agiu por conta
 própria: tirou a família dali logo no começo.
 
@@ -635,7 +635,7 @@ passageiros da primeira classe numa falsa sensação de segurança.""",
 
 """Enquanto isso, no porão, ninguém sabia de nada.
 
-<strong>Milhem Solk</strong>, libanês de trinta e cinco anos, ouviu o estrondo e foi
+Milhem Solk, libanês de trinta e cinco anos, ouviu o estrondo e foi
 perguntar. Procurou marinheiro, perguntou a vários, um atrás do outro.
 
 Nenhum deles soube dizer o que tinha acontecido.
@@ -648,8 +648,8 @@ a essa altura já havia mais gente perguntando do que gente com resposta.""",
 Ele já vinha adernado desde antes do acidente, como se viu dois capítulos atrás. Depois do
 eixo, a inclinação deixou de ser desconforto e virou geometria.
 
-<strong>Enrico Nazzeconi</strong> descreve a certa altura da noite uma inclinação a
-estibordo em estado extremo. <strong>Ali Hassen</strong> fala da popa afundando.
+Enrico Nazzeconi descreve a certa altura da noite uma inclinação a
+estibordo em estado extremo. Ali Hassen fala da popa afundando.
 
 Uma coisa que quem nunca esteve num navio não imagina: quando o casco inclina, o chão deixa
 de ser chão. Corredor vira ladeira. Escada vira parede. E cada grau a mais torna mais
@@ -657,8 +657,8 @@ difícil sair de onde se está.""",
 
 """O pedido de socorro saiu, e é sobre a hora dele que as fontes brigam.
 
-Uma diz <strong>17h35</strong>, vinte minutos depois do eixo partir. Outra diz
-<strong>19h15</strong>, quase duas horas depois.
+Uma diz 17h35, vinte minutos depois do eixo partir. Outra diz
+19h15, quase duas horas depois.
 
 São duas noites diferentes. Numa, o navio pediu ajuda quase imediatamente. Na outra,
 esperou.
@@ -682,12 +682,12 @@ Nazzeconi, que ficou a bordo até quase o fim, disse que se jogou na água, ouvi
 longos e um estrondo, e <strong>não conseguiu ver o navio afundar</strong>. Estava a poucas
 dezenas de metros dele.
 
-<strong>Batista Beria</strong>, nadando, só via o que os holofotes dos navios de resgate
+Batista Beria, nadando, só via o que os holofotes dos navios de resgate
 alcançavam. Nos intervalos, ouvia gritos sem conseguir localizar de onde vinham.""",
 
 """E a informação continuou distribuída como sempre tinha estado a bordo: por classe.
 
-<strong>Nicola Lynose</strong>, iugoslavo da terceira classe, explicou o mecanismo sem
+Nicola Lynose, iugoslavo da terceira classe, explicou o mecanismo sem
 querer. Quem viajava embaixo estava colado à tripulação e enxergava o que a tripulação
 fazia.
 
@@ -698,22 +698,22 @@ de reação, e tempo de reação, ali, era a distância entre estar num bote e e
 
 """Havia também quem simplesmente esperasse.
 
-A <strong>família Vacelli</strong> — o casal e três filhos de quinze, treze e dez anos —
+A família Vacelli — o casal e três filhos de quinze, treze e dez anos —
 passou a noite inteira na popa, junto à escada, aguardando a vez. O pai repetia que havia
 tempo.
 
-Às <strong>nove e meia da noite</strong> um bote do <em>Empire Star</em> encostou naquela
+Às nove e meia da noite um bote do <em>Empire Star</em> encostou naquela
 escada e levou os cinco.
 
 Eles acham que foram dos últimos a sair. Mal chegaram ao navio inglês e o Mafalda já não
 estava lá.""",
 
-"""<strong>Mario Ottaviani</strong>, que ficou a bordo até quase o fim porque sabia nadar,
+"""Mario Ottaviani, que ficou a bordo até quase o fim porque sabia nadar,
 deixou um número.
 
 Quando entendeu que o navio ia mesmo afundar e se jogou, ainda havia nos conveses
-<strong>cerca de sessenta mulheres e crianças</strong>, e cerca de <strong>duzentos
-homens</strong>.
+cerca de sessenta mulheres e crianças, e cerca de duzentos
+homens.
 
 Guarde esse número. Ele volta no capítulo dos 314.""",
 
@@ -756,7 +756,7 @@ crianças.""",
 """E alguém foi buscá-las.
 
 Havia na cozinha daquele navio um cozinheiro, um homem de pele escura, que tinha se afeiçoado
-a <strong>Pulcheria</strong> nas duas semanas de travessia. A menina de seis anos que não
+a Pulcheria nas duas semanas de travessia. A menina de seis anos que não
 saía de lá.
 
 Quando o navio estava se enchendo de água, ele desceu ao porão, achou as duas mulheres e as
@@ -786,9 +786,9 @@ alagado.
 
 <strong>Sem esse homem, este livro não teria autor.</strong>""",
 
-"""O <em>Principessa Mafalda</em> perdeu energia às <strong>dez e três da noite</strong>.
+"""O <em>Principessa Mafalda</em> perdeu energia às dez e três da noite.
 
-Sete minutos depois, às <strong>dez e dez</strong>, afundou.
+Sete minutos depois, às dez e dez, afundou.
 
 Nazzeconi, na água, ouviu três apitos longos e, logo em seguida, um estrondo que ele não
 soube descrever de outro jeito.
@@ -804,20 +804,20 @@ CAP22 = [
 Quase ninguém morreu por ter caído no mar e não saber nadar. Morreu por ter entrado num
 bote.""",
 
-"""<strong>Ali Hassen</strong>, árabe de quarenta e cinco anos, viajando com três primos,
+"""Ali Hassen, árabe de quarenta e cinco anos, viajando com três primos,
 subiu ao convés e se atirou num bote junto com cerca de cinquenta pessoas. Pelo peso, o
 bote afundou.
 
-<strong>Salvador Malone</strong> conseguiu lugar no terceiro bote lançado. A poucos metros
+Salvador Malone conseguiu lugar no terceiro bote lançado. A poucos metros
 do navio, ele virou.
 
-<strong>Antonio Ponce</strong> entrou num com pelo menos trinta pessoas. A vinte metros do
+Antonio Ponce entrou num com pelo menos trinta pessoas. A vinte metros do
 <em>Alhena</em>, o nervosismo de um dos companheiros fez o bote emborcar.
 
-<strong>Valeriano Galli</strong>, como boa parte da terceira classe, foi dos primeiros a
+Valeriano Galli, como boa parte da terceira classe, foi dos primeiros a
 entrar. O bote cedeu sob o peso e ele foi parar na água.""",
 
-"""<strong>Maria Spinelli</strong> tinha ao lado a amiga Teresa Forggia e o filho dela,
+"""Maria Spinelli tinha ao lado a amiga Teresa Forggia e o filho dela,
 Mario, de três anos.
 
 Um tripulante as obrigou a descer e entrar num bote. Elas entraram.
@@ -827,7 +827,7 @@ arrebentaram.
 
 Trinta centímetros. Foi essa a margem.""",
 
-"""<strong>Vincenzo Mandolezzi</strong> esperou uma hora e meia a bordo antes de se jogar.
+"""Vincenzo Mandolezzi esperou uma hora e meia a bordo antes de se jogar.
 Nadou até alcançar um dos botes do próprio Mafalda.
 
 Estava furado, ou rachado, ou de alguma forma inservível — ele diz apenas que não estava em
@@ -850,13 +850,13 @@ Metade dos botes daquele navio já não servia antes de qualquer pessoa entrar n
 
 """E aí a quilha virou o lugar mais seguro do Atlântico.
 
-<strong>Alfio Sanfilippo</strong> se atirou na água às seis da tarde com o irmão e um
+Alfio Sanfilippo se atirou na água às seis da tarde com o irmão e um
 oficial do Mafalda. Quase todos os botes já tinham virado. Os três se agarraram ao casco de
 um deles, de barriga para cima.
 
-Ficaram ali <strong>oito horas</strong>, até o <em>Empire Star</em> se aproximar.
+Ficaram ali oito horas, até o <em>Empire Star</em> se aproximar.
 
-<strong>Domenico Leo</strong> passou a noite do mesmo jeito, na quilha de outro bote, com
+Domenico Leo passou a noite do mesmo jeito, na quilha de outro bote, com
 sete ou oito pessoas.""",
 
 """E agora eu preciso avisar o leitor de uma coisa.
@@ -924,18 +924,18 @@ diferença, em pontos distintos de um convés no escuro.""",
 Parte da tripulação ficou.
 
 Os Vacelli, que são os mais duros com a terceira classe, fazem questão de registrar o
-comportamento nobre do <strong>primeiro oficial</strong> e do <strong>primeiro
-maquinista</strong>, que segundo eles fizeram esforços inauditos para salvar passageiros.
+comportamento nobre do primeiro oficial e do primeiro
+maquinista, que segundo eles fizeram esforços inauditos para salvar passageiros.
 
-E <strong>Pedro Volpi</strong> deve a vida a um deles. Depois de se jogar na água, foi
-ajudado pelo <strong>terceiro maquinista do Mafalda</strong>, que nadou com ele até um bote.
+E Pedro Volpi deve a vida a um deles. Depois de se jogar na água, foi
+ajudado pelo terceiro maquinista do Mafalda, que nadou com ele até um bote.
 
 Volpi acrescenta uma linha que vale o capítulo inteiro: o homem que o salvou, depois de
 deixá-lo em segurança, voltou. E salvou outros dois.""",
 
 """E o herói mais citado daquela noite não era da tripulação.
 
-Era um passageiro: <strong>Juan Santororo</strong>, cadete naval argentino.
+Era um passageiro: Juan Santororo, cadete naval argentino.
 
 Galli, que é o mais crítico de todos em relação aos oficiais do Mafalda, faz questão de
 contrastar: enquanto a tripulação fazia o que fazia, havia um passageiro salvando gente na
@@ -954,7 +954,7 @@ sabendo nadar, se agarravam a quem estivesse ao lado, soltando gritos desesperad
 se pragas em todas as línguas. Para avançar era preciso se afastar dos outros, que formavam
 uma barreira humana.</em>
 
-<strong>Batista Beria</strong> descreve o mesmo mecanismo: quem não sabia nadar direito se
+Batista Beria descreve o mesmo mecanismo: quem não sabia nadar direito se
 agarrava à roupa de quem estava na frente.
 
 Uma pessoa se afogando não é uma pessoa pedindo ajuda. É uma pessoa que puxa para baixo
@@ -965,21 +965,21 @@ quem chega perto.""",
 É a parte mais famosa deste naufrágio, a que aparece em toda reportagem, e é a que menos
 resiste a um exame.
 
-<strong>Gabassi</strong> diz que uma mulher e uma criança foram levadas por um tubarão
-enorme, na tábua em que ele boiava. <strong>Ponce</strong> viu dois. <strong>Galli</strong>
+Gabassi diz que uma mulher e uma criança foram levadas por um tubarão
+enorme, na tábua em que ele boiava. Ponce viu dois. Galli
 viu vários, e diz que um feriu um companheiro que morreu depois de içado.
-<strong>Malone</strong> não viu tubarão nenhum, mas viu um homem boiando com a perna
+Malone não viu tubarão nenhum, mas viu um homem boiando com a perna
 destruída.
 
-<strong>Volpi</strong> não viu — e acrescenta: <em>a noite estava muito escura</em>.
-<strong>Sanfilippo</strong> não viu, e diz outra coisa no lugar: viu o corpo de uma mulher
-boiando agarrada a um bebê. <strong>Beria</strong>, <strong>Uccelli</strong> e
-<strong>Solk</strong> também não viram.
+Volpi não viu — e acrescenta: <em>a noite estava muito escura</em>.
+Sanfilippo não viu, e diz outra coisa no lugar: viu o corpo de uma mulher
+boiando agarrada a um bebê. Beria, Uccelli e
+Solk também não viram.
 
-E <strong>Domenico Leo</strong> resume a dificuldade toda numa frase: <em>não sei se era um
+E Domenico Leo resume a dificuldade toda numa frase: <em>não sei se era um
 tubarão, mas era um peixe enorme.</em>""",
 
-"""<strong>Pascual Pecci</strong>, o único cético do grupo, foi mais longe.
+"""Pascual Pecci, o único cético do grupo, foi mais longe.
 
 Duvidou que houvesse tubarão nenhum. Atribuiu a história a peixes que vinham sendo vistos
 seguindo o navio nos dias anteriores, e que ninguém a bordo sabia identificar.
@@ -1016,15 +1016,15 @@ E holofote ilumina um círculo. O resto continua preto.""",
 
 """Entre a luz apagar e o navio sumir passaram-se <strong>sete minutos</strong>.""",
 
-"""Pouco antes disso, <strong>Mario Ottaviani</strong> olhou em volta antes de se jogar, e
+"""Pouco antes disso, Mario Ottaviani olhou em volta antes de se jogar, e
 contou.
 
-Ainda havia nos conveses cerca de <strong>sessenta mulheres e crianças</strong>, e cerca de
-<strong>duzentos homens</strong>.
+Ainda havia nos conveses cerca de sessenta mulheres e crianças, e cerca de
+duzentos homens.
 
 Duzentas e sessenta pessoas, a sete minutos do fim, num navio já deitado.""",
 
-"""<strong>Enrico Nazzeconi</strong> ficou até dez para as dez.
+"""Enrico Nazzeconi ficou até dez para as dez.
 
 Quando a inclinação a estibordo chegou ao que ele chamou de estado extremo, correu para a
 popa. A água já estava pelos joelhos dele, no convés.
@@ -1040,7 +1040,7 @@ E depois um estrondo que ele não conseguiu descrever de outro jeito senão como
 """E não viu nada.
 
 Nazzeconi estava a poucas dezenas de metros do casco e diz, com todas as letras, que
-<strong>não conseguiu ver o navio afundar</strong>. Estava escuro demais.
+não conseguiu ver o navio afundar. Estava escuro demais.
 
 A família Vacelli, já a bordo do <em>Empire Star</em>, também não viu. Mal tinham chegado,
 olharam para trás, e o Mafalda não estava mais lá.
@@ -1050,7 +1050,7 @@ duzentos metros dele viu aquilo acontecer.""",
 
 """O que se sentiu foi a água.
 
-<strong>Andres Scavani del Vicario</strong> tinha se soltado de uma corda pouco antes, junto
+Andres Scavani del Vicario tinha se soltado de uma corda pouco antes, junto
 com o fotógrafo de bordo, com quem tinha feito amizade durante a viagem. Quando o navio
 afundou de vez, o redemoinho da descida arrastou os dois para longe.
 
@@ -1073,10 +1073,10 @@ Ele estava na ponte quando o navio afundou.""",
 
 """<strong>Como ele morreu é outra história, e tem duas versões.</strong>
 
-<strong>Salvador Malone</strong>, já içado a bordo do <em>Alhena</em>, diz que assistiu ao
+Salvador Malone, já içado a bordo do <em>Alhena</em>, diz que assistiu ao
 fim de longe e que viu o comandante na ponte, se despedindo com um <em>Viva Italia</em>.
 
-<strong>Eugenio Gabassi</strong>, ainda na água, conta outra coisa: ouviu tiros vindos da
+Eugenio Gabassi, ainda na água, conta outra coisa: ouviu tiros vindos da
 ponte, onde estavam o comandante e o primeiro maquinista, e concluiu que os dois tinham se
 matado.""",
 
@@ -1133,23 +1133,23 @@ obrigação com aquela gente além da que existe entre navios.""",
 
 """E alguém, a bordo do <em>Alhena</em>, teve uma ideia que salvou vidas.
 
-Esticaram <strong>uma corda ao longo do casco</strong>, da popa à proa, à altura da água.
+Esticaram uma corda ao longo do casco, da popa à proa, à altura da água.
 
 Quem chegasse nadando, chegasse onde chegasse, encontrava corda.
 
 Três sobreviventes que não se conheciam descrevem a mesma corda.
-<strong>Nazzeconi</strong> diz que foi ela que o deixou aguentar até alguém puxá-lo.
-<strong>Beria</strong> diz que ela permitiu que ele subisse com facilidade.
-<strong>Solk</strong> conta que nadou até levar uma pancada forte na nuca, ergueu os braços
+Nazzeconi diz que foi ela que o deixou aguentar até alguém puxá-lo.
+Beria diz que ela permitiu que ele subisse com facilidade.
+Solk conta que nadou até levar uma pancada forte na nuca, ergueu os braços
 por instinto, e havia corda ali.""",
 
 """Nem todo mundo teve essa sorte.
 
-<strong>Ali Hassen</strong>, quarenta e cinco anos, viajava com três primos. O bote em que
+Ali Hassen, quarenta e cinco anos, viajava com três primos. O bote em que
 entrou afundou pelo peso. Voltou à superfície, achou um pedaço de madeira e ficou boiando
-<strong>quatro horas</strong>.
+quatro horas.
 
-Nesse tempo ele bateu <strong>várias vezes contra o casco de um dos navios de resgate</strong>
+Nesse tempo ele bateu várias vezes contra o casco de um dos navios de resgate
 sem que ninguém o notasse.
 
 Já tinha perdido a esperança quando encontrou uma corda, se agarrou, e sentiu que estava
@@ -1164,10 +1164,10 @@ quatro.
 
 Lynose nadou das sete da noite às dez e meia.
 
-<strong>Alfio Sanfilippo passou oito horas</strong> agarrado à quilha de um bote virado, com
+Alfio Sanfilippo passou oito horas agarrado à quilha de um bote virado, com
 o irmão e um oficial do navio.
 
-E <strong>Eugenio Gabassi</strong> passou a noite inteira sobre uma tábua, com quatro
+E Eugenio Gabassi passou a noite inteira sobre uma tábua, com quatro
 mulheres e três crianças, até ser recolhido pelo <em>Rosetti</em> na manhã seguinte.""",
 
 """<strong>Domingo Milano tinha catorze anos e viajava sozinho.</strong>
@@ -1190,7 +1190,7 @@ Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formos
 Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
 
 Só que a bordo iam mil duzentas e cinquenta e nove. Somando os trezentos e catorze mortos,
-dá <strong>mil quinhentas e oitenta e oito pessoas</strong> num navio que levava mil
+dá mil quinhentas e oitenta e oito pessoas num navio que levava mil
 duzentas e cinquenta e nove.
 
 Outra fonte, com números diferentes, comete o mesmo excesso. E lista dois navios,
@@ -1199,7 +1199,7 @@ certamente o mesmo navio, contado duas vezes.""",
 
 """Isso não é desleixo de quem contou.
 
-<strong>É o que a noite era.</strong>
+É o que a noite era.
 
 Um homem entrava num bote, o bote virava, ele nadava até outro bote, esse bote encostava num
 navio, e horas depois aquele navio transferia parte dos recolhidos para outro. Cada vez que
@@ -1212,7 +1212,7 @@ por gente que não sabia quem já tinha contado quem.</strong>""",
 """E é exatamente aqui que a minha família reaparece.
 
 O que a memória guarda é isto: o cozinheiro tirou as duas irmãs e as cinco crianças do
-porão e as levou para o <strong>bote dos cozinheiros</strong>.
+porão e as levou para o bote dos cozinheiros.
 
 Desse bote, foram levadas para outro navio. E esse navio, no relato que chegou até mim,
 <strong>não era um navio de passageiros. Era um navio que carregava carvão.</strong>""",
@@ -1228,7 +1228,7 @@ Porque o que ficou dessa passagem, e ficou por cem anos, foi o carvão.
 <strong>Elas chegaram pretas.</strong> As duas mulheres e as cinco crianças, cobertas de pó
 de carvão da cabeça aos pés.""",
 
-"""Em <strong>28 de outubro de 1927</strong>, o vapor holandês <em>Alhena</em> entrou no
+"""Em 28 de outubro de 1927, o vapor holandês <em>Alhena</em> entrou no
 porto do Rio de Janeiro.
 
 O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência,
@@ -1236,12 +1236,12 @@ onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só:
 <strong>Náufragos</strong>.
 
 Cinquenta imigrantes, todos de terceira classe, todos desembarcados na
-<strong>Ilha das Flores</strong>. Quarenta e três italianos, quatro iugoslavos, três
+Ilha das Flores. Quarenta e três italianos, quatro iugoslavos, três
 húngaros.
 
 Nas linhas 26 e 27, e depois nas linhas 44 a 48, estão as sete pessoas deste livro.""",
 
-"""<strong>Maria Spinelli</strong> desceu naquele mesmo desembarque.
+"""Maria Spinelli desceu naquele mesmo desembarque.
 
 É a mulher que recebeu no colo, por cima da amurada, o filho de três anos da amiga Teresa
 Forggia, quando parecia que a mãe ia ficar no navio. Terceira classe, italiana, salva pelo
@@ -1257,7 +1257,7 @@ O naufrágio não a impediu de chegar. Impediu-a de voltar.""",
 
 """E naquela folha estão as duas mulheres do capítulo 9.
 
-<strong>Luchini Teresa, dezenove anos. De Rosi Emilia, cinquenta e cinco.</strong> Números 24
+Luchini Teresa, dezenove anos. De Rosi Emilia, cinquenta e cinco. Números 24
 e 25, uma seguida da outra, cada uma com um <em>x</em> marcado à margem.
 
 Subiram a prancha em Gênova ao lado dos maridos. Desceram aqui sem eles.""",
@@ -1303,19 +1303,19 @@ para jornalistas.""",
 
 """Então é isto o que ficou.
 
-<strong>Valeriano Galli</strong> tinha um companheiro ao lado. O homem foi ferido na água e
+Valeriano Galli tinha um companheiro ao lado. O homem foi ferido na água e
 morreu depois de içado, já em segurança.
 
-<strong>Salvador Malone</strong> viu um homem boiando com uma perna destruída.
+Salvador Malone viu um homem boiando com uma perna destruída.
 
-<strong>Alfio Sanfilippo</strong>, agarrado à quilha havia horas, viu passar o corpo de uma
+Alfio Sanfilippo, agarrado à quilha havia horas, viu passar o corpo de uma
 mulher boiando com um bebê nos braços.
 
-<strong>Eugenio Gabassi</strong> passou a noite numa tábua com quatro mulheres e três
+Eugenio Gabassi passou a noite numa tábua com quatro mulheres e três
 crianças. Quando amanheceu e o <em>Rosetti</em> o recolheu, uma das mulheres e uma das
 crianças não estavam mais ali.""",
 
-"""<strong>Ali Hassen</strong> tinha quarenta e cinco anos e embarcou em Gênova com três
+"""Ali Hassen tinha quarenta e cinco anos e embarcou em Gênova com três
 primos.
 
 Chegou ao Rio de Janeiro sozinho.
@@ -1326,7 +1326,7 @@ porque quem conta uma coisa dessas não erra a conta.""",
 
 """Há um número que não é a lista dos mortos, mas chega perto.
 
-Sete minutos antes do fim, <strong>Mario Ottaviani</strong> olhou o convés antes de se jogar
+Sete minutos antes do fim, Mario Ottaviani olhou o convés antes de se jogar
 e contou cerca de sessenta mulheres e crianças e cerca de duzentos homens.
 
 Duzentas e sessenta pessoas.
@@ -1338,8 +1338,8 @@ vivo</strong>.""",
 """Dois dos trezentos e catorze estão num documento que está em cima da minha mesa. E estão
 nele como ausência.
 
-Na lista do <em>Alhena</em>, os números 24 e 25 são <strong>Luchini Teresa, dezenove
-anos</strong>, e <strong>De Rosi Emilia, cinquenta e cinco</strong>. Aparecem sozinhas, uma
+Na lista do <em>Alhena</em>, os números 24 e 25 são Luchini Teresa, dezenove
+anos, e De Rosi Emilia, cinquenta e cinco. Aparecem sozinhas, uma
 seguida da outra, sem parentesco declarado, cada uma com um <em>x</em> marcado à margem.
 
 E no pé da folha, escrito à mão:
@@ -1398,8 +1398,8 @@ Conta o carvão. Conta o reencontro.
 A outra parte ela não conta, e não conta porque contar seria entregar aos filhos e aos netos
 alguma coisa que ela mesma não conseguiu carregar direito.
 
-Dez anos depois daquela noite, Rosa teve uma filha e botou nela <strong>o nome do
-navio</strong>.
+Dez anos depois daquela noite, Rosa teve uma filha e botou nela o nome do
+navio.
 
 Isso não é esquecimento. Quem esquece não faz uma coisa dessas.""",
 
@@ -1482,9 +1482,9 @@ nomes e sete idades, sem nada na mão para provar nenhum deles.
 Já tinha feito isso em Gênova, em 11 de outubro, e no Rio de Janeiro, em 28. Esta era a
 terceira vez em vinte dias.
 
-<strong>E as três vezes valeram.</strong> Os sete nomes estão nos três papéis.""",
+E as três vezes valeram. Os sete nomes estão nos três papéis.""",
 
-"""Em <strong>31 de outubro de 1927</strong>, seis dias depois do naufrágio, alguém abriu o
+"""Em 31 de outubro de 1927, seis dias depois do naufrágio, alguém abriu o
 Livro 100 da Hospedaria de Imigrantes do Brás na página 290 e começou a escrever.
 
 Aquele livro era o funil por onde passava a imigração de São Paulo. Nome, idade, residência,
@@ -1514,7 +1514,7 @@ Família número 19260:
 <strong>FORNER MARIA, 31 anos, Cavaso del Tomba.</strong><br>
 Gina, 7. Pulcheria, 6. Rino, 4. Danilo, 2.""",
 
-"""Maria Luigia entra ali como <strong>Forner</strong>.
+"""Maria Luigia entra ali como Forner.
 
 Ela era casada com Angelo Dei Agnoli desde 25 de fevereiro de 1917. Dez anos e quatro filhos.
 
@@ -1564,18 +1564,18 @@ São os mesmos que estão na lista do <em>Alhena</em>, três dias antes, no Rio.
 É a mesma leva de gente, documentada duas vezes, em duas cidades, por dois órgãos que não
 conversavam entre si.
 
-Cinquenta pessoas desembarcaram na Ilha das Flores. <strong>Quarenta e duas deram entrada no
-Brás em 31 de outubro, e mais uma no dia seguinte.</strong>
+Cinquenta pessoas desembarcaram na Ilha das Flores. Quarenta e duas deram entrada no
+Brás em 31 de outubro, e mais uma no dia seguinte.
 
 Sete ficaram no Rio. Quem foram, eu não sei.""",
 
 """Há uma coisa nessa sobreposição que eu queria saber e não sei.
 
-Na lista do <em>Alhena</em>, a passageira número 25 é <strong>De Rosi Emilia</strong>,
+Na lista do <em>Alhena</em>, a passageira número 25 é De Rosi Emilia,
 cinquenta e cinco anos, que perdeu o marido no naufrágio e pediu para ser mandada de volta à
 Itália.
 
-Na página do Brás há um <strong>De Rossi</strong>.
+Na página do Brás há um De Rossi.
 
 Na digitalização que eu tenho, não consigo dizer se é ela. Se for, quer dizer que o pedido não
 foi atendido, ou que ela desistiu dele, e que a mulher que queria voltar pegou o mesmo trem
@@ -1611,14 +1611,14 @@ sobreviveram. As listas, os manifestos, as folhas de desembarque. Nenhum deles r
 O que vem agora não tem papel nenhum. Tem cadeia oral, e eu vou dizer qual é antes de
 contar.""",
 
-"""<strong>Pulcheria Pasqua Dei Agnoli</strong>, filha de Maria Luigia, tinha seis anos na
+"""Pulcheria Pasqua Dei Agnoli, filha de Maria Luigia, tinha seis anos na
 noite do naufrágio. Nasceu em 1921 e morreu em 2013, aos noventa e dois anos.
 
-Ela casou com <strong>João Betti</strong>, nascido em 1920, que não estava naquele navio.
+Ela casou com João Betti, nascido em 1920, que não estava naquele navio.
 
 E foi <em>ele</em>, não ela, quem passou a vida contando esta história dentro de casa.
 
-A neta dos dois, <strong>Patrícia Betti</strong>, é categórica: <em>quem me contou todas as
+A neta dos dois, Patrícia Betti, é categórica: <em>quem me contou todas as
 histórias foi meu avô, que era o marido da Pulcheria. Eu só sei da fonte dele.</em>""",
 
 """Vale parar um segundo nisso, porque é estranho e é importante.
@@ -1633,7 +1633,7 @@ talvez também da sogra, Maria Luigia, que morreu em 1992, aos noventa e seis an
 
 """Os dois homens estavam esperando.
 
-<strong>Angelo Dei Agnoli</strong>, marido de Maria Luigia, tinha desembarcado em Santos em
+Angelo Dei Agnoli, marido de Maria Luigia, tinha desembarcado em Santos em
 30 de abril de 1927. Seis meses antes.
 
 Ele veio no <em>Principessa Mafalda</em>.
@@ -1641,7 +1641,7 @@ Ele veio no <em>Principessa Mafalda</em>.
 O mesmo navio, o mesmo casco, provavelmente o mesmo porão. Trouxe o marido em segurança em
 abril e quase matou a mulher e os quatro filhos em outubro.""",
 
-"""<strong>Fausto Miotto</strong> também já estava aqui.
+"""Fausto Miotto também já estava aqui.
 
 Veio antes de Rosa, e é por isso que ela atravessou como chefe da própria família, com um
 filho de um ano, e não ao lado do marido.
@@ -1698,7 +1698,7 @@ Durante seis dias, homens adultos com autoridade e formulário contaram aquela g
 Contaram nos botes, contaram nos navios de resgate, contaram no telegrama, contaram no Rio,
 contaram no Brás.
 
-<strong>A conta não fechou em fonte nenhuma.</strong> Sobrou gente em toda soma que alguém
+A conta não fechou em fonte nenhuma. Sobrou gente em toda soma que alguém
 tentou fazer daquela noite.
 
 E o reencontro que importava foi resolvido por uma menina de seis ou sete anos que reconheceu
@@ -1743,7 +1743,7 @@ Hoje se chama São Sebastião da Grama. É um município pequeno no nordeste do 
 Paulo, na região que se chamava Mogiana, e naquela época pertencia à comarca de São José do
 Rio Pardo.
 
-Eu sei disso por dois papéis: um carimbo da <strong>Delegacia de Polícia de Grama</strong> no
+Eu sei disso por dois papéis: um carimbo da Delegacia de Polícia de Grama no
 registro de estrangeiro de Angelo Dei Agnoli, e um assento de casamento, o número 660 do
 cartório de Grama, lavrado vinte anos depois.""",
 
@@ -1833,7 +1833,7 @@ chamou Maria Luigia e os quatro filhos. Fausto chamou Rosa e o Enrico.
 
 As duas irmãs vieram no mesmo navio porque foram chamadas para o mesmo lugar.""",
 
-"""<strong>Em 10 de novembro de 1928, em Grama, nasceu Erminda Miotto.</strong>
+"""Em 10 de novembro de 1928, em Grama, nasceu Erminda Miotto.
 
 Treze meses depois do naufrágio.
 
@@ -1854,7 +1854,7 @@ pedir.""",
 """Depois de Erminda vieram Nair, Maria Therezinha, Izaira, Fermino, Mafalda, Rosalia, Luiz,
 Dionísio, e mais uma.
 
-<strong>Onze filhos ao todo</strong>, contando o Enrico. Dez nascidos no Brasil.
+Onze filhos ao todo, contando o Enrico. Dez nascidos no Brasil.
 
 Nem todos chegaram à idade adulta. Rosalia nasceu em 1940 e morreu em 1941, e naquele lugar e
 naquela época isso não era exceção.""",
@@ -1885,7 +1885,7 @@ não se lembrou de nada.
 """Em 31 de outubro de 1927 ele entrou na Hospedaria do Brás como segunda linha da família
 19270.
 
-<strong>ENRICO, 1 ano.</strong>
+ENRICO, 1 ano.
 
 Sem sobrenome. Nas listas de imigração o sobrenome se escreve uma vez, na linha do chefe, e
 vale para todos os que vêm embaixo.""",
@@ -1899,12 +1899,12 @@ O que aconteceu com ele entre 1927 e 1949, eu não sei.""",
 
 """E aí ele reaparece, numa repartição de São Paulo, em 29 de dezembro de 1949.
 
-<strong>Registro de Estrangeiros.</strong>
+<em>Registro de Estrangeiros.</em>
 
-Vinte e três anos. Solteiro. Profissão: <strong>pedreiro</strong>. Endereço: Parque São
+Vinte e três anos. Solteiro. Profissão: pedreiro. Endereço: Parque São
 Jorge, sem número, Penha, São Paulo, capital. RG 1.335.902, carteira 308.460.
 
-Nacionalidade: <strong>italiana</strong>.""",
+Nacionalidade: italiana.""",
 
 """Vinte e dois anos depois de chegar, ele ainda era italiano.
 
@@ -1992,7 +1992,7 @@ agora a deixar que um leitor a admita por mim no meio do capítulo.""",
 
 """A segunda objeção é de tempo.
 
-Em janeiro de 1937 o naufrágio tinha <strong>dez anos</strong>.
+Em janeiro de 1937 o naufrágio tinha dez anos.
 
 Não era ferida aberta. Era coisa de uma década antes, em outro oceano, numa vida que já tinha
 virado completamente outra. Rosa tinha trinta e três anos, seis filhos vivos, uma casa no
@@ -2017,11 +2017,11 @@ Achei numa lista de nomes.""",
 
 """Rosa e Fausto tiveram onze filhos.
 
-<strong>Enrico</strong>, nascido na Itália em 1926. <strong>Erminda</strong>, 1928.
-<strong>Nair</strong>, 1931. <strong>Maria Therezinha</strong>, 1932.
-<strong>Izaira</strong>, 1932. <strong>Fermino</strong>, 1934.
-<strong>MAFALDA</strong>, 1937. <strong>Rosalia</strong>, 1940. <strong>Luiz</strong>, 1942.
-<strong>Dionísio</strong>, 1949. E mais uma.""",
+Enrico, nascido na Itália em 1926. Erminda, 1928.
+Nair, 1931. Maria Therezinha, 1932.
+Izaira, 1932. Fermino, 1934.
+<strong>MAFALDA</strong>, 1937. Rosalia, 1940. Luiz, 1942.
+Dionísio, 1949. E mais uma.""",
 
 """Leia a série de novo e olhe o que ela faz.
 
@@ -2032,7 +2032,7 @@ dos anos 1930, e não são nomes que se dão em Castelcucco.
 Aquela família estava fazendo o que toda família de imigrante faz a partir da segunda leva de
 filhos: virando daqui.""",
 
-"""E aí, no sétimo, <strong>Mafalda</strong>.
+"""E aí, no sétimo, Mafalda.
 
 Não Maria, não Ana, não Teresa. Não um nome italiano corriqueiro. Um nome da Casa de Savoia,
 no meio de uma sequência de nomes brasileiros, numa casa de agricultor no interior paulista,
@@ -2051,9 +2051,9 @@ na proa.""",
 """Falta dizer onde ela nasceu, e aí aparece uma coincidência que eu não esperava.
 
 A certidão de casamento de Mafalda, de 1954, reemitida em 1981 na cidade de Nova Fátima, diz
-que ela nasceu em <strong>São José do Rio Pardo</strong>.
+que ela nasceu em São José do Rio Pardo.
 
-Só que a família morava em <strong>Grama</strong>. E Grama, naquela época, era município da
+Só que a família morava em Grama. E Grama, naquela época, era município da
 comarca de São José do Rio Pardo.
 
 O escrivão quase certamente escreveu a jurisdição no lugar do lugar.""",
@@ -2063,8 +2063,8 @@ O escrivão quase certamente escreveu a jurisdição no lugar do lugar.""",
 Em 1926, o oficial de Castelcucco fez a mesma coisa com a naturalidade de Rosa.
 
 Dois cartórios, dois países, onze anos de distância, e o mesmo hábito de funcionário.
-<strong>Mãe e filha têm o próprio lugar de nascimento levemente errado no papel, pelo mesmo
-motivo.</strong>
+Mãe e filha têm o próprio lugar de nascimento levemente errado no papel, pelo mesmo
+motivo.
 
 É a coisa mais parecida com herança que eu encontrei em documento neste projeto inteiro.""",
 
@@ -2100,12 +2100,12 @@ Enrico nasceu na Itália e tem nome italiano. Erminda, Nair, Maria Therezinha, I
 Rosalia, Luiz e Dionísio nasceram aqui e têm nome daqui.
 
 Uma família não decide num dia parar de ser italiana. Ela vai batizando os filhos e, sem
-anunciar nada a ninguém, <strong>muda de língua no meio da própria descendência</strong>.""",
+anunciar nada a ninguém, muda de língua no meio da própria descendência.""",
 
 """A parte de repente começou dez meses depois de Mafalda nascer.
 
 Em novembro de 1937, Getúlio Vargas fechou o Congresso e instaurou o Estado Novo. Com ele veio
-a <strong>campanha de nacionalização</strong>.
+a campanha de nacionalização.
 
 Escolas em língua estrangeira, fechadas. Jornal em língua estrangeira, proibido. Associações de
 imigrantes, sob controle. E, em vários lugares, proibido falar a língua em público.""",
@@ -2125,13 +2125,13 @@ problema.""",
 Rosa Forner e Fausto Miotto moravam aqui havia quinze anos, tinham sete filhos brasileiros e
 trabalhavam a terra de outra pessoa no interior de São Paulo.
 
-De um dia para o outro, viraram <strong>súditos do Eixo</strong>.
+De um dia para o outro, viraram súditos do Eixo.
 
 Carteira de estrangeiro obrigatória. Restrição de circulação. Registro em delegacia.""",
 
 """E é aqui que um papel deste acervo deixa de ser curiosidade de arquivo.
 
-O <strong>registro de estrangeiro de Angelo Dei Agnoli</strong>, com o carimbo da Delegacia de
+O registro de estrangeiro de Angelo Dei Agnoli, com o carimbo da Delegacia de
 Polícia de Grama, foi o documento que me provou para onde a família tinha ido. Eu o usei como
 pista de geografia.
 
@@ -2153,7 +2153,7 @@ O que dá para dizer é que a lei valia para eles.""",
 
 Em 29 de dezembro de 1949 — quatro anos depois do fim da guerra, vinte e dois anos depois de
 ter atravessado o Atlântico com um ano de idade e de ter sido pescado de um naufrágio —
-<strong>Enrico Miotto ainda era italiano</strong>.
+Enrico Miotto ainda era italiano.
 
 Não é descuido. Naturalizar custava dinheiro, tempo e papel, e para um pedreiro de vinte e três
 anos não resolvia nada de prático.
@@ -2174,7 +2174,7 @@ lá e ainda pode contar nasceu em 2 de janeiro de 1937.""",
 
 """O que dá para medir é a velocidade.
 
-Na lista do <em>Alhena</em>, em 1927, a coluna Instrução diz <strong>Sim</strong> para Rosa
+Na lista do <em>Alhena</em>, em 1927, a coluna Instrução diz Sim para Rosa
 Forner. Ela sabia ler, em italiano, num tempo e num lugar em que muita gente não sabia ler em
 língua nenhuma.
 
@@ -2228,7 +2228,7 @@ Este livro seguiu dois deles através de um oceano: Rosa, a nona, e Maria Luigia
 
 Este capítulo é sobre o quarto.""",
 
-"""<strong>Sante Forner</strong> nasceu em 16 de abril de 1893, em Monfumo.
+"""Sante Forner nasceu em 16 de abril de 1893, em Monfumo.
 
 Foi para a Grande Guerra, esteve nos Alpes, e voltou com três medalhas que a família mandou
 emoldurar.
@@ -2283,12 +2283,12 @@ Se escreveram cartas, eu não sei. Nenhuma sobreviveu deste lado.""",
 Nasceu em 1896, sobreviveu ao naufrágio aos trinta e um anos com quatro filhos, e morreu em
 1992, aos noventa e seis.
 
-<strong>Sessenta e cinco anos depois daquela noite.</strong> Ela ainda estava viva quando eu
+Sessenta e cinco anos depois daquela noite. Ela ainda estava viva quando eu
 nasci.""",
 
 """E do lado de lá a linha continuou.
 
-Sante teve <strong>Galliano</strong>. Galliano teve <strong>Giorgio</strong>.
+Sante teve Galliano. Galliano teve Giorgio.
 
 Três gerações no mesmo canto do Vêneto, enquanto cinco aconteciam aqui.""",
 
@@ -2318,7 +2318,7 @@ existia.""",
 Eu estava montando a árvore da minha família num site de genealogia. Botando nome, data,
 lugar, um por um.
 
-Do outro lado do Brasil, <strong>Patrícia Betti</strong> estava fazendo exatamente a mesma
+Do outro lado do Brasil, Patrícia Betti estava fazendo exatamente a mesma
 coisa, ao mesmo tempo, sem me conhecer.
 
 Ela é neta da Pulcheria — a menina de seis anos da cozinha — e bisneta de Maria Luigia.""",
@@ -2346,7 +2346,7 @@ porão e a menina que achou o pai no meio da multidão.
 numa folha holandesa.</strong>""",
 
 """E foi por elas, pelas primas que apareceram do outro lado do Brasil, que eu cheguei ao
-<strong>Giorgio</strong>.
+Giorgio.
 
 O bisneto do irmão que ficou.
 
@@ -2397,7 +2397,7 @@ E só então o navio.""",
 """Aqui eu vou fazer uma coisa que não fiz em nenhum outro capítulo deste livro, e é melhor
 avisar antes de fazer.
 
-<strong>Não existe descrição do embarque delas.</strong> Ninguém escreveu, ninguém contou, e a
+Não existe descrição do embarque delas. Ninguém escreveu, ninguém contou, e a
 lista de Gênova é um dos papeis que eu não achei.
 
 O que existe é a data, os sete nomes, as sete idades — e o procedimento, que era o mesmo para
@@ -2421,7 +2421,7 @@ A companhia respondia pelo passageiro recusado do outro lado do oceano, e por is
 deste lado. O exame que importava era o dos olhos: o polegar do médico vira a pálpebra para
 cima e procura o tracoma.
 
-<strong>Esse exame é feito em sete pessoas.</strong> Em Rosa, em Maria Luigia, e em cinco
+Esse exame é feito em sete pessoas. Em Rosa, em Maria Luigia, e em cinco
 crianças, das quais a mais velha tem sete anos e a mais nova tem dois — e uma que tem um ano
 e não anda.
 
@@ -2442,7 +2442,7 @@ Não há marido, não há irmão, não há pai. Maria Luigia está com quatro.
 Essa parte não é reconstrução — ela deixou marca. Catorze dias depois, no Rio de Janeiro,
 outro funcionário escreveu aqueles mesmos nomes numa lista, e escreveu assim:
 
-<strong>Forner Maria. Ginneta. Pulgheria.</strong>
+Forner Maria. Ginneta. Pulgheria.
 
 Não é <em>Maria Luigia</em>, não é <em>Gina</em>, não é <em>Pulcheria</em>. São os nomes
 como soam na boca de uma mulher do Vêneto e como caem no ouvido de um homem que escreve
@@ -2485,7 +2485,7 @@ Foi uma descrição correta do que tinha acontecido durante catorze dias no mar.
 
 Maria Luigia nasceu em 1896. Rosa, em 1903. Sete anos entre uma e outra.
 
-Em 1914 a mãe delas, <strong>Santa Pandolfo</strong>, morreu. Rosa tinha onze anos. Maria
+Em 1914 a mãe delas, Santa Pandolfo, morreu. Rosa tinha onze anos. Maria
 Luigia tinha dezoito.
 
 Numa casa de dez filhos, no Vêneto rural, quando a mãe morre e existe uma filha de dezoito
@@ -2506,7 +2506,7 @@ metros dela, na água, com quatro filhos.""",
 
 """E ficou gente para trás.
 
-<strong>Vincenzo Forner ainda estava vivo.</strong> O pai delas tinha sessenta e cinco anos em
+Vincenzo Forner ainda estava vivo. O pai delas tinha sessenta e cinco anos em
 1927, e continuaria vivo por pelo menos mais treze — eu sei disso pela carteira de identidade
 que o filho Sante tirou em Asolo, em 1940, com o pai anotado como vivo.
 
@@ -2535,11 +2535,11 @@ Rosa Forner tinha vinte e quatro anos e não conhecia o mar até aquela semana.
 
 Catorze dias depois ela ia passar horas dentro dele.""",
 
-"""O <em>Principessa Mafalda</em> largou de Gênova em <strong>11 de outubro de 1927</strong>.
+"""O <em>Principessa Mafalda</em> largou de Gênova em 11 de outubro de 1927.
 
 A viagem completa, da Itália até a Argentina, levava catorze dias em condições normais.
 
-Ele afundou em <strong>25 de outubro</strong>.
+Ele afundou em 25 de outubro.
 
 <strong>O navio durou exatamente o tempo de uma travessia.</strong>""",
 ]
@@ -2564,12 +2564,12 @@ Maria M., 1907.
 E depois: Angela, 1898. Onorato, 1900. Alessandro Domenico, 1903. Ausilio Fortunato e Roberto,
 gêmeos de 1908. Francesco, 1913.
 
-Lida corrida, a lista diz o que não é: <strong>catorze filhos de um casal só</strong>.""",
+Lida corrida, a lista diz o que não é: catorze filhos de um casal só.""",
 
 """Foi preciso ampliar a fotografia do quadro para enxergar por quê.
 
-Descendo pela direita, a partir de <strong>Cadonà Maria Teresa</strong>, nascida em Monfumo em
-1869 e casada com <strong>Abele Alessandro Forner</strong> — irmão de Vincenzo —, há uma linha
+Descendo pela direita, a partir de Cadonà Maria Teresa, nascida em Monfumo em
+1869 e casada com Abele Alessandro Forner — irmão de Vincenzo —, há uma linha
 vertical.
 
 Ela passa ao lado da primeira fileira sem tocar em nada, e vai se ligar à barra horizontal da
@@ -2585,7 +2585,7 @@ comune.
 
 Ele traz oito filhos de Vincenzo e Santa. <strong>Foram dez.</strong>
 
-Faltam <strong>Maria Elisabetta</strong>, de 1895, e <strong>Maria Luigia</strong>, de 1896.
+Faltam Maria Elisabetta, de 1895, e Maria Luigia, de 1896.
 
 Leia esse segundo nome outra vez. A genealogia impressa da família deixou de fora a mulher que
 atravessou o Atlântico com quatro filhos pequenos e sobreviveu ao naufrágio deste livro.
@@ -2604,7 +2604,7 @@ aparece quando alguém desconfia.
 
 E quando finalmente li o quadro direito, ele tinha um único erro de verdade — e o erro era na
 minha bisavó. Ali Rosa aparece nascida em 1905. O ato de nascimento do comune de Monfumo diz
-<strong>24 de junho de 1903</strong>.""",
+24 de junho de 1903.""",
 
 """Depois veio o nome da mãe dela, e esse quase derrubou um capítulo inteiro.
 
@@ -2647,23 +2647,23 @@ gaveta em São Paulo.""",
 
 """E aí a busca virou outra coisa, e virou por causa de um cemitério em Vancouver.
 
-<strong>Luigi Miotto, pai de Fausto, também emigrou.</strong> Não para o Brasil.
+Luigi Miotto, pai de Fausto, também emigrou. Não para o Brasil.
 
 Existe neste acervo uma <em>Registration of Death</em> da Província da Colúmbia Britânica,
-número 5509-008734. Ela registra a morte de <strong>Louie Miotto</strong>, em 15 de agosto de
+número 5509-008734. Ela registra a morte de Louie Miotto, em 15 de agosto de
 1955, na chegada ao Vancouver General Hospital.
 
 Setenta e cinco anos. Quarenta e oito anos no Canadá. Lenhador aposentado, vinte e cinco anos
 de profissão, última vez que trabalhou em 1951. Morava na Prior Street, 566.
 
-Pai: <strong>Miotto Jack</strong>. Mãe: <strong>Fedato Anna</strong>.
+Pai: Miotto Jack. Mãe: Fedato Anna.
 
 Jack é como um oficial canadense escreve Giacomo. Fedato é como ele escreve Fidato. São
 Jacobus Miotto e Anna Fidato — o casal que abre o tronco Miotto deste livro.""",
 
 """Só que o documento tem duas linhas que não fecham.
 
-Diz que ele nasceu em <strong>março de 1880</strong>. O certificado de casamento de Maser diz
+Diz que ele nasceu em março de 1880. O certificado de casamento de Maser diz
 que Luigi Miotto tinha vinte e cinco anos em junho de 1900, o que o põe nascendo por volta de
 1875.
 
@@ -2681,7 +2681,7 @@ solteiro por um irmão que ou não sabia, ou não quis dizer.""",
 Numa árvore genealógica colaborativa da internet, o Luigi de Vancouver e o Luigi de Monfumo
 eram, até pouco tempo atrás, dois perfis separados.
 
-Em <strong>18 de novembro de 2024, às onze e vinte e um da manhã</strong>, um colaborador que
+Em 18 de novembro de 2024, às onze e vinte e um da manhã, um colaborador que
 eu não conheço unificou os dois. Preservou o canadense, eliminou o de Monfumo, e deu como
 motivo o texto padrão que o próprio sistema oferece: <em>a maioria das informações de dados
 vitais e de parentescos correspondem</em>.
@@ -2695,10 +2695,10 @@ O sistema desabilita o botão quando já existem edições posteriores à fusão
 reconstruir o perfil à mão.
 
 E quem reconstruiu foi um documento brasileiro que estava ali o tempo todo:
-<strong>a declaração de óbito do próprio Fausto</strong>, lavrada em 13 de agosto de 1979, em
+a declaração de óbito do próprio Fausto, lavrada em 13 de agosto de 1979, em
 São João da Boa Vista.
 
-Ela nomeia por extenso o pai e a mãe dele: <strong>Luigi Miotto e Domenica Ganeo</strong>.
+Ela nomeia por extenso o pai e a mãe dele: Luigi Miotto e Domenica Ganeo.
 
 Setenta e cinco anos depois de Fausto nascer, do outro lado do oceano, um escrivão paulista
 escreveu os dois nomes certos.""",
@@ -2729,14 +2729,14 @@ Há uma versão desta história, contada nesta família há décadas, segundo a 
 duas mulheres, cinco crianças e uma grávida.
 
 Enrico tinha um ano e quinze dias e estava a bordo — está no Livro 100 da Hospedaria do Brás.
-E a filha seguinte, Erminda, nasceu em 10 de novembro de 1928, <strong>doze meses e meio depois
-do naufrágio</strong>.
+E a filha seguinte, Erminda, nasceu em 10 de novembro de 1928, doze meses e meio depois
+do naufrágio.
 
 Rosa não estava grávida naquele navio. Não há como estar.""",
 
 """E dá para localizar de onde a versão veio.
 
-Quem contava essa história na família era <strong>João Betti</strong>, marido da Pulcheria, que
+Quem contava essa história na família era João Betti, marido da Pulcheria, que
 não estava a bordo e ouviu de quem estava.
 
 Repare no que aconteceu, porque é bonito e não é vergonhoso: uma mulher grávida com um bebê de
@@ -2762,12 +2762,12 @@ aquela noite voltasse a ter começo e fim ao mesmo tempo.""",
 
 """E aqui vem a parte que não tem conserto.
 
-<strong>Pulcheria Pasqua Dei Agnoli morreu em 2013.</strong>
+Pulcheria Pasqua Dei Agnoli morreu em 2013.
 
 A menina de seis anos que estava na cozinha daquele navio, que viu tudo, que viveu noventa e
 dois anos — estava viva, no Brasil, quando eu já era um adulto feito.
 
-<strong>Maria Luigia morreu em 1992</strong>, aos noventa e seis anos, sessenta e cinco anos
+Maria Luigia morreu em 1992, aos noventa e seis anos, sessenta e cinco anos
 depois de ter atravessado aquela noite com quatro filhos pequenos. Eu era menino.
 
 As duas estavam vivas, neste país, e eu não sabia que existiam.""",
@@ -2809,15 +2809,15 @@ Quem chega hoje de carro vê exatamente o que eles viam da janela.""",
 
 """E ficaram coisas lá.
 
-O quadro com as <strong>três medalhas de guerra do Sante</strong>, emoldurado pela família e
-pendurado numa parede há quase um século. O retrato do <strong>Galliano</strong>, filho dele,
+O quadro com as três medalhas de guerra do Sante, emoldurado pela família e
+pendurado numa parede há quase um século. O retrato do Galliano, filho dele,
 fardado com as tropas alpinas em 1950, também emoldurado.
 
 Nenhum dos dois atravessou o oceano. Eu os conheço por fotografia de fotografia.""",
 
 """E existe a casa.
 
-<strong>Giorgio Forner</strong> — bisneto do Sante, o ramo que ficou — mora na região e já
+Giorgio Forner — bisneto do Sante, o ramo que ficou — mora na região e já
 esteve nela. Foi ele quem me mostrou.
 
 Eu não sei o número da porta. Não sei se ainda é da família, se foi vendida, se alguém mora
@@ -2841,8 +2841,8 @@ Nenhuma das quatro pessoas que saíram dali entre 1925 e 1927 tornou a ver quem 
 Sante ainda viveram vinte anos depois daquela despedida, cada um no seu continente, e não
 sobrou uma carta.
 
-<strong>A primeira vez que os dois lados desta família se olharam de novo, um deles estava
-apontando uma câmera para uma parede.</strong>""",
+A primeira vez que os dois lados desta família se olharam de novo, um deles estava
+apontando uma câmera para uma parede.""",
 
 """Foi por uma porta em Castelcucco que Rosa Forner saiu, num dia de outubro de 1927, com
 Enrico de um ano no colo.
@@ -2901,12 +2901,12 @@ CAP_NAVIO = [
 
 E para saber isso, é preciso começar pelo irmão dele, que nunca navegou.""",
 
-"""<strong>22 de setembro de 1907.</strong> Estaleiro em Riva Trigoso, no litoral perto de
+"""22 de setembro de 1907. Estaleiro em Riva Trigoso, no litoral perto de
 Gênova.
 
-O <strong>Lloyd Italiano</strong>, companhia genovesa fundada três anos antes, ia lançar o
+O Lloyd Italiano, companhia genovesa fundada três anos antes, ia lançar o
 primeiro de dois transatlânticos gêmeos encomendados para a rota da América do Sul. O primeiro
-se chamava <strong><em>Principessa Jolanda</em></strong>.
+se chamava <em>Principessa Jolanda</em>.
 
 Havia autoridade, havia imprensa, havia madrinha, havia multidão. Lançamento de navio grande
 era espetáculo público, e este tinha sido anunciado.""",
@@ -2935,7 +2935,7 @@ lado do Atlântico, numa noite de outubro.""",
 Mesmo projeto, mesmo estaleiro, casco já em construção ao lado.
 
 Depois do desastre, refizeram os cálculos, corrigiram o que havia para corrigir, e lançaram o
-segundo navio em <strong>1908</strong>. Esse desceu direito. Entrou em serviço em 1909.""",
+segundo navio em 1908. Esse desceu direito. Entrou em serviço em 1909.""",
 
 """<strong>Esse navio se chamava Principessa Mafalda.</strong>
 
@@ -2945,7 +2945,7 @@ italiana.""",
 
 """O nome veio de uma criança.
 
-<strong>Mafalda di Savoia</strong> nasceu em 1902, segunda filha de Vittorio Emanuele III, rei
+Mafalda di Savoia nasceu em 1902, segunda filha de Vittorio Emanuele III, rei
 da Itália. Tinha seis anos de idade quando um casco de nove mil toneladas recebeu o nome dela.
 
 Era o que se fazia. Navio grande de bandeira nacional levava nome de gente da casa real,
@@ -2963,7 +2963,7 @@ com o nome dela e com o nome do navio, sem que as duas coisas fossem distinguív
 volta de dezoito nós. Capacidade para pouco mais de mil e quatrocentos passageiros, a grande
 maioria em terceira classe.
 
-Entre 1909 e 1927 ele fez cerca de <strong>noventa travessias</strong> do Atlântico.
+Entre 1909 e 1927 ele fez cerca de noventa travessias do Atlântico.
 
 A conta é minha e é grosseira, mas dá a ordem de grandeza: em dezoito anos de serviço,
 algo perto de cem mil pessoas atravessaram o Atlântico dentro daquele casco.""",
@@ -2971,7 +2971,7 @@ algo perto de cem mil pessoas atravessaram o Atlântico dentro daquele casco."""
 """E em 1908, quando aquele casco entrou na água pela primeira vez, em Monfumo não aconteceu
 nada.
 
-<strong>Rosa Forner tinha cinco anos.</strong> Santa Pandolfo, a mãe, estava viva e ainda ia
+Rosa Forner tinha cinco anos. Santa Pandolfo, a mãe, estava viva e ainda ia
 viver seis anos. Vincenzo trabalhava a terra. Sante tinha quinze e ainda não tinha ouvido falar
 em Caporetto. Maria Luigia tinha doze.
 
@@ -2996,7 +2996,7 @@ Tudo isso é verdade, e é a parte menos importante do navio.""",
 
 """A rota do <em>Principessa Mafalda</em> era esta:
 
-<strong>Gênova — Barcelona — Dakar — Rio de Janeiro — Montevidéu — Buenos Aires.</strong>
+Gênova — Barcelona — Dakar — Rio de Janeiro — Montevidéu — Buenos Aires.
 
 Catorze dias entre a Itália e a Argentina, em condições normais. Cerca de noventa vezes, entre
 1909 e 1927.
@@ -3009,10 +3009,10 @@ mesmo lado.""",
 
 Na última viagem, a de outubro de 1927, iam a bordo novecentos e setenta e um passageiros.
 
-Pouco mais de <strong>sessenta na primeira classe</strong>. Cerca de <strong>oitenta na
-segunda</strong>.
+Pouco mais de sessenta na primeira classe. Cerca de oitenta na
+segunda.
 
-E <strong>todo o resto na terceira</strong> — mais de oitocentas pessoas.
+E todo o resto na terceira — mais de oitocentas pessoas.
 
 Mais duzentos e oitenta e oito tripulantes.""",
 
@@ -3085,17 +3085,17 @@ Dezoito anos depois, era o navio que sobrava.""",
 """O que aconteceu no meio não foi ferrugem. Foram duas coisas que nada tinham a ver com aquele
 casco.
 
-<strong>A primeira: os Estados Unidos fecharam a porta.</strong>
+A primeira: os Estados Unidos fecharam a porta.
 
 As leis de cota de 1921 e de 1924 cortaram brutalmente a entrada de gente do sul e do leste da
 Europa. Um italiano que em 1910 iria para Nova York, em 1925 já não ia.
 
-O fluxo não parou. <strong>Virou.</strong> Desceu para Buenos Aires, Montevidéu e Santos.
+O fluxo não parou. Virou. Desceu para Buenos Aires, Montevidéu e Santos.
 
 De repente, a rota da América do Sul deixou de ser a rota secundária e virou o negócio
 principal da emigração italiana.""",
 
-"""<strong>A segunda: as companhias italianas encomendaram navios novos.</strong>
+"""A segunda: as companhias italianas encomendaram navios novos.
 
 <em>Giulio Cesare</em>, 1922. <em>Conte Rosso</em>, 1922. <em>Conte Verde</em>, 1923.
 <em>Duilio</em>, 1923.
@@ -3117,7 +3117,7 @@ faz o que sobra: a data que ninguém quer, a carga que ninguém disputa, a manut
 """E há uma consequência econômica disso que é fria e é direta.
 
 Um navio cujo dinheiro vem de mil passagens de terceira classe, e cujo prestígio já foi para
-outro casco, é um navio em que <strong>consertar custa caro e rende pouco</strong>.
+outro casco, é um navio em que consertar custa caro e rende pouco.
 
 Não porque alguém seja mau. Porque cada lira gasta na casa de máquinas de um navio de dezenove
 anos é uma lira que não foi para o navio de quatro.
@@ -3159,8 +3159,8 @@ Dezoito anos antes, quando ele entrou em serviço, um atraso desses teria virado
 jornal.
 Em 1927 já não virava. Era um navio velho fazendo o que navio velho faz.""",
 
-"""A bordo iam <strong>novecentos e setenta e um passageiros e duzentos e oitenta e oito
-tripulantes</strong>. Mil duzentas e cinquenta e nove pessoas, e a maior parte delas na
+"""A bordo iam novecentos e setenta e um passageiros e duzentos e oitenta e oito
+tripulantes. Mil duzentas e cinquenta e nove pessoas, e a maior parte delas na
 terceira classe.
 
 Só que já não era o porão italiano de vinte anos antes.
@@ -3221,7 +3221,7 @@ bombordo.
 
 Escrevo <em>algum porto</em> pelo mesmo motivo que vou escrever no capítulo seguinte: as
 descrições da rota habitual do navio citam Dakar, mas o que as fontes registram desta última
-viagem é a saída de <strong>São Vicente, em Cabo Verde, no dia 18 de outubro</strong>, rumo
+viagem é a saída de São Vicente, em Cabo Verde, no dia 18 de outubro, rumo
 ao Rio.
 
 Consta como parada emergencial. Consertaram mais uma vez, com o que havia, e seguiram mais
@@ -3310,7 +3310,7 @@ Pecci não acreditou nela. Tirou a família do navio cedo, na noite do naufrági
 
 Os três sobreviveram.""",
 
-"""Em <strong>24 de outubro de 1927, uma segunda-feira, à uma da tarde</strong>, os apitos da
+"""Em 24 de outubro de 1927, uma segunda-feira, à uma da tarde, os apitos da
 sirene tocaram.
 
 Era exercício de incêndio, do tipo que todo navio de passageiros fazia e que
@@ -3338,11 +3338,11 @@ Estavam a dois quilômetros do navio inglês quando Lynose ouviu o primeiro esta
 
 """Guarde esses dois nomes, porque os dois voltam.
 
-O <strong>Alhena</strong>, que o Mafalda tinha acabado de ultrapassar por vaidade de máquina,
+O Alhena, que o Mafalda tinha acabado de ultrapassar por vaidade de máquina,
 é o navio que recolheu Rosa Forner, a irmã e as cinco crianças, e que três dias depois as
 desembarcou na Ilha das Flores, no Rio de Janeiro.
 
-O <strong>Empire Star</strong>, saudado com apito naquela mesma tarde, tirou da água mais de
+O Empire Star, saudado com apito naquela mesma tarde, tirou da água mais de
 uma centena de pessoas.
 
 A coisa que salvou aquela gente já estava à vista quando o eixo partiu.
@@ -3473,7 +3473,7 @@ Duas mulheres. Cinco crianças. A mais velha com sete anos. Um bebê de um ano n
 
 Subindo uma escada de ferro, no escuro, num navio que já estava inclinando para bombordo.
 
-<strong>Isso é o que a arquitetura daquele navio impõe.</strong> Onde exatamente elas estavam
+Isso é o que a arquitetura daquele navio impõe. Onde exatamente elas estavam
 quando o eixo partiu, e o que exatamente cada uma fez em seguida, é a parte que eu não tenho.""",
 
 """Na sala de máquinas os homens souberam primeiro. Sempre sabem.
@@ -3709,11 +3709,11 @@ publicados em Roma no ano seguinte.
 
 Leia a coluna da porcentagem devagar.""",
 
-"""<strong>Borso: 3.700 refugiados numa população de 3.733. Noventa e nove por
-cento.</strong>
+"""Borso: 3.700 refugiados numa população de 3.733. Noventa e nove por
+cento.
 
-Paderno d’Asolo, 96,8. Crespano, 87,8. <strong>Cavaso: 2.795 pessoas de 3.258, oitenta e
-cinco vírgula oito por cento.</strong> Possagno, 81,7.
+Paderno d’Asolo, 96,8. Crespano, 87,8. Cavaso: 2.795 pessoas de 3.258, oitenta e
+cinco vírgula oito por cento. Possagno, 81,7.
 
 Esses são os comuni encostados no maciço. Eles não se esvaziaram um pouco. Eles se
 esvaziaram.
@@ -3765,8 +3765,8 @@ próprias.
 
 A mesma tabela responde por ela, em parte.
 
-<strong>Monfumo: 307 refugiados numa população de 1.661. Dezoito vírgula cinco por
-cento.</strong>
+Monfumo: 307 refugiados numa população de 1.661. Dezoito vírgula cinco por
+cento.
 
 Oito vezes a taxa de Castelcucco. Não é Cavaso e não é catástrofe, mas também não são os
 dois por cento do vilarejo do Fausto. Um em cada cinco saiu.
@@ -4018,8 +4018,8 @@ Trinta e seis anos antes da neta.""",
 """E há mais uma geração atrás dele, que o mesmo livro registra e que ninguém desta
 família conhecia.
 
-O pai de Luigi chamava-se <strong>Domenico Forner</strong>, casado com <strong>Maria
-Vial</strong>.
+O pai de Luigi chamava-se Domenico Forner, casado com Maria
+Vial.
 
 Não tenho data de nenhum dos dois. Tenho os nomes, e os nomes empurram esta história para
 o século XVIII.
@@ -4206,8 +4206,8 @@ ou de pau, se havia comida naquele inverno, se a criança era esperada ou era a 
 Levei anos para entender que a informação não está nos nomes. Está no intervalo entre
 eles.""",
 
-"""O nome mais antigo com data é <strong>Luigi Forner, nascido em 14 de agosto de
-1817</strong>, em Monfumo, e morto em 11 de novembro de 1905.
+"""O nome mais antigo com data é Luigi Forner, nascido em 14 de agosto de
+1817, em Monfumo, e morto em 11 de novembro de 1905.
 
 Oitenta e oito anos. Naquele lugar e naquele século, é quase inverossímil.
 
@@ -4233,7 +4233,7 @@ século XVIII, quase todo mundo ali era parente de todo mundo.""",
 
 É o do meio que interessa.
 
-<strong>Vincenzo Forner casou-se com Santa Pandolfo em 1887.</strong> Ele com vinte e cinco
+Vincenzo Forner casou-se com Santa Pandolfo em 1887. Ele com vinte e cinco
 anos, ela com vinte e dois.""",
 
 """A primeira filha do casal, Angela, nasceu em 1886.
@@ -4248,7 +4248,7 @@ o fim de uma colheita.
 
 A criança vinha primeiro. Depois o cartório.""",
 
-"""<strong>Vincenzo e Santa tiveram dez filhos documentados.</strong>
+"""Vincenzo e Santa tiveram dez filhos documentados.
 
 Angela, 1886. Pietro Luigi, 1889. Martino Giuseppe, 1891. Sante, 1893. Maria Elisabetta,
 1895. Maria Luigia, 1896. Bonfiglio Sabino, 1898. Giulio Giuseppe, 1900. Rosa, 1903.
@@ -4286,7 +4286,7 @@ Roberto morreu em 3 de julho, com vinte e três dias. Ausilio viveu até 1989.
 
 Nasceram no mesmo dia, e entre a morte de um e a do outro passaram oitenta anos.""",
 
-"""Em 1916 morreu <strong>Pietro Luigi Forner</strong>, o segundo filho, com vinte e sete
+"""Em 1916 morreu Pietro Luigi Forner, o segundo filho, com vinte e sete
 anos.
 
 A explicação óbvia se escreve sozinha: era idade de convocação, a Itália estava no segundo
@@ -4334,8 +4334,8 @@ as viu nunca mais.</strong>""",
 
 """Do outro lado desta história estão os Miotto, e deles eu tenho muito menos.
 
-<strong>Luigi Miotto casou-se com Domenica Ganeo em 24 de junho de 1900, no comune di
-Maser.</strong> Ele com vinte e cinco anos, ela com vinte e um.
+Luigi Miotto casou-se com Domenica Ganeo em 24 de junho de 1900, no comune di
+Maser. Ele com vinte e cinco anos, ela com vinte e um.
 
 A família repetiu por décadas que ela se chamava Nina. Não se chamava. O certificado de
 casamento diz Domenica, e a declaração de óbito do filho dela, setenta e nove anos depois e
@@ -4343,12 +4343,12 @@ do outro lado do oceano, diz Domenica também.
 
 Nina era o apelido. Foi o apelido que atravessou o Atlântico e virou nome.""",
 
-"""Repare onde Luigi Miotto nasceu: <strong>Monfumo</strong>.
+"""Repare onde Luigi Miotto nasceu: Monfumo.
 
 A mesma vila dos Forner. Os Miotto desta história não são de Castelcucco de origem.
 Chegaram lá depois, como quase todo mundo.
 
-<strong>Fausto nasceu em 5 de julho de 1904, em Castelcucco, às quatro da manhã.</strong>
+Fausto nasceu em 5 de julho de 1904, em Castelcucco, às quatro da manhã.
 
 Entre o casamento em Maser e o nascimento em Castelcucco há quatro anos e quatro
 quilômetros.""",
@@ -4385,33 +4385,33 @@ menina de onze anos que um dia atravessaria o Atlântico.
 
 Na outra, um homem deixou o nome em três papéis ao longo de oitenta anos e mais nada.
 
-<strong>Rosa e Fausto casaram-se em 1926.</strong>""",
+Rosa e Fausto casaram-se em 1926.""",
 
 """E aqui entra uma coisa que eu só descobri no fim, e que muda o desenho deste capítulo
 inteiro.
 
-<strong>Fausto tinha irmãos.</strong>
+Fausto tinha irmãos.
 
 Maria Luigia. Amabile Veronica. Vittorio. Asia. E pelo menos mais uma irmã, cujo nome eu
 ainda não sei.
 
-Quem me deu esses nomes foi <strong>Giorgio Forner</strong>, na Itália, escrevendo debaixo de
+Quem me deu esses nomes foi Giorgio Forner, na Itália, escrevendo debaixo de
 fotografias que a família dele guardou por um século. Até recebê-las, eu tinha do lado Miotto
 três linhas de cartório e mais nada.""",
 
-"""Uma dessas irmãs, mais velha que Fausto, chamava-se <strong>Maria Luigia Miotto</strong>.
+"""Uma dessas irmãs, mais velha que Fausto, chamava-se Maria Luigia Miotto.
 
 Leia o nome outra vez, porque este livro já tem uma Maria Luigia, e não é esta.
 
-A que vai atravessar o Atlântico com quatro filhos pequenos é <strong>Forner</strong> Maria
+A que vai atravessar o Atlântico com quatro filhos pequenos é Forner Maria
 Luigia, irmã da Rosa.
 
-Esta outra é <strong>Miotto</strong> Maria Luigia, irmã do Fausto. E esta não foi a lugar
+Esta outra é Miotto Maria Luigia, irmã do Fausto. E esta não foi a lugar
 nenhum.""",
 
 """Ela ficou porque casou com quem ficou.
 
-<strong>Maria Luigia Miotto casou-se com Sante Forner.</strong>
+Maria Luigia Miotto casou-se com Sante Forner.
 
 Sante é o irmão da Rosa. O das três medalhas, o do Monte Grappa, o do capítulo 7 deste livro.
 
@@ -4449,11 +4449,11 @@ circo e em capa de missal.
 Duas palavras, com uma reticência antes, como quem completa uma frase que a pessoa já
 vinha pensando sozinha havia meses:
 
-<strong>… In América.</strong>""",
+<em>… In América.</em>""",
 
 """Embaixo do título, numa faixa desenhada como um pergaminho que se desenrola:
 
-<strong>Terre in Brasile per gli Italiani.</strong>
+<em>Terre in Brasile per gli Italiani.</em>
 
 Terras no Brasil para os italianos. E logo abaixo, em letra miúda e reta, a parte
 prática:
@@ -4634,29 +4634,29 @@ Não achei o Fausto.
 
 Achei outra coisa.""",
 
-"""Está num formulário anexo à lista de chegada de <strong>23 de fevereiro de 1923</strong>,
+"""Está num formulário anexo à lista de chegada de 23 de fevereiro de 1923,
 no porto de Santos. Duas folhas, sessenta e sete pessoas, dez famílias. O cabeçalho vem
 impresso:
 
 <em>Relação dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o
 Vap. “PRINCIPESSA MAFALDA” sahido em 8 de FEVEREIRO de 1923 com destino SANTOS ao Estado
-de SÃO PAULO, <strong>em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da
-Companhia Commercial de SÃO PAULO</strong>.</em>
+de SÃO PAULO, em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da
+Companhia Commercial de SÃO PAULO.</em>
 
 O mesmo navio. Quatro anos antes de Rosa.""",
 
 """As colunas não deixam dúvida sobre que tipo de transporte era aquele.
 
-<strong>Passagens</strong>, com as frações: 1, 1/2, 1/4, 0. Grau de parentesco com o chefe
-da família. Filiação. Última residência. E <strong>Destino declarado</strong>, subdividido
-em Estação, Município e <strong>Patrão</strong>.
+Passagens, com as frações: 1, 1/2, 1/4, 0. Grau de parentesco com o chefe
+da família. Filiação. Última residência. E Destino declarado, subdividido
+em Estação, Município e Patrão.
 
 Patrão. Preenchido antes de o navio sair de Gênova.
 
 Os campos trazem nome de fazenda e de proprietário: Chavantes, Barreiro, Fazenda
 Guatapará, S. Simão, e repetidas vezes um mesmo nome, Dr. Ralpho P. Silva.
 
-No pé da folha, a conta: <strong>TESTE N° 67, POSTI N° 57 1/4</strong>. Sessenta e sete
+No pé da folha, a conta: <em>TESTE N° 67, POSTI N° 57 1/4</em>. Sessenta e sete
 cabeças contra cinquenta e sete passagens e um quarto, porque criança pequena valia
 fração de bilhete.
 
@@ -4677,7 +4677,7 @@ dentro do mesmo navio.""",
 
 """E há uma coluna nessa folha que muda o modo de ler o resto deste livro.
 
-Os subsidiados de 1923 viajaram na <strong>terceira classe</strong>.
+Os subsidiados de 1923 viajaram na terceira classe.
 
 Não havia um convés de colono e um convés de passageiro. Havia o porão, e dentro dele
 estavam misturados quem tinha comprado o bilhete e quem tinha sido recrutado com fazenda
@@ -4855,7 +4855,7 @@ O que o decreto fez foi mais modesto, e ainda assim grande. Mudou quem podia ir 
 dinheiro e quem precisava juntar. Empurrou uma parte da emigração vêneta para o modelo de
 um por vez, por conta própria, chamando os outros depois.
 
-<strong>A família Miotto cabe inteira dentro desse modelo.</strong>""",
+A família Miotto cabe inteira dentro desse modelo.""",
 
 """Fica um buraco neste capítulo, e ele é grande.
 
@@ -5123,7 +5123,7 @@ Fica sem nome, porque inventar aqui seria fácil e seria errado.""",
 
 """Sante Forner voltou.
 
-Casou com <strong>Maria Luigia Miotto</strong>, irmã mais velha de Fausto — de modo que os
+Casou com Maria Luigia Miotto, irmã mais velha de Fausto — de modo que os
 dois Forner desta história, Rosa e Sante, casaram com dois Miotto.
 
 Teve filhos e continuou onde sempre esteve. Leo, Delfina e Galliano são dele. De Galliano veio
@@ -5148,13 +5148,13 @@ porque quis.""",
 
 """O documento informa, campo por campo.
 
-<strong>Nato il 16 aprile 1893, a Monfumo.</strong> A data exata, que a genealogia impressa
+<em>Nato il 16 aprile 1893, a Monfumo.</em> A data exata, que a genealogia impressa
 não trazia. E o lugar: Monfumo, não Castelcucco. Ele nasceu antes de a família mudar de
 comune.
 
-<strong>Stato civile: coniugato. Nazionalità: italiana.</strong>
+<em>Stato civile: coniugato. Nazionalità: italiana.</em>
 
-<strong>Professione: bracciante.</strong>
+<em>Professione: bracciante.</em>
 
 Bracciante é diarista. Trabalhador de enxada por dia de serviço, sem terra própria.
 
@@ -5164,9 +5164,9 @@ profissão declarada do homem que ajudou a segurar o Monte Grappa é diarista.""
 """E vêm os <em>connotati e contrassegni salienti</em>, que é como se descrevia uma pessoa
 antes de a fotografia resolver o problema:
 
-<strong>Statura m. 1,62. Occhi castani. Naso regolare. Bocca regolare. Capelli castani.
-Barba</strong>, e aqui um traço, que quer dizer nenhuma. <strong>Baffi castani. Segni
-particolari: N.N.</strong>
+<em>Statura m. 1,62. Occhi castani. Naso regolare. Bocca regolare. Capelli castani.
+Barba</em>, e aqui um traço, que quer dizer nenhuma. <em>Baffi castani. Segni
+particolari: N.N.</em>
 
 Um metro e sessenta e dois. Castanho de olho, de cabelo e de bigode. Sem barba. Nenhum
 sinal particular.
@@ -5183,9 +5183,9 @@ A primeira está no campo da filiação, e é a linha que resolveu o capítulo 4
 <strong>di</strong> Vincenzo. Madre: <strong>fu</strong> Pandolfo Domenica Santa.</em> Pai
 vivo, mãe morta. Em março de 1940 o velho ainda estava lá.
 
-A segunda está na data. <em>Asolo, lì 8-3-1940</em>, e ao lado, <strong>A. XVIII</strong>.
+A segunda está na data. <em>Asolo, lì 8-3-1940</em>, e ao lado, A. XVIII.
 <em>Anno diciottesimo</em>: o ano dezoito da era fascista, contado a partir da Marcha sobre
-Roma. Quem assina não é um prefeito eleito. É <strong>il Podestà</strong>.
+Roma. Quem assina não é um prefeito eleito. É <em>il Podestà</em>.
 
 Três meses depois desse carimbo, a Itália entrou na Segunda Guerra Mundial.
 
@@ -5220,9 +5220,9 @@ Comune di Monfumo:
 
 E a mesma informação do outro lado, à margem da certidão dele, no livro do Comune di
 Castelcucco: ato número 9, parte I, do ano de 1926. Ali ela aparece com o diminutivo,
-<strong>Forner Rosina</strong>.
+Forner Rosina.
 
-Casaram-se em <strong>3 de dezembro de 1926</strong>, em Castelcucco. Ela com vinte e
+Casaram-se em 3 de dezembro de 1926, em Castelcucco. Ela com vinte e
 três anos, ele com vinte e dois.""",
 
 """Vale olhar quem eram essas duas pessoas em 1926.
@@ -5240,7 +5240,7 @@ Nenhum dos dois tinha herança para receber.""",
 
 """Agora ponha a outra data ao lado.
 
-Enrico Miotto nasceu em <strong>10 de outubro de 1926</strong>. Está no Registro de
+Enrico Miotto nasceu em 10 de outubro de 1926. Está no Registro de
 Estrangeiros que ele assinou em São Paulo em 1949: nacionalidade italiana, pai Fausto
 Miotto, mãe Rosa Forner.
 

@@ -11,15 +11,15 @@ Lendo os vinte depoimentos em sequência, uma coisa aparece que nenhum deles diz
 
 Quase ninguém morreu por ter caído no mar e não saber nadar. Morreu por ter entrado num bote.
 
-**Ali Hassen**, árabe de quarenta e cinco anos, viajando com três primos, subiu ao convés e se atirou num bote junto com cerca de cinquenta pessoas. Pelo peso, o bote afundou.
+Ali Hassen, árabe de quarenta e cinco anos, viajando com três primos, subiu ao convés e se atirou num bote junto com cerca de cinquenta pessoas. Pelo peso, o bote afundou.
 
-**Salvador Malone** conseguiu lugar no terceiro bote lançado. A poucos metros do navio, ele virou.
+Salvador Malone conseguiu lugar no terceiro bote lançado. A poucos metros do navio, ele virou.
 
-**Antonio Ponce** entrou num com pelo menos trinta pessoas. A vinte metros do *Alhena*, o nervosismo de um dos companheiros fez o bote emborcar.
+Antonio Ponce entrou num com pelo menos trinta pessoas. A vinte metros do *Alhena*, o nervosismo de um dos companheiros fez o bote emborcar.
 
-**Valeriano Galli**, como boa parte da terceira classe, foi dos primeiros a entrar. O bote cedeu sob o peso e ele foi parar na água.
+Valeriano Galli, como boa parte da terceira classe, foi dos primeiros a entrar. O bote cedeu sob o peso e ele foi parar na água.
 
-**Maria Spinelli** tinha ao lado a amiga Teresa Forggia e o filho dela, Mario, de três anos.
+Maria Spinelli tinha ao lado a amiga Teresa Forggia e o filho dela, Mario, de três anos.
 
 Um tripulante as obrigou a descer e entrar num bote. Elas entraram.
 
@@ -27,7 +27,7 @@ E então, **a trinta centímetros da água**, as cordas de um dos lados arrebent
 
 Trinta centímetros. Foi essa a margem.
 
-**Vincenzo Mandolezzi** esperou uma hora e meia a bordo antes de se jogar. Nadou até alcançar um dos botes do próprio Mafalda.
+Vincenzo Mandolezzi esperou uma hora e meia a bordo antes de se jogar. Nadou até alcançar um dos botes do próprio Mafalda.
 
 Estava furado, ou rachado, ou de alguma forma inservível — ele diz apenas que não estava em bom estado.
 
@@ -45,11 +45,11 @@ Metade dos botes daquele navio já não servia antes de qualquer pessoa entrar n
 
 E aí a quilha virou o lugar mais seguro do Atlântico.
 
-**Alfio Sanfilippo** se atirou na água às seis da tarde com o irmão e um oficial do Mafalda. Quase todos os botes já tinham virado. Os três se agarraram ao casco de um deles, de barriga para cima.
+Alfio Sanfilippo se atirou na água às seis da tarde com o irmão e um oficial do Mafalda. Quase todos os botes já tinham virado. Os três se agarraram ao casco de um deles, de barriga para cima.
 
-Ficaram ali **oito horas**, até o *Empire Star* se aproximar.
+Ficaram ali oito horas, até o *Empire Star* se aproximar.
 
-**Domenico Leo** passou a noite do mesmo jeito, na quilha de outro bote, com sete ou oito pessoas.
+Domenico Leo passou a noite do mesmo jeito, na quilha de outro bote, com sete ou oito pessoas.
 
 E agora eu preciso avisar o leitor de uma coisa.
 
@@ -95,15 +95,15 @@ Há uma coisa, porém, em que os três lados concordam.
 
 Parte da tripulação ficou.
 
-Os Vacelli, que são os mais duros com a terceira classe, fazem questão de registrar o comportamento nobre do **primeiro oficial** e do **primeiro maquinista**, que segundo eles fizeram esforços inauditos para salvar passageiros.
+Os Vacelli, que são os mais duros com a terceira classe, fazem questão de registrar o comportamento nobre do primeiro oficial e do primeiro maquinista, que segundo eles fizeram esforços inauditos para salvar passageiros.
 
-E **Pedro Volpi** deve a vida a um deles. Depois de se jogar na água, foi ajudado pelo **terceiro maquinista do Mafalda**, que nadou com ele até um bote.
+E Pedro Volpi deve a vida a um deles. Depois de se jogar na água, foi ajudado pelo terceiro maquinista do Mafalda, que nadou com ele até um bote.
 
 Volpi acrescenta uma linha que vale o capítulo inteiro: o homem que o salvou, depois de deixá-lo em segurança, voltou. E salvou outros dois.
 
 E o herói mais citado daquela noite não era da tripulação.
 
-Era um passageiro: **Juan Santororo**, cadete naval argentino.
+Era um passageiro: Juan Santororo, cadete naval argentino.
 
 Galli, que é o mais crítico de todos em relação aos oficiais do Mafalda, faz questão de contrastar: enquanto a tripulação fazia o que fazia, havia um passageiro salvando gente na água.
 
@@ -115,7 +115,7 @@ Na água, o perigo deixou de ser o navio.
 
 *A luta mais intensa não foi com as ondas, mas com os passageiros boiando que, não sabendo nadar, se agarravam a quem estivesse ao lado, soltando gritos desesperados. Ouviam- se pragas em todas as línguas. Para avançar era preciso se afastar dos outros, que formavam uma barreira humana.*
 
-**Batista Beria** descreve o mesmo mecanismo: quem não sabia nadar direito se agarrava à roupa de quem estava na frente.
+Batista Beria descreve o mesmo mecanismo: quem não sabia nadar direito se agarrava à roupa de quem estava na frente.
 
 Uma pessoa se afogando não é uma pessoa pedindo ajuda. É uma pessoa que puxa para baixo quem chega perto.
 
@@ -123,13 +123,13 @@ E os tubarões.
 
 É a parte mais famosa deste naufrágio, a que aparece em toda reportagem, e é a que menos resiste a um exame.
 
-**Gabassi** diz que uma mulher e uma criança foram levadas por um tubarão enorme, na tábua em que ele boiava. **Ponce** viu dois. **Galli** viu vários, e diz que um feriu um companheiro que morreu depois de içado. **Malone** não viu tubarão nenhum, mas viu um homem boiando com a perna destruída.
+Gabassi diz que uma mulher e uma criança foram levadas por um tubarão enorme, na tábua em que ele boiava. Ponce viu dois. Galli viu vários, e diz que um feriu um companheiro que morreu depois de içado. Malone não viu tubarão nenhum, mas viu um homem boiando com a perna destruída.
 
-**Volpi** não viu — e acrescenta: *a noite estava muito escura*. **Sanfilippo** não viu, e diz outra coisa no lugar: viu o corpo de uma mulher boiando agarrada a um bebê. **Beria**, **Uccelli** e **Solk** também não viram.
+Volpi não viu — e acrescenta: *a noite estava muito escura*. Sanfilippo não viu, e diz outra coisa no lugar: viu o corpo de uma mulher boiando agarrada a um bebê. Beria, Uccelli e Solk também não viram.
 
-E **Domenico Leo** resume a dificuldade toda numa frase: *não sei se era um tubarão, mas era um peixe enorme.*
+E Domenico Leo resume a dificuldade toda numa frase: *não sei se era um tubarão, mas era um peixe enorme.*
 
-**Pascual Pecci**, o único cético do grupo, foi mais longe.
+Pascual Pecci, o único cético do grupo, foi mais longe.
 
 Duvidou que houvesse tubarão nenhum. Atribuiu a história a peixes que vinham sendo vistos seguindo o navio nos dias anteriores, e que ninguém a bordo sabia identificar.
 

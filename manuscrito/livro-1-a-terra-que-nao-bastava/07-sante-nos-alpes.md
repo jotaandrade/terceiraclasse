@@ -165,7 +165,7 @@ Fica sem nome, porque inventar aqui seria fácil e seria errado.
 
 Sante Forner voltou.
 
-Casou com **Maria Luigia Miotto**, irmã mais velha de Fausto — de modo que os dois Forner desta história, Rosa e Sante, casaram com dois Miotto.
+Casou com Maria Luigia Miotto, irmã mais velha de Fausto — de modo que os dois Forner desta história, Rosa e Sante, casaram com dois Miotto.
 
 Teve filhos e continuou onde sempre esteve. Leo, Delfina e Galliano são dele. De Galliano veio Giorgio, que hoje mora na mesma região, conhece a história inteira, e é quem guarda o quadro.
 
@@ -183,11 +183,11 @@ Um homem de quarenta e seis anos, de paletó escuro e camisa clara, encostado nu
 
 O documento informa, campo por campo.
 
-**Nato il 16 aprile 1893, a Monfumo.** A data exata, que a genealogia impressa não trazia. E o lugar: Monfumo, não Castelcucco. Ele nasceu antes de a família mudar de comune.
+*Nato il 16 aprile 1893, a Monfumo.* A data exata, que a genealogia impressa não trazia. E o lugar: Monfumo, não Castelcucco. Ele nasceu antes de a família mudar de comune.
 
-**Stato civile: coniugato. Nazionalità: italiana.**
+*Stato civile: coniugato. Nazionalità: italiana.*
 
-**Professione: bracciante.**
+*Professione: bracciante.*
 
 Bracciante é diarista. Trabalhador de enxada por dia de serviço, sem terra própria.
 
@@ -195,7 +195,7 @@ Vinte e dois anos depois da guerra, com três medalhas emolduradas na parede de 
 
 E vêm os *connotati e contrassegni salienti*, que é como se descrevia uma pessoa antes de a fotografia resolver o problema:
 
-**Statura m. 1,62. Occhi castani. Naso regolare. Bocca regolare. Capelli castani. Barba**, e aqui um traço, que quer dizer nenhuma. **Baffi castani. Segni particolari: N.N.**
+*Statura m. 1,62. Occhi castani. Naso regolare. Bocca regolare. Capelli castani. Barba*, e aqui um traço, que quer dizer nenhuma. *Baffi castani. Segni particolari: N.N.*
 
 Um metro e sessenta e dois. Castanho de olho, de cabelo e de bigode. Sem barba. Nenhum sinal particular.
 
@@ -207,7 +207,7 @@ Duas coisas mais, nas bordas do papel.
 
 A primeira está no campo da filiação, e é a linha que resolveu o capítulo 4: *Padre: **di** Vincenzo. Madre: **fu** Pandolfo Domenica Santa.* Pai vivo, mãe morta. Em março de 1940 o velho ainda estava lá.
 
-A segunda está na data. *Asolo, lì 8-3-1940*, e ao lado, **A. XVIII**. *Anno diciottesimo*: o ano dezoito da era fascista, contado a partir da Marcha sobre Roma. Quem assina não é um prefeito eleito. É **il Podestà**.
+A segunda está na data. *Asolo, lì 8-3-1940*, e ao lado, A. XVIII. *Anno diciottesimo*: o ano dezoito da era fascista, contado a partir da Marcha sobre Roma. Quem assina não é um prefeito eleito. É *il Podestà*.
 
 Três meses depois desse carimbo, a Itália entrou na Segunda Guerra Mundial.
 

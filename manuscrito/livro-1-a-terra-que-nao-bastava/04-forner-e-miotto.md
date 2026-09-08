@@ -13,7 +13,7 @@ Não tem profissão, não tem endereço, não tem causa de nada. Não diz se a c
 
 Levei anos para entender que a informação não está nos nomes. Está no intervalo entre eles.
 
-O nome mais antigo com data é **Luigi Forner, nascido em 14 de agosto de 1817**, em Monfumo, e morto em 11 de novembro de 1905.
+O nome mais antigo com data é Luigi Forner, nascido em 14 de agosto de 1817, em Monfumo, e morto em 11 de novembro de 1905.
 
 Oitenta e oito anos. Naquele lugar e naquele século, é quase inverossímil.
 
@@ -33,7 +33,7 @@ Luigi teve três filhos que deixaram rastro: Domenico Alessandro, de 1853, Vince
 
 É o do meio que interessa.
 
-**Vincenzo Forner casou-se com Santa Pandolfo em 1887.** Ele com vinte e cinco anos, ela com vinte e dois.
+Vincenzo Forner casou-se com Santa Pandolfo em 1887. Ele com vinte e cinco anos, ela com vinte e dois.
 
 A primeira filha do casal, Angela, nasceu em 1886.
 
@@ -43,7 +43,7 @@ Não há mistério nisso, e faço questão de dizer, porque a mesma coisa vai ac
 
 A criança vinha primeiro. Depois o cartório.
 
-**Vincenzo e Santa tiveram dez filhos documentados.**
+Vincenzo e Santa tiveram dez filhos documentados.
 
 Angela, 1886. Pietro Luigi, 1889. Martino Giuseppe, 1891. Sante, 1893. Maria Elisabetta, 1895. Maria Luigia, 1896. Bonfiglio Sabino, 1898. Giulio Giuseppe, 1900. Rosa, 1903. Maria, 1907.
 
@@ -73,7 +73,7 @@ Roberto morreu em 3 de julho, com vinte e três dias. Ausilio viveu até 1989.
 
 Nasceram no mesmo dia, e entre a morte de um e a do outro passaram oitenta anos.
 
-Em 1916 morreu **Pietro Luigi Forner**, o segundo filho, com vinte e sete anos.
+Em 1916 morreu Pietro Luigi Forner, o segundo filho, com vinte e sete anos.
 
 A explicação óbvia se escreve sozinha: era idade de convocação, a Itália estava no segundo ano de guerra, e aquela casa ficava a poucos quilômetros do que viraria a frente do Monte Grappa.
 
@@ -109,17 +109,17 @@ O que quer dizer que a cena de outubro de 1927 é esta, e não outra:
 
 Do outro lado desta história estão os Miotto, e deles eu tenho muito menos.
 
-**Luigi Miotto casou-se com Domenica Ganeo em 24 de junho de 1900, no comune di Maser.** Ele com vinte e cinco anos, ela com vinte e um.
+Luigi Miotto casou-se com Domenica Ganeo em 24 de junho de 1900, no comune di Maser. Ele com vinte e cinco anos, ela com vinte e um.
 
 A família repetiu por décadas que ela se chamava Nina. Não se chamava. O certificado de casamento diz Domenica, e a declaração de óbito do filho dela, setenta e nove anos depois e do outro lado do oceano, diz Domenica também.
 
 Nina era o apelido. Foi o apelido que atravessou o Atlântico e virou nome.
 
-Repare onde Luigi Miotto nasceu: **Monfumo**.
+Repare onde Luigi Miotto nasceu: Monfumo.
 
 A mesma vila dos Forner. Os Miotto desta história não são de Castelcucco de origem. Chegaram lá depois, como quase todo mundo.
 
-**Fausto nasceu em 5 de julho de 1904, em Castelcucco, às quatro da manhã.**
+Fausto nasceu em 5 de julho de 1904, em Castelcucco, às quatro da manhã.
 
 Entre o casamento em Maser e o nascimento em Castelcucco há quatro anos e quatro quilômetros.
 
@@ -147,27 +147,27 @@ Numa delas, uma mulher pariu dez vezes em vinte e um anos e morreu em 1914, deix
 
 Na outra, um homem deixou o nome em três papéis ao longo de oitenta anos e mais nada.
 
-**Rosa e Fausto casaram-se em 1926.**
+Rosa e Fausto casaram-se em 1926.
 
 E aqui entra uma coisa que eu só descobri no fim, e que muda o desenho deste capítulo inteiro.
 
-**Fausto tinha irmãos.**
+Fausto tinha irmãos.
 
 Maria Luigia. Amabile Veronica. Vittorio. Asia. E pelo menos mais uma irmã, cujo nome eu ainda não sei.
 
-Quem me deu esses nomes foi **Giorgio Forner**, na Itália, escrevendo debaixo de fotografias que a família dele guardou por um século. Até recebê-las, eu tinha do lado Miotto três linhas de cartório e mais nada.
+Quem me deu esses nomes foi Giorgio Forner, na Itália, escrevendo debaixo de fotografias que a família dele guardou por um século. Até recebê-las, eu tinha do lado Miotto três linhas de cartório e mais nada.
 
-Uma dessas irmãs, mais velha que Fausto, chamava-se **Maria Luigia Miotto**.
+Uma dessas irmãs, mais velha que Fausto, chamava-se Maria Luigia Miotto.
 
 Leia o nome outra vez, porque este livro já tem uma Maria Luigia, e não é esta.
 
-A que vai atravessar o Atlântico com quatro filhos pequenos é **Forner** Maria Luigia, irmã da Rosa.
+A que vai atravessar o Atlântico com quatro filhos pequenos é Forner Maria Luigia, irmã da Rosa.
 
-Esta outra é **Miotto** Maria Luigia, irmã do Fausto. E esta não foi a lugar nenhum.
+Esta outra é Miotto Maria Luigia, irmã do Fausto. E esta não foi a lugar nenhum.
 
 Ela ficou porque casou com quem ficou.
 
-**Maria Luigia Miotto casou-se com Sante Forner.**
+Maria Luigia Miotto casou-se com Sante Forner.
 
 Sante é o irmão da Rosa. O das três medalhas, o do Monte Grappa, o do capítulo 7 deste livro.
 

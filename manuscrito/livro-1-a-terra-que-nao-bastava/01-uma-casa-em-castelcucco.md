@@ -101,9 +101,9 @@ Em outubro de 1918, com a guerra ainda em curso, o Ministero per le Terre Libera
 
 Leia a coluna da porcentagem devagar.
 
-**Borso: 3.700 refugiados numa população de 3.733. Noventa e nove por cento.**
+Borso: 3.700 refugiados numa população de 3.733. Noventa e nove por cento.
 
-Paderno d’Asolo, 96,8. Crespano, 87,8. **Cavaso: 2.795 pessoas de 3.258, oitenta e cinco vírgula oito por cento.** Possagno, 81,7.
+Paderno d’Asolo, 96,8. Crespano, 87,8. Cavaso: 2.795 pessoas de 3.258, oitenta e cinco vírgula oito por cento. Possagno, 81,7.
 
 Esses são os comuni encostados no maciço. Eles não se esvaziaram um pouco. Eles se esvaziaram.
 
@@ -139,7 +139,7 @@ A primeira: quase tudo isso é sobre Castelcucco, o vilarejo de Fausto. Rosa mor
 
 A mesma tabela responde por ela, em parte.
 
-**Monfumo: 307 refugiados numa população de 1.661. Dezoito vírgula cinco por cento.**
+Monfumo: 307 refugiados numa população de 1.661. Dezoito vírgula cinco por cento.
 
 Oito vezes a taxa de Castelcucco. Não é Cavaso e não é catástrofe, mas também não são os dois por cento do vilarejo do Fausto. Um em cada cinco saiu.
 

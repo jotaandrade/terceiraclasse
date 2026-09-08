@@ -25,13 +25,13 @@ Quem chega hoje de carro vê exatamente o que eles viam da janela.
 
 E ficaram coisas lá.
 
-O quadro com as **três medalhas de guerra do Sante**, emoldurado pela família e pendurado numa parede há quase um século. O retrato do **Galliano**, filho dele, fardado com as tropas alpinas em 1950, também emoldurado.
+O quadro com as três medalhas de guerra do Sante, emoldurado pela família e pendurado numa parede há quase um século. O retrato do Galliano, filho dele, fardado com as tropas alpinas em 1950, também emoldurado.
 
 Nenhum dos dois atravessou o oceano. Eu os conheço por fotografia de fotografia.
 
 E existe a casa.
 
-**Giorgio Forner** — bisneto do Sante, o ramo que ficou — mora na região e já esteve nela. Foi ele quem me mostrou.
+Giorgio Forner — bisneto do Sante, o ramo que ficou — mora na região e já esteve nela. Foi ele quem me mostrou.
 
 Eu não sei o número da porta. Não sei se ainda é da família, se foi vendida, se alguém mora dentro. Sei que ela existe e que ele sabe onde fica.
 
@@ -47,7 +47,7 @@ E é pouco, e é tudo.
 
 Nenhuma das quatro pessoas que saíram dali entre 1925 e 1927 tornou a ver quem ficou. Rosa e Sante ainda viveram vinte anos depois daquela despedida, cada um no seu continente, e não sobrou uma carta.
 
-**A primeira vez que os dois lados desta família se olharam de novo, um deles estava apontando uma câmera para uma parede.**
+A primeira vez que os dois lados desta família se olharam de novo, um deles estava apontando uma câmera para uma parede.
 
 Foi por uma porta em Castelcucco que Rosa Forner saiu, num dia de outubro de 1927, com Enrico de um ano no colo.
 

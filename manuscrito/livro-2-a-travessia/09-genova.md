@@ -35,7 +35,7 @@ Quem subiu aquela prancha junto com elas?
 
 É uma pergunta que quase nunca tem resposta. Nesta história tem, e por um motivo ruim: catorze dias depois, cinquenta daquelas pessoas seriam recolhidas do mar e desembarcadas no Rio de Janeiro, e um funcionário da Intendência de Imigração sentou e escreveu os nomes numa lista.
 
-Todos com a mesma anotação na coluna do embarque: **Genova, 3ª**.
+Todos com a mesma anotação na coluna do embarque: Genova, 3ª.
 
 **Beck Josef**, iugoslavo, cinquenta e três anos, agricultor, com a mulher Anna, o filho Ivan de vinte e três e a filha Elizabeth de dezesseis. Iam para São Paulo.
 
@@ -101,7 +101,7 @@ Duas mulheres e cinco crianças. A mais velha delas tinha sete anos.
 
 Nenhum homem adulto no grupo.
 
-O navio saiu de Gênova em **11 de outubro de 1927**.
+O navio saiu de Gênova em 11 de outubro de 1927.
 
 Um dia antes, em 10 de outubro, Enrico Miotto tinha completado um ano de idade.
 

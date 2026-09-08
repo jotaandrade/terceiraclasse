@@ -51,9 +51,9 @@ Alguém teve de ficar de pé na frente daquele balcão e dizer em voz alta, em i
 
 Já tinha feito isso em Gênova, em 11 de outubro, e no Rio de Janeiro, em 28. Esta era a terceira vez em vinte dias.
 
-**E as três vezes valeram.** Os sete nomes estão nos três papéis.
+E as três vezes valeram. Os sete nomes estão nos três papéis.
 
-Em **31 de outubro de 1927**, seis dias depois do naufrágio, alguém abriu o Livro 100 da Hospedaria de Imigrantes do Brás na página 290 e começou a escrever.
+Em 31 de outubro de 1927, seis dias depois do naufrágio, alguém abriu o Livro 100 da Hospedaria de Imigrantes do Brás na página 290 e começou a escrever.
 
 Aquele livro era o funil por onde passava a imigração de São Paulo. Nome, idade, residência, número de família, destino. Milhares de páginas iguais, uma atrás da outra, por décadas.
 
@@ -77,7 +77,7 @@ Família número 19260:
 **FORNER MARIA, 31 anos, Cavaso del Tomba.** 
  Gina, 7. Pulcheria, 6. Rino, 4. Danilo, 2.
 
-Maria Luigia entra ali como **Forner**.
+Maria Luigia entra ali como Forner.
 
 Ela era casada com Angelo Dei Agnoli desde 25 de fevereiro de 1917. Dez anos e quatro filhos.
 
@@ -115,15 +115,15 @@ São os mesmos que estão na lista do *Alhena*, três dias antes, no Rio.
 
 É a mesma leva de gente, documentada duas vezes, em duas cidades, por dois órgãos que não conversavam entre si.
 
-Cinquenta pessoas desembarcaram na Ilha das Flores. **Quarenta e duas deram entrada no Brás em 31 de outubro, e mais uma no dia seguinte.**
+Cinquenta pessoas desembarcaram na Ilha das Flores. Quarenta e duas deram entrada no Brás em 31 de outubro, e mais uma no dia seguinte.
 
 Sete ficaram no Rio. Quem foram, eu não sei.
 
 Há uma coisa nessa sobreposição que eu queria saber e não sei.
 
-Na lista do *Alhena*, a passageira número 25 é **De Rosi Emilia**, cinquenta e cinco anos, que perdeu o marido no naufrágio e pediu para ser mandada de volta à Itália.
+Na lista do *Alhena*, a passageira número 25 é De Rosi Emilia, cinquenta e cinco anos, que perdeu o marido no naufrágio e pediu para ser mandada de volta à Itália.
 
-Na página do Brás há um **De Rossi**.
+Na página do Brás há um De Rossi.
 
 Na digitalização que eu tenho, não consigo dizer se é ela. Se for, quer dizer que o pedido não foi atendido, ou que ela desistiu dele, e que a mulher que queria voltar pegou o mesmo trem que todo mundo.
 

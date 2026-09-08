@@ -19,7 +19,7 @@ Estava no colo da mãe, na terceira classe, no porão. Não escolheu nada, não 
 
 Em 31 de outubro de 1927 ele entrou na Hospedaria do Brás como segunda linha da família 19270.
 
-**ENRICO, 1 ano.**
+ENRICO, 1 ano.
 
 Sem sobrenome. Nas listas de imigração o sobrenome se escreve uma vez, na linha do chefe, e vale para todos os que vêm embaixo.
 
@@ -31,11 +31,11 @@ O que aconteceu com ele entre 1927 e 1949, eu não sei.
 
 E aí ele reaparece, numa repartição de São Paulo, em 29 de dezembro de 1949.
 
-**Registro de Estrangeiros.**
+*Registro de Estrangeiros.*
 
-Vinte e três anos. Solteiro. Profissão: **pedreiro**. Endereço: Parque São Jorge, sem número, Penha, São Paulo, capital. RG 1.335.902, carteira 308.460.
+Vinte e três anos. Solteiro. Profissão: pedreiro. Endereço: Parque São Jorge, sem número, Penha, São Paulo, capital. RG 1.335.902, carteira 308.460.
 
-Nacionalidade: **italiana**.
+Nacionalidade: italiana.
 
 Vinte e dois anos depois de chegar, ele ainda era italiano.
 

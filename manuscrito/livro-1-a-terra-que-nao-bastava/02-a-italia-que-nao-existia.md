@@ -137,7 +137,7 @@ Trinta e seis anos antes da neta.
 
 E há mais uma geração atrás dele, que o mesmo livro registra e que ninguém desta família conhecia.
 
-O pai de Luigi chamava-se **Domenico Forner**, casado com **Maria Vial**.
+O pai de Luigi chamava-se Domenico Forner, casado com Maria Vial.
 
 Não tenho data de nenhum dos dois. Tenho os nomes, e os nomes empurram esta história para o século XVIII.
 

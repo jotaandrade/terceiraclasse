@@ -11,7 +11,7 @@ Este livro seguiu dois deles através de um oceano: Rosa, a nona, e Maria Luigia
 
 Este capítulo é sobre o quarto.
 
-**Sante Forner** nasceu em 16 de abril de 1893, em Monfumo.
+Sante Forner nasceu em 16 de abril de 1893, em Monfumo.
 
 Foi para a Grande Guerra, esteve nos Alpes, e voltou com três medalhas que a família mandou emoldurar.
 
@@ -55,11 +55,11 @@ Maria Luigia durou ainda mais.
 
 Nasceu em 1896, sobreviveu ao naufrágio aos trinta e um anos com quatro filhos, e morreu em 1992, aos noventa e seis.
 
-**Sessenta e cinco anos depois daquela noite.** Ela ainda estava viva quando eu nasci.
+Sessenta e cinco anos depois daquela noite. Ela ainda estava viva quando eu nasci.
 
 E do lado de lá a linha continuou.
 
-Sante teve **Galliano**. Galliano teve **Giorgio**.
+Sante teve Galliano. Galliano teve Giorgio.
 
 Três gerações no mesmo canto do Vêneto, enquanto cinco aconteciam aqui.
 
@@ -83,7 +83,7 @@ E aí a coisa se desfez de um jeito que ninguém teria imaginado.
 
 Eu estava montando a árvore da minha família num site de genealogia. Botando nome, data, lugar, um por um.
 
-Do outro lado do Brasil, **Patrícia Betti** estava fazendo exatamente a mesma coisa, ao mesmo tempo, sem me conhecer.
+Do outro lado do Brasil, Patrícia Betti estava fazendo exatamente a mesma coisa, ao mesmo tempo, sem me conhecer.
 
 Ela é neta da Pulcheria — a menina de seis anos da cozinha — e bisneta de Maria Luigia.
 
@@ -103,7 +103,7 @@ E de outra prima, de outro ramo desta mesma família, veio o resto: o cozinheiro
 
 **Sem essas conversas, o capítulo mais importante deste livro seria uma lista de nomes numa folha holandesa.**
 
-E foi por elas, pelas primas que apareceram do outro lado do Brasil, que eu cheguei ao **Giorgio**.
+E foi por elas, pelas primas que apareceram do outro lado do Brasil, que eu cheguei ao Giorgio.
 
 O bisneto do irmão que ficou.
 

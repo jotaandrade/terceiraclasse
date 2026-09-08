@@ -7,19 +7,19 @@
 
 A primeira coisa que aconteceu depois do estrondo foi alguém subir à ponte para perguntar.
 
-**Eugenio Gabassi**, vice-cônsul italiano na cidade argentina de Paraná, cinquenta e seis anos, foi falar com o comandante assim que sentiu o navio parar.
+Eugenio Gabassi, vice-cônsul italiano na cidade argentina de Paraná, cinquenta e seis anos, foi falar com o comandante assim que sentiu o navio parar.
 
 Voltou tranquilizado. Disseram a ele que não havia com que se preocupar e que, no pior dos casos, o navio seria rebocado até o Rio de Janeiro.
 
 Essa frase circulou pelo navio a noite inteira, e matou gente.
 
-**Pedro Volpi**, trabalhador agrícola italiano de trinta e três anos, ficou a bordo até o último instante possível. Explicou depois por quê, sem nenhum rancor: o capitão tinha dito que o navio ficaria à tona até o dia seguinte.
+Pedro Volpi, trabalhador agrícola italiano de trinta e três anos, ficou a bordo até o último instante possível. Explicou depois por quê, sem nenhum rancor: o capitão tinha dito que o navio ficaria à tona até o dia seguinte.
 
 Ele não estava sendo ingênuo. Estava obedecendo a autoridade do lugar onde estava.
 
 E quem não acreditou saiu cedo.
 
-**Pascual Pecci** viajava na segunda classe com a mulher e a filha. Achou que o comandante estava enganado sobre o tempo que o navio aguentaria, e agiu por conta própria: tirou a família dali logo no começo.
+Pascual Pecci viajava na segunda classe com a mulher e a filha. Achou que o comandante estava enganado sobre o tempo que o navio aguentaria, e agiu por conta própria: tirou a família dali logo no começo.
 
 Os três sobreviveram.
 
@@ -27,7 +27,7 @@ Pecci disse depois, com todas as letras, que a palavra do comandante tinha embal
 
 Enquanto isso, no porão, ninguém sabia de nada.
 
-**Milhem Solk**, libanês de trinta e cinco anos, ouviu o estrondo e foi perguntar. Procurou marinheiro, perguntou a vários, um atrás do outro.
+Milhem Solk, libanês de trinta e cinco anos, ouviu o estrondo e foi perguntar. Procurou marinheiro, perguntou a vários, um atrás do outro.
 
 Nenhum deles soube dizer o que tinha acontecido.
 
@@ -37,13 +37,13 @@ E o navio ia deitando.
 
 Ele já vinha adernado desde antes do acidente, como se viu dois capítulos atrás. Depois do eixo, a inclinação deixou de ser desconforto e virou geometria.
 
-**Enrico Nazzeconi** descreve a certa altura da noite uma inclinação a estibordo em estado extremo. **Ali Hassen** fala da popa afundando.
+Enrico Nazzeconi descreve a certa altura da noite uma inclinação a estibordo em estado extremo. Ali Hassen fala da popa afundando.
 
 Uma coisa que quem nunca esteve num navio não imagina: quando o casco inclina, o chão deixa de ser chão. Corredor vira ladeira. Escada vira parede. E cada grau a mais torna mais difícil sair de onde se está.
 
 O pedido de socorro saiu, e é sobre a hora dele que as fontes brigam.
 
-Uma diz **17h35**, vinte minutos depois do eixo partir. Outra diz **19h15**, quase duas horas depois.
+Uma diz 17h35, vinte minutos depois do eixo partir. Outra diz 19h15, quase duas horas depois.
 
 São duas noites diferentes. Numa, o navio pediu ajuda quase imediatamente. Na outra, esperou.
 
@@ -61,11 +61,11 @@ Volpi, perguntado se tinha visto tubarões, respondeu que não, e emendou: *a no
 
 Nazzeconi, que ficou a bordo até quase o fim, disse que se jogou na água, ouviu três apitos longos e um estrondo, e **não conseguiu ver o navio afundar**. Estava a poucas dezenas de metros dele.
 
-**Batista Beria**, nadando, só via o que os holofotes dos navios de resgate alcançavam. Nos intervalos, ouvia gritos sem conseguir localizar de onde vinham.
+Batista Beria, nadando, só via o que os holofotes dos navios de resgate alcançavam. Nos intervalos, ouvia gritos sem conseguir localizar de onde vinham.
 
 E a informação continuou distribuída como sempre tinha estado a bordo: por classe.
 
-**Nicola Lynose**, iugoslavo da terceira classe, explicou o mecanismo sem querer. Quem viajava embaixo estava colado à tripulação e enxergava o que a tripulação fazia.
+Nicola Lynose, iugoslavo da terceira classe, explicou o mecanismo sem querer. Quem viajava embaixo estava colado à tripulação e enxergava o que a tripulação fazia.
 
 Quem viajava em cima tinha a palavra do comandante.
 
@@ -73,15 +73,15 @@ No dia a dia isso é uma diferença de conforto. Naquela noite virou uma diferen
 
 Havia também quem simplesmente esperasse.
 
-A **família Vacelli** — o casal e três filhos de quinze, treze e dez anos — passou a noite inteira na popa, junto à escada, aguardando a vez. O pai repetia que havia tempo.
+A família Vacelli — o casal e três filhos de quinze, treze e dez anos — passou a noite inteira na popa, junto à escada, aguardando a vez. O pai repetia que havia tempo.
 
-Às **nove e meia da noite** um bote do *Empire Star* encostou naquela escada e levou os cinco.
+Às nove e meia da noite um bote do *Empire Star* encostou naquela escada e levou os cinco.
 
 Eles acham que foram dos últimos a sair. Mal chegaram ao navio inglês e o Mafalda já não estava lá.
 
-**Mario Ottaviani**, que ficou a bordo até quase o fim porque sabia nadar, deixou um número.
+Mario Ottaviani, que ficou a bordo até quase o fim porque sabia nadar, deixou um número.
 
-Quando entendeu que o navio ia mesmo afundar e se jogou, ainda havia nos conveses **cerca de sessenta mulheres e crianças**, e cerca de **duzentos homens**.
+Quando entendeu que o navio ia mesmo afundar e se jogou, ainda havia nos conveses cerca de sessenta mulheres e crianças, e cerca de duzentos homens.
 
 Guarde esse número. Ele volta no capítulo dos 314.
 
@@ -115,7 +115,7 @@ Então fizeram o que se faz quando não há como avançar: se enfiaram num canto
 
 E alguém foi buscá-las.
 
-Havia na cozinha daquele navio um cozinheiro, um homem de pele escura, que tinha se afeiçoado a **Pulcheria** nas duas semanas de travessia. A menina de seis anos que não saía de lá.
+Havia na cozinha daquele navio um cozinheiro, um homem de pele escura, que tinha se afeiçoado a Pulcheria nas duas semanas de travessia. A menina de seis anos que não saía de lá.
 
 Quando o navio estava se enchendo de água, ele desceu ao porão, achou as duas mulheres e as cinco crianças, e tirou todos de lá.
 
@@ -137,9 +137,9 @@ E é a única explicação que existe para sete pessoas terem saído de dentro d
 
 **Sem esse homem, este livro não teria autor.**
 
-O *Principessa Mafalda* perdeu energia às **dez e três da noite**.
+O *Principessa Mafalda* perdeu energia às dez e três da noite.
 
-Sete minutos depois, às **dez e dez**, afundou.
+Sete minutos depois, às dez e dez, afundou.
 
 Nazzeconi, na água, ouviu três apitos longos e, logo em seguida, um estrondo que ele não soube descrever de outro jeito.
 

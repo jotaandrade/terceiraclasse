@@ -11,11 +11,11 @@ Tinta preta sobre papel barato, hoje amarelado nas bordas e vincado no lugar ond
 
 Duas palavras, com uma reticência antes, como quem completa uma frase que a pessoa já vinha pensando sozinha havia meses:
 
-**… In América.**
+*… In América.*
 
 Embaixo do título, numa faixa desenhada como um pergaminho que se desenrola:
 
-**Terre in Brasile per gli Italiani.**
+*Terre in Brasile per gli Italiani.*
 
 Terras no Brasil para os italianos. E logo abaixo, em letra miúda e reta, a parte prática:
 
@@ -139,21 +139,21 @@ Não achei o Fausto.
 
 Achei outra coisa.
 
-Está num formulário anexo à lista de chegada de **23 de fevereiro de 1923**, no porto de Santos. Duas folhas, sessenta e sete pessoas, dez famílias. O cabeçalho vem impresso:
+Está num formulário anexo à lista de chegada de 23 de fevereiro de 1923, no porto de Santos. Duas folhas, sessenta e sete pessoas, dez famílias. O cabeçalho vem impresso:
 
-*Relação dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o Vap. “PRINCIPESSA MAFALDA” sahido em 8 de FEVEREIRO de 1923 com destino SANTOS ao Estado de SÃO PAULO, **em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da Companhia Commercial de SÃO PAULO**.*
+*Relação dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o Vap. “PRINCIPESSA MAFALDA” sahido em 8 de FEVEREIRO de 1923 com destino SANTOS ao Estado de SÃO PAULO, em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da Companhia Commercial de SÃO PAULO.*
 
 O mesmo navio. Quatro anos antes de Rosa.
 
 As colunas não deixam dúvida sobre que tipo de transporte era aquele.
 
-**Passagens**, com as frações: 1, 1/2, 1/4, 0. Grau de parentesco com o chefe da família. Filiação. Última residência. E **Destino declarado**, subdividido em Estação, Município e **Patrão**.
+Passagens, com as frações: 1, 1/2, 1/4, 0. Grau de parentesco com o chefe da família. Filiação. Última residência. E Destino declarado, subdividido em Estação, Município e Patrão.
 
 Patrão. Preenchido antes de o navio sair de Gênova.
 
 Os campos trazem nome de fazenda e de proprietário: Chavantes, Barreiro, Fazenda Guatapará, S. Simão, e repetidas vezes um mesmo nome, Dr. Ralpho P. Silva.
 
-No pé da folha, a conta: **TESTE N° 67, POSTI N° 57 1/4**. Sessenta e sete cabeças contra cinquenta e sete passagens e um quarto, porque criança pequena valia fração de bilhete.
+No pé da folha, a conta: *TESTE N° 67, POSTI N° 57 1/4*. Sessenta e sete cabeças contra cinquenta e sete passagens e um quarto, porque criança pequena valia fração de bilhete.
 
 E na lista geral do mesmo dia, na margem esquerda, ao lado de dezenas de nomes, uma palavra repetida à mão: **Subsidiados**.
 
@@ -167,7 +167,7 @@ Duas emigrações diferentes, no mesmo período, saindo do mesmo porto. E, como 
 
 E há uma coluna nessa folha que muda o modo de ler o resto deste livro.
 
-Os subsidiados de 1923 viajaram na **terceira classe**.
+Os subsidiados de 1923 viajaram na terceira classe.
 
 Não havia um convés de colono e um convés de passageiro. Havia o porão, e dentro dele estavam misturados quem tinha comprado o bilhete e quem tinha sido recrutado com fazenda marcada. As duas populações dormiam no mesmo lugar, comiam da mesma fila e desciam pela mesma escada.
 

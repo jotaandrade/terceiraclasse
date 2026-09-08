@@ -31,7 +31,7 @@ E só então o navio.
 
 Aqui eu vou fazer uma coisa que não fiz em nenhum outro capítulo deste livro, e é melhor avisar antes de fazer.
 
-**Não existe descrição do embarque delas.** Ninguém escreveu, ninguém contou, e a lista de Gênova é um dos papeis que eu não achei.
+Não existe descrição do embarque delas. Ninguém escreveu, ninguém contou, e a lista de Gênova é um dos papeis que eu não achei.
 
 O que existe é a data, os sete nomes, as sete idades — e o procedimento, que era o mesmo para toda gente de terceira classe que embarcava num porto italiano em 1927, e sobre o qual há documentação farta.
 
@@ -47,7 +47,7 @@ O que faz a fila parar é o médico.
 
 A companhia respondia pelo passageiro recusado do outro lado do oceano, e por isso examinava deste lado. O exame que importava era o dos olhos: o polegar do médico vira a pálpebra para cima e procura o tracoma.
 
-**Esse exame é feito em sete pessoas.** Em Rosa, em Maria Luigia, e em cinco crianças, das quais a mais velha tem sete anos e a mais nova tem dois — e uma que tem um ano e não anda.
+Esse exame é feito em sete pessoas. Em Rosa, em Maria Luigia, e em cinco crianças, das quais a mais velha tem sete anos e a mais nova tem dois — e uma que tem um ano e não anda.
 
 Uma pálpebra virada num bebê de um ano dá choro. Cinco crianças em fila dando choro, e a fila atrás esperando.
 
@@ -63,7 +63,7 @@ Depois do médico vem o funcionário, e o funcionário pede os nomes.
 
 Essa parte não é reconstrução — ela deixou marca. Catorze dias depois, no Rio de Janeiro, outro funcionário escreveu aqueles mesmos nomes numa lista, e escreveu assim:
 
-**Forner Maria. Ginneta. Pulgheria.**
+Forner Maria. Ginneta. Pulgheria.
 
 Não é *Maria Luigia*, não é *Gina*, não é *Pulcheria*. São os nomes como soam na boca de uma mulher do Vêneto e como caem no ouvido de um homem que escreve depressa.
 
@@ -97,7 +97,7 @@ E as duas eram irmãs, mas não eram irmãs de qualquer jeito.
 
 Maria Luigia nasceu em 1896. Rosa, em 1903. Sete anos entre uma e outra.
 
-Em 1914 a mãe delas, **Santa Pandolfo**, morreu. Rosa tinha onze anos. Maria Luigia tinha dezoito.
+Em 1914 a mãe delas, Santa Pandolfo, morreu. Rosa tinha onze anos. Maria Luigia tinha dezoito.
 
 Numa casa de dez filhos, no Vêneto rural, quando a mãe morre e existe uma filha de dezoito anos, não se contrata ninguém.
 
@@ -113,7 +113,7 @@ Numa noite de outubro, no meio do Atlântico, a mulher que tinha criado Rosa est
 
 E ficou gente para trás.
 
-**Vincenzo Forner ainda estava vivo.** O pai delas tinha sessenta e cinco anos em 1927, e continuaria vivo por pelo menos mais treze — eu sei disso pela carteira de identidade que o filho Sante tirou em Asolo, em 1940, com o pai anotado como vivo.
+Vincenzo Forner ainda estava vivo. O pai delas tinha sessenta e cinco anos em 1927, e continuaria vivo por pelo menos mais treze — eu sei disso pela carteira de identidade que o filho Sante tirou em Asolo, em 1940, com o pai anotado como vivo.
 
 Sante ficou. Os outros irmãos ficaram.
 
@@ -135,10 +135,10 @@ Rosa Forner tinha vinte e quatro anos e não conhecia o mar até aquela semana.
 
 Catorze dias depois ela ia passar horas dentro dele.
 
-O *Principessa Mafalda* largou de Gênova em **11 de outubro de 1927**.
+O *Principessa Mafalda* largou de Gênova em 11 de outubro de 1927.
 
 A viagem completa, da Itália até a Argentina, levava catorze dias em condições normais.
 
-Ele afundou em **25 de outubro**.
+Ele afundou em 25 de outubro.
 
 **O navio durou exatamente o tempo de uma travessia.**
