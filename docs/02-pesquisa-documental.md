@@ -2164,3 +2164,61 @@ tubaroes."*, *"E o comandante ficou."*, *"E ai, no setimo, Mafalda."* Saiu de *"
 *"E aqui..."*, *"E agora..."*, *"E e aqui que..."* - onde era muleta.
 
 Livro: **27 capitulos, 36.308 palavras, 574 paginas**. Negrito em 1 a cada 202 palavras.
+
+---
+
+## 32. Parecer de producao e a construcao do aparato - 08.09.2026
+
+Terceira leitura, desta vez com olho de quem abre ordem de servico. As medicoes:
+
+- **41 das 43 imagens do miolo e 22 das 22 do caderno abaixo de 1.200 px** no menor lado (o
+  minimo para 10 cm a 300 dpi). Checagem nas pastas de origem: **das 66 imagens, so 26 passam**
+  - o problema esta nos originais, nao na conversao para webp. O padrao e WhatsApp.
+- **Nenhum aparato**: sem pagina de creditos, sem relacao de fontes, sem creditos de imagem,
+  sem indice. Toda a pesquisa vivia em `docs/`, fora do volume.
+- **O epilogo era uma promessa em branco**: pagina de parte + abertura de capitulo com sinopse
+  e nada depois.
+- **Um unico consentimento registrado** (Patricia Betti) para uma dezena de pessoas vivas
+  nomeadas e fotografadas.
+
+### 32.1 O que foi construido dentro do livro
+
+**Pagina de creditos**, logo depois da folha de rosto, com os campos pendentes marcados como
+*a definir*. Nada falso vai impresso.
+
+**Nota de metodo**, 5 paginas, depois do sumario. Diz o que o livro faz com os tres materiais
+que usa - documento, depoimento e reconstrucao -, que o que nao existe fica em branco, o que
+sao `di` e `fu`, por que os nomes tem varias grafias, que a tradicao oral desceu por dois
+galhos que nao contam a mesma coisa, e por que ha tarja nos documentos.
+
+**Fontes**, 10 paginas, capitulo por capitulo, mais as fontes gerais. Compilado do que o
+proprio texto declara: numeros de atto, Albo d'Oro, Livro 100 p. 290, a relacao do *Alhena*,
+o Registration of Death 5509-008734, o decreto n. 2.400, o censimento de 1919. As lacunas
+entram como lacunas, em italico.
+
+**Creditos de imagem**, 7 paginas, uma linha por imagem. Onde a procedencia existe, esta
+escrita; onde nao existe, esta `[a confirmar]`. **Essa lista e, de proposito, a mesma lista da
+liberacao de direitos**: cada `[a confirmar]` impresso e uma carta que falta.
+
+**Indice onomastico**, 4 paginas, 96 entradas, com **folio de verdade** - o gerador percorre as
+paginas ja montadas com a mesma contagem do render. Quem passa de vinte folios entra como
+*passim*, que e pratica de indexacao: uma entrada com cem paginas nao serve para nada.
+
+**O epilogo parou de prometer.** Virou uma pagina que diz de que depende: das gravacoes com
+Mafalda Miotto Terra, que e ao mesmo tempo a pergunta central e a testemunha deste livro.
+
+### 32.2 Padronizacoes
+
+Quatro legendas com `dei Agnoli` minusculo passaram a `Dei Agnoli`. A folha de estilo entrou no
+README, para a preparacao nao "consertar" o que esta certo: numeros por extenso com excecoes
+declaradas, grafia de documento preservada na citacao e normalizada no resto, italico para
+navio e fala de documento.
+
+### 32.3 O que so se resolve fora
+
+Esta em `docs/04-producao.md`, com manifesto arquivo por arquivo: os originais em alta (16 com
+o Giorgio, 6 com a Patricia, 36 com o autor, 5 de terceiros), as nove liberacoes de direito, as
+autorizacoes de nome e imagem, a tarja de terceiros na relacao do *Alhena*, e o conflito de
+calendario - a viagem a Castelcucco esta marcada para o dia do lancamento.
+
+Livro: **601 paginas navegaveis**, 27 capitulos, 36.308 palavras.

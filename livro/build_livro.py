@@ -5197,11 +5197,465 @@ CHAPTERS = {1: CAP1, 2: CAP_ITALIA, 3: CAP4, 4: CAP5, 5: CAP6, 6: CAP7, 7: CAP8,
 pages = []
 def P(**kw): pages.append(kw)
 
+
+# ---------------------------------------------------------------- aparato
+# Tudo o que um livro impresso precisa ter e um rascunho navegavel pode adiar:
+# nota de metodo, fontes por capitulo, creditos de imagem e indice onomastico.
+# O indice sai com folio de verdade, contado sobre as paginas ja montadas.
+
+NOTA_METODO = [
+"""Este livro trabalha com três materiais, e eles não valem a mesma coisa.
+
+<strong>Documento</strong> é o que está escrito num papel emitido por alguém com autoridade
+para emiti-lo: um ato de nascimento, uma lista de desembarque, uma carteira de identidade.
+Quando o livro diz uma data, um número ou um nome, veio daí, e a fonte está na relação ao
+fim do volume.
+
+<strong>Depoimento</strong> é o que uma pessoa contou. Vale muito e erra sozinho. Toda vez
+que o livro usa um, ele diz de quem é e por onde passou até chegar aqui.
+
+<strong>Reconstrução</strong> é uma cena montada a partir do procedimento da época, quando o
+procedimento é conhecido e a cena não foi descrita por ninguém. Ela aparece três vezes neste
+livro — a prancha em Gênova, o porão às cinco e quinze, a porta da Hospedaria — e nas três
+o texto avisa antes que é isso que está fazendo.""",
+
+"""O que não existe fica em branco.
+
+Quando um documento não foi encontrado, o livro diz que não foi, e diz o que ele resolveria
+se aparecesse. É o caso da lista de embarque de Gênova de outubro de 1927, do mês em que
+Fausto Miotto atravessou e do que se passou entre ele e Rosa quando finalmente se acharam.
+
+Nada disso foi preenchido por dedução.""",
+
+"""Duas convenções de leitura, que o texto usa o tempo todo.
+
+No registro civil italiano, <em>di</em> antes do nome do pai quer dizer pai vivo, e <em>fu</em>
+quer dizer pai morto. Uma linha de três letras num documento de 1940 foi o que provou, neste
+projeto, que um homem nascido em 1862 ainda estava vivo.
+
+E o mesmo nome aparece escrito de várias maneiras, porque quase todos foram <em>ouvidos</em>,
+não lidos: uma mulher do Vêneto dizia, e um funcionário escrevia. Gina Oliva vira Ginneta,
+depois Dinetta, depois Ginita. O livro mantém a grafia do documento quando cita o documento, e
+usa a forma do registro de nascimento no resto.""",
+
+"""A tradição oral desta família desceu por dois galhos, e eles não contam a mesma coisa.
+
+Um guardou o carvão e o não-reconhecimento na frente da Hospedaria; o outro guardou o
+cozinheiro que desceu ao porão e a menina que achou o pai. O livro nunca apresenta um dos
+dois como consenso da família: atribui cada lembrança a quem a carrega e registra que a outra
+linha não a tem.""",
+
+"""Sobre pessoas que não escolheram estar aqui.
+
+Os documentos reproduzidos neste livro pertencem à família, mas alguns trazem terceiros
+dentro. Onde isso acontece, o dado pessoal de quem não é da família foi tarjado, e a tarja
+está declarada na legenda.""",
+]
+
+# ------------------------------------------------------------------ fontes
+FONTES_GERAIS = [
+("O corpus de depoimentos",
+ [u"Vinte relatos de sobreviventes publicados na imprensa argentina e brasileira nos dias "
+  u"seguintes ao naufrágio, recebidos em tradução, com nome, idade e procedência de cada "
+  u"depoente. São a espinha dorsal dos capítulos 13 a 18.",
+  u"<strong>O jornal, a data e a página de cada relato ainda não foram localizados.</strong> A "
+  u"pista aberta é o acervo reunido em histarmar.com.ar, citado pelo artigo do Museu da "
+  u"Imigração. Enquanto a procedência não fecha, o livro identifica cada relato pelo nome do "
+  u"depoente e diz, toda vez, o que ele é: gente que tinha acabado de sair da água, falando "
+  u"com repórter, poucos dias depois."]),
+("Acervos consultados",
+ [u"<em>Portale Antenati</em>, Ministero della Cultura — atos de nascimento, casamento e "
+  u"óbito dos comuni de Monfumo, Castelcucco, Cavaso del Tomba e Maser.",
+  u"<em>FamilySearch</em> — imagens de registro e árvore colaborativa.",
+  u"<em>Arquivo Público do Estado de São Paulo</em> — vinte e cinco manifestos de desembarque "
+  u"do <em>Principessa Mafalda</em>, 1919 a 1924.",
+  u"<em>Museu da Imigração do Estado de São Paulo</em> — Livro de Registro de Matrícula nº 100 "
+  u"da Hospedaria do Brás, e o artigo do acervo sobre os náufragos do <em>Principessa "
+  u"Mafalda</em>.",
+  u"<em>Hemeroteca Digital da Biblioteca Nacional</em>.",
+  u"<em>Albo d’Oro dei Caduti della Grande Guerra</em>, Ministero della Difesa.",
+  u"<em>Storia di Castelcucco</em> — história local, com a genealogia impressa da família "
+  u"Forner. <em>[referência bibliográfica completa a confirmar]</em>",
+  u"Acervo da família Miotto e Forner, no Brasil e no Vêneto."]),
+("Epígrafe",
+ [u"Serafim Derenzi, 1974. <em>[referência bibliográfica completa e autorização a confirmar]</em>"]),
+]
+
+FONTES = {
+1: [u"Comune di Monfumo, <em>atto di nascita</em> 31 do ano de 1903 (Rosa Forner); Comune di "
+    u"Castelcucco, <em>atto di nascita</em> 33 do ano de 1904 (Fausto Miotto). Cópias autenticadas.",
+    u"Ministero per le Terre Liberate, <em>Censimento dei profughi di guerra</em>, distretto di "
+    u"Asolo. Roma, 1919.",
+    u"Prefettura di Treviso, documentação do <em>sgombero facoltativo e parziale</em>, "
+    u"27 de fevereiro de 1918."],
+2: [u"<em>Storia di Castelcucco</em>: genealogia impressa da família Forner e a anotação "
+    u"<em>emigrato in America dopo il 1891</em> ao lado de Luigi Forner.",
+    u"<em>Tassa sul macinato</em>, lei de 7 de julho de 1868, em vigor a partir de 1º de janeiro "
+    u"de 1869; confirmação pelo Senado em 26 de janeiro de 1869.",
+    u"Séries de emigração italiana por região, 1876 a 1900.",
+    u"<em>Inchiesta agraria e sulle condizioni della classe agricola</em> (Stefano Jacini, "
+    u"1877–1885), consultada para o quadro geral do campo itálico."],
+3: [u"Portale Antenati: índices de nascimento, casamento e óbito dos comuni de Monfumo, "
+    u"Castelcucco, Cavaso del Tomba e Maser.",
+    u"Certificado de casamento de Luigi Miotto e Domenica Ganeo, Comune di Maser, "
+    u"24 de junho de 1900.",
+    u"Declaração de óbito de Fausto Miotto, São João da Boa Vista, 13 de agosto de 1979."],
+4: [u"Panfleto <em>… In América. Terre in Brasile per gli Italiani</em>. Procedência não "
+    u"localizada — ver Créditos de imagem.",
+    u"Arquivo Público do Estado de São Paulo: <em>Relação dos immigrantes italianos "
+    u"agricoltores</em> anexa à lista de chegada do <em>Principessa Mafalda</em> de 23 de "
+    u"fevereiro de 1923, porto de Santos.",
+    u"Séries de imigração subvencionada em São Paulo, 1891 a 1895."],
+5: [u"Decreto de 26 de março de 1902, conhecido pelo nome do ministro Giulio Prinetti.",
+    u"Lei italiana de emigração de 31 de janeiro de 1901 e criação do <em>Commissariato "
+    u"Generale dell’Emigrazione</em>.",
+    u"Relatórios consulares italianos sobre as condições nas fazendas de café.",
+    u"Decreto brasileiro nº 2.400, de 13 de julho de 1918, citado no cabeçalho da Relação de "
+    u"1923. <em>Até quando a proibição italiana de 1902 valeu na prática é lacuna declarada no "
+    u"próprio capítulo.</em>"],
+6: [u"<em>Albo d’Oro dei Caduti della Grande Guerra</em>: dezesseis Forner, dos quais nove de "
+    u"Monfumo; cinquenta e quatro Miotto, nenhum do sopé do Grappa.",
+    u"<em>Carta d’identità</em> de Sante Forner, Comune di Asolo, 8 de março de 1940. Acervo da "
+    u"família Forner, Vêneto.",
+    u"Decreto real de 29 de julho de 1920, que institui a <em>Medaglia commemorativa della "
+    u"guerra italo-austriaca 1915-1918</em> e determina que seja cunhada com bronze de canhões "
+    u"capturados."],
+7: [u"Anotação à margem do <em>atto di nascita</em> de Rosa Forner, Comune di Monfumo: "
+    u"<em>ha contratto matrimonio con Miotto Fausto in data 03/12/1926 a Castelcucco</em>.",
+    u"Comune di Castelcucco, ato nº 9, parte I, do ano de 1926.",
+    u"Registro de Estrangeiros de Enrico Miotto, São Paulo, 29 de dezembro de 1949 — data de "
+    u"nascimento: 10 de outubro de 1926.",
+    u"Decreto-lei de 28 de abril de 1927, que extingue o Commissariato Generale "
+    u"dell’Emigrazione."],
+8: [u"Intendência de Imigração, relação dos cinquenta náufragos desembarcados do vapor "
+    u"<em>Alhena</em>. Rio de Janeiro, 28 de outubro de 1927. Assinada pelo intérprete Thomas "
+    u"Filipovich."],
+9: [u"Arquivo Público do Estado de São Paulo: vinte e cinco manifestos de desembarque do "
+    u"<em>Principessa Mafalda</em>, 1919 a 1924 — colunas de bagagem, dinheiro declarado e "
+    u"endereço de destino.",
+    u"Corpus de depoimentos: Milhem Solk.",
+    u"Tradição oral: a cozinha e o cozinheiro, lembrança atribuída a Pulcheria Dei Agnoli e "
+    u"transmitida por uma prima do ramo Dei Agnoli. <strong>Não é lembrança unânime</strong> — "
+    u"ver capítulo 14."],
+10:[u"Relação do <em>Alhena</em>, 28 de outubro de 1927: coluna de parentesco, <em>chefe</em> "
+    u"para as duas irmãs.",
+    u"Procedimento de embarque de terceira classe em porto italiano em 1927: inspeção "
+    u"sanitária e exame de tracoma. <strong>A cena é reconstrução declarada no próprio "
+    u"capítulo.</strong>",
+    u"<em>A lista de embarque de Gênova de outubro de 1927 não foi localizada.</em>"],
+11:[u"Comune di Cavaso del Tomba, <em>atto di nascita</em> de Danilo Angelo Dei Agnoli, "
+    u"14 de fevereiro de 1925, declarado pela parteira Celli Maria <em>in luogo del marito, "
+    u"perché residente all’estero a scopo di lavoro</em>.",
+    u"Certidão do Serviço de Registro de Estrangeiros nº 61: Angelo Dei Agnoli, desembarcado "
+    u"em Santos em 30 de abril de 1927, do vapor <em>Principessa Mafalda</em>.",
+    u"Assento de casamento nº 660, cartório de Grama, 1947.",
+    u"<em>O mês e o navio da travessia de Fausto Miotto não foram localizados.</em>"],
+12:[u"Lançamento e naufrágio do <em>Principessa Jolanda</em>, estaleiro de Riva Trigoso, "
+    u"22 de setembro de 1907.",
+    u"Lloyd Italiano: encomenda dos dois transatlânticos gêmeos; entrada em serviço do "
+    u"<em>Principessa Mafalda</em> em 1909.",
+    u"Leis de cota dos Estados Unidos, 1921 e 1924.",
+    u"<em>A estimativa de cem mil passageiros em dezoito anos é conta do autor, declarada como "
+    u"tal no texto.</em>"],
+13:[u"Corpus de depoimentos: Patricio de Rosas, Antonio Zanni, Antonio Fontana, Camilo "
+    u"Rivarola, Milhem Solk, Nicola Lynose, Pascual Pecci.",
+    u"Saída de São Vicente, Cabo Verde, em 18 de outubro de 1927, com novecentos e setenta e "
+    u"um passageiros e duzentos e oitenta e oito tripulantes.",
+    u"Museu da Imigração do Estado de São Paulo, artigo do acervo sobre os náufragos.",
+    u"Pôr do sol calculado para a posição aproximada do naufrágio, 17°54′ de latitude sul, em "
+    u"25 de outubro de 1927: 18h21; fim do crepúsculo civil, 18h48.",
+    u"<em>A escala africana em que a máquina abriu — Dakar ou São Vicente — e a idade do "
+    u"comandante Simone Gulì seguem em aberto, declarados no texto.</em>"],
+14:[u"Corpus de depoimentos: Eugenio Gabassi, Pedro Volpi, Milhem Solk, Enrico Nazzeconi, "
+    u"Ali Hassen, Batista Beria, Nicola Lynose, família Vacelli, Mario Ottaviani.",
+    u"<em>A hora do pedido de socorro — 17h35 ou 19h15 — diverge entre as fontes, e o texto "
+    u"não arbitra.</em>",
+    u"Tradição oral: o porão, o cozinheiro e o bote dos cozinheiros. Lembrança de um só galho "
+    u"da família, atribuída no próprio capítulo."],
+15:[u"Corpus de depoimentos: Ali Hassen, Salvador Malone, Antonio Ponce, Valeriano Galli, "
+    u"Maria Spinelli, Vincenzo Mandolezzi, Alfio Sanfilippo, Domenico Leo, Juan Santororo, "
+    u"família Vacelli, Mario Ottaviani, Nicola Lynose, Pascual Pecci."],
+16:[u"Corpus de depoimentos: Mario Ottaviani, Enrico Nazzeconi, Andres Scavani del Vicario, "
+    u"Salvador Malone, Eugenio Gabassi, família Vacelli.",
+    u"<em>As duas versões da morte do comandante — a saudação na ponte e os tiros — vêm de "
+    u"duas testemunhas na água, no escuro. O texto não escolhe.</em>"],
+17:[u"Telegramas de socorro da noite de 25 de outubro de 1927, com os nomes de dez navios.",
+    u"Corpus de depoimentos: Nazzeconi, Beria, Solk, Ali Hassen, Domingo Milano, Maria "
+    u"Spinelli.",
+    u"Relação do <em>Alhena</em>, 28 de outubro de 1927, Ilha das Flores.",
+    u"<em>A soma dos resgatados não fecha em fonte nenhuma; a discrepância está exposta no "
+    u"capítulo.</em>"],
+18:[u"Corpus de depoimentos: Valeriano Galli, Salvador Malone, Alfio Sanfilippo, Eugenio "
+    u"Gabassi, Ali Hassen, Mario Ottaviani.",
+    u"Relação do <em>Alhena</em>: passageiras nº 24 e 25, com a nota manuscrita do funcionário.",
+    u"<em>Não existe relação nominal dos trezentos e catorze mortos. O próprio número varia "
+    u"entre as fontes.</em>"],
+19:[u"Museu da Imigração do Estado de São Paulo: Livro de Registro de Matrícula nº 100 da "
+    u"Hospedaria de Imigrantes do Brás, página 290, 31 de outubro de 1927. Famílias 19270 e "
+    u"19260.",
+    u"Procedimento interno da Hospedaria — banho, desinfecção, estufa, inspeção médica, "
+    u"registro. <strong>A cena é reconstrução declarada no próprio capítulo.</strong>"],
+20:[u"Tradição oral, ramo Betti: João Betti (1920–2008), marido de Pulcheria, transmitida por "
+    u"<strong>Patrícia Betti</strong>, que consentiu em ser nomeada e creditada. O carvão e o "
+    u"não-reconhecimento.",
+    u"Tradição oral, outro ramo Dei Agnoli: a menina que acha o pai.",
+    u"<em>Nada do que se passou entre Rosa e Fausto no reencontro chegou até aqui, e o capítulo "
+    u"deixa em branco.</em>"],
+21:[u"Relação do <em>Alhena</em>: a palavra <em>espontâneos</em>, na parte do intérprete e no "
+    u"resumo do desembarque.",
+    u"Relação dos subsidiados de 23 de fevereiro de 1923: a coluna <em>Patrão</em>, preenchida "
+    u"antes do embarque.",
+    u"Carimbo da Delegacia de Polícia de Grama no registro de estrangeiro de Angelo Dei "
+    u"Agnoli; assento de casamento nº 660 do cartório de Grama."],
+22:[u"Registro de Estrangeiros de Enrico Miotto, São Paulo, 29 de dezembro de 1949: RG "
+    u"1.335.902, carteira 308.460.",
+    u"Declaração de Óbito nº 5501831, Sorocaba, 6 de outubro de 1998."],
+23:[u"Certidão de casamento de Mafalda Miotto, de 1954, reemitida em 1981 na cidade de Nova "
+    u"Fátima.",
+    u"<em>Atto di nascita</em> de Rosa Forner, Comune di Monfumo, 24 de junho de 1903.",
+    u"<em>A razão do nome não está em documento nenhum. O capítulo apresenta um padrão, não "
+    u"uma prova.</em>"],
+24:[u"Campanha de nacionalização do Estado Novo, a partir de novembro de 1937.",
+    u"Declaração de guerra do Brasil à Itália, agosto de 1942.",
+    u"Registro de estrangeiro de Angelo Dei Agnoli, com carimbo da Delegacia de Polícia de "
+    u"Grama.",
+    u"Relação do <em>Alhena</em>: coluna <em>Instrução</em>, <em>sim</em> para Rosa Forner."],
+25:[u"Correspondência, fotografias e identificações enviadas por <strong>Giorgio Forner</strong>, "
+    u"Vêneto.",
+    u"Árvore genealogica colaborativa: o cruzamento que reencontrou Patrícia Betti, a partir do "
+    u"casal Vincenzo Forner e Santa Pandolfo."],
+26:[u"<em>Storia di Castelcucco</em>: a genealogia impressa, a linha vertical que liga a segunda "
+    u"fileira ao irmão de Vincenzo, e o erro na data de nascimento de Rosa.",
+    u"Índices de nascimento do Comune di Monfumo: as três grafias do nome de Santa Pandolfo.",
+    u"<em>Carta d’identità</em> de Sante Forner, 8 de março de 1940: <em>Padre: di Vincenzo. "
+    u"Madre: fu Pandolfo Domenica Santa</em>.",
+    u"Province of British Columbia, <em>Registration of Death</em> nº 5509-008734: Louie Miotto, "
+    u"Vancouver General Hospital, 15 de agosto de 1955.",
+    u"Fusão de perfis em árvore colaborativa, 18 de novembro de 2024, às 11h21.",
+    u"Declaração de óbito de Fausto Miotto, 13 de agosto de 1979, que nomeia por extenso "
+    u"Luigi Miotto e Domenica Ganeo."],
+27:[u"Fotografias e informações enviadas por Giorgio Forner, Vêneto.",
+    u"<em>Este capítulo foi escrito por quem nunca esteve em Castelcucco, e diz isso na "
+    u"primeira linha.</em>"],
+}
+
+# ------------------------------------------------------- creditos de imagem
+# Procedência declarada por imagem. O que está marcado como a confirmar não pode
+# ir para a gráfica sem carta.
+FAM = u'Acervo da família Miotto e Forner.'
+GIO = u'Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.'
+CONF = u'<em>[procedência e autorização a confirmar]</em>'
+PROV = {
+ 'panfleto_in_america': u'Imagem obtida na internet; procedência não localizada. ' + CONF,
+ 'mafalda_barcelona':   u'Cartão-postal de época, reproduzido de sítio de colecionismo, com marca d’água. ' + CONF,
+ 'cartaz_lloyd_italiano': u'Cartaz do Lloyd Italiano. ' + CONF,
+ 'princess_mafalda_of_savoy': u'Retrato de Mafalda di Savoia. ' + CONF,
+ 'imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890':
+     u'Hospedaria dos Imigrantes, São Paulo, c. 1890. Acervo público — <em>[instituição e número de acervo a confirmar]</em>',
+ 'passageiros_agnoli': u'Intendência de Imigração, relação do vapor <em>Alhena</em>, 28 de outubro de 1927. '
+                       u'Reprodução parcial. <em>[tarja de terceiros a aplicar]</em>',
+ 'quadro_guerra_europa': GIO, 'sante_militar': GIO, 'sante_familia_completa': GIO,
+ 'carta_identidade_aberta': GIO, 'sante_forner_documento': GIO, 'miotto_tres_irmaos': GIO,
+ 'forner_martino': GIO, 'sante_e_maria_luigia_miotto': GIO, 'sante_e_familia': GIO,
+ 'forner_galliano': GIO, 'giorgio_e_sua_familia': GIO, 'galliano_e_esposa': GIO,
+ 'giorgio_e_pai': GIO, 'giorgio_e_netos': GIO, 'giorgio_vendendo': GIO, 'mattia_forner': GIO,
+ 'miotto_veronica_vancouver': GIO,
+ 'certidao_de_obito': u'Declaração de Óbito nº 5501831, Sorocaba, 1998. Acervo da família. '
+                      u'<em>Dados do médico tarjados nesta reprodução.</em>',
+ 'angelo__dei_agnoli': u'Passaporte de Angelo Dei Agnoli, Regno d’Italia. Acervo da família. '
+                       u'<em>[tarja de terceiros a avaliar]</em>',
+ 'angelo_dei_agnoli__jpg': u'Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de São Paulo. '
+                           u'Acervo da família. <em>[tarja de terceiros a avaliar]</em>',
+ 'rosa_forner': u'Acervo da família. <em>Restauração digital do autor.</em>',
+ 'asolo': u'Vista de Asolo. ' + CONF,
+}
+
+
+def resumo(cap, n=68):
+    """Primeira frase da legenda, sem marcação, para o crédito de imagem."""
+    t = re.sub(r'<[^>]+>', '', cap).strip()
+    for corte in t.split('. '):
+        if len(corte) >= 24:
+            t = corte
+            break
+    if len(t) > n:
+        t = t[:n].rsplit(' ', 1)[0] + '\u2026'
+    return E(t) + '.'
+
+
+def paginar(itens, por_pagina):
+    """Quebra uma lista de (tipo, texto) em páginas, sem deixar título órfão no pé."""
+    pgs, atual = [], []
+    for i, it in enumerate(itens):
+        if len(atual) >= por_pagina:
+            pgs.append(atual); atual = []
+        if it[0] == 'h' and len(atual) >= por_pagina - 1:
+            pgs.append(atual); atual = []
+        atual.append(it)
+    if atual:
+        pgs.append(atual)
+    return pgs
+
+
+# Entradas do índice. Quem aparece o livro inteiro entra como <em>passim</em>:
+# uma entrada com cem fólios não serve para nada.
+PASSIM = {'Forner, Rosa', 'Miotto, Fausto', 'Forner, Maria Luigia',
+          '<em>Principessa Mafalda</em>'}
+INDICE_ENTRADAS = [
+ ('Alhena, vapor', ['Alhena']),
+ ('Andrade, Carlos Aparecido de', ['Carlos Aparecido', 'Carlos de Andrade', 'Carlos Andrade']),
+ ('Andrade, João Luca Soares de', ['João Luca']),
+ ('Asolo', ['Asolo']),
+ ('Beck Josef', ['Beck Josef', 'Beck']),
+ ('Beria, Batista', ['Beria']),
+ ('Betti, João', ['João Betti']),
+ ('Betti, Patrícia', ['Patrícia Betti', 'Patrícia']),
+ ('Buenos Aires', ['Buenos Aires']),
+ ('Cadorna, Luigi', ['Luigi Cadorna']),
+ ('Cadorna, Raffaele', ['Raffaele Cadorna']),
+ ('Castelcucco', ['Castelcucco']),
+ ('Cavaso del Tomba', ['Cavaso']),
+ ('Dei Agnoli, Angelo', ['Angelo Dei Agnoli', 'Angelo dei Agnoli', 'Angelo']),
+ ('Dei Agnoli, Danilo', ['Danilo']),
+ ('Dei Agnoli, Gina Oliva', ['Gina', 'Ginneta', 'Dinetta', 'Ginita']),
+ ('Dei Agnoli, Pulcheria Pasqua', ['Pulcheria', 'Pulgheria']),
+ ('Dei Agnoli, Rino', ['Rino']),
+ ('De Rosi Emilia', ['De Rosi Emilia', 'De Rosi']),
+ ('<em>Empire Star</em>', ['Empire Star']),
+ ('Filipovich, Thomas', ['Filipovich']),
+ ('Fontana, Antonio', ['Antonio Fontana', 'Fontana']),
+ ('Forner, Abele Alessandro', ['Abele']),
+ ('Forner, Domenico', ['Domenico Forner']),
+ ('Forner, Galliano', ['Galliano']),
+ ('Forner, Giorgio', ['Giorgio']),
+ ('Forner, Luigi (1817–1905)', ['Luigi Forner']),
+ ('Forner, Maria Luigia', ['Maria Luigia Forner', 'Forner Maria']),
+ ('Forner, Pietro Luigi', ['Pietro Luigi']),
+ ('Forner, Rosa', ['Rosa Forner', 'Forner Rosa']),
+ ('Forner, Sante', ['Sante']),
+ ('Forner, Vincenzo', ['Vincenzo']),
+ ('<em>Formosa</em>', ['Formosa']),
+ ('Gabassi, Eugenio', ['Gabassi']),
+ ('Galli, Valeriano', ['Galli']),
+ ('Ganeo, Domenica', ['Domenica Ganeo', 'Nina']),
+ ('Gênova', ['Gênova', 'Genova']),
+ ('Grama (São Sebastião da Grama)', ['Grama']),
+ ('Gulì, Simone', ['Gulì']),
+ ('Hassen, Ali', ['Ali Hassen', 'Hassen']),
+ ('Hospedaria de Imigrantes do Brás', ['Hospedaria']),
+ ('Ilha das Flores', ['Ilha das Flores']),
+ ('Leo, Domenico', ['Domenico Leo']),
+ ('Luchini Teresa', ['Luchini']),
+ ('Lynose, Nicola', ['Lynose']),
+ ('Malone, Salvador', ['Malone']),
+ ('Mandolezzi, Vincenzo', ['Mandolezzi']),
+ ('Manin, Daniele', ['Manin']),
+ ('Maser', ['Maser']),
+ ('Milano, Domingo', ['Milano']),
+ ('Miotto, Amabile Veronica', ['Veronica']),
+ ('Miotto, Enrico', ['Enrico']),
+ ('Miotto, Erminda', ['Erminda']),
+ ('Miotto, Fausto', ['Fausto']),
+ ('Miotto, Luigi', ['Luigi Miotto', 'Louie Miotto']),
+ ('Miotto, Maria Luigia', ['Maria Luigia Miotto', 'Miotto Maria']),
+ ('Miotto, Vittorio', ['Vittorio Miotto', 'Vittorio']),
+ ('Monfumo', ['Monfumo']),
+ ('Monte Grappa', ['Grappa']),
+ ('<em>Mosella</em>', ['Mosella']),
+ ('Mussolini, Benito', ['Mussolini']),
+ ('Nazzeconi, Enrico', ['Nazzeconi']),
+ ('Ottaviani, Mario', ['Ottaviani']),
+ ('Pandolfo, Santa', ['Santa Pandolfo', 'Pandolfo']),
+ ('Pecci, Pascual', ['Pecci']),
+ ('Ponce, Antonio', ['Ponce']),
+ ('Possagno', ['Possagno']),
+ ('<em>Principessa Jolanda</em>', ['Jolanda']),
+ ('<em>Principessa Mafalda</em>', ['Principessa Mafalda', 'P. Mafalda']),
+ ('Prinetti, Giulio', ['Prinetti']),
+ ('Rio de Janeiro', ['Rio de Janeiro']),
+ ('Riva Trigoso', ['Riva Trigoso']),
+ ('Rivarola, Camilo', ['Rivarola']),
+ ('Rosas, Patricio de', ['de Rosas', 'De Rosas']),
+ ('<em>Rosetti</em>', ['Rosetti']),
+ ('Sanfilippo, Alfio', ['Sanfilippo']),
+ ('Santororo, Juan', ['Santororo']),
+ ('Santos, porto de', ['Santos']),
+ ('Savoia, Mafalda di', ['Mafalda di Savoia']),
+ ('Scavani del Vicario, Andres', ['Scavani']),
+ ('Solk, Milhem', ['Solk']),
+ ('Sorocaba', ['Sorocaba']),
+ ('São Paulo', ['São Paulo']),
+ ('São Vicente (Cabo Verde)', ['São Vicente']),
+ ('Spinelli, Maria', ['Spinelli']),
+ ('Terra, Mafalda Miotto', ['Mafalda Miotto', 'MAFALDA']),
+ ('Terra, Marta', ['Marta']),
+ ('Treviso', ['Treviso']),
+ ('Vacelli, família', ['Vacelli']),
+ ('Vancouver', ['Vancouver']),
+ ('Vargas, Getúlio', ['Getúlio Vargas', 'Vargas']),
+ ('Vêneto', ['Vêneto']),
+ ('Vial, Maria', ['Maria Vial']),
+ ('Vittorio Emanuele III', ['Vittorio Emanuele']),
+ ('Volpi, Pedro', ['Volpi']),
+ ('Zanni, Antonio', ['Zanni']),
+]
+
+
+def indice_onomastico(pages):
+    """Percorre as páginas já montadas com a mesma contagem de fólio do render."""
+    folio, texto = 0, {}
+    for p in pages:
+        t = p['t']
+        if t not in ('cap', 'texto', 'img', 'audio'):
+            continue
+        folio += 1
+        if t == 'texto':
+            corpo = p['body']
+        elif t == 'cap':
+            corpo = p['title'] + ' ' + p['synop']
+        elif t == 'img':
+            corpo = p['cap']
+        else:
+            corpo = p.get('tit', '') + ' ' + p.get('tr', '')
+        texto[folio] = re.sub(r'<[^>]+>', '', corpo)
+
+    saida = []
+    for nome, variantes in INDICE_ENTRADAS:
+        if nome in PASSIM:
+            saida.append(('i', '%s <span class="ix-p">passim</span>' % nome))
+            continue
+        fs = sorted(f for f, c in texto.items() if any(v in c for v in variantes))
+        if not fs:
+            continue
+        # mais de vinte fólios não é entrada de índice, é uma lista de páginas
+        if len(fs) > 20:
+            saida.append(('i', '%s <span class="ix-p">passim</span>' % nome))
+        else:
+            saida.append(('i', '%s <span class="ix-f">%s</span>' % (nome, intervalos(fs))))
+    return saida
+
+
+def intervalos(fs):
+    """[3,4,5,9] -> 3-5, 9"""
+    saida, i = [], 0
+    while i < len(fs):
+        j = i
+        while j + 1 < len(fs) and fs[j + 1] == fs[j] + 1:
+            j += 1
+        saida.append(str(fs[i]) if j == i else '%d-%d' % (fs[i], fs[j]))
+        i = j + 1
+    return ', '.join(saida)
+
+
+
 P(t='capa')
 P(t='rosto')
+P(t='creditos')
 P(t='dedicatoria')
 P(t='epigrafe')
 P(t='sumario')
+for _b in NOTA_METODO:
+    P(t='nota', body=_b)
 
 IMG_BY_CAP = {
  1:  [('asolo','Asolo, a cidade nas colinas para onde desce a estrada que sai de Castelcucco. De Asolo se pega o trem, e de trem em trem se chega a Gênova.','montada')],
@@ -5227,7 +5681,7 @@ IMG_BY_CAP = {
  19: [('rosa_forner','<strong>Rosa Forner Miotto</strong>, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos, com o filho de um ano no colo. <em>Restauração feita pelo autor: o original está muito danificado.</em>','oval'),
       ('rosa_forner_documento','A cédula de identidade dela, emitida no Brasil décadas depois.','montada')],
  20: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.','oval'),
-      ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e Angelo dei Agnoli com os filhos.','montada'),
+      ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e Angelo Dei Agnoli com os filhos.','montada'),
       ('gina','<strong>Gina Oliva Dei Agnoli</strong>, nascida em 28 de março de 1920. Tinha sete anos na noite do naufrágio. Uma das duas meninas que podem ter achado o pai.','oval'),
       ('rino','<strong>Rino Dei Agnoli</strong>, nascido em 26 de janeiro de 1923. Tinha quatro anos. Fotografia de documento, 22 de novembro de 1979.','montada'),
       ('maria_luiza_e_angelo','Maria Luigia Forner e Angelo Dei Agnoli. Ela sobreviveu ao naufrágio com quatro filhos; ele esperava do outro lado, e tinha atravessado no mesmo navio seis meses antes.','montada')],
@@ -5307,13 +5761,13 @@ LEG = {
  'aline_e_joao':'Aline e João Andrade.',
  'pandolfo_antonio':'Pandolfo Antonio, 1942 a 2025, primo de Mafalda, filho de Miotto Asia, irmã de Fausto.',
  'divino_betti':'Divino Aparecido Betti, 1948 a 1992, filho de Pulcheria e pai de Patrícia Betti.',
- 'angelo__dei_agnoli':'Passaporte de Angelo dei Agnoli, marido de Maria Luigia Forner.',
- 'angelo_dei_agnoli__jpg':'Certidão de registro de Angelo dei Agnoli.',
+ 'angelo__dei_agnoli':'Passaporte de Angelo Dei Agnoli, marido de Maria Luigia Forner.',
+ 'angelo_dei_agnoli__jpg':'Certidão de registro de Angelo Dei Agnoli.',
  'certidao_de_obito':'Declaração de óbito de Enrico Miotto, 6 de outubro de 1998, Sorocaba.',
  'enrico_miotto':'Documento de identificação de Enrico Miotto.',
  'fausto':'Fausto Miotto, nascido em Castelcucco em 1904, marido de Rosa Forner.',
  'forner_galliano':'Galliano Forner, filho de Sante, militar com as tropas alpinas em 1950.',
- 'forner_maria_luigia_dei_agnoli_angelo':'Maria Luigia Forner e Angelo dei Agnoli.',
+ 'forner_maria_luigia_dei_agnoli_angelo':'Maria Luigia Forner e Angelo Dei Agnoli.',
  'forner_martino_fratello_di_mio_nonno_sante':'Martino Forner, irmão de Sante.',
  'galiano':'Galliano Forner.',
  'galliano':'Galliano Forner, retrato emoldurado conservado pela família na Itália.',
@@ -5345,9 +5799,49 @@ if _rest:
     for k in _rest:
         P(t='img', key=k, cap=LEG.get(k, 'Acervo da família Miotto e Forner.'), book='CI', estilo='montada')
 
-P(t='parte', n='EPÍLOGO', title='As três Mafaldas', years='', color='graf')
-P(t='cap', num=35, title='A princesa, o navio e a menina', synop='As três camadas do livro amarradas num nome. A única que chega viva ao fim.', book='EP', color='graf')
+P(t='parte', n='EPÍLOGO', title='As três Mafaldas', years='a escrever', color='graf')
+P(t='pendente', title='A princesa, o navio e a menina',
+  body='As três camadas deste livro amarradas num nome, e a única das três que chega viva ao '
+       'fim. Este epílogo depende das gravações com Mafalda Miotto Terra, nascida em 2 de '
+       'janeiro de 1937, que é ao mesmo tempo a pergunta central e a testemunha deste livro. '
+       'Enquanto elas não existirem, esta página fica assim, e diz por quê.')
 P(t='agradecimentos')
+
+# ------------------------------------------------------------ pós-textuais
+P(t='parte', n='APARATO', title='Fontes e créditos', years='', color='graf')
+
+_fb = []
+for _n in sorted(FONTES):
+    _tit = dict((a, b) for a, b, _c in sum(CAPS.values(), []))[_n]
+    _fb.append(('h', 'Capítulo %02d · %s' % (_n, _tit)))
+    for _it in FONTES[_n]:
+        _fb.append(('i', _it))
+for _tit, _its in FONTES_GERAIS:
+    _fb.append(('h', _tit))
+    for _it in _its:
+        _fb.append(('i', _it))
+for _pg in paginar(_fb, 13):
+    P(t='fontes', itens=_pg)
+
+_cb = []
+_vistas = set()
+for _n in sorted(IMG_BY_CAP):
+    for _k, _cap, _e in IMG_BY_CAP[_n]:
+        _vistas.add(_k)
+        _cb.append(('i', 'Cap. %02d — %s %s' % (_n, resumo(_cap), PROV.get(_k, FAM))))
+_cb.insert(0, ('h', 'No miolo'))
+_gal = [('h', 'Caderno de imagens')]
+for _k in sorted(LEG):
+    if _k in _vistas or _k in SKIP:
+        continue
+    _gal.append(('i', '%s %s' % (resumo(LEG[_k]), PROV.get(_k, FAM))))
+_cb += _gal
+for _pg in paginar(_cb, 13):
+    P(t='credimg', itens=_pg)
+
+for _pg in paginar(indice_onomastico(pages), 30):
+    P(t='indice', itens=_pg)
+
 P(t='fim')
 
 # ------------------------------------------------------------------- render
@@ -5456,6 +5950,48 @@ for p in pages:
             '<div class="agrad"><h2 class="ag-t">Agradecimentos</h2>%s'
             '<p class="ag-a">João José de Andrade Neto</p></div>'
             % paras, '', data_nav='Agradecimentos'))
+    elif t == 'creditos':
+        out.append(sheet(
+            '<div class="cred">'
+            '<p class="cr-c">\u00a9 Jo\u00e3o Jos\u00e9 de Andrade Neto</p>'
+            '<p class="cr-t"><em>Terceira Classe</em><br>'
+            'A travessia italiana para o Brasil e o naufr\u00e1gio do <em>Principessa Mafalda</em></p>'
+            '<p class="cr-r">Todos os direitos reservados. Nenhuma parte desta obra pode ser '
+            'reproduzida sem autoriza\u00e7\u00e3o escrita do autor.</p>'
+            '<div class="cr-ficha">'
+            '<p><b>Ano de publica\u00e7\u00e3o</b> &nbsp;a definir</p>'
+            '<p><b>Editora</b> &nbsp;a definir</p>'
+            '<p><b>ISBN</b> &nbsp;a definir</p>'
+            '<p><b>Ficha catalogr\u00e1fica (CIP)</b> &nbsp;a elaborar</p>'
+            '<p><b>Prepara\u00e7\u00e3o, revis\u00e3o, projeto gr\u00e1fico e diagrama\u00e7\u00e3o</b> &nbsp;a definir</p>'
+            '<p><b>Impress\u00e3o</b> &nbsp;a definir</p>'
+            '</div>'
+            '<p class="cr-n">As fotografias e os documentos reproduzidos pertencem ao acervo da '
+            'fam\u00edlia Miotto e Forner, salvo indica\u00e7\u00e3o em contr\u00e1rio na rela\u00e7\u00e3o de cr\u00e9ditos de '
+            'imagem, ao fim do volume. Onde um documento da fam\u00edlia trazia dado pessoal de '
+            'terceiro, o dado foi tarjado, e a tarja est\u00e1 declarada na legenda.</p>'
+            '</div>', '', data_nav='Cr\u00e9ditos'))
+    elif t == 'nota':
+        paras = ''.join('<p>%s</p>' % x.strip() for x in p['body'].split('\n\n'))
+        tit = '<h2 class="nt-t">Nota de m\u00e9todo</h2>' if p['body'] == NOTA_METODO[0] else ''
+        out.append(sheet('<div class="nota">%s%s</div>' % (tit, paras), '',
+                         data_nav='Nota de m\u00e9todo'))
+    elif t == 'pendente':
+        folio += 1
+        out.append(sheet(
+            '<div class="pend"><p class="pd-e">Ep\u00edlogo</p><h2 class="pd-t">%s</h2>'
+            '<p class="pd-b">%s</p></div><span class="folio">%d</span>'
+            % (E(p['title']), E(p['body']), folio), '', data_nav='Ep\u00edlogo'))
+    elif t in ('fontes', 'credimg', 'indice'):
+        folio += 1
+        TIT = {'fontes': 'Fontes', 'credimg': 'Cr\u00e9ditos de imagem',
+               'indice': '\u00cdndice onom\u00e1stico'}
+        linhas = ''.join('<p class="%s">%s</p>' % ('ap-h' if k == 'h' else 'ap-i', v)
+                         for k, v in p['itens'])
+        out.append(sheet(
+            '<span class="run">%s</span><div class="apar apar--%s">%s</div>'
+            '<span class="folio">%d</span>' % (TIT[t], t, linhas, folio), '',
+            data_nav=TIT[t]))
     elif t == 'fim':
         out.append(sheet(
             '<div class="fim"><p class="fm-1">continua</p>'
@@ -5511,7 +6047,41 @@ body{background:var(--room);color:var(--ink);font-family:var(--fb);margin:0}
 .corpo p:first-child::first-letter{font-family:var(--fd);font-size:2.6em;line-height:.82;float:left;
  padding:.06em .12em 0 0;color:var(--accent)}
 .corpo em{font-style:italic}
-.corpo strong,.agrad strong,.epig strong{font-weight:700}
+.corpo strong,.agrad strong,.epig strong,.nota strong,.apar strong{font-weight:700}
+/* ---------------------------------------------------------------- aparato */
+.cred{margin:auto 0;font-size:.82em;line-height:1.6;color:var(--soft)}
+.cred p{margin:0 0 1em}
+.cr-c{font-family:var(--fu);letter-spacing:.06em;color:var(--ink)}
+.cr-t{font-family:var(--fd);font-size:1.35em;line-height:1.35;color:var(--ink)}
+.cr-ficha{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+ padding:.95em 0;margin:1.5em 0}
+.cr-ficha p{margin:0 0 .4em;font-size:.95em}
+.cr-ficha p:last-child{margin-bottom:0}
+.cr-ficha b{font-weight:600;color:var(--ink);font-family:var(--fu);font-size:.82em;
+ letter-spacing:.1em;text-transform:uppercase}
+.cr-n{font-size:.92em}
+.nota{margin:auto 0}
+.nt-t{font-family:var(--fd);font-style:italic;font-weight:400;font-size:1.7em;
+ margin:0 0 1.1em;color:var(--ink)}
+.nota p{font-size:1em;line-height:1.66;margin:0 0 .9em;text-align:justify;hyphens:auto}
+.pend{margin:auto 0;text-align:center}
+.pd-e{font-family:var(--fu);font-size:.62em;letter-spacing:.22em;text-transform:uppercase;
+ color:var(--faint);margin:0 0 1.5em}
+.pd-t{font-family:var(--fd);font-style:italic;font-weight:400;font-size:2em;
+ margin:0 0 1.3em;color:var(--ink)}
+.pd-b{max-width:26em;margin:0 auto;font-size:.95em;line-height:1.7;color:var(--soft);
+ text-align:left}
+.apar{font-size:.78em;line-height:1.5}
+.ap-h{font-family:var(--fu);font-size:.84em;letter-spacing:.14em;text-transform:uppercase;
+ color:var(--accent);margin:1.35em 0 .55em}
+.apar .ap-h:first-child{margin-top:0}
+.ap-i{margin:0 0 .5em;padding-left:1.1em;text-indent:-1.1em;color:var(--soft);
+ text-align:left;hyphens:auto}
+.apar--indice{column-count:2;column-gap:1.7em}
+.apar--indice .ap-i{padding-left:.9em;text-indent:-.9em;margin-bottom:.3em;break-inside:avoid}
+.ix-f{color:var(--faint);font-variant-numeric:tabular-nums}
+.ix-p{color:var(--faint);font-style:italic}
+
 figcaption strong,.aud strong,.aud-n strong,.sm-t strong,.co-s strong{font-weight:600}
 strong{font-weight:700}
 

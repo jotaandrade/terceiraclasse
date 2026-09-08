@@ -47,6 +47,7 @@ scripts/              histórico das rodadas de correção e escrita
 |---|---|
 | Capítulos | 27, em 4 livros + epílogo — I: 1-7 · II: 8-11 · III: 12-18 · IV: 19-27 |
 | **Escritos** | **27 de 27 capítulos, 36.308 palavras** |
+| Aparato | créditos, nota de método, fontes, créditos de imagem e índice onomástico — prontos |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |
 
@@ -150,6 +151,19 @@ documento.
 continuação real de uma lista. Nos outros casos some. Referência: um bloco em nove, não um
 em cinco.
 
+**Folha de estilo.** *(08.09.2026)* Para a preparação não "consertar" o que está certo:
+
+- **Números por extenso**, sempre. As exceções deliberadas são horas (17h15, 22h10), anos,
+  números de documento e porcentagens com decimal.
+- **Dei Agnoli** com D maiúsculo, inclusive quando o documento traz minúsculo.
+- **Grama** na primeira ocorrência de cada parte vem como *Grama, hoje São Sebastião da
+  Grama*; depois só Grama.
+- **Grafia de documento** é preservada quando o documento está sendo citado (Ginneta,
+  Pulgheria, Maria Luiza, Forner Rosina) e normalizada no resto do texto.
+- **Itálico** para nome de navio, palavra em língua estrangeira e fala de documento.
+  **Negrito** só nos dois casos da regra acima.
+- **Vêneto** maiúsculo quando é a região, minúsculo quando é adjetivo.
+
 **Fontes orais.** Não corrigir a entrevistada durante a gravação, nunca — nem data errada.
 Divergência entre depoimento e documento se resolve no papel, depois.
 
@@ -166,10 +180,20 @@ sempre existe, e quase sempre é mais forte do que a disputa.
 
 ## Pendências que bloqueiam publicação
 
-- **Procedência do corpus de depoimentos** de sobreviventes (jornal, data, página). Está
-  declarada como lacuna dentro do capítulo 19.
-- **Crédito do panfleto** "…In América" usado no capítulo 5 — imagem obtida na internet.
-- Quatro verificações abertas, listadas em `docs/02-pesquisa-documental.md`, seção 12.
+A lista completa, com prazos e manifesto de arquivos, está em **`docs/04-producao.md`**. Em
+uma linha cada:
+
+1. **Gravações com Mafalda Miotto Terra** — o epílogo depende delas, e ela faz 90 em
+   02.01.2027. É a única pendência sem substituto.
+2. **Originais em alta resolução** — 41 das 43 imagens do miolo estão abaixo de 1.200 px no
+   menor lado, e o problema está nos originais, não na conversão.
+3. **Nove liberações de direito de imagem e texto**, incluindo a procedência do corpus de vinte
+   depoimentos (jornal, data, página).
+4. **Autorizações de nome e imagem** de Giorgio Forner, Mafalda, João Luca (menor) e da
+   família do caderno. Só a de Patrícia Betti está registrada.
+5. **Tarja de terceiros** nos documentos reproduzidos — a relação do <em>Alhena</em> traz
+   cinquenta nomes de fora da família.
+6. **Conflito de calendário**: a viagem a Castelcucco está marcada para o dia do lançamento.
 
 ---
 
