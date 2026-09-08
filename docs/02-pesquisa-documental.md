@@ -1323,3 +1323,114 @@ dossiê: **Rosi**.
 
 **Patrícia Betti autorizou ser nomeada e creditada no livro em 08.09.2026.** Deixou de ser
 pendência de publicação. Ela aparece nomeada nos capítulos 10, 21, 27, 31 e 32.
+
+---
+
+## 15. Áudios da Patrícia Betti — 08.09.2026
+
+Dois áudios de WhatsApp, transcritos. Transcrição bruta guardada em `documentos/`.
+
+### 🔴 A CADEIA ORAL NÃO É A QUE ESTAVA NO LIVRO
+
+> *"Primo, quem me contou todas as histórias foi meu avô, que era o marido da Pulcheria.
+> Então, eu só sei da fonte dele."*
+
+**Quem narrava na família era JOÃO BETTI (1920–2008)**, marido da Pulcheria — não a própria
+Pulcheria.
+
+**Cadeia real:** Pulcheria (testemunha ocular, 6 anos) → **João Betti** (marido, não esteve a
+bordo) → Patrícia → João Andrade.
+**O que estava escrito:** Pulcheria → um filho → Patrícia. ❌
+
+João Betti nasceu em 1920 e não estava no navio. Ele é **transmissor**, não testemunha. Entre a
+menina de seis anos e a Patrícia há um homem que ouviu e recontou por décadas.
+
+➕ Ele pode também ter ouvido de **Maria Luigia**, sogra dele, que viveu até 1992.
+
+### 🔴 A PATRÍCIA NÃO CONFIRMA O COZINHEIRO
+
+> *"Agora, se teve um cozinheiro que ajudou ou não… Assim, eu, como pesquisadora, se fosse
+> você, mencionaria que tem essa informação citada por fulana, mas que você não tem outra
+> confirmação."*
+> *"Como que ela soube disso?"*
+
+**A história do cozinheiro não veio do João Betti.** Patrícia não a conhece pela fonte dela e
+recomenda expressamente que ela entre atribuída e marcada como não confirmada.
+
+🔴 **O cozinheiro está hoje nos caps. 10, 21, 22, 24 e 27.** Precisa ser atribuído a quem
+realmente contou — provavelmente a outra prima (**Rosi**), a confirmar.
+
+### 🟡 VERSÃO DO JOÃO BETTI PARA A SAÍDA DO NAVIO
+
+> *"o que ele falou é que, por ser terceira classe, eles não tinham preferência, e que tinham
+> saído porque eram duas mulheres com cinco crianças, e uma grávida, a sua bisa, no caso."*
+
+Duas partes:
+- ✅ **"Terceira classe não tinha preferência"** — bate com tudo no cap. 22.
+- ❌ **"Rosa grávida"** — impossível. Enrico tinha 1 ano e 15 dias e estava a bordo (Livro 100).
+  A filha seguinte, **Erminda, nasceu em 10.11.1928**, doze meses e meio depois do naufrágio —
+  concebida por volta de fevereiro de 1928.
+
+🔴 **Achamos a origem do erro do livro de 2025.** A lenda da gravidez existe na tradição oral,
+vem do João Betti, e o documento a refuta. **Isso é material do cap. 33**, e é o melhor
+exemplo do livro sobre como uma memória de família se deforma numa geração.
+
+### ✅ CONFIRMA O CARVÃO E O NÃO-RECONHECIMENTO — E LOCALIZA A CENA
+
+> *"quando o meu avô contou que o meu bisavô foi encontrar a família lá em São Paulo, ele não
+> reconheceu porque… na frente da hospedaria ali… ele não reconheceu porque disse que ela
+> estava toda suja de carvão. Então, tem uma história, sim."*
+
+- ✅ **O carvão é atestado pela linha do João Betti**, independentemente de quem contou o
+  cozinheiro.
+- ✅ **O não-reconhecimento é atestado.**
+- ✅ **A cena foi em SÃO PAULO, na Hospedaria** — não no Rio. Resolve a lacuna declarada no
+  cap. 27, e bate com a entrada no Livro 100 em 31.10.1927.
+- "o meu bisavô" = **Angelo Dei Agnoli**, bisavô da Patrícia. ✅
+- 🔎 Nesta versão **não aparece a menina que acha o pai**. E "a viúva" é ruído de transcrição.
+
+---
+
+## 16. Museu da Imigração — artigo sobre os náufragos na Hospedaria
+
+<https://museudaimigracao.com.br/blog/conhecendo-o-acervo/naufragos-na-hospedaria-principessa-mafalda-o-titanic-italiano>
+· consultado 08.09.2026 · fontes citadas: CORRIERI (2017), *The Sinking of the Principessa
+Mafalda*, **histarmar.com.ar**
+
+### ⭐ A FAMÍLIA ESTÁ NUMA FONTE PUBLICADA E CITÁVEL
+
+O artigo lista as famílias náufragas acolhidas no Brás e **inclui Forner**. Entre as crianças
+nominadas estão **Ginita (7), Puscheira (6), Rino (4), Danilo (2)** e **Eurico (1)**.
+
+**É a primeira vez que esta família aparece fora do acervo pessoal, num texto de instituição
+pública.** Vale como fonte citável no livro.
+
+Outras famílias batem com a lista do Alhena: Yori, Rupolo, Petina, Silvino, De Rossi,
+Strufaldi, Lovato, Panarotti, Puldeghinio, Beck, Strobel, Piretto, Ban.
+
+### Números do artigo — divergem do livro, e vão para a pilha
+
+| Dado | Livro | Artigo do museu |
+|---|---|---|
+| Mortos | **314** | "quase 400" |
+| A bordo | 1.259 | "cerca de 1.300" |
+| Alhena resgatou | 450 | "mais de 500" |
+| Empire Star | 202 | 180 |
+| Formosa | 151 | 200 ("Formose") |
+| Mosella + Rosetti | 171 | "pouco mais de 20" |
+| Viagem inaugural | 1908/09 | 1909 |
+| Idade de Gulì | 55 ou 62 | **55** |
+
+➕ **Terceiro conjunto de números que não fecha.** Reforça o cap. 24 sem alterar uma linha.
+
+### ✅ Novos dados aproveitáveis
+- **Chegada ao Brás: 42 náufragos em 31.10.1927 e mais 1 em 01.11.** Total 43, dos 50
+  desembarcados na Ilha das Flores. **Sete não foram para São Paulo.** → cap. 26
+- **Cerca de 30% dos sobreviventes na Hospedaria eram crianças pequenas.** → caps. 26 e 30
+- **Rota: Gênova – Barcelona – Dakar – Rio – Montevidéu – Buenos Aires.** Confirma Barcelona e
+  **dá fonte para Dakar** → caps. 19 e 13
+- 🟡 **250 mil liras em ouro na carga.** É a primeira fonte com instituição por trás para a
+  lenda do ouro, que tinha saído do cap. 25 por falta de documento. Blog citando CORRIERI
+  (2017), não documento primário — usar atribuído.
+- 🔎 **histarmar.com.ar** é citado como fonte. **É provavelmente a origem do corpus dos vinte
+  depoimentos** — a pendência de procedência nº 1 do README. Vale rastrear.
