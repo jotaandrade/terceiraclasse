@@ -1831,3 +1831,24 @@ notas de audio e nas sinopses, onde 700 fica denso demais em corpo pequeno.
 
 **Licao:** ao escolher pesos de webfont, conferir se ha peso bold. Faltando, o navegador nao
 avisa - so deixa de fazer.
+
+---
+
+## 26. Gramatica visual das fotos - 08.09.2026
+
+As fotografias estavam soltas no meio da folha. Foram criados dois tratamentos, so em CSS
+(nenhum arquivo de imagem alterado), escolhidos por um terceiro item na tupla de `IMG_BY_CAP`.
+
+**`oval`** - a fotografia se dissolve no papel numa elipse suave. Nao e mascara oval de
+verdade, de proposito: mascara dura corta cabeca e perna em foto de corpo inteiro. Conversa
+com o retrato de casamento de Sante e Maria Luigia, que e um oval emoldurado de verdade.
+
+**`montada`** - a fotografia sobre uma cartela com fio de contorno e sombra, como foto colada
+em folha de album.
+
+**Regra aplicada:** oval so em **retrato de estudio de uma pessoa**; montada em documento,
+foto de grupo e no caderno de imagens.
+
+CUIDADO que definiu a regra: varias fotos de retrato sao **fotos de documento com data
+carimbada na borda** - Pulcheria (18.4.80), Rino (22.11.79), Enrico (a placa 4877). O oval
+apagaria justamente a informacao que a legenda cita. Essas ficaram montadas.
