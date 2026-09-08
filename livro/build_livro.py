@@ -2778,6 +2778,29 @@ vitais e de parentescos correspondem</em>.
 <strong>Um clique, num minuto de uma segunda-feira, e o meu bisavô passou a ter um pai que
 morreu sozinho no Canadá.</strong>""",
 
+"""Desfazer não deu.
+
+O sistema desabilita o botão quando já existem edições posteriores à fusão. Foi preciso
+reconstruir o perfil à mão.
+
+E quem reconstruiu foi um documento brasileiro que estava ali o tempo todo:
+<strong>a declaração de óbito do próprio Fausto</strong>, lavrada em 13 de agosto de 1979, em
+São João da Boa Vista.
+
+Ela nomeia por extenso o pai e a mãe dele: <strong>Luigi Miotto e Domenica Ganeo</strong>.
+
+Setenta e cinco anos depois de Fausto nascer, do outro lado do oceano, um escrivão paulista
+escreveu os dois nomes certos.""",
+
+"""<strong>Louie Miotto morreu solteiro em Vancouver e não é pai de ninguém desta linha.</strong>
+
+A sepultura no Mountain View Cemetery continua lá, e continua sem ter sido visitada por
+ninguém desta família. Só mudou de título: pode ser a de um tio-avô, não a de um bisavô.
+
+O que continua aberto é outra coisa, e menor: quem foi o pai do Luigi. A árvore registra um
+Luigi Miotto nascido em 10 de abril de 1874, em Monfumo, filho de um Giovanni Miotto e de uma
+Luigia Forner — e <em>esses perfis não têm nenhum documento anexado</em>.""",
+
 """Não estou dizendo que aquele colaborador agiu de má-fé. Provavelmente fez o que eu faria.
 
 O ponto é outro, e é sobre a época em que estamos pesquisando.
