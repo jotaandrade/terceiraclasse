@@ -1375,6 +1375,250 @@ parente esperando numa estação do interior de São Paulo.
 É por causa dessa diferença que este livro existe.""",
 ]
 
+CAP26 = [
+"""Entre a Ilha das Flores e a Hospedaria do Brás existem três dias que ninguém registrou.
+
+O intérprete Thomas Filipovich assinou a parte dele no Rio de Janeiro em 28 de outubro. A
+entrada na Hospedaria do Brás, em São Paulo, é de 31.
+
+O que aconteceu no meio, eu não sei. Não sei se foram de trem ou de navio costeiro, não sei
+onde dormiram, não sei o que comeram, não sei quem pagou.""",
+
+"""O que dá para dizer é o que elas não tinham.
+
+Tudo o que aquelas duas famílias carregavam da Itália estava dentro do <em>Principessa
+Mafalda</em>, e o <em>Principessa Mafalda</em> estava no fundo do Atlântico.
+
+A roupa de cama, as ferramentas, as fotografias, os documentos, a roupa de domingo, o dinheiro
+que tivesse sobrado da passagem. Uma família que emigra leva o que consegue, e o que consegue
+é tudo o que tem.
+
+Chegaram com o corpo e com as crianças.""",
+
+"""Em <strong>31 de outubro de 1927</strong>, seis dias depois do naufrágio, alguém abriu o
+Livro 100 da Hospedaria de Imigrantes do Brás na página 290 e começou a escrever.
+
+Aquele livro era o funil por onde passava a imigração de São Paulo. Nome, idade, residência,
+número de família, destino. Milhares de páginas iguais, uma atrás da outra, por décadas.""",
+
+"""E há uma coluna naquela página que eu não consigo passar sem olhar duas vezes.
+
+A coluna do vapor.
+
+Ela diz <strong>P. Mafalda</strong>.
+
+O navio estava no fundo do mar havia seis dias. Trezentas e catorze pessoas tinham morrido
+dentro dele. E o formulário pedia o nome do vapor de procedência, então o funcionário escreveu
+o nome do vapor de procedência.
+
+Não é frieza. É o procedimento fazendo a única coisa que sabe fazer. Mas o efeito, lido cem
+anos depois, é que aquela página registra sete pessoas chegando a São Paulo num navio que já
+não existia.""",
+
+"""Família número 19270:
+
+<strong>FORNER ROSA, 24 anos, Castelcucco.</strong><br>
+<strong>ENRICO, 1 ano.</strong>
+
+Família número 19260:
+
+<strong>FORNER MARIA, 31 anos, Cavaso del Tomba.</strong><br>
+Gina, 7. Pulcheria, 6. Rino, 4. Danilo, 2.""",
+
+"""Maria Luigia entra ali como <strong>Forner</strong>.
+
+Ela era casada com Angelo Dei Agnoli desde 25 de fevereiro de 1917. Dez anos e quatro filhos.
+
+Não é erro do escrivão. No registro civil italiano a mulher não troca de sobrenome ao casar:
+continua sendo quem nasceu, em todos os papéis, a vida inteira.
+
+As duas se apresentaram como as duas irmãs Forner que eram, e o funcionário escreveu o que
+ouviu.""",
+
+"""E as duas entram como <strong>CHEFE</strong>.
+
+Não é leitura minha. Está escrito na coluna de parentesco da lista do <em>Alhena</em>, no Rio,
+em 28 de outubro. E o registro do Brás, três dias depois, em outra cidade e em outro órgão,
+faz o mesmo.
+
+Duas mulheres casadas, com os maridos vivos e esperando no interior de São Paulo, registradas
+como chefes das próprias famílias em dois documentos independentes do Estado brasileiro.""",
+
+"""Chefe, ali, não é uma opinião sobre o casamento delas.
+
+É uma função. Chefe é quem responde pelo grupo diante da autoridade: quem dá o nome, a idade
+e o destino de todo mundo, quem assina o que houver para assinar, quem é chamada se faltar
+alguém.
+
+Rosa Forner tinha vinte e quatro anos, um filho de um ano no colo, nenhum documento, nenhuma
+bagagem e nenhuma palavra de português.
+
+E foi ela quem respondeu.""",
+
+"""A lista do <em>Alhena</em> traz uma coluna a mais que a do Brás, e é a que mais me
+interessa.
+
+<strong>Instrução: sim.</strong>
+
+Rosa Forner sabia ler.
+
+No primeiro capítulo deste livro eu escrevi que muitas crianças daquele lugar aprendiam o
+calendário agrícola e não aprendiam a ler. Ela aprendeu as duas coisas.
+
+Profissão: doméstica. Destino declarado: S. Paulo.""",
+
+"""A mesma página do Brás traz outros sobrenomes: De Rossi, Strufaldi, Lovato, Panarotto,
+Puldeghinio, Beck.
+
+São os mesmos que estão na lista do <em>Alhena</em>, três dias antes, no Rio.
+
+É a mesma leva de gente, documentada duas vezes, em duas cidades, por dois órgãos que não
+conversavam entre si. Cinquenta pessoas desembarcadas na Ilha das Flores, e boa parte delas
+reaparecendo em São Paulo no fim daquela semana.""",
+
+"""Há uma coisa nessa sobreposição que eu queria saber e não sei.
+
+Na lista do <em>Alhena</em>, a passageira número 25 é <strong>De Rosi Emilia</strong>,
+cinquenta e cinco anos, que perdeu o marido no naufrágio e pediu para ser mandada de volta à
+Itália.
+
+Na página do Brás há um <strong>De Rossi</strong>.
+
+Na digitalização que eu tenho, não consigo dizer se é ela. Se for, quer dizer que o pedido não
+foi atendido, ou que ela desistiu dele, e que a mulher que queria voltar pegou o mesmo trem
+que todo mundo.""",
+
+"""E é aqui que esta história faz uma curva que eu não esperava quando comecei.
+
+Em 25 de outubro, aquelas sete pessoas foram notícia no mundo inteiro. O naufrágio do
+<em>Principessa Mafalda</em> saiu em jornal de Buenos Aires, de Roma, de Londres e de Nova
+York. Sobrevivente de terceira classe deu entrevista no cais.
+
+Em 31 de outubro, seis dias depois, elas viraram <strong>família 19270 e família
+19260</strong>.""",
+
+"""E era exatamente isso que elas tinham vindo fazer.
+
+Ninguém atravessa o Atlântico na terceira classe para virar notícia. Atravessa para virar
+número de família num livro de hospedaria, para pegar um trem para o interior e para começar a
+trabalhar numa terra que não é sua.
+
+O naufrágio foi um acidente no meio de uma coisa muito mais comum.
+
+<strong>A página 290 é o momento em que a viagem volta a ser o que sempre foi.</strong>""",
+]
+
+CAP27 = [
+"""Este é o único capítulo deste livro em que o arquivo não tem nada e a memória tem tudo.
+
+Todos os documentos que eu juntei até aqui registram <em>que</em> aquelas sete pessoas
+sobreviveram. As listas, os manifestos, as folhas de desembarque. Nenhum deles registra
+<em>como</em>, e nenhum deles registra o que aconteceu quando elas desceram.
+
+O que vem agora não tem papel nenhum. Tem cadeia oral, e eu vou dizer qual é antes de
+contar.""",
+
+"""Quem viu foi <strong>Pulcheria</strong>, filha de Maria Luigia, que tinha seis anos na
+noite do naufrágio.
+
+Pulcheria contou a um filho ou a uma filha. Essa pessoa contou a uma prima minha, bisneta de
+Maria Luigia. E essa prima me contou, em 2026.
+
+Três elos, e o primeiro deles estava lá.
+
+É tudo o que eu tenho desta cena, e é mais do que qualquer arquivo do mundo tem.""",
+
+"""Os dois homens estavam esperando.
+
+<strong>Angelo Dei Agnoli</strong>, marido de Maria Luigia, tinha desembarcado em Santos em
+30 de abril de 1927. Seis meses antes.
+
+Ele veio no <em>Principessa Mafalda</em>.
+
+O mesmo navio, o mesmo casco, provavelmente o mesmo porão. Trouxe o marido em segurança em
+abril e quase matou a mulher e os quatro filhos em outubro.""",
+
+"""<strong>Fausto Miotto</strong> também já estava aqui.
+
+Veio antes de Rosa, e é por isso que ela atravessou como chefe da própria família, com um
+filho de um ano, e não ao lado do marido.
+
+Em que mês e em que navio, eu ainda não sei. É uma das coisas que continuo procurando.""",
+
+"""E os dois foram esperar.
+
+Não sei onde. O relato não diz se foi no Rio, quando o <em>Alhena</em> atracou em 28 de
+outubro, ou em São Paulo, três dias depois. Cabe nos dois, e eu não vou escolher por eles.
+
+Sei o que eles estavam esperando ver: uma mulher e crianças descendo de um navio.""",
+
+"""E o que desceu foram duas mulheres e cinco crianças <strong>cobertas de pó de carvão da
+cabeça aos pés</strong>.
+
+O navio que as recolheu, depois do bote dos cozinheiros, carregava carvão. Elas passaram
+horas, ou dias, dentro dele.
+
+Não havia como se lavar. Não havia roupa para trocar, porque a roupa tinha afundado junto com
+todo o resto.""",
+
+"""<strong>Angelo e Fausto passaram os olhos por elas e não as reconheceram.</strong>
+
+Essa é a frase que atravessou cem anos.
+
+Não é que estivessem distraídos. Estavam procurando a cara da mulher deles no meio de uma
+multidão, e a cara da mulher deles estava preta.""",
+
+"""<strong>Quem achou foi uma das meninas.</strong>
+
+Uma criança pequena viu o pai no meio daquela gente toda, e foi ela quem resolveu.
+
+Não sei qual. Gina tinha sete anos, Pulcheria tinha seis. O relato diz apenas <em>uma das
+filhas pequenas dele</em>, e as duas cabem na frase.""",
+
+"""Vale parar um segundo no que isso significa.
+
+Durante seis dias, homens adultos com autoridade e formulário contaram aquela gente.
+Contaram nos botes, contaram nos navios de resgate, contaram no telegrama, contaram no Rio,
+contaram no Brás.
+
+<strong>A conta não fechou em fonte nenhuma.</strong> Sobrou gente em toda soma que alguém
+tentou fazer daquela noite.
+
+E o reencontro que importava foi resolvido por uma menina de seis ou sete anos que reconheceu
+um rosto.""",
+
+"""O relato não diz uma palavra sobre Rosa e Fausto.
+
+É uma história contada do lado Dei Agnoli, por quem estava com os Dei Agnoli. Pulcheria era
+filha de Maria Luigia, e o pai que ela viu era o pai dela.
+
+O que se passou entre Rosa e Fausto quando finalmente se acharam, ninguém contou a ninguém que
+contasse a mim.
+
+Eu poderia escrever. Seria fácil, seria bonito, e seria mentira. <strong>Fica em
+branco.</strong>""",
+
+"""Fica também o que a família escolheu guardar.
+
+Aquela noite tinha o estrondo, o convés inclinado, o navio apagando, os gritos na água, os
+mortos. Nada disso passou.
+
+O que atravessou três gerações, a boca de uma menina de seis anos e cem anos de Brasil foi
+<strong>o carvão</strong>.
+
+A sujeira. A imagem física de duas mulheres e cinco crianças pretas de fuligem, de pé num
+cais, sem serem reconhecidas.""",
+
+"""Talvez seja porque o carvão é a única parte da história que termina bem.
+
+Quem conta o carvão tem que contar que uma menina achou o pai. A cena vem inteira, e a cena
+inteira é o reencontro.
+
+Contar o resto seria ter que contar a água.
+
+<strong>Elas escolheram contar a parte em que a família se acha.</strong>""",
+]
+
 CAP19 = [
 """O <em>Principessa Mafalda</em> saiu de Gênova em 11 de outubro de 1927, e já saiu
 atrasado.
@@ -3562,7 +3806,7 @@ Para que quando o navio afundar, o leitor saiba exatamente o que aquelas pessoas
 tentando alcançar, e o que já tinham atravessado antes de chegar à água.""",
 ]
 
-CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24, 25: CAP25}
+CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24, 25: CAP25, 26: CAP26, 27: CAP27}
 
 # ------------------------------------------------------------------ paginas
 pages = []
