@@ -5224,7 +5224,7 @@ IMG_BY_CAP = {
       ('sante_familia_completa','Sante Forner ao centro, com a mulher Maria Luigia Miotto. Atrás, o filho Leo; à esquerda, em baixo, o filho Galliano.'),
       ('carta_identidade_aberta','A carta d’identità de Sante Forner aberta, com o brasão do Regno d’Italia e o Comune di Asolo.'),
       ('sante_forner_documento','Carta d’identità de Sante Forner, Comune di Asolo, 8 de março de 1940. Nato il 16 aprile 1893 a Monfumo. Professione: bracciante. Statura 1,62. Assinada pelo Podestà e datada A. XVIII, o ano dezoito da era fascista.')],
- 8:  [('fausto','Fausto Miotto, nascido em Castelcucco em 1904. Casou-se com Rosa Forner em 1926 e partiu sozinho para o Brasil.')],
+ 8:  [('fausto','Fausto Miotto, nascido em Castelcucco em 1904. Casou-se com Rosa Forner em 1926 e partiu sozinho para o Brasil.','oval')],
  10: [('imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890','Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por volta de 1890. Acervo público.'),
       ('pulcheria','<strong>Pulcheria Pasqua Dei Agnoli</strong>, 1921 a 2013. Tinha seis anos na noite do naufrágio, e era ela quem não saía da cozinha. Fotografia de documento, 18 de abril de 1980.')],
  12: [('angelo__dei_agnoli','Passaporte italiano de Angelo Dei Agnoli, Regno d’Italia, com o visto do Consulado Geral do Brasil.'),
@@ -5285,8 +5285,9 @@ for bn, btitle, byears, bcolor in BOOKS:
         if txt:
             for body in txt:
                 P(t='texto', body=body, book=bn, cap=num, captitle=ctitle)
-        for k, cap in IMG_BY_CAP.get(num, []):
-            P(t='img', key=k, cap=cap, book=bn)
+        for it in IMG_BY_CAP.get(num, []):
+            k, cap = it[0], it[1]
+            P(t='img', key=k, cap=cap, book=bn, estilo=(it[2] if len(it) > 2 else ''))
         for k, tit, meta, nota, tr in AUDIO_BY_CAP.get(num, []):
             P(t='audio', key=k, tit=tit, meta=meta, nota=nota, tr=tr, book=bn)
 
@@ -5340,7 +5341,7 @@ _rest = [k for k in _all if k not in _used and k not in SKIP]
 if _rest:
     P(t='parte', n='CADERNO', title='Imagens', years='O acervo da família', color='graf')
     for k in _rest:
-        P(t='img', key=k, cap=LEG.get(k, 'Acervo da família Miotto e Forner.'), book='CI')
+        P(t='img', key=k, cap=LEG.get(k, 'Acervo da família Miotto e Forner.'), book='CI', estilo='')
 
 P(t='parte', n='EPÍLOGO', title='As três Mafaldas', years='', color='graf')
 P(t='cap', num=35, title='A princesa, o navio e a menina', synop='As três camadas do livro amarradas num nome. A única que chega viva ao fim.', book='EP', color='graf')
@@ -5413,9 +5414,10 @@ for p in pages:
     elif t == 'img':
         folio += 1
         out.append(sheet(
-            '<figure class="fig"><div class="fig-i"><img src="%s" alt="%s" loading="lazy"></div>'
+            '<figure class="fig%s"><div class="fig-i"><img src="%s" alt="%s" loading="lazy"></div>'
             '<figcaption>%s</figcaption></figure><span class="folio">%d</span>'
-            % (b64(p['key']), E(p['cap'][:90]), E(p['cap']), folio)))
+            % ((' fig-' + p['estilo']) if p.get('estilo') else '',
+               b64(p['key']), E(p['cap'][:90]), E(p['cap']), folio)))
     elif t == 'audio':
         folio += 1
         pid = 'au%d' % folio
@@ -5571,6 +5573,22 @@ strong{font-weight:700}
 .fim{margin:auto 0;text-align:center}
 .fm-1{font-family:var(--fd);font-style:italic;font-size:2.2em;margin:0;color:var(--accent)}
 .fm-2{font-family:var(--fu);font-size:.76em;line-height:1.7;color:var(--faint);margin:1.6em 0 0}
+
+/* tratamentos de foto */
+/* oval: a fotografia se dissolve no papel, sem cortar ninguem */
+.fig-oval .fig-i{padding:.6em 0}
+.fig-oval img{
+ -webkit-mask-image:radial-gradient(ellipse 58% 60% at 50% 44%,#000 58%,rgba(0,0,0,.9) 74%,transparent 93%);
+ mask-image:radial-gradient(ellipse 58% 60% at 50% 44%,#000 58%,rgba(0,0,0,.9) 74%,transparent 93%);
+ filter:saturate(.82) contrast(1.03);
+}
+/* montada: a fotografia colada numa folha de album, com fio e sombra */
+.fig-montada .fig-i{padding:.5em 0}
+.fig-montada img{
+ padding:.55em;background:var(--sheet);
+ box-shadow:0 0 0 1px var(--rule),0 1px 2px rgba(0,0,0,.14),0 12px 30px rgba(0,0,0,.14);
+ filter:saturate(.88);
+}
 
 /* dica */
 .dica{position:fixed;z-index:42;left:50%;transform:translateX(-50%);bottom:1.25rem;
