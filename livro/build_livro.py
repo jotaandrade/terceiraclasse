@@ -12,6 +12,15 @@ def b64(key):
     with open(p, 'rb') as f:
         return 'data:image/webp;base64,' + base64.b64encode(f.read()).decode()
 
+AUD = os.path.join(SP, 'audio')
+
+def b64aud(key):
+    p = os.path.join(AUD, key + '.m4a')
+    if not os.path.exists(p):
+        raise SystemExit('audio inexistente: ' + key)
+    with open(p, 'rb') as f:
+        return 'data:audio/mp4;base64,' + base64.b64encode(f.read()).decode()
+
 E = html.escape
 
 # ---------------------------------------------------------------- capitulos
@@ -5067,6 +5076,21 @@ IMG_BY_CAP = {
       ('giorgio_e_sua_familia','Giorgio Forner e família, o ramo que permaneceu no Vêneto.')],
 }
 
+AUDIO_BY_CAP = {
+ 25: [('patricia-01',
+       'A fonte é o avô',
+       'Patrícia Betti · 8 de setembro de 2026 · 1min06',
+       'Ela diz de quem ouviu tudo o que sabe: João Betti, o marido da Pulcheria, que não '
+       'estava no navio. E recusa confirmar o cozinheiro. "Pukéria" é como a transcrição '
+       'registrou Pulcheria; o áudio está aqui como veio, sem limpeza.',
+       'Primo, quem me contou todas as histórias foi meu avô, né, que era o marido da Pukéria. Então, eu só sei da fonte dele. Ele não me falou nada disso, né, não posso dizer… Às vezes, sim, gostava como criança mesmo, né, porque estava todo mundo na terceira classe.\n\nMas o que ele falou é que, por ser terceira classe, eles não tinham preferência, né, e que tinham saído porque eram duas mulheres com cinco crianças, né, e uma grávida, a sua bisa, no caso. Então, eu só sei disso. Agora, se teve um cozinheiro que ajudou ou não… Assim, eu, como pesquisadora, se fosse você, colocaria, se você quiser mencionar, mencionaria que tem essa informação citada por fulana, né, mas que você não tem outra confirmação.\n\nComo que ela soube disso?'),
+      ('patricia-02',
+       'O carvão, e a hospedaria',
+       'Patrícia Betti · 8 de setembro de 2026 · 32s',
+       'A versão do avô para o reencontro, e a frase que localiza a cena em São Paulo.',
+       'Acho que essa história do navio de carvão é verdade, porque quando o meu avô contou que o meu bisavô foi encontrar a família lá em São Paulo, ele não reconheceu porque a viúva, não sei se foi a minha avó mesmo que estava na frente, na frente da hospedaria ali, onde ele passou, onde ele passou na frente do quarto, não sei, e ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma história, sim.')],
+}
+
 for bn, btitle, byears, bcolor in BOOKS:
     P(t='parte', n=bn, title=btitle, years=byears, color=bcolor)
     for (num, ctitle, synop) in CAPS[bn]:
@@ -5077,6 +5101,8 @@ for bn, btitle, byears, bcolor in BOOKS:
                 P(t='texto', body=body, book=bn, cap=num, captitle=ctitle)
         for k, cap in IMG_BY_CAP.get(num, []):
             P(t='img', key=k, cap=cap, book=bn)
+        for k, tit, meta, nota, tr in AUDIO_BY_CAP.get(num, []):
+            P(t='audio', key=k, tit=tit, meta=meta, nota=nota, tr=tr, book=bn)
 
 # ---------------------------------------------------- caderno de imagens
 SKIP = {'710doxadqgl__sl1360','716aeqgd2pl__sl1499','71lmjwglzgl__sl1200','71rnbfpskhl__sl1360',
@@ -5195,6 +5221,29 @@ for p in pages:
             '<figure class="fig"><div class="fig-i"><img src="%s" alt="%s" loading="lazy"></div>'
             '<figcaption>%s</figcaption></figure><span class="folio">%d</span>'
             % (b64(p['key']), E(p['cap'][:90]), E(p['cap']), folio)))
+    elif t == 'audio':
+        folio += 1
+        pid = 'au%d' % folio
+        tx = ''.join('<p>%s</p>' % E(x.strip()) for x in p['tr'].split('\n\n'))
+        out.append(sheet(
+            '<div class="aud">'
+            '<p class="aud-h">Documento sonoro</p>'
+            '<h3 class="aud-t">%s</h3>'
+            '<p class="aud-m">%s</p>'
+            '<div class="player" data-src="%s">'
+              '<button class="pbtn" type="button" aria-label="Tocar">'
+                '<svg class="i-play" viewBox="0 0 12 14" aria-hidden="true">'
+                  '<path d="M0 0 L12 7 L0 14 Z"></path></svg>'
+                '<svg class="i-pause" viewBox="0 0 12 14" aria-hidden="true" hidden>'
+                  '<path d="M0 0h4v14H0z M8 0h4v14H8z"></path></svg>'
+              '</button>'
+              '<div class="ptrack" role="slider" tabindex="0" aria-label="Posição"><i></i></div>'
+              '<span class="ptime">0:00</span>'
+            '</div>'
+            '<p class="aud-n">%s</p>'
+            '<div class="aud-x">%s</div>'
+            '</div><span class="folio">%d</span>'
+            % (E(p['tit']), E(p['meta']), b64aud(p['key']), E(p['nota']), tx, folio)))
     elif t == 'fim':
         out.append(sheet(
             '<div class="fim"><p class="fm-1">continua</p>'
@@ -5314,6 +5363,32 @@ body{background:var(--room);color:var(--ink);font-family:var(--fb);margin:0}
 .fm-1{font-family:var(--fd);font-style:italic;font-size:2.2em;margin:0;color:var(--accent)}
 .fm-2{font-family:var(--fu);font-size:.76em;line-height:1.7;color:var(--faint);margin:1.6em 0 0}
 
+/* audio */
+.aud{margin:auto 0;display:flex;flex-direction:column;gap:.75em;min-height:0}
+.aud-h{font-family:var(--fu);font-size:.62em;letter-spacing:.2em;text-transform:uppercase;
+ color:var(--accent);margin:0}
+.aud-t{font-family:var(--fd);font-style:italic;font-weight:400;font-size:1.5em;line-height:1.15;
+ margin:0}
+.aud-m{font-family:var(--fu);font-size:.66em;letter-spacing:.04em;color:var(--faint);margin:0}
+.aud-n{font-family:var(--fu);font-size:.68em;line-height:1.55;color:var(--soft);margin:0}
+.player{display:flex;align-items:center;gap:.85em;border:1px solid var(--rule);
+ padding:.7em .85em;margin:.15em 0}
+.pbtn{flex:none;width:2.5em;height:2.5em;border-radius:50%;border:1px solid var(--accent);
+ background:transparent;color:var(--accent);cursor:pointer;display:grid;place-items:center;
+ padding:0;transition:background .15s,color .15s}
+.pbtn:hover,.pbtn:focus-visible{background:var(--accent);color:var(--sheet);outline:none}
+.pbtn svg{width:.72em;height:.84em;fill:currentColor;display:block}
+.pbtn svg[hidden]{display:none}
+.ptrack{flex:1;height:3px;background:var(--rule);position:relative;cursor:pointer}
+.ptrack:focus-visible{outline:1px solid var(--accent);outline-offset:4px}
+.ptrack i{position:absolute;left:0;top:0;bottom:0;width:0;background:var(--accent)}
+.ptime{flex:none;font-family:var(--fu);font-size:.66em;color:var(--faint);
+ font-variant-numeric:tabular-nums;min-width:5.4em;text-align:right}
+.aud-x{font-size:.8em;line-height:1.62;color:var(--soft);overflow-y:auto;min-height:0;
+ border-top:1px solid var(--rule);padding-top:.7em;text-align:justify;hyphens:auto}
+.aud-x p{margin:0 0 .65em}
+.aud-x p:last-child{margin:0}
+
 /* chrome */
 .bar{position:fixed;left:0;right:0;top:0;height:2px;background:transparent;z-index:40}
 .bar i{display:block;height:100%;width:0;background:var(--accent);transition:width .12s linear}
@@ -5410,6 +5485,7 @@ JS = """
  stage.addEventListener('scroll',function(){ window.requestAnimationFrame(upd); },{passive:true});
 
  document.addEventListener('keydown',function(e){
+  if(e.target&&e.target.closest&&e.target.closest('.player')) return;
   if(toc.getAttribute('data-open')==='1'){ if(e.key==='Escape') close(); return; }
   var k=e.key;
   if(k==='ArrowDown'||k==='PageDown'||k===' '||k==='ArrowRight'){e.preventDefault();go(cur()+1);}
@@ -5428,6 +5504,52 @@ JS = """
 
  var saved=null; try{saved=localStorage.getItem('tc_pos');}catch(e){}
  if(saved!==null && +saved>0){ setTimeout(function(){ go(+saved); upd(); },60); } else { upd(); }
+})();
+
+/* ---- leitor de audio ---- */
+(function(){
+ var tocando=null;
+ function mmss(t){ if(!isFinite(t))return '0:00';
+  var m=Math.floor(t/60),s=Math.floor(t%60); return m+':'+(s<10?'0':'')+s; }
+ Array.prototype.forEach.call(document.querySelectorAll('.player'),function(pl){
+  var btn=pl.querySelector('.pbtn'), tr=pl.querySelector('.ptrack'),
+      fill=tr.querySelector('i'), lab=pl.querySelector('.ptime'),
+      ip=btn.querySelector('.i-play'), iz=btn.querySelector('.i-pause'), a=null;
+  function make(){ if(a) return a;
+   a=new Audio(pl.dataset.src); a.preload='metadata';
+   a.addEventListener('loadedmetadata',pinta);
+   a.addEventListener('timeupdate',pinta);
+   a.addEventListener('ended',function(){ a.currentTime=0; para(); pinta(); });
+   return a; }
+  function pinta(){ var d=a&&isFinite(a.duration)?a.duration:0, c=a?a.currentTime:0;
+   fill.style.width=(d?(c/d*100):0)+'%';
+   lab.textContent=mmss(c)+(d?' / '+mmss(d):'');
+   tr.setAttribute('aria-valuetext',mmss(c)); }
+  function toca(){ if(tocando&&tocando!==pl) tocando.__para();
+   make(); a.play(); tocando=pl;
+   ip.hidden=true; iz.hidden=false; btn.setAttribute('aria-label','Pausar'); }
+  function para(){ if(a) a.pause();
+   ip.hidden=false; iz.hidden=true; btn.setAttribute('aria-label','Tocar');
+   if(tocando===pl) tocando=null; }
+  pl.__para=para;
+  btn.addEventListener('click',function(){ (a&&!a.paused)?para():toca(); });
+  function busca(x){ make(); var r=tr.getBoundingClientRect();
+   var p=Math.min(1,Math.max(0,(x-r.left)/r.width));
+   if(isFinite(a.duration)) a.currentTime=p*a.duration; pinta(); }
+  tr.addEventListener('click',function(e){ busca(e.clientX); });
+  tr.addEventListener('keydown',function(e){ make();
+   if(e.key==='ArrowRight'){e.preventDefault();a.currentTime=Math.min(a.duration||0,a.currentTime+5);pinta();}
+   else if(e.key==='ArrowLeft'){e.preventDefault();a.currentTime=Math.max(0,a.currentTime-5);pinta();}
+   else if(e.key===' '||e.key==='Enter'){e.preventDefault();(a&&!a.paused)?para():toca();} });
+  pinta();
+ });
+ /* virou a pagina, para o som */
+ var stg=document.getElementById('stage');
+ if(stg) stg.addEventListener('scroll',function(){
+  if(!tocando) return;
+  var r=tocando.getBoundingClientRect();
+  if(r.bottom<0||r.top>window.innerHeight) tocando.__para();
+ },{passive:true});
 })();
 """
 

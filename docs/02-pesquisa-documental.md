@@ -1480,3 +1480,26 @@ repropô-lo com outro assunto.
 
 ➕ Mesma situação, menor grau, no **cap. 15** ("O que o Brasil prometia"), cujo argumento
 central — colonato x espontâneos — foi para o **cap. 28**.
+
+---
+
+## 19. Áudio no livro
+
+O livro passou a ter **páginas de documento sonoro**: `AUDIO_BY_CAP` em `build_livro.py`,
+mesma mecânica do `IMG_BY_CAP`.
+
+**Como adicionar um áudio novo**
+1. Converter para AAC mono, que toca em todo navegador:
+   `ffmpeg -i entrada.ogg -c:a aac -b:a 32k -ac 1 -ar 24000 livro/audio/nome.m4a`
+2. Acrescentar em `AUDIO_BY_CAP` uma tupla
+   `(chave, título, linha de crédito, nota, transcrição)` sob o número do capítulo.
+3. Rodar `python livro/build_livro.py`.
+
+**Limite de tamanho.** Tudo vai embutido em base64 dentro do HTML, porque a página não pode
+buscar mídia externa. O teto do artefato é **16 MB** e o livro hoje ocupa ~6 MB, quase tudo
+imagem. Sobram ~10 MB, que a 32 kbps mono dão **cerca de quarenta minutos de fala**.
+Gravação longa da avó **não cabe inteira** — entram trechos escolhidos, e o áudio completo
+fica no acervo, fora do livro.
+
+**Já no livro:** os dois áudios da Patrícia Betti, no cap. 25, com transcrição ao lado, sem
+limpeza. Originais `.ogg` guardados em `documentos/`.
