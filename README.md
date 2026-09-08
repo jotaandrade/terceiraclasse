@@ -65,6 +65,17 @@ nos agradecimentos. O corpo do livro usa expressoes vagas de tempo ("levei anos"
 anos", "me tomou meses") - nenhuma contradiz, mas vale considerar tornar uma delas
 explicita.
 
+## O livro sera IMPRESSO
+
+Decidido em 08.09.2026. Consequencia imediata: **paginas de documento sonoro sairam do
+miolo** - livro impresso nao toca audio. O mecanismo continua no gerador, desligado, porque
+serve ao site do centenario, que e digital. Audios preservados em `livro/audio/` e os
+originais `.ogg` em `documentos/`; as falas ja estao citadas dentro dos caps. 24 e 30.
+
+Fica valendo para o resto: o que existe so na tela - botao **Ouvir**, controle de tamanho,
+sumario clicavel, botoes de virar pagina - e **ferramenta de trabalho**, nao conteudo. Nada
+disso vai para o impresso, e nada disso deve influenciar decisao de texto.
+
 ## Regras de escrita
 
 **Voz.** Primeira pessoa contida. O autor aparece só quando está fazendo alguma coisa —

@@ -5261,20 +5261,12 @@ IMG_BY_CAP = {
 }
 
 
-AUDIO_BY_CAP = {
- 24: [('patricia-01',
-       'A fonte é o avô',
-       'Patrícia Betti · 8 de setembro de 2026 · 1min06',
-       'Ela diz de quem ouviu tudo o que sabe: João Betti, o marido da Pulcheria, que não '
-       'estava no navio. E recusa confirmar o cozinheiro. "Pukéria" é como a transcrição '
-       'registrou Pulcheria; o áudio está aqui como veio, sem limpeza.',
-       'Primo, quem me contou todas as histórias foi meu avô, né, que era o marido da Pukéria. Então, eu só sei da fonte dele. Ele não me falou nada disso, né, não posso dizer… Às vezes, sim, gostava como criança mesmo, né, porque estava todo mundo na terceira classe.\n\nMas o que ele falou é que, por ser terceira classe, eles não tinham preferência, né, e que tinham saído porque eram duas mulheres com cinco crianças, né, e uma grávida, a sua bisa, no caso. Então, eu só sei disso. Agora, se teve um cozinheiro que ajudou ou não… Assim, eu, como pesquisadora, se fosse você, colocaria, se você quiser mencionar, mencionaria que tem essa informação citada por fulana, né, mas que você não tem outra confirmação.\n\nComo que ela soube disso?'),
-      ('patricia-02',
-       'O carvão, e a hospedaria',
-       'Patrícia Betti · 8 de setembro de 2026 · 32s',
-       'A versão do avô para o reencontro, e a frase que localiza a cena em São Paulo.',
-       'Acho que essa história do navio de carvão é verdade, porque quando o meu avô contou que o meu bisavô foi encontrar a família lá em São Paulo, ele não reconheceu porque a viúva, não sei se foi a minha avó mesmo que estava na frente, na frente da hospedaria ali, onde ele passou, onde ele passou na frente do quarto, não sei, e ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma história, sim.')],
-}
+# O livro sera IMPRESSO: paginas de documento sonoro nao entram no miolo.
+# O mecanismo fica de pe (renderizador, CSS e leitor) porque serve ao site
+# do centenario, que e digital. Os arquivos continuam em livro/audio/ e os
+# originais .ogg em documentos/.
+AUDIO_BY_CAP = {}
+
 
 AGRADECIMENTOS = """À minha avó <strong>Mafalda</strong>, por ter contado as histórias. Foi ela que despertou em mim, anos atrás, o interesse pela busca de um elo familiar que havia se perdido. Sem ela, este livro não teria começado.
 
