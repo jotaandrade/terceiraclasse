@@ -5232,11 +5232,12 @@ for bn, btitle, byears, bcolor in BOOKS:
 SKIP = {'52f7878846e1bd9668eb0502126ae9a0', '571_1', '571_2', '710doxadqgl__sl1360',
         '716aeqgd2pl__sl1499', '71lmjwglzgl__sl1200', '71rnbfpskhl__sl1360',
         '9e1442ad1cef72882ae3ced892b93163', 'arovore_genealogica', 'brasao', 'capa', 'cartaz',
-        'castellcuco', 'e01164_afab8415694242ebbd01f48d699c9193_mv2', 'familia_italiana',
-        'forner_martino_fratello_di_mio_nonno_sante', 'image_4', 'italia_campo_verde',
-        'italianos_no_barco', 'joao_luca_e_mafalda', 'mafalda_naufragando', 'mattia',
-        'princessa_mafalda', 'propaganda_para_italianos_virem_ao_brasil_1024x580', 'rosa_forner',
-        'sao_joao_da_boa_vista', 'selo', 'stöwer_titanic', 'tio_henrrique', 'vapor_mafalda'}
+        'castellcuco', 'e01164_afab8415694242ebbd01f48d699c9193_mv2', 'familia_forner',
+        'familia_italiana', 'forner_martino_fratello_di_mio_nonno_sante', 'image_4',
+        'italia_campo_verde', 'italianos_no_barco', 'joao_luca_e_mafalda', 'mafalda_naufragando',
+        'mattia', 'princessa_mafalda', 'propaganda_para_italianos_virem_ao_brasil_1024x580',
+        'quadro_de_guerra', 'rosa_forner', 'sao_joao_da_boa_vista', 'selo', 'stöwer_titanic',
+        'tio_henrrique', 'vapor_mafalda'}
 LEG = {
  'angelo__dei_agnoli':'Passaporte de Angelo dei Agnoli, marido de Maria Luigia Forner.',
  'angelo_dei_agnoli__jpg':'Certidão de registro de Angelo dei Agnoli.',

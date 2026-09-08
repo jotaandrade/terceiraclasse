@@ -1637,3 +1637,25 @@ entra se a legenda disser que é ilustração.
    original, ele volta ao cap. 23.
 3. Catorze arquivos de lixo continuam na pasta (`image_4`, `710doxadqgl__sl1360`, `571_1`,
    `selo`, `brasao`, `mattia` e afins). Estão no SKIP, mas podem ser apagados.
+
+### Removidas tambem (autor, 08.09.2026)
+
+`familia_forner` e `quadro_de_guerra` - as duas sao pinturas. A primeira e uma composicao
+com retratos, medalhas e uma lista de embarque "LLOYD ITALIANO / Principessa Mafalda"; o
+texto dentro dela e ilegivel e a companhia esta errada. A segunda e a versao pintada do
+quadro das medalhas, feita a partir da fotografia real.
+
+### VERIFICADO: o quadro das medalhas do cap. 7 e autentico
+
+`quadro_guerra_europa` e fotografia de verdade: moldura de madeira, papel manchado de idade,
+tres medalhas com as fitas presas por cima, e a inscricao a mao legivel na ampliacao.
+
+**Le-se "Forner Sante di Vincenzo"** - com **di**, nao *fu*.
+
+Isso importa muito. O diploma e de 1920 e a carta d'identita e de 1940; se ali estivesse
+*fu*, o pai estaria morto em 1920 e vivo em 1940, e a descoberta central do cap. 4 (Vincenzo
+vivo aos 77 anos, e o pai de 65 anos que se despede das filhas em 1927) cairia. Nao cai.
+
+Ressalva honesta: a leitura foi feita sobre ampliacao de uma imagem de 582x807. Vale pedir
+ao Giorgio uma fotografia em alta resolucao dessa linha - e da linha de baixo, que parece
+trazer a patente e nao foi decifrada.
