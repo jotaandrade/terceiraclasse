@@ -74,6 +74,11 @@ um capítulo.
 **Enrico (cap. 29).** Escrever seco, sem adjetivo. Não transformar a doença dele em
 metáfora. A causa registrada é neoplasia de orofaringe, não câncer de língua.
 
+**Patrícia Betti.** Neta da Pulcheria e bisneta de Maria Luigia. **Consentiu em ser
+nomeada e creditada no livro (08.09.2026).** Aparece nos caps. 10, 21, 27, 31 e 32. É
+fonte de boa parte da tradição oral deste projeto — o cozinheiro, o bote dos cozinheiros,
+o navio de carvão e a menina que achou o pai. Creditar sempre que o material for dela.
+
 **Fontes orais.** Não corrigir a entrevistada durante a gravação, nunca — nem data errada.
 Divergência entre depoimento e documento se resolve no papel, depois.
 
@@ -92,7 +97,6 @@ sempre existe, e quase sempre é mais forte do que a disputa.
 
 - **Procedência do corpus de depoimentos** de sobreviventes (jornal, data, página). Está
   declarada como lacuna dentro do capítulo 19.
-- **Consentimento da Patrícia Betti** para ser nomeada e creditada no livro. Solicitado em 08.09.2026, aguardando retorno. Ela aparece nos caps. 10, 21, 27, 31 e 32; se não confirmar, volta a "uma prima".
 - **Crédito do panfleto** "…In América" usado no capítulo 5 — imagem obtida na internet.
 - Quatro verificações abertas, listadas em `docs/02-pesquisa-documental.md`, seção 12.
 

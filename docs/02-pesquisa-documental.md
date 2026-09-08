@@ -1318,3 +1318,8 @@ dossiê: **Rosi**.
 2. Datas de **Galliano** e **Giorgio**, e o sobrenome do Giorgio.
 3. Ano da morte de **Vincenzo Forner** (só se sabe que era vivo em 03.1940).
 4. O que aconteceu com a **Gina**, irmã mais velha da Pulcheria.
+
+### ✅ Consentimento
+
+**Patrícia Betti autorizou ser nomeada e creditada no livro em 08.09.2026.** Deixou de ser
+pendência de publicação. Ela aparece nomeada nos capítulos 10, 21, 27, 31 e 32.
