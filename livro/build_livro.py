@@ -31,7 +31,7 @@ CAPS = {
   (5,'O cartaz','Agenciadores, promessas, fare l’America. A propaganda e o que ela escondia.'),
   (6,'O Decreto Prinetti','1902: a Itália proíbe a emigração subsidiada para o Brasil.'),
   (7,'Sante nos Alpes','A Grande Guerra, as trincheiras, as três medalhas. O ramo que ficou.'),
-  (8,'Rosa e Fausto','Casamento em 1926. Fausto parte. Enrico nasce em 10 de outubro.'),
+  (8,'Rosa e Fausto','Enrico nasce em outubro de 1926, o casamento e em dezembro, e Fausto parte.'),
  ],
  'II': [
   (9,'Gênova','O porto como sistema. A babel de dialetos, a despedida definitiva.'),
@@ -57,8 +57,8 @@ CAPS = {
  'IV': [
   (26,'31 de outubro','Hospedaria do Brás. Livro 100, página 290.'),
   (27,'O reencontro','Fausto e Angelo recebem as mulheres e as crianças.'),
-  (28,'Terra vermelha','O interior paulista, o café, uma vida construída do zero.'),
-  (29,'Enrico','1926 a 1998.'),
+  (28,'Terra vermelha','Grama, o café, e a palavra que decidiu tudo: espontâneos.'),
+  (29,'Enrico','1926 a 1998. Cinco documentos, e nada além do que eles dizem.'),
   (30,'1937','Mafalda nasce em São José do Rio Pardo e recebe o nome do navio.'),
   (31,'Virar brasileiro','Língua, comida, fé, o dialeto que some.'),
   (32,'Os que ficaram, cem anos depois','A linha de Sante: Galliano, Giorgio.'),
@@ -1617,6 +1617,225 @@ inteira é o reencontro.
 Contar o resto seria ter que contar a água.
 
 <strong>Elas escolheram contar a parte em que a família se acha.</strong>""",
+]
+
+CAP28 = [
+"""O destino era Grama.
+
+Hoje se chama São Sebastião da Grama. É um município pequeno no nordeste do estado de São
+Paulo, na região que se chamava Mogiana, e naquela época pertencia à comarca de São José do
+Rio Pardo.
+
+Eu sei disso por dois papéis: um carimbo da <strong>Delegacia de Polícia de Grama</strong> no
+registro de estrangeiro de Angelo Dei Agnoli, e um assento de casamento, o número 660 do
+cartório de Grama, lavrado vinte anos depois.""",
+
+"""É terra de café.
+
+O solo daquela região é vermelho, quase alaranjado quando seco e quase roxo quando molhado.
+Vem de basalto decomposto, é fundo, é fértil, e foi ele que fez a riqueza do café paulista.
+
+Chamam de <em>terra roxa</em>. Conta-se que o nome veio dos próprios italianos, que diziam
+<em>rossa</em>, e que o ouvido brasileiro transformou em roxa. Não sei se é verdade. É o tipo
+de história que um lugar conta de si mesmo, e eu registro como tal.""",
+
+"""Na folha do <em>Alhena</em> há uma palavra que aparece duas vezes.
+
+<strong>Espontâneos.</strong>
+
+Está na parte do intérprete — <em>entregou 1 lista com 50 immigrantes sendo todos em terceira
+classe, espontaneos</em> — e está outra vez no resumo do desembarque.
+
+É a palavra mais importante daquele documento para entender o que aconteceu com esta família
+depois.""",
+
+"""Para dizer o que ela significa, eu preciso mostrar o que aquelas sete pessoas
+<em>não</em> foram.
+
+Quatro anos antes, o mesmo navio fez a mesma rota com outro tipo de gente a bordo. Está
+anexado à lista de fevereiro de 1923, num formulário diferente de todos os outros:
+
+<em>RELAÇÃO dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o Vap.
+"PRINCIPESSA MAFALDA"… em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da
+Companhia Commercial de SÃO PAULO.</em>""",
+
+"""Sessenta e sete pessoas, dez famílias. E aquele formulário tem uma coluna que a lista
+comum não tem.
+
+<strong>Patrão.</strong>
+
+Preenchida antes do embarque, com o destino já resolvido: Chavantes. Barreiro. Fazenda
+Guatapará. S. Simão. E o mesmo nome repetido linha após linha, <em>Dr. Ralpho P. Silva</em>.
+
+Aquelas pessoas atravessaram o Atlântico com o nome do dono do trabalho delas já escrito no
+papel, antes de terem pisado no Brasil.""",
+
+"""E iam na terceira classe, no mesmo porão, ao lado de quem tinha comprado a passagem.
+
+Do lado de fora não havia diferença nenhuma. A mesma comida, o mesmo beliche, a mesma água,
+o mesmo cheiro.
+
+A diferença estava no formulário.
+
+<strong>E Rosa não estava nesse formulário.</strong>""",
+
+"""Ela não foi recrutada. Não teve passagem paga pelo Estado de São Paulo, não tinha patrão
+declarado, não seguiu para fazenda nenhuma.
+
+Ela veio encontrar o marido.
+
+<strong>Reunião familiar, não colonização.</strong> É uma distinção que parece burocrática e
+que decide uma vida inteira.""",
+
+"""Quem vinha pelo sistema de colonato chegava devendo.
+
+Devia a passagem, ou o adiantamento, ou as duas coisas. Cuidava de um número contratado de
+pés de café, comprava no armazém da própria fazenda, e levava anos para saber se a conta
+andava para a frente ou para trás.
+
+Quem vinha por conta própria chegava sem nada. Sem casa, sem ferramenta, sem adiantamento,
+sem promessa.
+
+<strong>Mas chegava sem dono.</strong>""",
+
+"""Fausto Miotto era agricultor na Itália e foi agricultor aqui.
+
+Não por escolha. Um homem de vinte e três anos, sem uma palavra de português, sem terra, sem
+instrução formal e sem ofício urbano faz no Brasil a única coisa que sabe fazer.
+
+A diferença é que na Itália ele trabalhava numa encosta pequena, de onde uma família tirava
+polenta, e aqui foi trabalhar numa terra vasta, fértil e de outra pessoa.""",
+
+"""Angelo Dei Agnoli já estava em Grama havia seis meses quando as duas irmãs chegaram.
+
+Tinha onde dormir e tinha trabalho. É por isso que o destino declarado das duas famílias, no
+Rio e depois em São Paulo, era o mesmo lugar.
+
+A cadeia é simples e é a de sempre: um homem vem primeiro, se estabelece e chama. Angelo
+chamou Maria Luigia e os quatro filhos. Fausto chamou Rosa e o Enrico.
+
+As duas irmãs vieram no mesmo navio porque foram chamadas para o mesmo lugar.""",
+
+"""<strong>Em 10 de novembro de 1928, em Grama, nasceu Erminda Miotto.</strong>
+
+Treze meses depois do naufrágio.
+
+A primeira brasileira desta família.""",
+
+"""Vale parar nessa conta.
+
+Em pouco mais de um ano, aquelas pessoas caíram no Atlântico, perderam tudo o que traziam,
+foram recolhidas por navios estrangeiros, desembarcaram no Rio, atravessaram para São Paulo,
+deram entrada numa hospedaria de imigrantes, pegaram um trem para o interior, arrumaram
+trabalho, montaram uma casa e tiveram um filho.
+
+Não houve luto público. Não houve indenização. Não houve pausa.
+
+Ninguém deu a eles um ano para se recuperar, e eu desconfio que nem lhes tenha ocorrido
+pedir.""",
+
+"""Depois de Erminda vieram Nair, Maria Therezinha, Izaira, Fermino, Mafalda, Rosalia, Luiz,
+Dionísio, e mais uma.
+
+<strong>Onze filhos ao todo</strong>, contando o Enrico. Dez nascidos no Brasil.
+
+Nem todos chegaram à idade adulta. Rosalia nasceu em 1940 e morreu em 1941, e naquele lugar e
+naquela época isso não era exceção.""",
+
+"""A Parte I deste livro se chama <em>A terra que não bastava</em>.
+
+Rosa e Fausto atravessaram um oceano, sobreviveram a um naufrágio e foram parar numa terra
+que bastava e que não era deles.
+
+<strong>Chegaram pretas de carvão e foram trabalhar em terra vermelha.</strong>""",
+]
+
+CAP29 = [
+"""Enrico Miotto nasceu em 10 de outubro de 1926, na Itália.
+
+Morreu em 6 de outubro de 1998, no Conjunto Hospitalar de Sorocaba.
+
+Entre uma data e a outra há setenta e um anos e cinco documentos. Este capítulo é feito com
+eles, e não vai ter aqui nada que eles não digam.""",
+
+"""Ele tinha um ano e quinze dias quando o navio afundou.
+
+Estava no colo da mãe, na terceira classe, no porão. Não escolheu nada, não entendeu nada e
+não se lembrou de nada.
+
+É o passageiro deste livro que menos participou da própria história.""",
+
+"""Em 31 de outubro de 1927 ele entrou na Hospedaria do Brás como segunda linha da família
+19270.
+
+<strong>ENRICO, 1 ano.</strong>
+
+Sem sobrenome. Nas listas de imigração o sobrenome se escreve uma vez, na linha do chefe, e
+vale para todos os que vêm embaixo.""",
+
+"""Depois disso ele some dos meus papéis por vinte e dois anos.
+
+Cresceu em Grama, entre os irmãos que foram nascendo. Não achei registro escolar, não achei
+certidão de nada, não achei fotografia com data.
+
+O que aconteceu com ele entre 1927 e 1949, eu não sei.""",
+
+"""E aí ele reaparece, numa repartição de São Paulo, em 29 de dezembro de 1949.
+
+<strong>Registro de Estrangeiros.</strong>
+
+Vinte e três anos. Solteiro. Profissão: <strong>pedreiro</strong>. Endereço: Parque São
+Jorge, sem número, Penha, São Paulo, capital. RG 1.335.902, carteira 308.460.
+
+Nacionalidade: <strong>italiana</strong>.""",
+
+"""Vinte e dois anos depois de chegar, ele ainda era italiano.
+
+Se chegou a se naturalizar em algum momento, eu não achei o papel.""",
+
+"""E aquele documento prova uma coisa que nenhum outro prova sozinho.
+
+Criança nascida no Brasil não precisa de registro de estrangeiro.
+
+Se Enrico teve que tirar um, aos vinte e três anos, é porque sabia que tinha nascido do outro
+lado. E alguém contou isso a ele.
+
+<strong>Enrico sabia que tinha estado naquele navio.</strong> Rosa contou a mesma história aos
+dois filhos: a ele, o primeiro, e à Mafalda, que nasceria dez anos depois com o nome do
+navio.""",
+
+"""E ele saiu da terra.
+
+O pai era agricultor. Os irmãos ficaram no interior. Enrico foi para a capital e virou
+pedreiro, na Penha, do outro lado da cidade.
+
+Era pedreiro em São Paulo na década de 1950, que é quando São Paulo cresceu mais depressa.""",
+
+"""Solteiro em 1949, aos vinte e três.
+
+Solteiro em 1998, aos setenta e um.
+
+Nunca se casou e não teve filhos. Os dois documentos que eu tenho, separados por quase
+cinquenta anos, dizem a mesma coisa nessa linha.""",
+
+"""Morreu de câncer.
+
+A certidão registra insuficiência respiratória como causa direta, e desnutrição. Declaração de
+Óbito nº 5501831.
+
+Setenta e um anos, aposentado, morador da Rua Cervantes, 607, Vila Assis, Sorocaba.""",
+
+"""Foi em 6 de outubro.
+
+Ele faria setenta e dois no dia 10.""",
+
+"""Enrico Miotto atravessou o Atlântico antes de aprender a andar.
+
+Sobreviveu a um naufrágio antes de aprender a falar.
+
+Não se lembrava de nada daquilo, e sabia de tudo aquilo, porque a mãe contou.
+
+<strong>Foi o primeiro dos onze filhos de Rosa. Foi o único que esteve no navio.</strong>""",
 ]
 
 CAP19 = [
@@ -3806,7 +4025,7 @@ Para que quando o navio afundar, o leitor saiba exatamente o que aquelas pessoas
 tentando alcançar, e o que já tinham atravessado antes de chegar à água.""",
 ]
 
-CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24, 25: CAP25, 26: CAP26, 27: CAP27}
+CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24, 25: CAP25, 26: CAP26, 27: CAP27, 28: CAP28, 29: CAP29}
 
 # ------------------------------------------------------------------ paginas
 pages = []
