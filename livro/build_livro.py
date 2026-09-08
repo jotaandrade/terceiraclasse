@@ -37,33 +37,31 @@ CAPS = {
   (9,'Gênova','O porto como sistema. A babel de dialetos, a despedida definitiva.'),
   (10,'A terceira classe','O porão por dentro: beliches, comida racionada, os corpos jogados ao mar.'),
   (11,'O negócio da esperança','Companhias de navegação, preço da passagem, dívida, agenciadores.'),
-  (12,'Duas irmas embarcam','Sete pessoas sobem a prancha, e nenhuma delas e um homem adulto.'),
-  (13,'Escala em Dakar','As falhas de máquina, os alertas, a decisão de seguir viagem.'),
-  (14,'Os que já estavam lá','Fausto e Angelo no Brasil, a casa preparada, a espera.'),
-  (15,'O que o Brasil prometia','Café, contrato de colono, e a fronteira entre trabalho livre e o que veio antes.'),
+  (12,'Duas irmãs embarcam','Sete pessoas sobem a prancha, e nenhuma delas é um homem adulto.'),
+  (13,'Os que já estavam lá','Fausto e Angelo no Brasil, a casa preparada, a espera.'),
  ],
  'III': [
-  (16,'1908','O navio gemeo que afundou no proprio lancamento, e o nome que veio depois.'),
-  (17,'Os anos de gloria','Cento e quarenta pessoas em cima, mil embaixo. A gloria era o andar de cima.'),
-  (18,'O declinio','Ele nao foi aposentado. Foi rebaixado, um degrau por vez, por navios mais novos.'),
-  (19,'A última viagem','Quem estava a bordo. Garovaglio, von Lücken, Bucherer, o comandante Gulì.'),
-  (20,'17h15','O eixo da hélice de bombordo se rompe.'),
-  (21,'A noite','Hora a hora, do estrondo às 22h10.'),
-  (22,'Os botes','Lugares vendidos, botes danificados, os tubarões.'),
-  (23,'22h10','O navio afunda. Gulì fica a bordo.'),
-  (24,'Alhena, Mosella, Empire Star','O resgate a noite inteira.'),
-  (25,'Os 314','Os mortos não têm lista, não têm sepultura e não têm nome. E o país nunca guardou a data.'),
+  (14,'1908','O navio gêmeo que afundou no próprio lançamento, e o nome que veio depois.'),
+  (15,'Os anos de glória','Cento e quarenta pessoas em cima, mil embaixo. A glória era o andar de cima.'),
+  (16,'O declínio','Ele não foi aposentado. Foi rebaixado, um degrau por vez, por navios mais novos.'),
+  (17,'A última viagem','Quem estava a bordo. Garovaglio, von Lücken, Bucherer, o comandante Gulì.'),
+  (18,'17h15','O eixo da hélice de bombordo se rompe.'),
+  (19,'A noite','Hora a hora, do estrondo às 22h10.'),
+  (20,'Os botes','Lugares vendidos, botes danificados, os tubarões.'),
+  (21,'22h10','O navio afunda. Gulì fica a bordo.'),
+  (22,'Alhena, Mosella, Empire Star','O resgate a noite inteira.'),
+  (23,'Os 314','Os mortos não têm lista, não têm sepultura e não têm nome. E o país nunca guardou a data.'),
  ],
  'IV': [
-  (26,'31 de outubro','Hospedaria do Brás. Livro 100, página 290.'),
-  (27,'O reencontro','Fausto e Angelo recebem as mulheres e as crianças.'),
-  (28,'Terra vermelha','Grama, o café, e a palavra que decidiu tudo: espontâneos.'),
-  (29,'Enrico','1926 a 1998. Cinco documentos, e nada além do que eles dizem.'),
-  (30,'1937','A menina recebe o nome do navio. E a objecao que essa frase precisa aguentar.'),
-  (31,'Virar brasileiro','A lingua que some em duas geracoes, e os sobrenomes que saem da linha em tres.'),
-  (32,'Os que ficaram, cem anos depois','O ramo do Sante. Ficar nao produz documento. E o site que reencontrou a familia.'),
-  (33,'A busca','A pesquisa como enredo. O dia em que o registro apareceu.'),
-  (34,'A casa','Castelcucco hoje. A porta de onde a Rosa saiu.'),
+  (24,'31 de outubro','Hospedaria do Brás. Livro 100, página 290.'),
+  (25,'O reencontro','Fausto e Angelo recebem as mulheres e as crianças.'),
+  (26,'Terra vermelha','Grama, o café, e a palavra que decidiu tudo: espontâneos.'),
+  (27,'Enrico','1926 a 1998. Cinco documentos, e nada além do que eles dizem.'),
+  (28,'1937','A menina recebe o nome do navio, e a objeção que essa frase precisa aguentar.'),
+  (29,'Virar brasileiro','A língua que some em duas gerações, e os sobrenomes que saem da linha em três.'),
+  (30,'Os que ficaram, cem anos depois','O ramo do Sante. Ficar não produz documento — e o site que reencontrou a família.'),
+  (31,'A busca','Como o papel mente, como a memória mente, e o que custa começar tarde.'),
+  (32,'A casa','Castelcucco hoje. A porta de onde a Rosa saiu.'),
  ],
 }
 
@@ -2553,7 +2551,7 @@ alguém que estivesse três andares abaixo dela.""",
 E numa única noite, em 25 de outubro de 1927, as duas partes daquele navio foram para a mesma
 água, ao mesmo tempo, com os mesmos coletes.
 
-O que aconteceu ali está no capítulo 22, e é a primeira e a última vez que os dois lados
+O que aconteceu ali está no capítulo 20, e é a primeira e a última vez que os dois lados
 daquele casco falaram um sobre o outro.
 
 <strong>Não gostaram do que viram.</strong>""",
@@ -2636,6 +2634,211 @@ Um navio enorme, encostado no cais de Gênova, com bandeira italiana e nome de p
 A maior coisa construída que qualquer uma das duas tinha visto na vida.
 
 <strong>Ninguém sobe uma prancha olhando para o eixo.</strong>""",
+]
+
+CAP_BUSCA = [
+"""Tudo o que existe neste livro e não é lembrança de família veio de papel.
+
+E papel mente. Não do jeito que se imagina — quase nunca por má-fé. Mente porque foi escrito
+depressa, porque o escrivão ouviu errado, porque a pessoa que respondeu não sabia, porque o
+formulário não tinha campo para a verdade.
+
+Este capítulo é sobre isso, e sobre uma coisa pior que descobri no caminho.""",
+
+"""Comecemos por um quadro numa parede.
+
+Existe, num livro sobre Castelcucco, uma árvore genealógica impressa da família Forner. Ela
+traz catorze nomes de filhos, distribuídos em duas fileiras.
+
+Angela, 1886. Pietro, 1889. Martino, 1891. Sante, 1893. Bonfiglio, 1898. Giulio, 1900. Rosa.
+Maria M., 1907.
+
+E depois: Angela, 1898. Onorato, 1900. Alessandro Domenico, 1903. Ausilio Fortunato e Roberto,
+gêmeos de 1908. Francesco, 1913.
+
+Lida corrida, a lista diz o que não é: <strong>catorze filhos de um casal só</strong>.""",
+
+"""Foi preciso ampliar a fotografia do quadro para enxergar por quê.
+
+Descendo pela direita, a partir de <strong>Cadonà Maria Teresa</strong>, nascida em Monfumo em
+1869 e casada com <strong>Abele Alessandro Forner</strong> — irmão de Vincenzo —, há uma linha
+vertical.
+
+Ela passa ao lado da primeira fileira sem tocar em nada, e vai se ligar à barra horizontal da
+segunda.
+
+<strong>A segunda fileira não é de Vincenzo. É do irmão dele.</strong>
+
+Oito filhos de Vincenzo e Santa, seis de Abele e Maria Teresa. Um traço de dois centímetros,
+num quadro impresso, decidindo quem é irmão de quem.""",
+
+"""E aqui está a coisa mais difícil desta pesquisa inteira, e eu levei meses para entender.
+
+<strong>Aquele quadro não está errado.</strong>
+
+Ele está certo, e é ilegível no tamanho em que foi impresso. A linha existe, e faz exatamente
+o que devia fazer.
+
+A diferença entre um documento errado e um documento mal lido não aparece sozinha. Ela só
+aparece quando alguém desconfia.
+
+E quando finalmente li o quadro direito, ele tinha um único erro de verdade — e o erro era na
+minha bisavó. Ali Rosa aparece nascida em 1905. O ato de nascimento do comune de Monfumo diz
+<strong>24 de junho de 1903</strong>.""",
+
+"""Depois veio o nome da mãe dela, e esse quase derrubou um capítulo inteiro.
+
+Nos índices de nascimento do comune, a mulher de Vincenzo aparece <strong>seis vezes como
+Pandolfo Santa</strong>.
+
+No registro de 1893 — justamente o de Sante — aparece como <strong>Pandolfo
+Domenica</strong>.
+
+E num outro documento, como <strong>Santa Pandelfa</strong>.
+
+Três grafias. Ou é a mesma mulher escrita por três escrivães diferentes, ou são duas mulheres
+distintas com sobrenome parecido.""",
+
+"""E isso não é preciosismo de genealogista. É a diferença entre este livro estar certo ou
+estar contando a história de outra família.
+
+Se a mulher do registro de 1893 não fosse a mesma dos outros seis, então <strong>Sante não
+seria irmão de Rosa</strong>. Seria primo, ou meio-irmão, ou nada.
+
+E o capítulo sobre as três medalhas da Grande Guerra seria sobre um homem que não tem parentesco
+nenhum com esta história.""",
+
+"""O que resolveu isso estava dentro de casa o tempo todo.
+
+Numa pasta, entre papéis de família, a <em>carta d'identità</em> que Sante Forner tirou no
+comune de Asolo em 8 de março de 1940.
+
+No campo da filiação, com as duas fórmulas fixas do italiano burocrático:
+
+<em>Padre: <strong>di</strong> Vincenzo. Madre: <strong>fu</strong> Pandolfo Domenica
+Santa.</em>
+
+<strong>Pandolfo Domenica Santa.</strong> As três grafias eram pedaços do mesmo nome inteiro,
+e cada escrivão tinha escolhido um. E o <em>di</em> contra o <em>fu</em> dizia, de quebra, que
+em 1940 o pai estava vivo e a mãe não.
+
+Eu passei semanas escrevendo para arquivos italianos atrás de uma informação que estava numa
+gaveta em São Paulo.""",
+
+"""E aí a busca virou outra coisa, e virou por causa de um cemitério em Vancouver.
+
+<strong>Luigi Miotto, pai de Fausto, também emigrou.</strong> Não para o Brasil.
+
+Existe neste acervo uma <em>Registration of Death</em> da Província da Colúmbia Britânica,
+número 5509-008734. Ela registra a morte de <strong>Louie Miotto</strong>, em 15 de agosto de
+1955, na chegada ao Vancouver General Hospital.
+
+Setenta e cinco anos. Quarenta e oito anos no Canadá. Lenhador aposentado, vinte e cinco anos
+de profissão, última vez que trabalhou em 1951. Morava na Prior Street, 566.
+
+Pai: <strong>Miotto Jack</strong>. Mãe: <strong>Fedato Anna</strong>.
+
+Jack é como um oficial canadense escreve Giacomo. Fedato é como ele escreve Fidato. São
+Jacobus Miotto e Anna Fidato — o casal que abre o tronco Miotto deste livro.""",
+
+"""Só que o documento tem duas linhas que não fecham.
+
+Diz que ele nasceu em <strong>março de 1880</strong>. O certificado de casamento de Maser diz
+que Luigi Miotto tinha vinte e cinco anos em junho de 1900, o que o põe nascendo por volta de
+1875.
+
+E no campo do estado civil traz uma palavra só: <strong>Single</strong>.
+
+Ou são dois irmãos diferentes, ambos filhos de Jacobus e Anna, e o Luigi de Vancouver não é o
+pai de Fausto.
+
+Ou é o mesmo homem — que deixou mulher e um filho de três anos em Castelcucco por volta de
+1907, refez a vida do outro lado do mundo, e morreu meio século depois registrado como
+solteiro por um irmão que ou não sabia, ou não quis dizer.""",
+
+"""Fui olhar como essa hipótese tinha entrado na minha pesquisa, e achei a hora exata.
+
+Numa árvore genealógica colaborativa da internet, o Luigi de Vancouver e o Luigi de Monfumo
+eram, até pouco tempo atrás, dois perfis separados.
+
+Em <strong>18 de novembro de 2024, às onze e vinte e um da manhã</strong>, um colaborador que
+eu não conheço unificou os dois. Preservou o canadense, eliminou o de Monfumo, e deu como
+motivo o texto padrão que o próprio sistema oferece: <em>a maioria das informações de dados
+vitais e de parentescos correspondem</em>.
+
+<strong>Um clique, num minuto de uma segunda-feira, e o meu bisavô passou a ter um pai que
+morreu sozinho no Canadá.</strong>""",
+
+"""Não estou dizendo que aquele colaborador agiu de má-fé. Provavelmente fez o que eu faria.
+
+O ponto é outro, e é sobre a época em que estamos pesquisando.
+
+Um livro velho erra e continua parecendo um livro velho: o papel amarelo avisa o leitor para
+desconfiar. <strong>Uma árvore colaborativa erra e continua parecendo verdade.</strong> O erro
+entra com data, hora e justificativa, e no minuto seguinte já não se distingue do resto.
+
+E quando outra pessoa copia aquele nó para a árvore dela, o erro deixa de ter autor.""",
+
+"""E agora eu preciso dizer que a memória de família faz exatamente a mesma coisa.
+
+Há uma versão desta história, contada nesta família há décadas, segundo a qual
+<strong>Rosa embarcou grávida</strong>, e foi por isso que tiraram as duas mulheres do navio:
+duas mulheres, cinco crianças e uma grávida.
+
+Enrico tinha um ano e quinze dias e estava a bordo — está no Livro 100 da Hospedaria do Brás.
+E a filha seguinte, Erminda, nasceu em 10 de novembro de 1928, <strong>doze meses e meio depois
+do naufrágio</strong>.
+
+Rosa não estava grávida naquele navio. Não há como estar.""",
+
+"""E dá para localizar de onde a versão veio.
+
+Quem contava essa história na família era <strong>João Betti</strong>, marido da Pulcheria, que
+não estava a bordo e ouviu de quem estava.
+
+Repare no que aconteceu, porque é bonito e não é vergonhoso: uma mulher grávida com um bebê de
+colo é uma imagem mais forte do que uma mulher com um bebê de colo. <strong>A memória escorrega
+sempre na direção da imagem que se sustenta melhor.</strong>
+
+E o resto do que ele contou está de pé. Que a terceira classe não tinha preferência. Que elas
+chegaram pretas de carvão. Que os maridos passaram os olhos por elas e não as reconheceram.
+
+Uma testemunha que erra num detalhe não é uma testemunha ruim. É uma testemunha.""",
+
+"""Há ainda uma coisa que só ficou visível quando os dois lados desta família voltaram a se
+falar.
+
+Um galho guardou o cozinheiro de pele escura e a menina que acha o pai no meio da multidão.
+
+O outro galho guardou o carvão, a hospedaria e os dois homens procurando sem achar.
+
+<strong>Nenhum dos dois está mentindo. Nenhum dos dois está inteiro.</strong>
+
+Foi preciso um site de genealogia, cem anos e duas pessoas digitando os próprios avós para que
+aquela noite voltasse a ter começo e fim ao mesmo tempo.""",
+
+"""E aqui vem a parte que não tem conserto.
+
+<strong>Pulcheria Pasqua Dei Agnoli morreu em 2013.</strong>
+
+A menina de seis anos que estava na cozinha daquele navio, que viu tudo, que viveu noventa e
+dois anos — estava viva, no Brasil, quando eu já era um adulto feito.
+
+<strong>Maria Luigia morreu em 1992</strong>, aos noventa e seis anos, sessenta e cinco anos
+depois de ter atravessado aquela noite com quatro filhos pequenos. Eu era menino.
+
+As duas estavam vivas, neste país, e eu não sabia que existiam.""",
+
+"""Então este capítulo não é sobre papel velho.
+
+Eu sei ler <em>di</em> e <em>fu</em>. Sei que uma linha de dois centímetros muda uma família
+inteira. Sei que uma árvore da internet erra com hora marcada. Aprendi tudo isso, e aprender
+foi a parte fácil.
+
+Nenhum arquivo do mundo me devolve vinte minutos de conversa com uma mulher de noventa e dois
+anos que estava lá.
+
+<strong>A minha avó tem oitenta e nove anos.</strong>""",
 ]
 
 CAP19 = [
@@ -4825,7 +5028,7 @@ Para que quando o navio afundar, o leitor saiba exatamente o que aquelas pessoas
 tentando alcançar, e o que já tinham atravessado antes de chegar à água.""",
 ]
 
-CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 12: CAP12, 14: CAP14, 16: CAP16, 17: CAP17, 18: CAP18, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24, 25: CAP25, 26: CAP26, 27: CAP27, 28: CAP28, 29: CAP29, 30: CAP30, 31: CAP31, 32: CAP32}
+CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 12: CAP12, 13: CAP14, 14: CAP16, 15: CAP17, 16: CAP18, 17: CAP19, 18: CAP20, 19: CAP21, 20: CAP22, 21: CAP23, 22: CAP24, 23: CAP25, 24: CAP26, 25: CAP27, 26: CAP28, 27: CAP29, 28: CAP30, 29: CAP31, 30: CAP32, 31: CAP_BUSCA}
 
 # ------------------------------------------------------------------ paginas
 pages = []
@@ -4848,19 +5051,19 @@ IMG_BY_CAP = {
  8:  [('fausto','Fausto Miotto, nascido em Castelcucco em 1904. Casou-se com Rosa Forner em 1926 e partiu sozinho para o Brasil.')],
  9:  [('italianos_no_barco','Imigrantes italianos a bordo, início do século XX.')],
  10: [('imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890','Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por volta de 1890.')],
- 16: [('vapor_mafalda','O vapor Principessa Mafalda. Lançado em 1908, afundou em 25 de outubro de 1927.')],
- 17: [('princess_mafalda_of_savoy','A princesa Mafalda de Saboia, que deu nome ao navio. Morreu em Buchenwald, em 1944.')],
- 19: [('princessa_mafalda','O Principessa Mafalda. Saiu de Gênova em 11 de outubro de 1927 com 971 passageiros e 288 tripulantes, e já saiu atrasado.')],
- 21: [('mafalda_naufragando','O naufrágio do Principessa Mafalda em representação de época.')],
- 24: [('passageiros_agnoli','Lista de passageiros: a família Agnoli, terceira classe, resgatada pelo navio Alhena.')],
- 26: [('rosa_forner','Rosa Forner Miotto, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos.'),
+ 14: [('vapor_mafalda','O vapor Principessa Mafalda. Lançado em 1908, afundou em 25 de outubro de 1927.')],
+ 15: [('princess_mafalda_of_savoy','A princesa Mafalda de Saboia, que deu nome ao navio. Morreu em Buchenwald, em 1944.')],
+ 17: [('princessa_mafalda','O Principessa Mafalda. Saiu de Gênova em 11 de outubro de 1927 com 971 passageiros e 288 tripulantes, e já saiu atrasado.')],
+ 19: [('mafalda_naufragando','O naufrágio do Principessa Mafalda em representação de época.')],
+ 22: [('passageiros_agnoli','Lista de passageiros: a família Agnoli, terceira classe, resgatada pelo navio Alhena.')],
+ 24: [('rosa_forner','Rosa Forner Miotto, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos.'),
       ('rosa_forner_documento','Documento de identificação de Rosa Forner Miotto.')],
- 27: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.'),
+ 25: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.'),
       ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e o marido, Angelo dei Agnoli.')],
- 29: [('enrico','Enrico Miotto, 1926 a 1998. Tinha um ano e quinze dias na noite do naufrágio.'),
+ 27: [('enrico','Enrico Miotto, 1926 a 1998. Tinha um ano e quinze dias na noite do naufrágio.'),
       ('enrico_registro_de_estrangeiro','Registro de Estrangeiros de Enrico Miotto, 29 de dezembro de 1949. Data de nascimento: 10.10.1926.')],
- 30: [('mafalda_miotto_forner','Mafalda Miotto Terra, nascida em 1937, dez anos depois do naufrágio, com o nome do navio.')],
- 32: [('sante_e_familia','Sante Forner e família, na Itália.'),
+ 28: [('mafalda_miotto_forner','Mafalda Miotto Terra, nascida em 1937, dez anos depois do naufrágio, com o nome do navio.')],
+ 30: [('sante_e_familia','Sante Forner e família, na Itália.'),
       ('giorgio_e_sua_familia','Giorgio Forner e família, o ramo que permaneceu no Vêneto.')],
 }
 

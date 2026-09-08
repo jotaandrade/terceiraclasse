@@ -396,3 +396,21 @@ linha de documento no acervo sobre nenhum dos dois** — só menção de terceir
 
 Ficam aqui até aparecer papel. Se aparecerem, entram no 33 como episódio de busca, não como
 fato no 25.
+
+---
+
+## ✅ ESCRITO em 08.09.2026 — agora é o capítulo 31
+
+O livro foi renumerado de 34 para 32 capítulos (cortados o antigo 13, absorvido pelo 19, e o
+antigo 15, absorvido pelo 28). **"A busca" passou de 33 para 31.**
+
+Usados: o quadro e a linha na lupa, o erro de 1905 x 1903, as três grafias de Pandolfo, a
+carta d'identità, Vancouver e as duas linhas que não fecham, a unificação de 18.11.2024 às
+11h21, e a leitura sobre como a árvore colaborativa erra.
+
+Acrescentado depois: a lenda da gravidez rastreada até João Betti, os dois galhos que guardaram
+metades diferentes da noite, e o fecho — Pulcheria morreu em 2013 e Maria Luigia em 1992, as
+duas vivas no Brasil sem que o autor soubesse que existiam.
+
+**Não usados, ficam guardados:** as duas Angelas, os gêmeos de 1908, a anotação "Ccucco", o
+Albo d'Oro e Pietro Luigi (1889-1916), extrato x ato inteiro, e as três fontes ruins cruzadas.

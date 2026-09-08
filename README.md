@@ -45,10 +45,9 @@ scripts/              histórico das rodadas de correção e escrita
 
 | | |
 |---|---|
-| Capítulos planejados | 34, em 4 livros + epílogo |
-| **Escritos** | **29 capítulos, 33.484 palavras** |
-| Livro I | caps. 1 a 8 |
-| Livro III | caps. 19 e 20 |
+| Capítulos planejados | 32, em 4 livros + epílogo |
+| **Escritos** | **30 capítulos, 35.011 palavras** |
+| Faltam | 11 (arquivo), 32 (a viagem) e o epílogo (a gravação) |
 | Centenário do naufrágio | 25.10.2027 |
 
 ---
