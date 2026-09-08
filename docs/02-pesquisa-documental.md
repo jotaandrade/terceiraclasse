@@ -1250,3 +1250,71 @@ capítulo 1 e não existe no acervo).
   espanhol (YouTube `l3z1Wh-x8R4`)
 - **Índices de nascimento e matrimônio 1871-1900** — planilhas. ⚠️ A `.xls` de nascimentos
   está **criptografada**; usar a `.xlsx`
+
+---
+
+## 14. Árvore do FamilySearch — cruzamento de 08.09.2026
+
+Captura da árvore montada em conjunto com a **Patrícia Betti**. Traz IDs do FamilySearch e
+fecha várias datas que estavam abertas.
+
+### 🔴 ERRO NA ÁRVORE: Vincenzo Forner NÃO morreu em 1914
+
+A árvore dá **Vincenzo Forner 1862–1914**. Está errado, e o acervo tem a prova.
+
+A carteira de identidade que **Sante** tirou no comune de Asolo em **março de 1940** registra a
+filiação com as duas fórmulas fixas do italiano burocrático:
+*Padre: **di** Vincenzo. Madre: **fu** Pandolfo Domenica Santa.*
+**di** = pai vivo · **fu** = mãe falecida.
+
+**Vincenzo estava vivo em março de 1940, aos 77 anos.** Quem morreu em 1914 foi só Santa
+Pandolfo. Provavelmente a data da mulher foi copiada para o marido.
+➕ Já está correto nos caps. 4 e 7. **Corrigir na árvore pública.**
+
+### ✅ Datas novas confirmadas
+
+| Pessoa | Datas | FamilySearch |
+|---|---|---|
+| **Maria Luigia Forner** | **1896 – 1992** (96 anos) | `L5L5-3NL` |
+| **Pulcheria Pasqua Dei Agnoli** | **1921 – 2013** (92 anos) | `L5LP-R72` |
+| Angelo dei Agnoli | 1898 – 1983 | `L5L5-D18` |
+| João Betti (marido da Pulcheria) | 1920 – 2008 | `L5LP-TWC` |
+| **Divino Aparecido Betti** (filho da Pulcheria, pai da Patrícia) | **1948 – 1992** (44 anos) | `L5LP-5KL` |
+| Maria Sinezia Lima | 1953 – 2017 | `L5LP-R7W` |
+| Rosa Forner | 1903 – 1986 | `LTB7-QSQ` |
+| Fausto Miotto | 1904 – 1979 | `GGDR-8CN` |
+| Vincenzo Forner | 1862 – **?** (vivo em 03.1940) | `LTB7-8GS` |
+| Santa Pandolfo | 1865 – 1914 | `LTB7-QY8` |
+| Mafalda Miotto Terra | 1937 – viva | `LTBQ-LKN` |
+| Marta Terra Andrade | viva | `LTBQ-PPM` |
+| João Andrade | 1984 | `LRZ9-8NX` |
+
+🔴 **Pulcheria morreu em 2013.** A testemunha ocular do episódio do cozinheiro — a menina de
+seis anos da cozinha — **viveu até o João ter 29 anos**. É a última testemunha ocular do
+naufrágio nesta família de que se tem notícia. → **cap. 33**
+
+🔴 **Maria Luigia morreu em 1992**, 65 anos depois do naufrágio, e estava viva quando o João
+nasceu. → caps. 32 e 33
+
+### O reencontro das duas linhas
+
+João montava a própria árvore no FamilySearch; **Patrícia Betti**, do outro lado do Brasil,
+montava a dela ao mesmo tempo. Ao lançarem os avós, **as duas árvores se tocaram** por
+Vincenzo Forner × Santa Pandolfo. Cada um localizou o outro, unificaram as raízes, e boa parte
+da história oral deste livro veio dessas conversas — inclusive **o cozinheiro, o bote dos
+cozinheiros, o navio de carvão e a menina que achou o pai**.
+
+Foi por essas primas que se chegou ao **Giorgio**, do ramo do Sante. Segunda prima citada no
+dossiê: **Rosi**.
+
+**Linha do Sante:** Sante (1893-1947) → **Galliano** → **Giorgio**. Três gerações, por homens.
+**Linha da Rosa:** Rosa (1903-1986) → Mafalda (1937) → Marta (1960) → João (1984) → João Luca
+(2012). Cinco gerações, por mulheres — e é por isso que o sobrenome sumiu deste lado.
+
+### 🔎 Em aberto
+
+1. **Por onde a história do cozinheiro passou:** Patrícia ouviu do pai, Divino (†1992), ou
+   direto da avó Pulcheria (†2013)? Muda a cadeia de três elos para dois.
+2. Datas de **Galliano** e **Giorgio**, e o sobrenome do Giorgio.
+3. Ano da morte de **Vincenzo Forner** (só se sabe que era vivo em 03.1940).
+4. O que aconteceu com a **Gina**, irmã mais velha da Pulcheria.

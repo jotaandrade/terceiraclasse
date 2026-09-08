@@ -46,7 +46,7 @@ scripts/              histórico das rodadas de correção e escrita
 | | |
 |---|---|
 | Capítulos planejados | 34, em 4 livros + epílogo |
-| **Escritos** | **24 capítulos, 29.854 palavras** |
+| **Escritos** | **25 capítulos, 30.831 palavras** |
 | Livro I | caps. 1 a 8 |
 | Livro III | caps. 19 e 20 |
 | Centenário do naufrágio | 25.10.2027 |
@@ -92,6 +92,7 @@ sempre existe, e quase sempre é mais forte do que a disputa.
 
 - **Procedência do corpus de depoimentos** de sobreviventes (jornal, data, página). Está
   declarada como lacuna dentro do capítulo 19.
+- **Consentimento da Patrícia Betti** para ser nomeada e creditada no livro. Solicitado em 08.09.2026, aguardando retorno. Ela aparece nos caps. 10, 21, 27, 31 e 32; se não confirmar, volta a "uma prima".
 - **Crédito do panfleto** "…In América" usado no capítulo 5 — imagem obtida na internet.
 - Quatro verificações abertas, listadas em `docs/02-pesquisa-documental.md`, seção 12.
 
