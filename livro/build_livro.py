@@ -5215,6 +5215,7 @@ P(t='sumario')
 
 IMG_BY_CAP = {
  1:  [('asolo','Asolo, a cidade nas colinas para onde desce a estrada que sai de Castelcucco. De Asolo se pega o trem, e de trem em trem se chega a Gênova.')],
+ 3:  [('giovani_bambini','Fotografia do acervo da família, sem data e sem identificação. Ao fundo, a encosta plantada em faixas — a mesma paisagem descrita neste capítulo, e a mesma economia: pouca terra, dividida, trabalhada de cima a baixo.')],
  4:  [('miotto_tres_irmaos','Três irmãos de Fausto Miotto: <strong>Maria Luigia</strong> ao centro, <strong>Veronica</strong> à direita e <strong>Vittorio</strong>. Fotografia e identificação enviadas por Giorgio Forner, neto de Maria Luigia.'),
       ('sante_e_maria_luigia_miotto','<strong>Sante Forner e Maria Luigia Miotto.</strong> Ele, irmão de Rosa. Ela, irmã de Fausto. Os dois casamentos desta história cruzaram as mesmas duas famílias.')],
  5:  [('panfleto_in_america','“…In América. Terre in Brasile per gli Italiani.” Preto sobre papel barato, com o italiano cheio de erros de composição e um navio no lugar onde deveria estar a terra prometida. Imagem obtida na internet; a procedência não foi localizada.')],
@@ -5317,7 +5318,6 @@ LEG = {
  'giorgio_seu_pai':'Giorgio Forner e o pai.',
  'giorgio_su_amore':'Giorgio Forner e a esposa.',
  'girgio':'Giorgio Forner.',
- 'giovani_bambini':'Crianças no campo vêneto.',
  'mauro_filho_de_giorgio':'Mauro Forner, filho de Giorgio.',
  'miotto_maria_luigia_e_forner_sante':'Maria Luigia Miotto e Sante Forner.',
  'sante':'Sante Forner, 1893 a 1947.',
