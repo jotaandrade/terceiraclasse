@@ -1520,3 +1520,54 @@ Configurações › Hora e idioma › Idioma e região › Português (Brasil) �
 **Isto não substitui o áudio do acervo.** A voz sintética serve para revisar o texto ouvindo —
 que é, aliás, a melhor maneira de achar frase torta. As páginas de documento sonoro continuam
 sendo as vozes reais da família.
+
+---
+
+## 20. Revisão integral do manuscrito — 08.09.2026
+
+Leitura dos 31 capítulos, página por página, mais varredura automática de referências
+cruzadas, padrões proibidos, frases repetidas e consistência de datas e idades.
+
+### ✅ Corrigido nesta passada
+
+| O quê | Onde |
+|---|---|
+| *"vinte e oito horas de vida"* — de 24.10 13h a 25.10 22h10 são **33 horas** | cap. 16 |
+| O exercício de sirene descrito como meio-dia num capítulo e 13h em outro | caps. 16 e 19 |
+| *"exercício de emergência"* × *"exercício de incêndio"* — a fonte diz incêndio | cap. 16 |
+| Empire Star *"a dois quilômetros poucas horas depois"*, contra o cap. 16 | cap. 21 |
+| **Cadeia oral antiga sobrevivente** (*"contou para a filha, que contou para a neta"*) e o reencontro *"no cais"* — o cap. 12 tinha ficado de fora do patch da manhã | cap. 12 |
+| Referências cruzadas por extenso quebradas pela renumeração | caps. 4, 10, 14 e 22 |
+
+### 🔴 O cap. 11 era redundante inteiro, e foi cortado
+
+As colunas **Bauli · Valigie · Denaro · Indirizzo** e as quatro linhas de exemplo já estavam
+no **cap. 10**, com a mesma leitura. E *quem pagou a passagem / quanto custava* já estava no
+**cap. 12**, com o intervalo de seis meses.
+
+Os três blocos próprios dele — a **chamada** e a inferência de que *a data da viagem de Rosa
+foi decidida pelo tempo que Fausto levou para juntar o dinheiro* — foram movidos para o fim
+do cap. 12, logo depois de "Seis meses entre uma coisa e outra".
+
+**Livro renumerado de 32 para 31 capítulos.** I 1-8 · II 9-12 · III 13-22 · IV 23-31.
+
+⚠️ **Lição, terceira vez seguida:** antes de escrever capítulo novo, **ler o manuscrito**, não
+só o arquivo de pesquisa. Foram cortados assim o antigo 13 (absorvido pelo 19), o antigo 15
+(pelo 28) e agora o 11 (pelos 10 e 12).
+
+### 🟡 Repetições mapeadas e ainda não tratadas
+
+1. **A lista do Alhena é apresentada três vezes** — caps. 17, 21 e 23. O cap. 17 já traz
+   "Náufragos", a linha 26, o **CHEFE** e o **"Instrução: Sim"**; o cap. 23 reapresenta o
+   "Sim" como descoberta (*"é a que mais me interessa"*), enfraquecido por já ter sido gasto.
+2. **A citação das viúvas** (*"perderam seus maridos, e pedem de ser enviadas para Italia"*)
+   aparece em **três** capítulos: 9, 21 e 22.
+3. Frase idêntica sobre o casamento nos caps. 1 e 8.
+4. Caps. 16 e 17 repetem quase textualmente a escala africana e a hedge Dakar/São Vicente.
+
+### ✅ Verificado e correto
+
+Todas as datas e idades fecham: os intervalos entre os dez filhos de Vincenzo e Santa, os 21
+anos de Santa parindo, Vincenzo com 64 em 1926 e 65 em 1927, Gina com 6 no casamento e 7 no
+naufrágio, os seis filhos vivos quando Mafalda nasce, Enrico com 1 ano e 15 dias.
+Nenhuma autocorreção, nenhum cartão de tarefa, nenhuma tag desbalanceada.

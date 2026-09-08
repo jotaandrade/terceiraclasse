@@ -71,7 +71,7 @@
 | 29 | Enrico | 1926 a 1998. Só o que os documentos sustentam. Nada além do que você quiser pôr. | 12 | **Escrito** |
 | 30 | 1937 | Mafalda nasce em São José do Rio Pardo e recebe o nome do navio. | 12 | **Escrito** |
 | 31 | Virar brasileiro | Língua, comida, fé, o dialeto que some. Como uma família italiana deixa de ser italiana. | 14 | **Escrito** |
-| 32 | Os que ficaram, cem anos depois | A linha de Sante: Galliano, Giorgio. O Vêneto do pós-guerra até hoje. | 12 | **Escrito** |
+| 32 | Os que ficaram, cem anos depois | A linha de Sante: Galliano, Giorgio. O Vêneto do pós-guerra até hoje. | 12 | Campo |
 | 33 | A busca | A pesquisa como enredo. Os primos reencontrados. O dia em que o registro apareceu. | 13 | Pronto |
 | 34 | A casa | Castelcucco hoje. A porta de onde a Rosa saiu. Escrever depois da viagem. | 14 | Campo |
 

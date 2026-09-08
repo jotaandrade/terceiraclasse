@@ -45,32 +45,31 @@ CAPS = {
  'II': [
   (9,'Gênova','O porto como sistema. A babel de dialetos, a despedida definitiva.'),
   (10,'A terceira classe','O porão por dentro: beliches, comida racionada, os corpos jogados ao mar.'),
-  (11,'O negócio da esperança','Quanto custava, quem pagava — e o que isso decide sobre a data da viagem.'),
-  (12,'Duas irmãs embarcam','Sete pessoas sobem a prancha, e nenhuma delas é um homem adulto.'),
-  (13,'Os que já estavam lá','Fausto e Angelo no Brasil, a casa preparada, a espera.'),
+  (11,'Duas irmãs embarcam','Sete pessoas sobem a prancha, e nenhuma delas é um homem adulto.'),
+  (12,'Os que já estavam lá','Fausto e Angelo no Brasil, a casa preparada, a espera.'),
  ],
  'III': [
-  (14,'1908','O navio gêmeo que afundou no próprio lançamento, e o nome que veio depois.'),
-  (15,'Os anos de glória','Cento e quarenta pessoas em cima, mil embaixo. A glória era o andar de cima.'),
-  (16,'O declínio','Ele não foi aposentado. Foi rebaixado, um degrau por vez, por navios mais novos.'),
-  (17,'A última viagem','Quem estava a bordo. Garovaglio, von Lücken, Bucherer, o comandante Gulì.'),
-  (18,'17h15','O eixo da hélice de bombordo se rompe.'),
-  (19,'A noite','Hora a hora, do estrondo às 22h10.'),
-  (20,'Os botes','Lugares vendidos, botes danificados, os tubarões.'),
-  (21,'22h10','O navio afunda. Gulì fica a bordo.'),
-  (22,'Alhena, Mosella, Empire Star','O resgate a noite inteira.'),
-  (23,'Os 314','Os mortos não têm lista, não têm sepultura e não têm nome. E o país nunca guardou a data.'),
+  (13,'1908','O navio gêmeo que afundou no próprio lançamento, e o nome que veio depois.'),
+  (14,'Os anos de glória','Cento e quarenta pessoas em cima, mil embaixo. A glória era o andar de cima.'),
+  (15,'O declínio','Ele não foi aposentado. Foi rebaixado, um degrau por vez, por navios mais novos.'),
+  (16,'A última viagem','Quem estava a bordo. Garovaglio, von Lücken, Bucherer, o comandante Gulì.'),
+  (17,'17h15','O eixo da hélice de bombordo se rompe.'),
+  (18,'A noite','Hora a hora, do estrondo às 22h10.'),
+  (19,'Os botes','Lugares vendidos, botes danificados, os tubarões.'),
+  (20,'22h10','O navio afunda. Gulì fica a bordo.'),
+  (21,'Alhena, Mosella, Empire Star','O resgate a noite inteira.'),
+  (22,'Os 314','Os mortos não têm lista, não têm sepultura e não têm nome. E o país nunca guardou a data.'),
  ],
  'IV': [
-  (24,'31 de outubro','Hospedaria do Brás. Livro 100, página 290.'),
-  (25,'O reencontro','Fausto e Angelo recebem as mulheres e as crianças.'),
-  (26,'Terra vermelha','Grama, o café, e a palavra que decidiu tudo: espontâneos.'),
-  (27,'Enrico','1926 a 1998. Cinco documentos, e nada além do que eles dizem.'),
-  (28,'1937','A menina recebe o nome do navio, e a objeção que essa frase precisa aguentar.'),
-  (29,'Virar brasileiro','A língua que some em duas gerações, e os sobrenomes que saem da linha em três.'),
-  (30,'Os que ficaram, cem anos depois','O ramo do Sante. Ficar não produz documento — e o site que reencontrou a família.'),
-  (31,'A busca','Como o papel mente, como a memória mente, e o que custa começar tarde.'),
-  (32,'A casa','Escrito por quem nunca esteve lá. A porta por onde Rosa saiu, vista de longe.'),
+  (23,'31 de outubro','Hospedaria do Brás. Livro 100, página 290.'),
+  (24,'O reencontro','Fausto e Angelo recebem as mulheres e as crianças.'),
+  (25,'Terra vermelha','Grama, o café, e a palavra que decidiu tudo: espontâneos.'),
+  (26,'Enrico','1926 a 1998. Cinco documentos, e nada além do que eles dizem.'),
+  (27,'1937','A menina recebe o nome do navio, e a objeção que essa frase precisa aguentar.'),
+  (28,'Virar brasileiro','A língua que some em duas gerações, e os sobrenomes que saem da linha em três.'),
+  (29,'Os que ficaram, cem anos depois','O ramo do Sante. Ficar não produz documento — e o site que reencontrou a família.'),
+  (30,'A busca','Como o papel mente, como a memória mente, e o que custa começar tarde.'),
+  (31,'A casa','Escrito por quem nunca esteve lá. A porta por onde Rosa saiu, vista de longe.'),
  ],
 }
 
@@ -407,7 +406,7 @@ desta história, não conhece este cozinheiro.""",
 
 """Guarde esse cozinheiro.
 
-Daqui a onze capítulos, quando o navio estiver inclinado e cheio de água e as duas irmãs
+Daqui a oito capítulos, quando o navio estiver inclinado e cheio de água e as duas irmãs
 tiverem se escondido no fundo de um porão, é ele que vai descer atrás delas.
 
 O papel de repartição registrou o dinheiro, a bagagem, o destino e a morte daquela gente.
@@ -551,6 +550,35 @@ Não sei quanto custava um bilhete daqueles em 1927. Ainda não achei o número.
 Sei o intervalo: Angelo desembarcou de volta em abril, e elas embarcaram em outubro. Seis
 meses entre uma coisa e outra.""",
 
+"""E há um mecanismo por trás desses seis meses, que tem nome e era o mais comum de todos.
+
+Chamava-se <strong>chamada</strong>.
+
+O homem que já estava do outro lado juntava dinheiro, comprava a passagem aqui, e mandava —
+em remessa, ou como bilhete pré-pago para ser retirado numa agência do porto de Gênova.
+
+Não era gesto isolado de ninguém. Era uma das maiores movimentações de dinheiro da Itália
+daquele tempo: emigrante mandando moeda estrangeira para casa, mês após mês, por décadas.""",
+
+"""E se foi assim com esta família — e é de longe o mais provável — então há uma consequência
+que eu levei muito tempo para enxergar.
+
+<strong>A data da viagem de Rosa não foi decidida por Rosa.</strong>
+
+Foi decidida pelo tempo que Fausto levou para juntar o dinheiro numa lavoura de café no
+interior de São Paulo.
+
+Se ele tivesse juntado dois meses antes, ela teria pegado outro navio. Se tivesse demorado
+dois meses a mais, teria pegado outro navio.""",
+
+"""É a coisa mais fria deste livro, e eu ainda não sei o que fazer com ela.
+
+Um homem de vinte e três anos, sem português, trabalhando terra que não era dele, mandou
+buscar a mulher e o filho assim que pôde. Fez a única coisa certa que havia para fazer, e fez
+o mais rápido que conseguiu.
+
+<strong>E foi isso que escolheu o navio.</strong>""",
+
 """Em outubro de 1927 os dois sabiam a data.
 
 Sabiam o nome do navio, sabiam quando tinha saído de Gênova e sabiam mais ou menos quando
@@ -560,10 +588,10 @@ O que aconteceu depois é assunto da parte seguinte deste livro, e eu não vou a
 
 """Só uma coisa, que pertence a este capítulo e não àquele.
 
-Os dois foram ao desembarque. Estavam lá, no cais, procurando.
+Os dois foram esperar. Estavam lá, procurando.
 
-Isso não está em documento nenhum. Está na lembrança de uma menina de seis anos, que
-contou para a filha, que contou para a neta, que contou para mim.
+Isso não está em documento nenhum. É lembrança de família, atribuída a uma menina de seis
+anos que estava naquele navio, e chegou até mim por duas primas de outro ramo.
 
 <strong>Fausto Miotto não aparece em nenhuma lista de 1927.</strong>
 
@@ -1345,7 +1373,7 @@ lugar nenhum, com nome nenhum.</strong>""",
 
 Ele é feito de depoimento. E depoimento é coisa de vivo.
 
-Vinte e quatro capítulos até agora, e quase todos são sobre gente que chegou. Não porque
+Este livro chegou até aqui, e quase todos os capítulos são sobre gente que chegou. Não porque
 quem chegou importe mais. Porque foram eles que puderam falar.
 
 As duas mulheres desta família estão neste livro pelo mesmo motivo pelo qual quase todo mundo
@@ -2560,7 +2588,7 @@ alguém que estivesse três andares abaixo dela.""",
 E numa única noite, em 25 de outubro de 1927, as duas partes daquele navio foram para a mesma
 água, ao mesmo tempo, com os mesmos coletes.
 
-O que aconteceu ali está no capítulo 20, e é a primeira e a última vez que os dois lados
+O que aconteceu ali está no capítulo 19, e é a primeira e a última vez que os dois lados
 daquele casco falaram um sobre o outro.
 
 <strong>Não gostaram do que viram.</strong>""",
@@ -2871,117 +2899,6 @@ Nenhum arquivo do mundo me devolve vinte minutos de conversa com uma mulher de n
 anos que estava lá.
 
 <strong>A minha avó tem oitenta e nove anos.</strong>""",
-]
-
-CAP_NEGOCIO = [
-"""Trinta capítulos deste livro e ninguém disse ainda quanto custava.
-
-Eu não sei o preço de uma passagem de terceira classe de Gênova a Santos em 1927. Não achei
-tabela de companhia, não achei bilhete, não achei recibo, não achei carta em que alguém
-mencionasse o valor.
-
-É uma das coisas que faltam, e faltam de um jeito irritante, porque é a primeira pergunta que
-qualquer pessoa faz.""",
-
-"""Mas eu tenho outra coisa, e acho que é melhor.
-
-As listas de terceira classe daquele navio, de 1923 e 1924, trazem quatro colunas manuscritas
-que passam despercebidas porque ficam na margem e estão em italiano:
-
-<strong>Bauli. Valigie. Denaro. Indirizzo.</strong>
-
-Baús. Malas. Dinheiro. Endereço.""",
-
-"""Pare um segundo no que isso é.
-
-É o inventário de uma família inteira, feito por um funcionário de porto, no dia em que ela
-desembarca do outro lado do mundo.
-
-Quantos volumes trouxe. Quanto dinheiro tem no bolso. Para onde vai.
-
-Não existe retrato mais exato de uma decisão de vida do que essas quatro colunas preenchidas
-à mão.""",
-
-"""Quatro linhas do mesmo navio, quatro anos antes de Rosa:
-
-<strong>1 baú · 1 mala · 120 liras · Araraquara.</strong>
-
-<strong>2 baús · 1 mala · 800 liras · São Paulo.</strong>
-
-<strong>1 baú · 1 mala · 1.350 liras · Cuiabá.</strong>
-
-<strong>8 baús · 1 mala · — · São Paulo.</strong>""",
-
-"""Leia a última de novo.
-
-<strong>Oito baús e um traço na coluna do dinheiro.</strong>
-
-Oito volumes é gente que trouxe tudo: a roupa, a ferramenta, a louça, a máquina de costura, o
-que fosse. E o traço quer dizer o que parece querer dizer.
-
-Uma família que atravessou o Atlântico levando tudo o que tinha, porque tudo o que tinha era
-coisa, e desembarcou em Santos <strong>sem uma lira no bolso</strong>.""",
-
-"""E compare com a de Cuiabá.
-
-Um baú só, e mil trezentas e cinquenta liras.
-
-Alguém que fez o contrário: vendeu o que tinha, converteu em dinheiro, viajou leve e foi para
-muito longe — Cuiabá, em 1923, é o outro lado do país depois de Santos.
-
-Duas famílias, o mesmo porão, a mesma viagem, e duas apostas opostas sobre o que serve do
-outro lado: o que se carrega ou o que se guarda no bolso.""",
-
-"""Não existia <em>o emigrante italiano</em>.
-
-Existiam famílias fazendo contas diferentes com o mesmo medo, e cada linha daquelas listas é
-uma conta dessas, escrita por uma pessoa que nunca soube que alguém leria.""",
-
-"""E agora a pergunta que essas colunas me obrigaram a fazer, e que eu não tinha feito.
-
-<strong>Quem pagou a passagem de Rosa?</strong>""",
-
-"""Fausto foi primeiro, e este livro já disse como: por conta própria, sem subsídio, sem
-patrão declarado, com dinheiro que a família juntou.
-
-Um ano depois, Rosa atravessou, com um filho de um ano no colo, e com a irmã e mais quatro
-crianças ao lado.
-
-Não há bilhete, não há recibo e não há carta. Mas o mecanismo daquela época tem nome, e era o
-mais comum de todos.""",
-
-"""Chamava-se <strong>chamada</strong>.
-
-O homem que já estava do outro lado juntava dinheiro, comprava a passagem lá, e mandava — em
-remessa, ou como bilhete pré-pago retirado numa agência do porto de Gênova.
-
-Não era gesto isolado de ninguém. Era uma das maiores movimentações de dinheiro da Itália
-daquele tempo: emigrante mandando moeda estrangeira para casa, mês após mês, por décadas.
-
-<strong>O negócio da esperança não era vender bilhete. Era vender o reencontro, a prazo.</strong>""",
-
-"""E se foi assim com esta família — e é de longe o mais provável — então há uma consequência
-que eu levei três anos para enxergar.
-
-<strong>A data da viagem de Rosa não foi decidida por Rosa.</strong>
-
-Foi decidida pelo tempo que Fausto levou para juntar o dinheiro numa lavoura de café no
-interior de São Paulo.""",
-
-"""Se ele tivesse juntado dois meses antes, ela teria pegado outro navio.
-
-Se tivesse demorado dois meses a mais, teria pegado outro navio.
-
-O <em>Principessa Mafalda</em> largou de Gênova em 11 de outubro de 1927 porque foi nesse mês
-que o dinheiro chegou.""",
-
-"""É a coisa mais fria deste livro, e eu ainda não sei o que fazer com ela.
-
-Um homem de vinte e três anos, sem português, trabalhando terra que não era dele, mandou
-buscar a mulher e o filho assim que pôde. Fez a única coisa certa que havia para fazer, e fez
-o mais rápido que conseguiu.
-
-<strong>E foi isso que escolheu o navio.</strong>""",
 ]
 
 CAP_CASA = [
@@ -4206,7 +4123,7 @@ dela.""",
 Treze anos depois, aos trinta e um, ela vai estar na água escura da costa da Bahia com
 quatro filhos pequenos, no mesmo naufrágio da irmã mais nova que ajudou a criar.
 
-Mas isso é dali a dezesseis capítulos.""",
+Mas isso é dali a catorze capítulos.""",
 
 """E o pai?
 
@@ -5262,7 +5179,7 @@ Para que quando o navio afundar, o leitor saiba exatamente o que aquelas pessoas
 tentando alcançar, e o que já tinham atravessado antes de chegar à água.""",
 ]
 
-CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 12: CAP12, 13: CAP14, 14: CAP16, 15: CAP17, 16: CAP18, 17: CAP19, 18: CAP20, 19: CAP21, 20: CAP22, 21: CAP23, 22: CAP24, 23: CAP25, 24: CAP26, 25: CAP27, 26: CAP28, 27: CAP29, 28: CAP30, 29: CAP31, 30: CAP32, 11: CAP_NEGOCIO, 31: CAP_BUSCA, 32: CAP_CASA}
+CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 11: CAP12, 12: CAP14, 13: CAP16, 14: CAP17, 15: CAP18, 16: CAP19, 17: CAP20, 18: CAP21, 19: CAP22, 20: CAP23, 21: CAP24, 22: CAP25, 23: CAP26, 24: CAP27, 25: CAP28, 26: CAP29, 27: CAP30, 28: CAP31, 29: CAP32, 30: CAP_BUSCA, 31: CAP_CASA}
 
 # ------------------------------------------------------------------ paginas
 pages = []
@@ -5285,24 +5202,24 @@ IMG_BY_CAP = {
  8:  [('fausto','Fausto Miotto, nascido em Castelcucco em 1904. Casou-se com Rosa Forner em 1926 e partiu sozinho para o Brasil.')],
  9:  [('italianos_no_barco','Imigrantes italianos a bordo, início do século XX.')],
  10: [('imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890','Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por volta de 1890.')],
- 14: [('vapor_mafalda','O vapor Principessa Mafalda. Lançado em 1908, afundou em 25 de outubro de 1927.')],
- 15: [('princess_mafalda_of_savoy','A princesa Mafalda de Saboia, que deu nome ao navio. Morreu em Buchenwald, em 1944.')],
- 17: [('princessa_mafalda','O Principessa Mafalda. Saiu de Gênova em 11 de outubro de 1927 com 971 passageiros e 288 tripulantes, e já saiu atrasado.')],
- 19: [('mafalda_naufragando','O naufrágio do Principessa Mafalda em representação de época.')],
- 22: [('passageiros_agnoli','Lista de passageiros: a família Agnoli, terceira classe, resgatada pelo navio Alhena.')],
- 24: [('rosa_forner','Rosa Forner Miotto, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos.'),
+ 13: [('vapor_mafalda','O vapor Principessa Mafalda. Lançado em 1908, afundou em 25 de outubro de 1927.')],
+ 14: [('princess_mafalda_of_savoy','A princesa Mafalda de Saboia, que deu nome ao navio. Morreu em Buchenwald, em 1944.')],
+ 16: [('princessa_mafalda','O Principessa Mafalda. Saiu de Gênova em 11 de outubro de 1927 com 971 passageiros e 288 tripulantes, e já saiu atrasado.')],
+ 18: [('mafalda_naufragando','O naufrágio do Principessa Mafalda em representação de época.')],
+ 21: [('passageiros_agnoli','Lista de passageiros: a família Agnoli, terceira classe, resgatada pelo navio Alhena.')],
+ 23: [('rosa_forner','Rosa Forner Miotto, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos.'),
       ('rosa_forner_documento','Documento de identificação de Rosa Forner Miotto.')],
- 25: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.'),
+ 24: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.'),
       ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e o marido, Angelo dei Agnoli.')],
- 27: [('enrico','Enrico Miotto, 1926 a 1998. Tinha um ano e quinze dias na noite do naufrágio.'),
+ 26: [('enrico','Enrico Miotto, 1926 a 1998. Tinha um ano e quinze dias na noite do naufrágio.'),
       ('enrico_registro_de_estrangeiro','Registro de Estrangeiros de Enrico Miotto, 29 de dezembro de 1949. Data de nascimento: 10.10.1926.')],
- 28: [('mafalda_miotto_forner','Mafalda Miotto Terra, nascida em 1937, dez anos depois do naufrágio, com o nome do navio.')],
- 30: [('sante_e_familia','Sante Forner e família, na Itália.'),
+ 27: [('mafalda_miotto_forner','Mafalda Miotto Terra, nascida em 1937, dez anos depois do naufrágio, com o nome do navio.')],
+ 29: [('sante_e_familia','Sante Forner e família, na Itália.'),
       ('giorgio_e_sua_familia','Giorgio Forner e família, o ramo que permaneceu no Vêneto.')],
 }
 
 AUDIO_BY_CAP = {
- 25: [('patricia-01',
+ 24: [('patricia-01',
        'A fonte é o avô',
        'Patrícia Betti · 8 de setembro de 2026 · 1min06',
        'Ela diz de quem ouviu tudo o que sabe: João Betti, o marido da Pulcheria, que não '

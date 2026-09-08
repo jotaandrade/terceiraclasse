@@ -95,7 +95,7 @@ Guarde essa moça.
 
 Treze anos depois, aos trinta e um, ela vai estar na água escura da costa da Bahia com quatro filhos pequenos, no mesmo naufrágio da irmã mais nova que ajudou a criar.
 
-Mas isso é dali a dezesseis capítulos.
+Mas isso é dali a catorze capítulos.
 
 E o pai?
 

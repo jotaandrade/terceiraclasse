@@ -45,8 +45,8 @@ scripts/              histórico das rodadas de correção e escrita
 
 | | |
 |---|---|
-| Capítulos planejados | 32, em 4 livros + epílogo |
-| **Escritos** | **32 de 32 capítulos, 36.613 palavras** |
+| Capítulos planejados | 31, em 4 livros + epílogo |
+| **Escritos** | **31 de 31 capítulos, 36.103 palavras** |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |
 
