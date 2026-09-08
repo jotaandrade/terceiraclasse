@@ -29,7 +29,7 @@ Esse último item é o mais revelador dos cinco. A promessa central do cartaz er
 
 Uma coisa tinha mudado na Itália e tornou possível que esses papéis produzissem efeito.
 
-Em 31 de janeiro de 1901 o país aprovou a primeira lei geral sobre emigração e criou o Commissariato Generale dell'Emigrazione, um órgão de Estado com a atribuição de olhar para aquilo.
+Em 31 de janeiro de 1901 o país aprovou a primeira lei geral sobre emigração e criou o Commissariato Generale dell’Emigrazione, um órgão de Estado com a atribuição de olhar para aquilo.
 
 Até então a emigração italiana era um fenômeno sem dono dentro do governo. Havia agências privadas, havia subagentes pagos por cabeça, havia companhias de navegação, e não havia ninguém encarregado de perguntar o que acontecia com as pessoas depois que o navio saía.
 

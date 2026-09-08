@@ -59,13 +59,13 @@ Um camponês vêneto de vinte e dois anos, naquele front, tinha dois inimigos, e
 
 Em 1916 morreu Pietro Luigi Forner, irmão mais velho de Sante, aos vinte e sete anos.
 
-Durante muito tempo eu completei essa frase com outra, dizendo que ele tinha morrido na guerra, porque era o que fazia sentido. O nome dele não está no Albo d'Oro. O capítulo 4 conta essa busca e o que ela derrubou.
+Durante muito tempo eu completei essa frase com outra, dizendo que ele tinha morrido na guerra, porque era o que fazia sentido. O nome dele não está no Albo d’Oro. O capítulo 4 conta essa busca e o que ela derrubou.
 
 Então aqui fica só o que se sustenta: em 1916, no meio da guerra, aquela casa perdeu mais um, e eu não sei de quê.
 
 O que a guerra fez com os Forner, porém, está documentado. E é pior do que um irmão.
 
-Procurei o sobrenome Forner no Albo d'Oro e apareceram dezesseis homens.
+Procurei o sobrenome Forner no Albo d’Oro e apareceram dezesseis homens.
 
 Nove eram de Monfumo. O vilarejo da Rosa.
 
@@ -89,7 +89,7 @@ Foi assim que a Primeira Guerra matou a maior parte da gente que matou.
 
 Fiz a mesma busca com o outro sobrenome desta história.
 
-Miotto aparece cinquenta e quatro vezes no Albo d'Oro, espalhado pelo Vêneto e pelo Friuli: Arba, Vo', Candiana, Adria, Vicenza, Veneza.
+Miotto aparece cinquenta e quatro vezes no Albo d’Oro, espalhado pelo Vêneto e pelo Friuli: Arba, Vo’, Candiana, Adria, Vicenza, Veneza.
 
 Nenhum de Castelcucco. Nenhum de Monfumo, de Possagno, de Cavaso del Tomba, de Asolo ou de Pieve del Grappa.
 
@@ -141,7 +141,7 @@ Foi criada por decreto real de 29 de julho de 1920 e concedida a todos que servi
 
 Isso não a torna menos interessante. Torna outra coisa.
 
-No anverso está Vitor Emanuel III de capacete e a inscrição *guerra per l'unità d'Italia 1915-1918*. No reverso, uma Vitória alada carregada em triunfo por soldados, sobre um pedestal feito de escudos de trincheira. O desenho é de Silvio Canevari.
+No anverso está Vitor Emanuel III de capacete e a inscrição *guerra per l’unità d’Italia 1915-1918*. No reverso, uma Vitória alada carregada em triunfo por soldados, sobre um pedestal feito de escudos de trincheira. O desenho é de Silvio Canevari.
 
 E o metal tem procedência declarada: o decreto determinou que a medalha fosse cunhada com o bronze fundido de canhões austríacos capturados. Ficou conhecida como a medalha do *bronzo nemico*, bronze inimigo.
 
@@ -175,7 +175,7 @@ Nunca emigrou. Nunca viu o Brasil. E é quase certo que nunca voltou a ver a irm
 
 E existe um segundo objeto, guardado na mesma pasta.
 
-Em 8 de março de 1940 o Comune di Asolo emitiu a *carta d'identità* de Sante Forner. Ela está no acervo desta família, gasta nas dobras, com uma marca de vinte e cinco centavos colada no canto de baixo.
+Em 8 de março de 1940 o Comune di Asolo emitiu a *carta d’identità* de Sante Forner. Ela está no acervo desta família, gasta nas dobras, com uma marca de vinte e cinco centavos colada no canto de baixo.
 
 E tem a fotografia dele.
 

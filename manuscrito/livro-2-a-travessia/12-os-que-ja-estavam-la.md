@@ -17,7 +17,7 @@ Em 14 de fevereiro de 1925, no Comune di Cavaso del Tomba, registrou-se o nascim
 
 Quem foi declarar não foi o pai. Foi a parteira, Celli Maria. E o escrivão anotou o motivo, em italiano de cartório:
 
-*in luogo del marito, perché residente all'estero a scopo di lavoro.*
+*in luogo del marito, perché residente all’estero a scopo di lavoro.*
 
 Em lugar do marido, por estar residindo no exterior a trabalho.
 

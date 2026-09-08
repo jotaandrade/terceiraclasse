@@ -262,7 +262,7 @@ falando com repórter, poucos dias depois.""",
 """A terceira classe do <em>Principessa Mafalda</em> não era um convés aberto com gente
 deitada no chão, como nas fotografias de vinte anos antes.
 
-Era um andar de dormitórios, abaixo da linha d'água, com beliches de ferro em duas ou três
+Era um andar de dormitórios, abaixo da linha d’água, com beliches de ferro em duas ou três
 alturas, separados por sexo, e camarotes de quatro ou seis lugares para as famílias.
 
 <strong>Maria Spinelli</strong>, italiana, terceira classe, conta que às cinco da tarde do
@@ -438,7 +438,7 @@ Danilo Angelo Dei Agnoli.
 Quem foi declarar não foi o pai. Foi a parteira, Celli Maria. E o escrivão anotou o motivo,
 em italiano de cartório:
 
-<em>in luogo del marito, perché residente all'estero a scopo di lavoro.</em>
+<em>in luogo del marito, perché residente all’estero a scopo di lavoro.</em>
 
 Em lugar do marido, por estar residindo no exterior a trabalho.""",
 
@@ -734,7 +734,7 @@ Duas mulheres. Cinco crianças, a mais velha com sete anos, a mais nova com dois
 um ano no colo de uma delas.
 
 Nenhuma das duas sabia nadar. Nenhuma delas falava a língua da tripulação. Estavam num
-andar abaixo da linha d'água, num navio inclinando, no escuro.
+andar abaixo da linha d’água, num navio inclinando, no escuro.
 
 O que os documentos dizem sobre elas nessa noite é nada. Elas entram no papel de novo só
 três dias depois, no Rio de Janeiro.""",
@@ -1728,7 +1728,7 @@ Quatro anos antes, o mesmo navio fez a mesma rota com outro tipo de gente a bord
 anexado à lista de fevereiro de 1923, num formulário diferente de todos os outros:
 
 <em>RELAÇÃO dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o Vap.
-"PRINCIPESSA MAFALDA"… em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da
+“PRINCIPESSA MAFALDA”… em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da
 Companhia Commercial de SÃO PAULO.</em>""",
 
 """Sessenta e sete pessoas, dez famílias. E aquele formulário tem uma coluna que a lista
@@ -2747,7 +2747,7 @@ nenhum com esta história.""",
 
 """O que resolveu isso estava dentro de casa o tempo todo.
 
-Numa pasta, entre papéis de família, a <em>carta d'identità</em> que Sante Forner tirou no
+Numa pasta, entre papéis de família, a <em>carta d’identità</em> que Sante Forner tirou no
 comune de Asolo em 8 de março de 1940.
 
 No campo da filiação, com as duas fórmulas fixas do italiano burocrático:
@@ -3435,7 +3435,7 @@ calendário e não aprendiam a ler.""",
 desta história nascer. São sobrenomes de gente que ficou parada por séculos.
 
 Na família se conta que Miotto vem de <em>mio</em> com o diminutivo do dialeto,
-alguma coisa como "meu pequeno", e que Forner vem de <em>fornaio</em>, padeiro,
+alguma coisa como “meu pequeno”, e que Forner vem de <em>fornaio</em>, padeiro,
 aquele que assava o pão da comunidade.
 
 Etimologia de família é sempre um pouco verdade e um pouco poesia, e eu não consegui
@@ -3503,7 +3503,7 @@ Leia a coluna da porcentagem devagar.""",
 """<strong>Borso: 3.700 refugiados numa população de 3.733. Noventa e nove por
 cento.</strong>
 
-Paderno d'Asolo, 96,8. Crespano, 87,8. <strong>Cavaso: 2.795 pessoas de 3.258, oitenta e
+Paderno d’Asolo, 96,8. Crespano, 87,8. <strong>Cavaso: 2.795 pessoas de 3.258, oitenta e
 cinco vírgula oito por cento.</strong> Possagno, 81,7.
 
 Esses são os comuni encostados no maciço. Eles não se esvaziaram um pouco. Eles se
@@ -4224,10 +4224,9 @@ ficaram — já estavam amarrados um no outro antes de qualquer um pisar num nav
 
 """Os sobrenomes que sobreviveram nos livros daquelas paróquias são os dos que ficaram.
 
-Os que ficaram são os que hoje quase ninguém procura.
+E durante quase um século ninguém deste lado do oceano foi atrás deles.
 
-Este livro existe porque a linha que foi embora é a que teve alguém, cem anos depois, com
-tempo e teimosia para voltar atrás.""",
+Este livro existe porque, na quarta geração, alguém foi.""",
 ]
 
 CAP5 = [
@@ -4431,7 +4430,7 @@ no porto de Santos. Duas folhas, sessenta e sete pessoas, dez famílias. O cabe�
 impresso:
 
 <em>Relação dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o
-Vap. "PRINCIPESSA MAFALDA" sahido em 8 de FEVEREIRO de 1923 com destino SANTOS ao Estado
+Vap. “PRINCIPESSA MAFALDA” sahido em 8 de FEVEREIRO de 1923 com destino SANTOS ao Estado
 de SÃO PAULO, <strong>em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da
 Companhia Commercial de SÃO PAULO</strong>.</em>
 
@@ -4543,7 +4542,7 @@ o cônsul está dizendo que nem a medição da terra era confiável.""",
 """Uma coisa tinha mudado na Itália e tornou possível que esses papéis produzissem efeito.
 
 Em 31 de janeiro de 1901 o país aprovou a primeira lei geral sobre emigração e criou o
-Commissariato Generale dell'Emigrazione, um órgão de Estado com a atribuição de olhar
+Commissariato Generale dell’Emigrazione, um órgão de Estado com a atribuição de olhar
 para aquilo.
 
 Até então a emigração italiana era um fenômeno sem dono dentro do governo. Havia
@@ -4763,7 +4762,7 @@ usava o mesmo uniforme.""",
 """Em 1916 morreu Pietro Luigi Forner, irmão mais velho de Sante, aos vinte e sete anos.
 
 Durante muito tempo eu completei essa frase com outra, dizendo que ele tinha morrido na
-guerra, porque era o que fazia sentido. O nome dele não está no Albo d'Oro. O capítulo 4
+guerra, porque era o que fazia sentido. O nome dele não está no Albo d’Oro. O capítulo 4
 conta essa busca e o que ela derrubou.
 
 Então aqui fica só o que se sustenta: em 1916, no meio da guerra, aquela casa perdeu mais
@@ -4771,7 +4770,7 @@ um, e eu não sei de quê.
 
 O que a guerra fez com os Forner, porém, está documentado. E é pior do que um irmão.""",
 
-"""Procurei o sobrenome Forner no Albo d'Oro e apareceram dezesseis homens.
+"""Procurei o sobrenome Forner no Albo d’Oro e apareceram dezesseis homens.
 
 Nove eram de Monfumo. O vilarejo da Rosa.
 
@@ -4805,8 +4804,8 @@ Foi assim que a Primeira Guerra matou a maior parte da gente que matou.""",
 
 """Fiz a mesma busca com o outro sobrenome desta história.
 
-Miotto aparece cinquenta e quatro vezes no Albo d'Oro, espalhado pelo Vêneto e pelo
-Friuli: Arba, Vo', Candiana, Adria, Vicenza, Veneza.
+Miotto aparece cinquenta e quatro vezes no Albo d’Oro, espalhado pelo Vêneto e pelo
+Friuli: Arba, Vo’, Candiana, Adria, Vicenza, Veneza.
 
 Nenhum de Castelcucco. Nenhum de Monfumo, de Possagno, de Cavaso del Tomba, de Asolo ou
 de Pieve del Grappa.
@@ -4882,8 +4881,8 @@ menos quatro meses em zona de guerra. Não é prêmio por ato. É registro de pr
 
 Isso não a torna menos interessante. Torna outra coisa.
 
-No anverso está Vitor Emanuel III de capacete e a inscrição <em>guerra per l'unità
-d'Italia 1915-1918</em>. No reverso, uma Vitória alada carregada em triunfo por soldados,
+No anverso está Vitor Emanuel III de capacete e a inscrição <em>guerra per l’unità
+d’Italia 1915-1918</em>. No reverso, uma Vitória alada carregada em triunfo por soldados,
 sobre um pedestal feito de escudos de trincheira. O desenho é de Silvio Canevari.
 
 E o metal tem procedência declarada: o decreto determinou que a medalha fosse cunhada
@@ -4928,7 +4927,7 @@ depois de 1927, porque ninguém naquela condição atravessava o Atlântico duas
 
 """E existe um segundo objeto, guardado na mesma pasta.
 
-Em 8 de março de 1940 o Comune di Asolo emitiu a <em>carta d'identità</em> de Sante
+Em 8 de março de 1940 o Comune di Asolo emitiu a <em>carta d’identità</em> de Sante
 Forner. Ela está no acervo desta família, gasta nas dobras, com uma marca de vinte e cinco
 centavos colada no canto de baixo.
 
@@ -5121,14 +5120,14 @@ um soldado a menos e um nascimento a menos em solo italiano.
 A emigração deixou de ser válvula de escape e passou a ser sangria.""",
 
 """Em 28 de abril de 1927, por decreto-lei, o governo fascista extinguiu o Commissariato
-Generale dell'Emigrazione.
+Generale dell’Emigrazione.
 
 É o mesmo órgão do capítulo 6 deste livro. Criado em 1901, foi ele que reuniu os
 relatórios consulares e sustentou o decreto Prinetti que protegeu os italianos das
 fazendas brasileiras em 1902.
 
 Vinte e seis anos depois, foi extinto e substituído pela Direzione Generale degli
-Italiani all'Estero.
+Italiani all’Estero.
 
 A mudança de nome não é detalhe burocrático. A palavra emigrante saiu do vocabulário
 oficial e entrou italiano no exterior. Não existe mais alguém que sai. Existe um italiano

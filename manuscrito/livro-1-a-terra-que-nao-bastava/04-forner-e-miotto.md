@@ -183,6 +183,6 @@ Os dois ramos que este livro vai passar trinta capítulos separando — os que f
 
 Os sobrenomes que sobreviveram nos livros daquelas paróquias são os dos que ficaram.
 
-Os que ficaram são os que hoje quase ninguém procura.
+E durante quase um século ninguém deste lado do oceano foi atrás deles.
 
-Este livro existe porque a linha que foi embora é a que teve alguém, cem anos depois, com tempo e teimosia para voltar atrás.
+Este livro existe porque, na quarta geração, alguém foi.

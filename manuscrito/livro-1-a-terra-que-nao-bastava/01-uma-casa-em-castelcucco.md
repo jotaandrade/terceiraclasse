@@ -59,7 +59,7 @@ Uma criança aprendia esse calendário antes de aprender a ler. Muitas aprendiam
 
 Miotto e Forner aparecem nos livros daquelas paróquias muito antes de qualquer um desta história nascer. São sobrenomes de gente que ficou parada por séculos.
 
-Na família se conta que Miotto vem de *mio* com o diminutivo do dialeto, alguma coisa como "meu pequeno", e que Forner vem de *fornaio*, padeiro, aquele que assava o pão da comunidade.
+Na família se conta que Miotto vem de *mio* com o diminutivo do dialeto, alguma coisa como “meu pequeno”, e que Forner vem de *fornaio*, padeiro, aquele que assava o pão da comunidade.
 
 Etimologia de família é sempre um pouco verdade e um pouco poesia, e eu não consegui confirmar nenhuma das duas num dicionário sério. Deixo registrado assim mesmo, porque é o que a família diz de si própria, e o que uma família diz de si própria também é um dado.
 
@@ -103,7 +103,7 @@ Leia a coluna da porcentagem devagar.
 
 **Borso: 3.700 refugiados numa população de 3.733. Noventa e nove por cento.**
 
-Paderno d'Asolo, 96,8. Crespano, 87,8. **Cavaso: 2.795 pessoas de 3.258, oitenta e cinco vírgula oito por cento.** Possagno, 81,7.
+Paderno d’Asolo, 96,8. Crespano, 87,8. **Cavaso: 2.795 pessoas de 3.258, oitenta e cinco vírgula oito por cento.** Possagno, 81,7.
 
 Esses são os comuni encostados no maciço. Eles não se esvaziaram um pouco. Eles se esvaziaram.
 

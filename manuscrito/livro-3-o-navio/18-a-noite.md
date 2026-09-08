@@ -97,7 +97,7 @@ E as sete pessoas desta história?
 
 Duas mulheres. Cinco crianças, a mais velha com sete anos, a mais nova com dois. Um bebê de um ano no colo de uma delas.
 
-Nenhuma das duas sabia nadar. Nenhuma delas falava a língua da tripulação. Estavam num andar abaixo da linha d'água, num navio inclinando, no escuro.
+Nenhuma das duas sabia nadar. Nenhuma delas falava a língua da tripulação. Estavam num andar abaixo da linha d’água, num navio inclinando, no escuro.
 
 O que os documentos dizem sobre elas nessa noite é nada. Elas entram no papel de novo só três dias depois, no Rio de Janeiro.
 

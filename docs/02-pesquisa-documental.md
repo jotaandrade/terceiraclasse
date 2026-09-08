@@ -1868,3 +1868,41 @@ conserto nao resolvia o segundo.
 
 Antes de liberar, verificado que **nenhuma legenda contem `<`, `>` ou `&` solto** fora dessas
 duas tags, e conferida tag por tag nas 49 legendas do livro: nenhuma indevida.
+
+---
+
+## 27. Passada de ortografia e de leitura - 08.09.2026
+
+### Ortografia: limpa
+
+Varredura por falta de acento, palavra dobrada, espaco antes de pontuacao e espaco duplo.
+**Nenhum erro.** Os candidatos apontados pela maquina eram todos legitimos:
+- `America`, `Italia` - dentro de citacao em italiano (*emigrato in America*, *Regno d'Italia*,
+  *Viva Italia*) e da grafia do proprio documento de 1927 (*pedem de ser enviadas para Italia*)
+- `pais` - todas as ocorrencias sao "os pais", nao "o pais"
+- `avos` - "tres doze avos de um ano", fracao, correto sem acento
+- `navio`, `oceano`, `ilha`, `Asia` (nome italiano) - corretos
+- "descobre-se **se** o contrato foi renovado" - nao e palavra dobrada
+
+### Tipografia: 17 aspas e apostrofos retos, corrigidos
+
+O livro usava aspas curvas em alguns lugares e retas em outros. Uniformizado:
+`d'Asolo`, `Albo d'Oro`, `dell'Emigrazione`, `carta d'identita`, `all'estero`, `Vo'`,
+`l'unita d'Italia`, `linha d'agua`, `"meu pequeno"` e `"PRINCIPESSA MAFALDA"`.
+**Zero retas no corpo do livro.**
+
+### Confusao narrativa: uma, e era minha, de hoje
+
+O **cap. 4 passou a terminar duas vezes**, e o segundo fecho contradizia o primeiro. Os quatro
+blocos novos sobre o casamento cruzado terminam mostrando que o ramo que ficou foi
+reencontrado - e logo abaixo continuava o fecho antigo, *"os que ficaram sao os que hoje quase
+ninguem procura"*, que a essa altura ja era falso dentro do proprio capitulo.
+
+Reescrito para terminar uma vez so: *"E durante quase um seculo ninguem deste lado do oceano
+foi atras deles. Este livro existe porque, na quarta geracao, alguem foi."*
+
+### Verificado e correto
+
+- As **duas Maria Luigia** nao se confundem depois do cap. 4: o alerta esta no proprio texto e
+  o cap. 7 desambigua na frase em que aparece.
+- O cap. 12 absorveu bem os tres blocos da chamada; o fecho do Fausto continua de pe.

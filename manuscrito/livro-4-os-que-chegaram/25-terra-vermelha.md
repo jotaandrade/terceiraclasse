@@ -29,7 +29,7 @@ Para dizer o que ela significa, eu preciso mostrar o que aquelas sete pessoas *n
 
 Quatro anos antes, o mesmo navio fez a mesma rota com outro tipo de gente a bordo. Está anexado à lista de fevereiro de 1923, num formulário diferente de todos os outros:
 
-*RELAÇÃO dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o Vap. "PRINCIPESSA MAFALDA"… em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da Companhia Commercial de SÃO PAULO.*
+*RELAÇÃO dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o Vap. “PRINCIPESSA MAFALDA”… em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da Companhia Commercial de SÃO PAULO.*
 
 Sessenta e sete pessoas, dez famílias. E aquele formulário tem uma coluna que a lista comum não tem.
 

@@ -85,11 +85,11 @@ Mussolini estava no poder desde 1922, e em 1927 o regime fez uma virada explíci
 
 A emigração deixou de ser válvula de escape e passou a ser sangria.
 
-Em 28 de abril de 1927, por decreto-lei, o governo fascista extinguiu o Commissariato Generale dell'Emigrazione.
+Em 28 de abril de 1927, por decreto-lei, o governo fascista extinguiu o Commissariato Generale dell’Emigrazione.
 
 É o mesmo órgão do capítulo 6 deste livro. Criado em 1901, foi ele que reuniu os relatórios consulares e sustentou o decreto Prinetti que protegeu os italianos das fazendas brasileiras em 1902.
 
-Vinte e seis anos depois, foi extinto e substituído pela Direzione Generale degli Italiani all'Estero.
+Vinte e seis anos depois, foi extinto e substituído pela Direzione Generale degli Italiani all’Estero.
 
 A mudança de nome não é detalhe burocrático. A palavra emigrante saiu do vocabulário oficial e entrou italiano no exterior. Não existe mais alguém que sai. Existe um italiano que por acaso está longe, e que continua pertencendo.
 

@@ -141,7 +141,7 @@ Achei outra coisa.
 
 Está num formulário anexo à lista de chegada de **23 de fevereiro de 1923**, no porto de Santos. Duas folhas, sessenta e sete pessoas, dez famílias. O cabeçalho vem impresso:
 
-*Relação dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o Vap. "PRINCIPESSA MAFALDA" sahido em 8 de FEVEREIRO de 1923 com destino SANTOS ao Estado de SÃO PAULO, **em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da Companhia Commercial de SÃO PAULO**.*
+*Relação dos immigrantes ITALIANOS AGRICOLTORES embarcados no Porto de GENOVA c/ o Vap. “PRINCIPESSA MAFALDA” sahido em 8 de FEVEREIRO de 1923 com destino SANTOS ao Estado de SÃO PAULO, **em virtude do Decreto N. 2400 de 13 de julho de 1918, por conta da Companhia Commercial de SÃO PAULO**.*
 
 O mesmo navio. Quatro anos antes de Rosa.
 

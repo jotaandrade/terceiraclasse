@@ -21,7 +21,7 @@ Enquanto não acho, digo toda vez o que eles são: gente que tinha acabado de sa
 
 A terceira classe do *Principessa Mafalda* não era um convés aberto com gente deitada no chão, como nas fotografias de vinte anos antes.
 
-Era um andar de dormitórios, abaixo da linha d'água, com beliches de ferro em duas ou três alturas, separados por sexo, e camarotes de quatro ou seis lugares para as famílias.
+Era um andar de dormitórios, abaixo da linha d’água, com beliches de ferro em duas ou três alturas, separados por sexo, e camarotes de quatro ou seis lugares para as famílias.
 
 **Maria Spinelli**, italiana, terceira classe, conta que às cinco da tarde do dia 25 estava se lavando *na cabine*. Não era um alojamento coletivo. Era um quarto apertado, com porta.
 

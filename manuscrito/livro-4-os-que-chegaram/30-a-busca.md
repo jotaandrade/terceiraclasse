@@ -59,7 +59,7 @@ E o capítulo sobre as três medalhas da Grande Guerra seria sobre um homem que 
 
 O que resolveu isso estava dentro de casa o tempo todo.
 
-Numa pasta, entre papéis de família, a *carta d'identità* que Sante Forner tirou no comune de Asolo em 8 de março de 1940.
+Numa pasta, entre papéis de família, a *carta d’identità* que Sante Forner tirou no comune de Asolo em 8 de março de 1940.
 
 No campo da filiação, com as duas fórmulas fixas do italiano burocrático:
 
