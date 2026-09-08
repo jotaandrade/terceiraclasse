@@ -1249,20 +1249,12 @@ para sempre e nunca mais voltar à Itália</em>.
 
 O naufrágio não a impediu de chegar. Impediu-a de voltar.""",
 
-"""E há duas linhas naquela folha que eu não consigo ler sem parar.
+"""E naquela folha estão as duas mulheres do capítulo 9.
 
-<strong>Nº 24, Luchini Teresa, dezenove anos. Nº 25, De Rosi Emilia, cinquenta e cinco
-anos.</strong>
+<strong>Luchini Teresa, dezenove anos. De Rosi Emilia, cinquenta e cinco.</strong> Números 24
+e 25, uma seguida da outra, cada uma com um <em>x</em> marcado à margem.
 
-As duas aparecem sozinhas, sem parentesco declarado, uma seguida da outra, cada uma com um
-<em>x</em> marcado à margem.
-
-E no pé da folha, escrito à mão pelo funcionário que fechou o documento:
-
-<em>As passageiras constantes sob Nº 24 e 25 perderam seus maridos, e pedem de ser enviadas
-para Italia.</em>
-
-Dezessete dias antes, em Gênova, as duas tinham subido a prancha ao lado dos maridos.""",
+Subiram a prancha em Gênova ao lado dos maridos. Desceram aqui sem eles.""",
 
 """Aquela folha de papel é o momento em que esta família volta a existir para o mundo.
 
@@ -3325,30 +3317,14 @@ Imigração uma lista com cinquenta náufragos, todos de terceira classe. Na col
 onde deveria estar o porto de procedência, o escrivão escreveu uma palavra só:
 <strong>Náufragos</strong>.
 
-Linha 26 daquela folha: <strong>Forner Rosa, vinte e quatro anos, casada,
-chefe.</strong>
+Nas linhas 26 e 27 daquela folha, e depois nas linhas 44 a 48, estão as sete
+pessoas desta história.
 
-Linha 27: <strong>Enrico, um ano, filho.</strong>""",
+Todas as sete.
 
-"""Chefe.
-
-Ela era casada, e o marido estava vivo, esperando em algum lugar do interior de
-São Paulo. Ainda assim, no papel, quem encabeça aquela família é ela. Vinte e
-quatro anos, um filho de um ano no colo, e a roupa do corpo.
-
-Dezoito linhas abaixo, na mesma folha, o mesmo registro: <strong>Forner Maria,
-trinta e um anos, chefe</strong>, com Ginneta de sete, Pulgheria de seis, Rino de
-quatro e Danilo de dois.
-
-Duas irmãs, duas famílias, dois maridos do outro lado do continente, e as duas
-anotadas como cabeça da própria casa.
-
-A lista traz ainda, sobre a Rosa, duas coisas que nenhum outro documento desta
-família diz. Profissão: <em>doméstica</em>. E, na coluna de instrução, uma
-palavra que responde uma pergunta que ficou aberta lá no primeiro capítulo:
-<strong>Sim</strong>.
-
-Ela sabia ler.""",
+É o único fato que este capítulo precisa dar, e é o que ele dá: elas
+atravessaram a noite que vem a seguir. O que mais aquele papel diz sobre elas
+diz muito, e chega na hora certa.""",
 
 """Entre o naufrágio e essa folha de papel há uma noite sobre a qual ela falou
 pouco, e o pouco que falou chegou até mim pela filha, que ainda está viva e ainda

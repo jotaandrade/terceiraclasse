@@ -1555,7 +1555,15 @@ do cap. 12, logo depois de "Seis meses entre uma coisa e outra".
 só o arquivo de pesquisa. Foram cortados assim o antigo 13 (absorvido pelo 19), o antigo 15
 (pelo 28) e agora o 11 (pelos 10 e 12).
 
-### 🟡 Repetições mapeadas e ainda não tratadas
+### ✅ Repetições tratadas em 08.09.2026
+
+1. **A lista do Alhena** era apresentada três vezes. O salto para a frente no **cap. 17** foi
+   encurtado: ele agora diz só que as sete pessoas estão naquela folha, vivas. O **CHEFE** e o
+   **"Instrução: Sim"** voltaram a ser descoberta dos caps. 21 e 23, onde pertencem.
+2. **A citação das viúvas** saiu do cap. 21. Fica no **9** (o embarque, como armação) e no
+   **22** (os 314, como desfecho). Duas aparições, treze capítulos de distância.
+
+### 🟡 Repetições menores, ainda não tratadas
 
 1. **A lista do Alhena é apresentada três vezes** — caps. 17, 21 e 23. O cap. 17 já traz
    "Náufragos", a linha 26, o **CHEFE** e o **"Instrução: Sim"**; o cap. 23 reapresenta o

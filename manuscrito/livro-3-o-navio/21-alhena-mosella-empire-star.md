@@ -105,17 +105,11 @@ E fecha o depoimento assim: *depois de três viagens à América do Sul, resolvi
 
 O naufrágio não a impediu de chegar. Impediu-a de voltar.
 
-E há duas linhas naquela folha que eu não consigo ler sem parar.
+E naquela folha estão as duas mulheres do capítulo 9.
 
-**Nº 24, Luchini Teresa, dezenove anos. Nº 25, De Rosi Emilia, cinquenta e cinco anos.**
+**Luchini Teresa, dezenove anos. De Rosi Emilia, cinquenta e cinco.** Números 24 e 25, uma seguida da outra, cada uma com um *x* marcado à margem.
 
-As duas aparecem sozinhas, sem parentesco declarado, uma seguida da outra, cada uma com um *x* marcado à margem.
-
-E no pé da folha, escrito à mão pelo funcionário que fechou o documento:
-
-*As passageiras constantes sob Nº 24 e 25 perderam seus maridos, e pedem de ser enviadas para Italia.*
-
-Dezessete dias antes, em Gênova, as duas tinham subido a prancha ao lado dos maridos.
+Subiram a prancha em Gênova ao lado dos maridos. Desceram aqui sem eles.
 
 Aquela folha de papel é o momento em que esta família volta a existir para o mundo.
 
