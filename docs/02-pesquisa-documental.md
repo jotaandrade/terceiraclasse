@@ -1659,3 +1659,68 @@ vivo aos 77 anos, e o pai de 65 anos que se despede das filhas em 1927) cairia. 
 Ressalva honesta: a leitura foi feita sobre ampliacao de uma imagem de 582x807. Vale pedir
 ao Giorgio uma fotografia em alta resolucao dessa linha - e da linha de baixo, que parece
 trazer a patente e nao foi decifrada.
+
+
+---
+
+## 22. FOTOS NOVAS DO ACERVO - 08.09.2026
+
+O autor vinha alimentando `D:/italiaminha/Familia Miotto/Fotos Familiares` (64 arquivos),
+que **nao e a pasta que o livro le** (`terceiraclasse/livro/img`). Treze foram importadas.
+
+### DESCOBERTA: os dois casamentos cruzaram as mesmas duas familias
+
+Um nome de arquivo escrito pelo proprio Giorgio diz:
+
+> *"mia nonna **Miotto Maria Luigia** sorella di tuo bisnonno Fausto e mio nonno
+> **Forner Sante** fratello di tua bisnonna Rosa"*
+
+**Sante Forner casou com Maria Luigia Miotto, irma de Fausto.**
+
+Rosa Forner casou com Fausto Miotto. E o irmao de Rosa casou com a irma de Fausto.
+Duas familias, quatro quilometros, e dois casamentos cruzados.
+
+ATENCAO: **existem DUAS Maria Luigia** nesta historia, e o livro so conhecia uma.
+- **Forner Maria Luigia** (1896-1992), irma de Rosa, casada com Angelo Dei Agnoli, sobreviveu
+  ao naufragio com quatro filhos.
+- **Miotto Maria Luigia**, irma de Fausto, casada com Sante Forner, ficou na Italia, e e a
+  **avo do Giorgio**.
+
+Consequencia: **Giorgio Forner descende das duas familias**, e e parente do autor pelos dois
+lados. E a foto `sante_e_maria_luigia_miotto` e o retrato de casamento dos dois - nao de
+irmaos, como eu quase legendei.
+
+### Irmaos de Fausto Miotto, que o livro nao tinha
+
+**Maria Luigia** (casada com Sante Forner), **Amabile Veronica** (casada com Parisotto
+Lucindo), **Vittorio**, **Asia**. Giorgio diz que falta ainda uma irma.
+
+O cap. 4 diz *"do outro lado desta historia estao os Miotto, e deles eu tenho muito menos"*.
+Ja nao e verdade.
+
+### PISTA FORTE: os Miotto tem ramo em Vancouver
+
+Legenda do Giorgio na foto da familia de Veronica: *"tre primi cugini di tua nonna Mafalda...
+sono **Valeria vive in Canada a Vancouver**"*.
+
+O cap. 30 gasta paginas com a sepultura de **Louie Miotto em Vancouver**, resolvida pela
+declaracao de obito de Fausto de 1979. **Existe mesmo um ramo Miotto em Vancouver** - e a
+prima Valeria esta viva. Pode fechar de vez quem era Louie Miotto.
+
+### Rostos que o livro nao tinha
+
+**Pulcheria** (doc. de 18.04.1980), **Gina**, **Rino** e **Divino Aparecido Betti**.
+Seis capitulos falam da Pulcheria e nao havia uma fotografia dela.
+
+### Onde entraram
+
+cap. 1 Asolo | cap. 4 os tres irmaos Miotto e o casamento cruzado | cap. 7 a familia do Sante
+| cap. 10 Pulcheria | cap. 24 Gina e Rino | cap. 27 Mafalda com filhos e bisnetos |
+cap. 30 a familia de Veronica com a pista de Vancouver | cap. 31 Mafalda com o autor e com
+Joao Luca | caderno: Divino Betti.
+
+### Ainda nao importadas
+
+Ha mais na pasta do Drive: `carta-de-identidade.jpg`, `Panfleto Oficial da Imigracao...`,
+`prnc-mafalda-cartaz2.jpg`, `42915663.jpg`, fotos da familia do autor, e o primo filho de
+Miotto Asia. Avaliar uma a uma.
