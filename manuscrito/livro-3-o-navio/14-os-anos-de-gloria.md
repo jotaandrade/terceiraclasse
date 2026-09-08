@@ -21,17 +21,19 @@ Era uma linha de ônibus. Uma linha de ônibus de catorze dias, atravessando um 
 
 E agora a aritmética, que é onde a glória desses navios costuma se desmanchar.
 
-Na última viagem, a de outubro de 1927, o *Mafalda* levava pouco mais de **sessenta passageiros na primeira classe**. Cerca de **oitenta na segunda**.
+Na última viagem, a de outubro de 1927, iam a bordo novecentos e setenta e um passageiros.
 
-E quase **mil na terceira**.
+Pouco mais de **sessenta na primeira classe**. Cerca de **oitenta na segunda**.
 
-Mais uns trezentos de tripulação.
+E **todo o resto na terceira** — mais de oitocentas pessoas.
+
+Mais duzentos e oitenta e oito tripulantes.
 
 Leia esses números outra vez, devagar.
 
-**Cento e quarenta pessoas em cima. Mil embaixo.**
+**Cento e quarenta pessoas em cima. Mais de oitocentas embaixo.**
 
-Para cada passageiro que jantava com orquestra, havia sete dormindo em beliche de ferro num porão sem janela.
+Para cada passageiro que jantava com orquestra, havia seis dormindo em beliche de ferro num porão sem janela.
 
 Então é preciso inverter a frase que se usa para descrever esses navios.
 
@@ -39,7 +41,7 @@ Um transatlântico da rota sul-americana não era um hotel de luxo que também l
 
 **Era um transporte de imigrante com um hotel montado em cima.**
 
-O dinheiro estava embaixo. Mil passagens de terceira classe pagavam o navio. As sessenta cabines de primeira pagavam a reputação dele.
+O dinheiro estava embaixo. As passagens de terceira classe pagavam o navio. As sessenta cabines de primeira pagavam a reputação dele.
 
 E a reputação servia para uma coisa muito concreta.
 
@@ -53,7 +55,7 @@ Isso não é hipocrisia particular daquele navio nem daquela companhia.
 
 É o modelo inteiro da emigração transatlântica, e funcionou por sessenta anos justamente porque funcionava: quem ia embaixo chegava, na esmagadora maioria das vezes, e mandava buscar a família.
 
-O *Principessa Mafalda* foi apenas competente nesse modelo. Dezoito anos, noventa travessias, cem mil pessoas atravessadas.
+O *Principessa Mafalda* foi apenas competente nesse modelo. Dezoito anos de serviço e noventa travessias.
 
 E havia uma coisa que a primeira e a terceira classe daquele navio nunca faziam: se ver.
 

@@ -61,7 +61,7 @@ E do lado de lá a linha continuou.
 
 Sante teve **Galliano**. Galliano teve **Giorgio**.
 
-Três gerações no mesmo canto do Vêneto, enquanto quatro gerações aconteciam aqui.
+Três gerações no mesmo canto do Vêneto, enquanto cinco aconteciam aqui.
 
 Ponha as duas colunas lado a lado e olhe o que elas fazem.
 
@@ -97,9 +97,11 @@ Vincenzo Forner e Santa Pandolfo, mortos havia mais de um século, apresentaram 
 
 Depois disso a gente conversou muito, e continua conversando.
 
-Unificamos as raízes, juntamos o que cada um tinha, e boa parte do que este livro conta veio dessas conversas. A cena do cozinheiro veio daí. O bote dos cozinheiros veio daí. O navio de carvão veio daí. A menina que achou o pai veio daí.
+Unificamos as raízes, juntamos o que cada um tinha, e boa parte do que este livro conta veio dessas conversas. O navio de carvão veio daí. A hospedaria veio daí. Os dois homens que passaram os olhos por elas e não as reconheceram vieram daí.
 
-**Sem a Patrícia, o capítulo mais importante deste livro seria uma lista de nomes numa folha holandesa.**
+E de outra prima, de outro ramo desta mesma família, veio o resto: o cozinheiro que desceu ao porão e a menina que achou o pai no meio da multidão.
+
+**Sem essas conversas, o capítulo mais importante deste livro seria uma lista de nomes numa folha holandesa.**
 
 E foi por elas, pelas primas que apareceram do outro lado do Brasil, que eu cheguei ao **Giorgio**.
 

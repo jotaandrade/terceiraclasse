@@ -1955,3 +1955,49 @@ Rosa a nona filha, Maria Luigia a sexta, Sante o quarto - batem com a lista do c
 os intervalos entre os dez filhos. Santa parindo dos 21 aos 42. Vincenzo com 64 em 1926 e 65
 em 1927. Gina com 6 no casamento e 7 no naufragio. Seis filhos vivos quando Mafalda nasce.
 Enrico com 1 ano e 15 dias. As doze referencias cruzadas por numero e as quatro por extenso.
+
+---
+
+## 29. Segunda avaliacao - 08.09.2026
+
+Angulos que a primeira nao cobriu: aparato fora dos capitulos, cruzamento de numeros entre
+capitulos, e leitura integral dos tres ultimos.
+
+### Aparato
+
+- **A pagina do epilogo dizia "Capitulo 35"** - sobra da numeracao de 34. Agora diz "Epilogo".
+- **A pagina de fecho estava desatualizada** ("os capitulos aparecem aqui conforme sao
+  escritos"). Agora diz o que de fato falta: o epilogo e a reescrita do cap. 31.
+
+### Contradicao aritmetica entre capitulos
+
+O **cap. 14** dava a composicao da ultima viagem como 60 + 80 + ~1000 passageiros e ~300
+tripulantes - **1.440 pessoas**. Os caps. 9, 16, 21 e 22 dao **971 passageiros e 288
+tripulantes**, 1.259 no total. Os numeros do cap. 14 vinham do artigo do Museu da Imigracao e
+nao fechavam com o total do proprio livro.
+
+Refeito com os numeros do livro: 60 na primeira, 80 na segunda, **mais de oitocentas** na
+terceira. A proporcao caiu de sete para **seis** por passageiro de cima - o argumento nao muda.
+
+Junto: a estimativa de **cem mil pessoas** em dezoito anos aparecia em dois capitulos como se
+fosse dado. Agora e declarada como conta do autor, no cap. 13, e nao se repete no 14. E o
+cap. 16 dizia "dezoito anos antes, quando ele foi lancado" - lancado foi em 1908 (dezenove
+anos); dezoito e desde a entrada em servico.
+
+### Contradicao de credito
+
+O **cap. 29** dizia que *"a cena do cozinheiro veio"* das conversas com a Patricia e que *"sem
+a Patricia"* o capitulo mais importante nao existiria. **Os caps. 10, 18 e 30 dizem o
+contrario**: a Patricia nao conhece o cozinheiro, que veio de outra prima. Corrigido, com o
+credito certo para cada uma.
+
+E o mesmo capitulo dizia "tres geracoes la, quatro aqui" e listava cinco logo abaixo.
+
+### O quadro omite duas irmas - e uma delas e central
+
+O **cap. 30** descrevia o quadro impresso com "oito filhos de Vincenzo e Santa", enquanto o
+cap. 4 diz **dez**. O quadro omite **Maria Elisabetta** (1895) e **Maria Luigia** (1896).
+
+Acrescentado ao cap. 30, porque e material do proprio capitulo: *a genealogia impressa da
+familia deixou de fora a mulher que atravessou o Atlantico com quatro filhos e sobreviveu ao
+naufragio deste livro.*

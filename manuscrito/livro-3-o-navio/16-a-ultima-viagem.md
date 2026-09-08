@@ -9,7 +9,7 @@ O *Principessa Mafalda* saiu de Gênova em 11 de outubro de 1927, e já saiu atr
 
 Não muito. Um dia, mais ou menos. O tipo de atraso que ninguém anota e que todo mundo esquece assim que o navio pega o mar.
 
-Dezoito anos antes, quando ele foi lançado, um atraso desses teria virado assunto de jornal. Em 1927 já não virava. Era um navio velho fazendo o que navio velho faz.
+Dezoito anos antes, quando ele entrou em serviço, um atraso desses teria virado assunto de jornal. Em 1927 já não virava. Era um navio velho fazendo o que navio velho faz.
 
 A bordo iam **novecentos e setenta e um passageiros e duzentos e oitenta e oito tripulantes**. Mil duzentas e cinquenta e nove pessoas, e a maior parte delas na terceira classe.
 

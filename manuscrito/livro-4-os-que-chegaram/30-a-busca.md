@@ -31,6 +31,16 @@ Ela passa ao lado da primeira fileira sem tocar em nada, e vai se ligar à barra
 
 Oito filhos de Vincenzo e Santa, seis de Abele e Maria Teresa. Um traço de dois centímetros, num quadro impresso, decidindo quem é irmão de quem.
 
+E o quadro ainda erra por omissão, de um jeito que só se enxerga cruzando com os índices do comune.
+
+Ele traz oito filhos de Vincenzo e Santa. **Foram dez.**
+
+Faltam **Maria Elisabetta**, de 1895, e **Maria Luigia**, de 1896.
+
+Leia esse segundo nome outra vez. A genealogia impressa da família deixou de fora a mulher que atravessou o Atlântico com quatro filhos pequenos e sobreviveu ao naufrágio deste livro.
+
+Não por malícia. Por ser um quadro, e quadro cabe o que cabe.
+
 E aqui está a coisa mais difícil desta pesquisa inteira, e eu levei meses para entender.
 
 **Aquele quadro não está errado.**

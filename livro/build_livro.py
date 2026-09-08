@@ -2245,7 +2245,7 @@ nasci.""",
 
 Sante teve <strong>Galliano</strong>. Galliano teve <strong>Giorgio</strong>.
 
-Três gerações no mesmo canto do Vêneto, enquanto quatro gerações aconteciam aqui.""",
+Três gerações no mesmo canto do Vêneto, enquanto cinco aconteciam aqui.""",
 
 """Ponha as duas colunas lado a lado e olhe o que elas fazem.
 
@@ -2291,11 +2291,14 @@ dois bisnetos que não sabiam da existência um do outro.""",
 """Depois disso a gente conversou muito, e continua conversando.
 
 Unificamos as raízes, juntamos o que cada um tinha, e boa parte do que este livro conta veio
-dessas conversas. A cena do cozinheiro veio daí. O bote dos cozinheiros veio daí. O navio de
-carvão veio daí. A menina que achou o pai veio daí.
+dessas conversas. O navio de carvão veio daí. A hospedaria veio daí. Os dois homens que
+passaram os olhos por elas e não as reconheceram vieram daí.
 
-<strong>Sem a Patrícia, o capítulo mais importante deste livro seria uma lista de nomes numa
-folha holandesa.</strong>""",
+E de outra prima, de outro ramo desta mesma família, veio o resto: o cozinheiro que desceu ao
+porão e a menina que achou o pai no meio da multidão.
+
+<strong>Sem essas conversas, o capítulo mais importante deste livro seria uma lista de nomes
+numa folha holandesa.</strong>""",
 
 """E foi por elas, pelas primas que apareceram do outro lado do Brasil, que eu cheguei ao
 <strong>Giorgio</strong>.
@@ -2493,7 +2496,8 @@ maioria em terceira classe.
 
 Entre 1909 e 1927 ele fez cerca de <strong>noventa travessias</strong> do Atlântico.
 
-Levou, em dezoito anos de serviço, algo como cem mil pessoas.""",
+A conta é minha e é grosseira, mas dá a ordem de grandeza: em dezoito anos de serviço,
+algo perto de cem mil pessoas atravessaram o Atlântico dentro daquele casco.""",
 
 """E em 1908, quando aquele casco entrou na água pela primeira vez, em Monfumo não aconteceu
 nada.
@@ -2535,19 +2539,20 @@ mesmo lado.""",
 
 """E agora a aritmética, que é onde a glória desses navios costuma se desmanchar.
 
-Na última viagem, a de outubro de 1927, o <em>Mafalda</em> levava pouco mais de
-<strong>sessenta passageiros na primeira classe</strong>. Cerca de <strong>oitenta na
+Na última viagem, a de outubro de 1927, iam a bordo novecentos e setenta e um passageiros.
+
+Pouco mais de <strong>sessenta na primeira classe</strong>. Cerca de <strong>oitenta na
 segunda</strong>.
 
-E quase <strong>mil na terceira</strong>.
+E <strong>todo o resto na terceira</strong> — mais de oitocentas pessoas.
 
-Mais uns trezentos de tripulação.""",
+Mais duzentos e oitenta e oito tripulantes.""",
 
 """Leia esses números outra vez, devagar.
 
-<strong>Cento e quarenta pessoas em cima. Mil embaixo.</strong>
+<strong>Cento e quarenta pessoas em cima. Mais de oitocentas embaixo.</strong>
 
-Para cada passageiro que jantava com orquestra, havia sete dormindo em beliche de ferro num
+Para cada passageiro que jantava com orquestra, havia seis dormindo em beliche de ferro num
 porão sem janela.""",
 
 """Então é preciso inverter a frase que se usa para descrever esses navios.
@@ -2556,7 +2561,7 @@ Um transatlântico da rota sul-americana não era um hotel de luxo que também l
 
 <strong>Era um transporte de imigrante com um hotel montado em cima.</strong>
 
-O dinheiro estava embaixo. Mil passagens de terceira classe pagavam o navio. As sessenta
+O dinheiro estava embaixo. As passagens de terceira classe pagavam o navio. As sessenta
 cabines de primeira pagavam a reputação dele.""",
 
 """E a reputação servia para uma coisa muito concreta.
@@ -2575,8 +2580,8 @@ palavra: <em>América</em>.""",
 porque funcionava: quem ia embaixo chegava, na esmagadora maioria das vezes, e mandava buscar a
 família.
 
-O <em>Principessa Mafalda</em> foi apenas competente nesse modelo. Dezoito anos, noventa
-travessias, cem mil pessoas atravessadas.""",
+O <em>Principessa Mafalda</em> foi apenas competente nesse modelo. Dezoito anos de serviço e
+noventa travessias.""",
 
 """E havia uma coisa que a primeira e a terceira classe daquele navio nunca faziam: se ver.
 
@@ -2711,6 +2716,18 @@ segunda.
 
 Oito filhos de Vincenzo e Santa, seis de Abele e Maria Teresa. Um traço de dois centímetros,
 num quadro impresso, decidindo quem é irmão de quem.""",
+
+"""E o quadro ainda erra por omissão, de um jeito que só se enxerga cruzando com os índices do
+comune.
+
+Ele traz oito filhos de Vincenzo e Santa. <strong>Foram dez.</strong>
+
+Faltam <strong>Maria Elisabetta</strong>, de 1895, e <strong>Maria Luigia</strong>, de 1896.
+
+Leia esse segundo nome outra vez. A genealogia impressa da família deixou de fora a mulher que
+atravessou o Atlântico com quatro filhos pequenos e sobreviveu ao naufrágio deste livro.
+
+Não por malícia. Por ser um quadro, e quadro cabe o que cabe.""",
 
 """E aqui está a coisa mais difícil desta pesquisa inteira, e eu levei meses para entender.
 
@@ -3002,7 +3019,8 @@ atrasado.
 Não muito. Um dia, mais ou menos. O tipo de atraso que ninguém anota e que todo mundo esquece
 assim que o navio pega o mar.
 
-Dezoito anos antes, quando ele foi lançado, um atraso desses teria virado assunto de jornal.
+Dezoito anos antes, quando ele entrou em serviço, um atraso desses teria virado assunto de
+jornal.
 Em 1927 já não virava. Era um navio velho fazendo o que navio velho faz.""",
 
 """A bordo iam <strong>novecentos e setenta e um passageiros e duzentos e oitenta e oito
@@ -5420,9 +5438,11 @@ for p in pages:
         folio += 1
         out.append(sheet(
             '<div class="capo">'
-            '<p class="co-n">Capítulo %02d</p><h2 class="co-t">%s</h2>'
+            '<p class="co-n">%s</p><h2 class="co-t">%s</h2>'
             '<p class="co-s">%s</p><span class="co-r c-%s"></span>'
-            '</div><span class="folio">%d</span>' % (p['num'], E(p['title']), E(p['synop']), p['color'], folio),
+            '</div><span class="folio">%d</span>'
+            % ('Epílogo' if p.get('book') == 'EP' else ('Capítulo %02d' % p['num']),
+               E(p['title']), E(p['synop']), p['color'], folio),
             'is-cap', data_nav='%02d · %s' % (p['num'], p['title'])))
     elif t == 'texto':
         folio += 1
@@ -5474,7 +5494,9 @@ for p in pages:
     elif t == 'fim':
         out.append(sheet(
             '<div class="fim"><p class="fm-1">continua</p>'
-            '<p class="fm-2">Os capítulos aparecem aqui conforme são escritos.<br>'
+            '<p class="fm-2">Os trinta e um capítulos estão escritos.<br>'
+            'Falta o epílogo, que depende das gravações com Mafalda Miotto Terra,<br>'
+            'e a reescrita do capítulo 31 depois da viagem a Castelcucco.<br><br>'
             'Centenário do naufrágio: 25 de outubro de 2027.</p></div>', '', data_nav='Fim'))
 
 BODY = '\n'.join(out)
