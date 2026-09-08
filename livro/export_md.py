@@ -53,6 +53,14 @@ BOOKS, CAPS, CHAPTERS = ns['BOOKS'], ns['CAPS'], ns['CHAPTERS']
 
 ROMAN = {'I': '1', 'II': '2', 'III': '3', 'IV': '4'}
 
+# apaga o que sobrou de numeracoes anteriores: o export escreve, e agora tambem limpa
+_man = os.path.join(OUT, 'manuscrito')
+if os.path.isdir(_man):
+    for _r, _d, _fs in os.walk(_man):
+        for _f in _fs:
+            if _f.endswith('.md'):
+                os.remove(os.path.join(_r, _f))
+
 print('\nmanuscrito/')
 idx = []
 total_w = 0
