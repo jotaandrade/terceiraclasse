@@ -45,7 +45,7 @@ CAPS = {
  'II': [
   (9,'Gênova','O porto como sistema. A babel de dialetos, a despedida definitiva.'),
   (10,'A terceira classe','O porão por dentro: beliches, comida racionada, os corpos jogados ao mar.'),
-  (11,'O negócio da esperança','Companhias de navegação, preço da passagem, dívida, agenciadores.'),
+  (11,'O negócio da esperança','Quanto custava, quem pagava — e o que isso decide sobre a data da viagem.'),
   (12,'Duas irmãs embarcam','Sete pessoas sobem a prancha, e nenhuma delas é um homem adulto.'),
   (13,'Os que já estavam lá','Fausto e Angelo no Brasil, a casa preparada, a espera.'),
  ],
@@ -70,7 +70,7 @@ CAPS = {
   (29,'Virar brasileiro','A língua que some em duas gerações, e os sobrenomes que saem da linha em três.'),
   (30,'Os que ficaram, cem anos depois','O ramo do Sante. Ficar não produz documento — e o site que reencontrou a família.'),
   (31,'A busca','Como o papel mente, como a memória mente, e o que custa começar tarde.'),
-  (32,'A casa','Castelcucco hoje. A porta de onde a Rosa saiu.'),
+  (32,'A casa','Escrito por quem nunca esteve lá. A porta por onde Rosa saiu, vista de longe.'),
  ],
 }
 
@@ -2873,6 +2873,208 @@ anos que estava lá.
 <strong>A minha avó tem oitenta e nove anos.</strong>""",
 ]
 
+CAP_NEGOCIO = [
+"""Trinta capítulos deste livro e ninguém disse ainda quanto custava.
+
+Eu não sei o preço de uma passagem de terceira classe de Gênova a Santos em 1927. Não achei
+tabela de companhia, não achei bilhete, não achei recibo, não achei carta em que alguém
+mencionasse o valor.
+
+É uma das coisas que faltam, e faltam de um jeito irritante, porque é a primeira pergunta que
+qualquer pessoa faz.""",
+
+"""Mas eu tenho outra coisa, e acho que é melhor.
+
+As listas de terceira classe daquele navio, de 1923 e 1924, trazem quatro colunas manuscritas
+que passam despercebidas porque ficam na margem e estão em italiano:
+
+<strong>Bauli. Valigie. Denaro. Indirizzo.</strong>
+
+Baús. Malas. Dinheiro. Endereço.""",
+
+"""Pare um segundo no que isso é.
+
+É o inventário de uma família inteira, feito por um funcionário de porto, no dia em que ela
+desembarca do outro lado do mundo.
+
+Quantos volumes trouxe. Quanto dinheiro tem no bolso. Para onde vai.
+
+Não existe retrato mais exato de uma decisão de vida do que essas quatro colunas preenchidas
+à mão.""",
+
+"""Quatro linhas do mesmo navio, quatro anos antes de Rosa:
+
+<strong>1 baú · 1 mala · 120 liras · Araraquara.</strong>
+
+<strong>2 baús · 1 mala · 800 liras · São Paulo.</strong>
+
+<strong>1 baú · 1 mala · 1.350 liras · Cuiabá.</strong>
+
+<strong>8 baús · 1 mala · — · São Paulo.</strong>""",
+
+"""Leia a última de novo.
+
+<strong>Oito baús e um traço na coluna do dinheiro.</strong>
+
+Oito volumes é gente que trouxe tudo: a roupa, a ferramenta, a louça, a máquina de costura, o
+que fosse. E o traço quer dizer o que parece querer dizer.
+
+Uma família que atravessou o Atlântico levando tudo o que tinha, porque tudo o que tinha era
+coisa, e desembarcou em Santos <strong>sem uma lira no bolso</strong>.""",
+
+"""E compare com a de Cuiabá.
+
+Um baú só, e mil trezentas e cinquenta liras.
+
+Alguém que fez o contrário: vendeu o que tinha, converteu em dinheiro, viajou leve e foi para
+muito longe — Cuiabá, em 1923, é o outro lado do país depois de Santos.
+
+Duas famílias, o mesmo porão, a mesma viagem, e duas apostas opostas sobre o que serve do
+outro lado: o que se carrega ou o que se guarda no bolso.""",
+
+"""Não existia <em>o emigrante italiano</em>.
+
+Existiam famílias fazendo contas diferentes com o mesmo medo, e cada linha daquelas listas é
+uma conta dessas, escrita por uma pessoa que nunca soube que alguém leria.""",
+
+"""E agora a pergunta que essas colunas me obrigaram a fazer, e que eu não tinha feito.
+
+<strong>Quem pagou a passagem de Rosa?</strong>""",
+
+"""Fausto foi primeiro, e este livro já disse como: por conta própria, sem subsídio, sem
+patrão declarado, com dinheiro que a família juntou.
+
+Um ano depois, Rosa atravessou, com um filho de um ano no colo, e com a irmã e mais quatro
+crianças ao lado.
+
+Não há bilhete, não há recibo e não há carta. Mas o mecanismo daquela época tem nome, e era o
+mais comum de todos.""",
+
+"""Chamava-se <strong>chamada</strong>.
+
+O homem que já estava do outro lado juntava dinheiro, comprava a passagem lá, e mandava — em
+remessa, ou como bilhete pré-pago retirado numa agência do porto de Gênova.
+
+Não era gesto isolado de ninguém. Era uma das maiores movimentações de dinheiro da Itália
+daquele tempo: emigrante mandando moeda estrangeira para casa, mês após mês, por décadas.
+
+<strong>O negócio da esperança não era vender bilhete. Era vender o reencontro, a prazo.</strong>""",
+
+"""E se foi assim com esta família — e é de longe o mais provável — então há uma consequência
+que eu levei três anos para enxergar.
+
+<strong>A data da viagem de Rosa não foi decidida por Rosa.</strong>
+
+Foi decidida pelo tempo que Fausto levou para juntar o dinheiro numa lavoura de café no
+interior de São Paulo.""",
+
+"""Se ele tivesse juntado dois meses antes, ela teria pegado outro navio.
+
+Se tivesse demorado dois meses a mais, teria pegado outro navio.
+
+O <em>Principessa Mafalda</em> largou de Gênova em 11 de outubro de 1927 porque foi nesse mês
+que o dinheiro chegou.""",
+
+"""É a coisa mais fria deste livro, e eu ainda não sei o que fazer com ela.
+
+Um homem de vinte e três anos, sem português, trabalhando terra que não era dele, mandou
+buscar a mulher e o filho assim que pôde. Fez a única coisa certa que havia para fazer, e fez
+o mais rápido que conseguiu.
+
+<strong>E foi isso que escolheu o navio.</strong>""",
+]
+
+CAP_CASA = [
+"""Eu nunca estive na Itália.
+
+Este capítulo era para ser escrito lá — em Castelcucco, com a casa na frente. Está sendo
+escrito no Brasil, com fotografia, mapa e o que um primo me contou por telefone.
+
+Vou dizer o que sei e como sei, e o que não sei fica em branco até eu ir.""",
+
+"""A vila tem pouco mais de oito quilômetros quadrados e fica a cento e oitenta e nove metros
+acima do mar, no sopé do Monte Grappa.
+
+Isso eu já escrevi no primeiro capítulo, e escrevi para descrever 1861.
+
+Vale para hoje. Um lugar daquele tamanho, encostado numa montanha, não vira cidade. Ele
+continua sendo o que era, com carro na estrada e telhado novo.""",
+
+"""A montanha é a única coisa desta história inteira que não mudou.
+
+Mil setecentos e setenta e cinco metros. Estava lá quando Luigi Forner nasceu em 1817, quando
+Sante subiu para a guerra em 1915, e quando Rosa desceu a estrada pela última vez em 1927.
+
+Quem chega hoje de carro vê exatamente o que eles viam da janela.""",
+
+"""E ficaram coisas lá.
+
+O quadro com as <strong>três medalhas de guerra do Sante</strong>, emoldurado pela família e
+pendurado numa parede há quase um século. O retrato do <strong>Galliano</strong>, filho dele,
+fardado com as tropas alpinas em 1950, também emoldurado.
+
+Nenhum dos dois atravessou o oceano. Eu os conheço por fotografia de fotografia.""",
+
+"""E existe a casa.
+
+<strong>Giorgio Forner</strong> — bisneto do Sante, o ramo que ficou — mora na região e já
+esteve nela. Foi ele quem me mostrou.
+
+Eu não sei o número da porta. Não sei se ainda é da família, se foi vendida, se alguém mora
+dentro. Sei que ela existe e que ele sabe onde fica.""",
+
+"""Foi por uma porta em Castelcucco que Rosa Forner saiu, num dia de outubro de 1927, com
+Enrico de um ano no colo.
+
+Ela desceu a estrada até Asolo, pegou o trem para Treviso, e de Treviso foi a Gênova.
+
+<strong>Nunca mais voltou.</strong>""",
+
+"""E não foi só ela.
+
+Maria Luigia não voltou. Fausto não voltou. Angelo não voltou.
+
+Quatro adultos saíram daquele pedaço do Vêneto entre 1925 e 1927, e nenhum dos quatro pisou na
+Itália outra vez. Rosa morreu em São João da Boa Vista em 1986, cinquenta e nove anos depois.
+
+Que eu saiba, ninguém desta linha voltou desde então. São quatro gerações.""",
+
+"""Eu poderia ter ido antes. Não fui, e as razões são banais: dinheiro e tempo, que são as
+razões pelas quais quase ninguém faz quase nada.
+
+Mas há uma que não é banal, e essa eu escolhi.
+
+<strong>Eu não queria chegar lá sem saber.</strong>
+
+Chegar em Castelcucco antes de ler os índices do comune, antes de aprender que <em>di</em> é
+pai vivo e <em>fu</em> é pai morto, antes de descobrir que a segunda fileira do quadro é do
+irmão do Vincenzo — isso não é voltar. É turismo.""",
+
+"""A viagem tem data, e a data não é minha.
+
+<strong>25 de outubro de 2027.</strong> Cem anos exatos da noite em que aquele navio afundou.
+
+Não escolhi por efeito. Escolhi porque um livro que passou trinta capítulos dizendo que
+documento tem data precisa respeitar a única data que esta família tem.""",
+
+"""O que eu vou fazer lá cabe em cinco linhas.
+
+A igreja, que caiu no terremoto de 1695 e foi levantada de novo. O cemitério, e os sobrenomes
+nas lápides. O comune, para pedir de uma vez os atos que eu venho pedindo por carta. A estrada
+que desce para Asolo, a pé, que é o caminho que eles fizeram.
+
+E a casa.""",
+
+"""E tem uma coisa que eu quero fazer, e que é a razão de a viagem ter data em vez de ter mês.
+
+Um dia eu vou estar de pé naquela porta com o telefone na mão, e do outro lado vai atender uma
+mulher chamada Mafalda, que vai ter noventa anos.
+
+<strong>Ela nunca viu essa porta. A mãe dela saiu por ela.</strong>
+
+Eu não sei o que vou dizer. Sei que é para isso que este livro está sendo escrito.""",
+]
+
 CAP19 = [
 """O <em>Principessa Mafalda</em> saiu de Gênova em 11 de outubro de 1927, e já saiu
 atrasado.
@@ -5060,7 +5262,7 @@ Para que quando o navio afundar, o leitor saiba exatamente o que aquelas pessoas
 tentando alcançar, e o que já tinham atravessado antes de chegar à água.""",
 ]
 
-CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 12: CAP12, 13: CAP14, 14: CAP16, 15: CAP17, 16: CAP18, 17: CAP19, 18: CAP20, 19: CAP21, 20: CAP22, 21: CAP23, 22: CAP24, 23: CAP25, 24: CAP26, 25: CAP27, 26: CAP28, 27: CAP29, 28: CAP30, 29: CAP31, 30: CAP32, 31: CAP_BUSCA}
+CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 12: CAP12, 13: CAP14, 14: CAP16, 15: CAP17, 16: CAP18, 17: CAP19, 18: CAP20, 19: CAP21, 20: CAP22, 21: CAP23, 22: CAP24, 23: CAP25, 24: CAP26, 25: CAP27, 26: CAP28, 27: CAP29, 28: CAP30, 29: CAP31, 30: CAP32, 11: CAP_NEGOCIO, 31: CAP_BUSCA, 32: CAP_CASA}
 
 # ------------------------------------------------------------------ paginas
 pages = []

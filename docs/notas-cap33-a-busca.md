@@ -414,3 +414,32 @@ duas vivas no Brasil sem que o autor soubesse que existiam.
 
 **Não usados, ficam guardados:** as duas Angelas, os gêmeos de 1908, a anotação "Ccucco", o
 Albo d'Oro e Pietro Luigi (1889-1916), extrato x ato inteiro, e as três fontes ruins cruzadas.
+
+---
+
+## Cap. 32 "A casa" — escrito por antecipação em 08.09.2026
+
+João decidiu não ir à Itália em 2026, e pediu o capítulo assim mesmo, para atualizar depois.
+
+O capítulo foi escrito **declarando isso na primeira linha**: "Eu nunca estive na Itália. Este
+capítulo era para ser escrito lá." Usa o que existe — o Monte Grappa, o quadro das três
+medalhas, o retrato do Galliano, o Giorgio que mora na região e já viu a casa — e declara o
+que falta: o número da porta, se ainda é da família, se alguém mora dentro.
+
+**Depois da viagem, reescrever.** O que deve entrar: a igreja de 1695, o cemitério e os
+sobrenomes nas lápides, a ida ao comune, a estrada até Asolo a pé, e a casa. O fecho (a
+chamada de vídeo da porta para a avó Mafalda, aos 90 anos) já está escrito em tempo futuro e
+vira presente.
+
+## Cap. 11 "O negócio da esperança" — reenquadrado
+
+O assunto planejado (companhias, agenciadores, dívida) já estava nos caps. 5 e 6. O capítulo
+foi reescrito em torno do **dinheiro**, com material documentado e até então não usado: as
+colunas manuscritas **Bauli · Valigie · Denaro · Indirizzo** das listas de 1923-24.
+
+E chega a uma conclusão nova, marcada no texto como inferência: se Fausto mandou a passagem
+pelo sistema de **chamada**, então **a data da travessia de Rosa foi decidida pelo tempo que
+ele levou para juntar o dinheiro** — e foi isso que escolheu o navio.
+
+🔎 **Fica aberto:** o preço de uma passagem de 3ª classe Gênova–Santos em 1927. O capítulo
+declara a lacuna na segunda linha.

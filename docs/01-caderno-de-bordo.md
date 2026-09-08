@@ -37,7 +37,7 @@
 |---:|---|---|---:|---|
 | 09 | Gênova | O porto como sistema. A babel de dialetos, a despedida definitiva. | 14 | **Escrito** |
 | 10 | A terceira classe | O porão por dentro: beliches, comida racionada, sarna, os corpos jogados ao mar. | 15 | **Escrito** |
-| 11 | O negócio da esperança | Companhias de navegação, preço da passagem, dívida, agenciadores. | 14 | Arquivo |
+| 11 | O negócio da esperança | Companhias de navegação, preço da passagem, dívida, agenciadores. | 14 | **Escrito** |
 | 12 | Duas irmãs embarcam | Outubro de 1927. Rosa com Enrico de um ano. Maria Luigia com quatro filhos. | 13 | **Escrito** |
 | 13 | Escala em Dakar | As falhas de máquina, os alertas, a decisão de seguir viagem. | 13 | **Escrito** |
 | 14 | Os que já estavam lá | Fausto e Angelo no Brasil, a casa preparada, a espera. | 13 | **Escrito** |
@@ -71,7 +71,7 @@
 | 29 | Enrico | 1926 a 1998. Só o que os documentos sustentam. Nada além do que você quiser pôr. | 12 | **Escrito** |
 | 30 | 1937 | Mafalda nasce em São José do Rio Pardo e recebe o nome do navio. | 12 | **Escrito** |
 | 31 | Virar brasileiro | Língua, comida, fé, o dialeto que some. Como uma família italiana deixa de ser italiana. | 14 | **Escrito** |
-| 32 | Os que ficaram, cem anos depois | A linha de Sante: Galliano, Giorgio. O Vêneto do pós-guerra até hoje. | 12 | Campo |
+| 32 | Os que ficaram, cem anos depois | A linha de Sante: Galliano, Giorgio. O Vêneto do pós-guerra até hoje. | 12 | **Escrito** |
 | 33 | A busca | A pesquisa como enredo. Os primos reencontrados. O dia em que o registro apareceu. | 13 | Pronto |
 | 34 | A casa | Castelcucco hoje. A porta de onde a Rosa saiu. Escrever depois da viagem. | 14 | Campo |
 
