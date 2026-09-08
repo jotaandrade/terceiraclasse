@@ -1852,3 +1852,19 @@ foto de grupo e no caderno de imagens.
 CUIDADO que definiu a regra: varias fotos de retrato sao **fotos de documento com data
 carimbada na borda** - Pulcheria (18.4.80), Rino (22.11.79), Enrico (a placa 4877). O oval
 apagaria justamente a informacao que a legenda cita. Essas ficaram montadas.
+
+### Segundo bug do negrito: as legendas escapavam a marcacao
+
+Reportado pelo autor logo depois do primeiro. **Sao dois bugs diferentes**, e o primeiro
+conserto nao resolvia o segundo.
+
+- **Bug 1 (fonte):** nenhum peso bold era baixado, entao `<strong>` caia em 500 no corpo do
+  texto. Corrigido carregando 600 e 700.
+- **Bug 2 (escape):** as legendas passavam inteiras por `html.escape`, entao `<strong>`
+  virava `&lt;strong&gt;` e **aparecia como texto na pagina**. Eram 17 ocorrencias.
+
+**Correcao:** funcao `LEGENDA()` no gerador - escapa tudo e devolve apenas `<strong>` e
+`<em>`, que sao autorais. O atributo `alt` continua totalmente escapado, e agora sem as tags.
+
+Antes de liberar, verificado que **nenhuma legenda contem `<`, `>` ou `&` solto** fora dessas
+duas tags, e conferida tag por tag nas 49 legendas do livro: nenhuma indevida.

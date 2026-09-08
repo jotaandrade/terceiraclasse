@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Gera terceira-classe.html: o livro folha a folha, navegavel por scroll."""
-import os, base64, io, json, html
+import os, base64, io, json, html, re
 
 SP = os.path.dirname(os.path.abspath(__file__))
 IMG = os.path.join(SP, 'img')
@@ -22,6 +22,14 @@ def b64aud(key):
         return 'data:audio/mp4;base64,' + base64.b64encode(f.read()).decode()
 
 E = html.escape
+
+def LEGENDA(t):
+    """Escapa a legenda, mas devolve <strong> e <em>, que sao autorais."""
+    t = html.escape(t)
+    for tag in ('strong', 'em'):
+        t = t.replace('&lt;%s&gt;' % tag, '<%s>' % tag)
+        t = t.replace('&lt;/%s&gt;' % tag, '</%s>' % tag)
+    return t
 
 # ---------------------------------------------------------------- capitulos
 BOOKS = [
@@ -5418,7 +5426,7 @@ for p in pages:
             '<figure class="fig%s"><div class="fig-i"><img src="%s" alt="%s" loading="lazy"></div>'
             '<figcaption>%s</figcaption></figure><span class="folio">%d</span>'
             % ((' fig-' + p['estilo']) if p.get('estilo') else '',
-               b64(p['key']), E(p['cap'][:90]), E(p['cap']), folio)))
+               b64(p['key']), E(re.sub(r'<[^>]+>', '', p['cap'])[:90]), LEGENDA(p['cap']), folio)))
     elif t == 'audio':
         folio += 1
         pid = 'au%d' % folio
