@@ -1503,3 +1503,20 @@ fica no acervo, fora do livro.
 
 **Já no livro:** os dois áudios da Patrícia Betti, no cap. 25, com transcrição ao lado, sem
 limpeza. Originais `.ogg` guardados em `documentos/`.
+
+### Botão "Ouvir" — leitura em voz alta
+
+O livro lê a si mesmo com a **voz do sistema operacional** (Web Speech API). Zero bytes no
+arquivo, funciona offline, e não é gravação: é síntese.
+
+Botão no canto inferior esquerdo, acima do Sumário. Lê a página aberta, vira sozinho e segue.
+Esc para. Se o leitor virar a página na mão, a leitura recomeça na página nova.
+
+**Depende das vozes instaladas no Windows.** Se soar robótico, instalar uma voz natural em
+Configurações › Hora e idioma › Idioma e região › Português (Brasil) › Opções › Voz. As vozes
+*Natural* da Microsoft (Francisca, Antônio, Thalita) são muito melhores que as antigas
+(Maria, Daniel). O código já prefere qualquer voz com "natural", "neural" ou "online" no nome.
+
+**Isto não substitui o áudio do acervo.** A voz sintética serve para revisar o texto ouvindo —
+que é, aliás, a melhor maneira de achar frase torta. As páginas de documento sonoro continuam
+sendo as vozes reais da família.

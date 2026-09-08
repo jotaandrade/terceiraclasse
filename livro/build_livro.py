@@ -5363,6 +5363,18 @@ body{background:var(--room);color:var(--ink);font-family:var(--fb);margin:0}
 .fm-1{font-family:var(--fd);font-style:italic;font-size:2.2em;margin:0;color:var(--accent)}
 .fm-2{font-family:var(--fu);font-size:.76em;line-height:1.7;color:var(--faint);margin:1.6em 0 0}
 
+/* leitura em voz alta */
+.readbtn{position:fixed;z-index:42;bottom:3.6rem;left:1.1rem;font-family:var(--fu);
+ font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);
+ background:var(--sheet);border:1px solid var(--rule);padding:.45rem .8rem;cursor:pointer;
+ min-width:6.4rem}
+.readbtn:hover,.readbtn:focus-visible{border-color:var(--accent);color:var(--accent);outline:none}
+.readbtn[data-on="1"]{border-color:var(--accent);color:var(--accent)}
+.readbtn[hidden]{display:none!important}
+.reading{position:relative}
+.reading::before{content:"";position:absolute;left:-1.15em;top:.22em;bottom:.22em;width:2px;
+ background:var(--accent)}
+
 /* audio */
 .aud{margin:auto 0;display:flex;flex-direction:column;gap:.75em;min-height:0}
 .aud-h{font-family:var(--fu);font-size:.62em;letter-spacing:.2em;text-transform:uppercase;
@@ -5504,6 +5516,7 @@ JS = """
 
  var saved=null; try{saved=localStorage.getItem('tc_pos');}catch(e){}
  if(saved!==null && +saved>0){ setTimeout(function(){ go(+saved); upd(); },60); } else { upd(); }
+ window.__tc={go:go,cur:cur,leaves:leaves};
 })();
 
 /* ---- leitor de audio ---- */
@@ -5550,6 +5563,113 @@ JS = """
   var r=tocando.getBoundingClientRect();
   if(r.bottom<0||r.top>window.innerHeight) tocando.__para();
  },{passive:true});
+ window.__pararAudio=function(){ if(tocando) tocando.__para(); };
+})();
+
+/* ---- leitura em voz alta ---- */
+(function(){
+ var btn=document.getElementById('readbtn');
+ var synth=window.speechSynthesis;
+ if(!btn) return;
+ if(!synth||typeof SpeechSynthesisUtterance==='undefined'){ btn.hidden=true; return; }
+
+ var lendo=false, pedacos=[], i=0, voz=null, espera=-1;
+
+ function acharVoz(){
+  var vs=[]; try{ vs=synth.getVoices()||[]; }catch(e){ vs=[]; }
+  var pt=vs.filter(function(v){ return /^pt[-_]?br/i.test(v.lang||''); });
+  if(!pt.length) pt=vs.filter(function(v){ return /^pt/i.test(v.lang||''); });
+  /* prefere vozes "natural"/"neural" quando existirem */
+  var boa=pt.filter(function(v){ return /natural|neural|online/i.test(v.name||''); });
+  voz=(boa[0]||pt[0]||null);
+ }
+ acharVoz();
+ try{ synth.addEventListener('voiceschanged',acharVoz); }catch(e){ synth.onvoiceschanged=acharVoz; }
+
+ function fatia(el,txt){
+  txt=(txt||'').replace(/\s+/g,' ').trim();
+  if(!txt) return;
+  var fr=txt.split(/(?<=[.!?…:])\s+/), buf='';
+  for(var k=0;k<fr.length;k++){
+   if((buf+' '+fr[k]).trim().length>210 && buf){ pedacos.push({el:el,t:buf.trim()}); buf=fr[k]; }
+   else { buf=(buf?buf+' ':'')+fr[k]; }
+  }
+  if(buf.trim()) pedacos.push({el:el,t:buf.trim()});
+ }
+
+ function monta(){
+  pedacos=[];
+  var leaf=window.__tc&&window.__tc.leaves[window.__tc.cur()];
+  if(!leaf) return;
+  var ps=leaf.querySelectorAll('.corpo p');
+  if(ps.length){ Array.prototype.forEach.call(ps,function(p){ fatia(p,p.textContent); }); return; }
+  var t=leaf.querySelector('.co-t');
+  if(t){ fatia(t,t.textContent);
+         var sy=leaf.querySelector('.co-s'); if(sy) fatia(sy,sy.textContent); return; }
+  var pa=leaf.querySelector('.pa-t'); if(pa){ fatia(pa,pa.textContent); return; }
+  var q=leaf.querySelector('.epig blockquote'); if(q){ fatia(q,q.textContent); return; }
+  var ax=leaf.querySelector('.aud-x'); if(ax){ fatia(ax,ax.textContent); return; }
+  var fc=leaf.querySelector('figcaption'); if(fc){ fatia(fc,fc.textContent); return; }
+ }
+
+ function limpaMarca(){
+  Array.prototype.forEach.call(document.querySelectorAll('.reading'),function(e){
+   e.classList.remove('reading'); });
+ }
+ function marca(el){ limpaMarca(); if(el&&el.classList) el.classList.add('reading'); }
+
+ function fala(){
+  if(!lendo) return;
+  if(i>=pedacos.length){ vira(); return; }
+  var c=pedacos[i]; marca(c.el);
+  var u=new SpeechSynthesisUtterance(c.t);
+  if(voz) u.voice=voz;
+  u.lang='pt-BR'; u.rate=0.98; u.pitch=1;
+  u.onend=function(){ i++; fala(); };
+  u.onerror=function(){ i++; fala(); };
+  try{ synth.speak(u); }catch(e){ parar(); }
+ }
+
+ function vira(){
+  var c=window.__tc.cur();
+  if(c>=window.__tc.leaves.length-1){ parar(); return; }
+  espera=c+1; window.__tc.go(c+1);
+  setTimeout(function(){ if(!lendo) return; monta(); i=0; fala(); },560);
+ }
+
+ function comecar(){
+  if(window.__pararAudio) window.__pararAudio();
+  lendo=true; btn.textContent='Parar'; btn.setAttribute('data-on','1');
+  try{ synth.cancel(); }catch(e){}
+  espera=window.__tc.cur(); monta(); i=0;
+  if(!pedacos.length){ vira(); return; }
+  setTimeout(fala,60);
+ }
+ function parar(){
+  lendo=false; btn.textContent='Ouvir'; btn.setAttribute('data-on','0');
+  try{ synth.cancel(); }catch(e){}
+  limpaMarca();
+ }
+
+ btn.addEventListener('click',function(){ lendo?parar():comecar(); });
+ document.addEventListener('keydown',function(e){
+  if(e.key==='Escape'&&lendo){ parar(); }
+ });
+
+ /* se o leitor virar a pagina na mao, continua de onde ele parou */
+ var st=document.getElementById('stage');
+ if(st) st.addEventListener('scroll',function(){
+  if(!lendo) return;
+  var c=window.__tc.cur();
+  if(c===espera) return;
+  espera=c;
+  try{ synth.cancel(); }catch(e){}
+  clearTimeout(st.__rt);
+  st.__rt=setTimeout(function(){ if(!lendo) return; monta(); i=0; fala(); },700);
+ },{passive:true});
+
+ /* o Chrome corta falas longas se ninguem cutucar */
+ setInterval(function(){ if(lendo&&synth.speaking) { try{ synth.resume(); }catch(e){} } },7000);
 })();
 """
 
@@ -5563,6 +5683,8 @@ HTML = """<title>Terceira Classe</title>
 <div class="hud tl" id="lab">Capa</div>
 <div class="hud tr" id="pos">1 / 1</div>
 <button class="tocbtn" id="tocbtn">Sumário</button>
+<button class="readbtn" id="readbtn" type="button" data-on="0"
+        title="Lê o livro em voz alta com a voz do seu computador">Ouvir</button>
 <div class="zoomctl">
   <button id="zminus" type="button" aria-label="Diminuir a fonte" title="Diminuir (tecla -)">A&#8722;</button>
   <span id="zlab">100%%</span>
