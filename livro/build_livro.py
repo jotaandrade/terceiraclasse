@@ -1061,6 +1061,178 @@ quem sabia.
 E, a alguns quilômetros dali, com os holofotes acesos, os navios vindo no escuro.""",
 ]
 
+CAP24 = [
+"""A única coisa boa desta história inteira é que os navios já estavam perto.
+
+Naquela mesma tarde o Mafalda tinha cruzado com o <em>Empire Star</em> e o comandante o
+saudara com um apito longo. Quando o eixo partiu, poucas horas depois, o navio inglês estava
+a cerca de dois quilômetros.
+
+Não foi previdência de ninguém. Foi rota comercial. Aquele trecho do Atlântico, em outubro
+de 1927, tinha tráfego.""",
+
+"""O pedido de socorro alcançou mais navios do que se costuma contar.
+
+Os telegramas daquela noite registram <strong>Alhena</strong>, <strong>Empire Star</strong>,
+<strong>Formosa</strong>, <strong>Mosella</strong>, <strong>Avelona</strong>,
+<strong>Rosetti</strong>, e ainda <em>Salem</em>, <em>Forthmouth</em>, <em>Frederik</em> e
+<em>Piauhy</em>.
+
+Dez nomes. Holandês, inglês, francês, italiano, brasileiro. Nenhum deles tinha qualquer
+obrigação com aquela gente além da que existe entre navios.""",
+
+"""E alguém, a bordo do <em>Alhena</em>, teve uma ideia que salvou vidas.
+
+Esticaram <strong>uma corda ao longo do casco</strong>, da popa à proa, à altura da água.
+
+Quem chegasse nadando, chegasse onde chegasse, encontrava corda.
+
+Três sobreviventes que não se conheciam descrevem a mesma corda.
+<strong>Nazzeconi</strong> diz que foi ela que o deixou aguentar até alguém puxá-lo.
+<strong>Beria</strong> diz que ela permitiu que ele subisse com facilidade.
+<strong>Solk</strong> conta que nadou até levar uma pancada forte na nuca, ergueu os braços
+por instinto, e havia corda ali.""",
+
+"""Nem todo mundo teve essa sorte.
+
+<strong>Ali Hassen</strong>, quarenta e cinco anos, viajava com três primos. O bote em que
+entrou afundou pelo peso. Voltou à superfície, achou um pedaço de madeira e ficou boiando
+<strong>quatro horas</strong>.
+
+Nesse tempo ele bateu <strong>várias vezes contra o casco de um dos navios de resgate</strong>
+sem que ninguém o notasse.
+
+Já tinha perdido a esperança quando encontrou uma corda, se agarrou, e sentiu que estava
+sendo içado.
+
+Os três primos dele morreram.""",
+
+"""Os tempos na água, como os próprios sobreviventes contaram:
+
+Uccelli, uma hora e meia. Beria, duas. Milano, duas. Galli, duas. Scavani, três. Hassen,
+quatro.
+
+Lynose nadou das sete da noite às dez e meia.
+
+<strong>Alfio Sanfilippo passou oito horas</strong> agarrado à quilha de um bote virado, com
+o irmão e um oficial do navio.
+
+E <strong>Eugenio Gabassi</strong> passou a noite inteira sobre uma tábua, com quatro
+mulheres e três crianças, até ser recolhido pelo <em>Rosetti</em> na manhã seguinte.""",
+
+"""<strong>Domingo Milano tinha catorze anos e viajava sozinho.</strong>
+
+O pai e os irmãos estavam na Argentina esperando por ele.
+
+Era bom nadador. Quando viu que o navio ia mesmo afundar, mergulhou da proa e começou a
+nadar na direção do <em>Alhena</em>, que estava longe.
+
+Ficou duas horas na água. Estava a ponto de desistir quando passou perto um bote carregado
+de náufragos. Num último esforço, agarrou um remo.
+
+Foi assim que ele chegou.""",
+
+"""Agora a parte que eu não consigo resolver, e que precisa ser dita.
+
+<strong>A conta do resgate não fecha em nenhuma fonte.</strong>
+
+Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formosa 151,
+Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
+
+Só que a bordo iam mil duzentas e cinquenta e nove. Somando os trezentos e catorze mortos,
+dá <strong>mil quinhentas e oitenta e oito pessoas</strong> num navio que levava mil
+duzentas e cinquenta e nove.
+
+Outra fonte, com números diferentes, comete o mesmo excesso. E lista dois navios,
+<em>Athenas</em> e <em>Alhena</em>, com exatamente o mesmo número de salvos — quase
+certamente o mesmo navio, contado duas vezes.""",
+
+"""Isso não é desleixo de quem contou.
+
+<strong>É o que a noite era.</strong>
+
+Um homem entrava num bote, o bote virava, ele nadava até outro bote, esse bote encostava num
+navio, e horas depois aquele navio transferia parte dos recolhidos para outro. Cada vez que
+alguém trocava de casco, havia a chance de ser contado outra vez.
+
+A soma que não fecha é a única prova aritmética que existe do que aconteceu com aquelas
+pessoas depois que o Mafalda sumiu: <strong>elas foram passadas de mão em mão, no escuro,
+por gente que não sabia quem já tinha contado quem.</strong>""",
+
+"""E é exatamente aqui que a minha família reaparece.
+
+O que a memória guarda é isto: o cozinheiro tirou as duas irmãs e as cinco crianças do
+porão e as levou para o <strong>bote dos cozinheiros</strong>.
+
+Desse bote, foram levadas para outro navio. E esse navio, no relato que atravessou três
+gerações, <strong>não era um navio de passageiros. Era um navio que carregava carvão.</strong>""",
+
+"""Não sei qual era.
+
+O documento que existe põe as sete no <em>Alhena</em>, holandês, três dias depois. Entre o
+bote e o Alhena pode ter havido um navio, ou dois, e a memória da família guardou o que a
+pele guardou.
+
+Porque o que ficou dessa passagem, e ficou por cem anos, foi o carvão.
+
+<strong>Elas chegaram pretas.</strong> As duas mulheres e as cinco crianças, cobertas de pó
+de carvão da cabeça aos pés.""",
+
+"""Em <strong>28 de outubro de 1927</strong>, o vapor holandês <em>Alhena</em> entrou no
+porto do Rio de Janeiro.
+
+O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência,
+onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só:
+<strong>Náufragos</strong>.
+
+Cinquenta imigrantes, todos de terceira classe, todos desembarcados na
+<strong>Ilha das Flores</strong>. Quarenta e três italianos, quatro iugoslavos, três
+húngaros.
+
+Nas linhas 26 e 27, e depois nas linhas 44 a 48, estão as sete pessoas deste livro.""",
+
+"""<strong>Maria Spinelli</strong> desceu naquele mesmo desembarque.
+
+É a mulher que recebeu no colo, por cima da amurada, o filho de três anos da amiga Teresa
+Forggia, quando parecia que a mãe ia ficar no navio. Terceira classe, italiana, salva pelo
+<em>Alhena</em>.
+
+Ela já tinha atravessado o Atlântico três vezes antes daquela. Não era uma emigrante. Era
+uma viajante.
+
+E fecha o depoimento assim: <em>depois de três viagens à América do Sul, resolvi ficar aqui
+para sempre e nunca mais voltar à Itália</em>.
+
+O naufrágio não a impediu de chegar. Impediu-a de voltar.""",
+
+"""E há duas linhas naquela folha que eu não consigo ler sem parar.
+
+<strong>Nº 24, Luchini Teresa, dezenove anos. Nº 25, De Rosi Emilia, cinquenta e cinco
+anos.</strong>
+
+As duas aparecem sozinhas, sem parentesco declarado, uma seguida da outra, cada uma com um
+<em>x</em> marcado à margem.
+
+E no pé da folha, escrito à mão pelo funcionário que fechou o documento:
+
+<em>As passageiras constantes sob Nº 24 e 25 perderam seus maridos, e pedem de ser enviadas
+para Italia.</em>
+
+Dezessete dias antes, em Gênova, as duas tinham subido a prancha ao lado dos maridos.""",
+
+"""Aquela folha de papel é o momento em que esta família volta a existir para o mundo.
+
+Entre o estrondo das cinco e quinze do dia 25 e a assinatura do intérprete no dia 28, não há
+uma linha sequer sobre elas em documento nenhum. Três dias inteiros de nada.
+
+E então, de repente, sete nomes, sete idades, uma profissão, uma coluna de instrução e um
+destino.
+
+<strong>Forner Rosa, vinte e quatro anos, chefe. Enrico, um ano, filho.</strong>
+
+Vivos.""",
+]
+
 CAP19 = [
 """O <em>Principessa Mafalda</em> saiu de Gênova em 11 de outubro de 1927, e já saiu
 atrasado.
@@ -3248,7 +3420,7 @@ Para que quando o navio afundar, o leitor saiba exatamente o que aquelas pessoas
 tentando alcançar, e o que já tinham atravessado antes de chegar à água.""",
 ]
 
-CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23}
+CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24}
 
 # ------------------------------------------------------------------ paginas
 pages = []
