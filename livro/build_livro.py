@@ -5168,30 +5168,25 @@ P(t='epigrafe')
 P(t='sumario')
 
 IMG_BY_CAP = {
- 1:  [('castellcuco','Os vales de Castelcucco, província de Treviso. Fausto Miotto nasceu aqui em 1904.')],
- 2:  [('italia_campo_verde','O campo vêneto. A paisagem que trocou de país duas vezes sem sair do lugar.')],
- 3:  [('familia_italiana','Família camponesa italiana no início do século XX.')],
- 4:  [('arovore_genealogica','A árvore genealógica reconstruída das famílias Miotto e Forner.')],
- 5:  [('panfleto_in_america','“…In América. Terre in Brasile per gli Italiani.” Preto sobre papel barato, com o italiano cheio de erros de composição e um navio no lugar onde deveria estar a terra prometida.')],
- 7:  [('quadro_guerra_europa','O quadro com as três medalhas de guerra de Sante Forner, concedidas pelo Ministério da Guerra da Itália.'),
+ 5:  [('panfleto_in_america','“…In América. Terre in Brasile per gli Italiani.” Preto sobre papel barato, com o italiano cheio de erros de composição e um navio no lugar onde deveria estar a terra prometida. Imagem obtida na internet; a procedência não foi localizada.')],
+ 7:  [('quadro_guerra_europa','O quadro com as três medalhas de guerra de Sante Forner, na parede da casa da família no Vêneto. Fotografia enviada por Giorgio Forner.'),
       ('sante_militar','Sante Forner, 1893 a 1947, fardado.'),
       ('sante_forner_documento','Carta d’identità de Sante Forner, Comune di Asolo, 8 de março de 1940. Nato il 16 aprile 1893 a Monfumo. Professione: bracciante. Statura 1,62. Assinada pelo Podestà e datada A. XVIII, o ano dezoito da era fascista.')],
  8:  [('fausto','Fausto Miotto, nascido em Castelcucco em 1904. Casou-se com Rosa Forner em 1926 e partiu sozinho para o Brasil.')],
- 9:  [('italianos_no_barco','Imigrantes italianos a bordo, início do século XX.')],
- 10: [('imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890','Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por volta de 1890.')],
- 13: [('vapor_mafalda','O vapor Principessa Mafalda. Lançado em 1908, afundou em 25 de outubro de 1927.')],
- 14: [('princess_mafalda_of_savoy','A princesa Mafalda de Saboia, que deu nome ao navio. Morreu em Buchenwald, em 1944.')],
- 16: [('princessa_mafalda','O Principessa Mafalda. Saiu de Gênova em 11 de outubro de 1927 com 971 passageiros e 288 tripulantes, e já saiu atrasado.')],
- 18: [('mafalda_naufragando','O naufrágio do Principessa Mafalda em representação de época.')],
- 21: [('passageiros_agnoli','Lista de passageiros: a família Agnoli, terceira classe, resgatada pelo navio Alhena.')],
- 23: [('rosa_forner','Rosa Forner Miotto, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos.'),
-      ('rosa_forner_documento','Documento de identificação de Rosa Forner Miotto.')],
+ 10: [('imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890','Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por volta de 1890. Acervo público.')],
+ 12: [('angelo__dei_agnoli','Passaporte italiano de Angelo Dei Agnoli, Regno d’Italia, com o visto do Consulado Geral do Brasil.'),
+      ('angelo_dei_agnoli__jpg','Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de São Paulo. Angelo Dei Agnoli, nascido em 12 de junho de 1898 em Cavaso, filho de Antonio Dei Agnoli e Paschoa Colla, lavrador, casado com Maria Luiza Forner, nascida em 5 de março de 1896 em Monfumo. <em>Desembarcado em 30/4/1927, no porto de Santos, da embarcação Principessa Mafalda.</em> Carimbo da Delegacia de Polícia de Grama.')],
+ 13: [('princess_mafalda_of_savoy','Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.')],
+ 21: [('passageiros_agnoli','A família Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>: Danilo 2, Dinetta 7, Dino 4, Maria de 31 e Pulcheria 6, todos em terceira classe.')],
+ 23: [('rosa_forner_documento','Cédula de identidade de Rosa Forner Miotto, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos.')],
  24: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.'),
-      ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e o marido, Angelo dei Agnoli.')],
+      ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e Angelo dei Agnoli com os filhos.')],
  26: [('enrico','Enrico Miotto, 1926 a 1998. Tinha um ano e quinze dias na noite do naufrágio.'),
-      ('enrico_registro_de_estrangeiro','Registro de Estrangeiros de Enrico Miotto, 29 de dezembro de 1949. Data de nascimento: 10.10.1926.')],
+      ('enrico_registro_de_estrangeiro','Registro de Estrangeiros de Enrico Miotto, 29 de dezembro de 1949. Data de nascimento: 10.10.1926.'),
+      ('certidao_de_obito','Declaração de Óbito nº 5501831. Sorocaba, 6 de outubro de 1998. Aposentado, solteiro, natural da Itália, filho de Fausto Miotto e Rosa Forner. Sepultado no Cemitério Santo Antônio.')],
  27: [('mafalda_miotto_forner','Mafalda Miotto Terra, nascida em 1937, dez anos depois do naufrágio, com o nome do navio.')],
  29: [('sante_e_familia','Sante Forner e família, na Itália.'),
+      ('forner_galliano','Galliano Forner, filho de Sante, com as tropas alpinas em 1950.'),
       ('giorgio_e_sua_familia','Giorgio Forner e família, o ramo que permaneceu no Vêneto.')],
 }
 
@@ -5234,9 +5229,14 @@ for bn, btitle, byears, bcolor in BOOKS:
             P(t='audio', key=k, tit=tit, meta=meta, nota=nota, tr=tr, book=bn)
 
 # ---------------------------------------------------- caderno de imagens
-SKIP = {'710doxadqgl__sl1360','716aeqgd2pl__sl1499','71lmjwglzgl__sl1200','71rnbfpskhl__sl1360',
-        '52f7878846e1bd9668eb0502126ae9a0','9e1442ad1cef72882ae3ced892b93163','image_4','capa',
-        'e01164_afab8415694242ebbd01f48d699c9193_mv2','571_1','571_2','selo','brasao','mattia'}
+SKIP = {'52f7878846e1bd9668eb0502126ae9a0', '571_1', '571_2', '710doxadqgl__sl1360',
+        '716aeqgd2pl__sl1499', '71lmjwglzgl__sl1200', '71rnbfpskhl__sl1360',
+        '9e1442ad1cef72882ae3ced892b93163', 'arovore_genealogica', 'brasao', 'capa', 'cartaz',
+        'castellcuco', 'e01164_afab8415694242ebbd01f48d699c9193_mv2', 'familia_italiana',
+        'forner_martino_fratello_di_mio_nonno_sante', 'image_4', 'italia_campo_verde',
+        'italianos_no_barco', 'joao_luca_e_mafalda', 'mafalda_naufragando', 'mattia',
+        'princessa_mafalda', 'propaganda_para_italianos_virem_ao_brasil_1024x580', 'rosa_forner',
+        'sao_joao_da_boa_vista', 'selo', 'stöwer_titanic', 'tio_henrrique', 'vapor_mafalda'}
 LEG = {
  'angelo__dei_agnoli':'Passaporte de Angelo dei Agnoli, marido de Maria Luigia Forner.',
  'angelo_dei_agnoli__jpg':'Certidão de registro de Angelo dei Agnoli.',

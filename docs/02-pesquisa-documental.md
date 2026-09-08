@@ -1579,3 +1579,61 @@ Todas as datas e idades fecham: os intervalos entre os dez filhos de Vincenzo e 
 anos de Santa parindo, Vincenzo com 64 em 1926 e 65 em 1927, Gina com 6 no casamento e 7 no
 naufrágio, os seis filhos vivos quando Mafalda nasce, Enrico com 1 ano e 15 dias.
 Nenhuma autocorreção, nenhum cartão de tarefa, nenhuma tag desbalanceada.
+
+---
+
+## 21. Auditoria das imagens — 08.09.2026
+
+66 arquivos na pasta, olhados um por um.
+
+### 🔴 Nove ilustrações estavam dentro de capítulos, legendadas como documento
+
+`castellcuco` (cap. 1), `italia_campo_verde` (cap. 2 — e é paisagem **toscana**, não vêneta),
+`familia_italiana` (cap. 3), `arovore_genealogica` (cap. 4 — arte genérica, não a árvore
+reconstruída), `italianos_no_barco` (cap. 9), `vapor_mafalda` (cap. 13),
+`princessa_mafalda` (cap. 16 — **a imagem é uma mulher numa sala com lareira**, e a legenda
+falava do navio), `mafalda_naufragando` (cap. 18) e `rosa_forner` (cap. 23 — retrato
+fortemente processado).
+
+**Todas removidas do livro** (capítulos e caderno). Também saíram: `stöwer_titanic` (é o
+*Titanic*, de Willy Stöwer), `propaganda_para_italianos_...` (print de site, com marca
+d'água), `cartaz` (pôster da La Veloce, e o cap. 5 diz que o cartaz **não era colorido**),
+`tio_henrrique` (pintura feita a partir da foto do documento do Enrico),
+`joao_luca_e_mafalda` e `sao_joao_da_boa_vista` (ilustrações), e
+`forner_martino_...` (captura de tela de celular).
+
+**Regra:** neste livro, imagem dentro de capítulo é documento ou fotografia. Ilustração só
+entra se a legenda disser que é ilustração.
+
+### ✅ Documentos reais que estavam parados e entraram
+
+- **`angelo__dei_agnoli`** — passaporte italiano dele, com visto do Consulado do Brasil → cap. 12
+- **`angelo_dei_agnoli__jpg`** — Certidão do Registro de Estrangeiros nº 61 → cap. 12
+- **`certidao_de_obito`** — Declaração de Óbito de Enrico → cap. 26
+- **`forner_galliano`** — Galliano fardado, tropas alpinas, 1950 → cap. 29, fechando a linha
+  Sante → Galliano → Giorgio
+
+### ⭐ Dados novos extraídos da certidão nº 61
+
+- **Angelo Dei Agnoli n. 12/06/1898**, natural de **Cavaso**
+- Pais: **Antonio Dei Agnoli** e **Paschoa Colla** — não estavam em lugar nenhum deste acervo
+- Profissão: **lavrador**
+- **Maria Luiza Forner n. 05/03/1896 em Monfumo** — fecha a data exata dela
+- *"com **2 filhos** menores de 18 anos"* → Maria Luigia teve quatro; com Gina (1920) e
+  Pulcheria (1921) já maiores, sobram Rino e Danilo. **O documento é do fim dos anos 1930**,
+  não de 1927. Base legal citada: Decreto 3.010, de 20.08.1938.
+- Autenticado em **São Carlos, SP, em 13.01.1992** — onde a família estava.
+
+### ⭐ Da Declaração de Óbito de Enrico
+
+**Sepultado no Cemitério Santo Antônio, em Sorocaba.** O livro não dizia onde ele está.
+
+### 🔎 A confirmar com o autor
+
+1. **`miotto_maria_luigia_e_forner_sante`** — fotografia de época verdadeira, homem sentado e
+   mulher de pé. Se forem mesmo Maria Luigia e Sante, é **a irmã que foi e o irmão que ficou
+   na mesma imagem**, e pertence ao cap. 29. Confirmar quem são.
+2. **`rosa_forner`** — o retrato é restauração de um original, ou outra coisa? Se houver
+   original, ele volta ao cap. 23.
+3. Catorze arquivos de lixo continuam na pasta (`image_4`, `710doxadqgl__sl1360`, `571_1`,
+   `selo`, `brasao`, `mattia` e afins). Estão no SKIP, mas podem ser apagados.
