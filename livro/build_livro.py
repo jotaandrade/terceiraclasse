@@ -5163,6 +5163,7 @@ def P(**kw): pages.append(kw)
 
 P(t='capa')
 P(t='rosto')
+P(t='dedicatoria')
 P(t='epigrafe')
 P(t='sumario')
 
@@ -5208,6 +5209,16 @@ AUDIO_BY_CAP = {
        'A versão do avô para o reencontro, e a frase que localiza a cena em São Paulo.',
        'Acho que essa história do navio de carvão é verdade, porque quando o meu avô contou que o meu bisavô foi encontrar a família lá em São Paulo, ele não reconheceu porque a viúva, não sei se foi a minha avó mesmo que estava na frente, na frente da hospedaria ali, onde ele passou, onde ele passou na frente do quarto, não sei, e ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma história, sim.')],
 }
+
+AGRADECIMENTOS = """À minha avó <strong>Mafalda</strong>, por ter contado as histórias. Foi ela que despertou em mim, anos atrás, o interesse pela busca de um elo familiar que havia se perdido. Sem ela, este livro não teria começado.
+
+Ao meu primo <strong>Giorgio Forner</strong>, que mora na Itália, por tudo o que contribuiu de informação e de fotografia. Apesar da dificuldade do idioma, sempre demos um jeito de conversar.
+
+À minha prima <strong>Patrícia Betti</strong>, que eu encontrei nas pesquisas do FamilySearch e que também me ajudou com este livro.
+
+Aos meus familiares, aos netos e aos sobrinhos, que vão ter nas mãos a história dos seus eternizada. Que este livro desperte no coração deles o mesmo interesse pela história que a minha avó Mafalda despertou em mim.
+
+E ao principal amigo, aquele que me ajudou a concluir este livro: <strong>Deus</strong>. Que sempre me deu forças para continuar durante estes nove anos."""
 
 for bn, btitle, byears, bcolor in BOOKS:
     P(t='parte', n=bn, title=btitle, years=byears, color=bcolor)
@@ -5268,6 +5279,7 @@ if _rest:
 
 P(t='parte', n='EPÍLOGO', title='As três Mafaldas', years='', color='graf')
 P(t='cap', num=35, title='A princesa, o navio e a menina', synop='As três camadas do livro amarradas num nome. A única que chega viva ao fim.', book='EP', color='graf')
+P(t='agradecimentos')
 P(t='fim')
 
 # ------------------------------------------------------------------- render
@@ -5362,6 +5374,17 @@ for p in pages:
             '<div class="aud-x">%s</div>'
             '</div><span class="folio">%d</span>'
             % (E(p['tit']), E(p['meta']), b64aud(p['key']), E(p['nota']), tx, folio)))
+    elif t == 'dedicatoria':
+        out.append(sheet(
+            '<div class="dedic"><p class="dd-1">Para o meu filho</p>'
+            '<p class="dd-2">João Luca Soares de Andrade</p></div>',
+            '', data_nav='Dedicatória'))
+    elif t == 'agradecimentos':
+        paras = ''.join('<p>%s</p>' % x.strip() for x in AGRADECIMENTOS.split('\n\n'))
+        out.append(sheet(
+            '<div class="agrad"><h2 class="ag-t">Agradecimentos</h2>%s'
+            '<p class="ag-a">João José de Andrade Neto</p></div>'
+            % paras, '', data_nav='Agradecimentos'))
     elif t == 'fim':
         out.append(sheet(
             '<div class="fim"><p class="fm-1">continua</p>'
@@ -5480,6 +5503,19 @@ body{background:var(--room);color:var(--ink);font-family:var(--fb);margin:0}
 .fim{margin:auto 0;text-align:center}
 .fm-1{font-family:var(--fd);font-style:italic;font-size:2.2em;margin:0;color:var(--accent)}
 .fm-2{font-family:var(--fu);font-size:.76em;line-height:1.7;color:var(--faint);margin:1.6em 0 0}
+
+/* dedicatoria e agradecimentos */
+.dedic{margin:auto 0;text-align:center}
+.dd-1{font-family:var(--fu);font-size:.72em;letter-spacing:.22em;text-transform:uppercase;
+ color:var(--faint);margin:0 0 1.6em}
+.dd-2{font-family:var(--fd);font-style:italic;font-weight:400;font-size:1.9em;line-height:1.25;
+ margin:0;color:var(--ink)}
+.agrad{margin:auto 0}
+.ag-t{font-family:var(--fu);font-size:.7em;letter-spacing:.22em;text-transform:uppercase;
+ color:var(--accent);font-weight:400;margin:0 0 1.6em}
+.agrad p{font-size:1em;line-height:1.66;margin:0 0 .9em;text-align:justify;hyphens:auto}
+.ag-a{font-family:var(--fd);font-style:italic;font-size:1.05em;text-align:right!important;
+ color:var(--soft);margin-top:1.8em!important}
 
 /* leitura em voz alta */
 .readbtn{position:fixed;z-index:42;bottom:3.6rem;left:1.1rem;font-family:var(--fu);
