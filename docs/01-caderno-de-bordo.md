@@ -67,8 +67,8 @@
 |---:|---|---|---:|---|
 | 26 | 31 de outubro | Hospedaria do Brás. Livro 100, página 290, a coluna VAPOR dizendo P. Mafalda. | 13 | **Escrito** |
 | 27 | O reencontro | Fausto e Angelo recebem as mulheres e as crianças. O que se diz e o que não se diz. | 11 | **Escrito** |
-| 28 | Terra vermelha | O interior paulista, o café, a construção de uma vida do zero. | 14 | **Escrito** |
-| 29 | Enrico | 1926 a 1998. Só o que os documentos sustentam. Nada além do que você quiser pôr. | 12 | **Escrito** |
+| 28 | Terra vermelha | O interior paulista, o café, a construção de uma vida do zero. | 14 | Leitura |
+| 29 | Enrico | 1926 a 1998. Só o que os documentos sustentam. Nada além do que você quiser pôr. | 12 | Pronto |
 | 30 | 1937 | Mafalda nasce em São José do Rio Pardo e recebe o nome do navio. | 12 | Campo |
 | 31 | Virar brasileiro | Língua, comida, fé, o dialeto que some. Como uma família italiana deixa de ser italiana. | 14 | Campo |
 | 32 | Os que ficaram, cem anos depois | A linha de Sante: Galliano, Giorgio. O Vêneto do pós-guerra até hoje. | 12 | Campo |

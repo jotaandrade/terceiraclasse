@@ -1,7 +1,7 @@
 # 2. A Itália que não existia
 
 > Livro I — A terra que não bastava
-> O Risorgimento e o mosaico que a unificação não uniu.
+> O Risorgimento, o imposto sobre a moagem e o trigo americano. Por que a encosta deixou de sustentar quem a trabalhava.
 
 ---
 
@@ -29,15 +29,9 @@ Quanta gente na península falava italiano no momento da unificação é discuss
 
 Fizeram um país com gente que não conseguia conversar entre si.
 
-Em 1848 a Europa inteira pegou fogo, e Veneza pegou junto.
+Em 1848 a Europa inteira pegou fogo, e Veneza pegou junto: Daniele Manin proclamou a República de São Marcos, que durou dezessete meses e caiu depois de um cerco com bombardeio, fome e cólera. Luigi Forner tinha trinta e um anos, e é improvável que tenha participado de coisa nenhuma. Camponês de encosta em 1848 não fazia revolução, fazia colheita.
 
-Daniele Manin proclamou a República de São Marcos em março, e ela durou dezessete meses, até agosto de 1849, quando os austríacos retomaram a cidade depois de um cerco com bombardeio, fome e cólera.
-
-Luigi Forner tinha trinta e um anos. Não há registro de que tenha participado de coisa nenhuma, e é improvável que tenha participado. Camponês de encosta em 1848 não fazia revolução, fazia colheita.
-
-Mas a notícia chegou. Notícia sempre chega.
-
-Em 1859 veio a Segunda Guerra de Independência. O Piemonte, com a França do lado, tirou a Lombardia da Áustria.
+Em 1859 veio a Segunda Guerra de Independência, e o Piemonte, com a França do lado, tirou a Lombardia da Áustria.
 
 O Vêneto ficou.
 
@@ -93,13 +87,91 @@ Numa terra em que a família só se sustentava porque todos trabalhavam, tirar u
 
 O macinato foi abolido em 1884, dezesseis anos depois. Tarde demais para a geração que ele quebrou.
 
-Há uma frase que circula sobre esse período, atribuída a Giuseppe Verdi, e que encontrei citada num catálogo do Arquivo Público do Estado do Espírito Santo:
+No dia 11 de novembro a estrada enchia de carroça.
 
-*L’Unità sarà la nostra rovina. Moriremo tutti di fame.*
+É o dia de São Martinho, e no campo do norte da Itália era quando venciam os contratos agrários. Quem tinha sido renovado ficava. Quem não tinha carregava o que cabia, colchão, panela, imagem de santo, as crianças em cima, e saía procurar outro pedaço de terra de outro proprietário.
 
-A unificação será a nossa ruína. Morreremos todos de fome.
+A expressão pegou e sobreviveu à coisa: *fare San Martino*, em italiano, até hoje quer dizer mudar de casa.
 
-Não consegui rastrear a frase até uma carta ou documento original, e registro isso porque atribuição de frase célebre é terreno escorregadio. Mas ela sobreviveu cento e cinquenta anos circulando entre italianos justamente porque descreve com precisão o que aconteceu com quem estava embaixo.
+Uma vez por ano, num único dia, dava para ver na estrada exatamente quantas famílias tinham perdido o chão.
+
+Não sei em que condição os Forner e os Miotto trabalhavam a terra.
+
+Podiam ser proprietários de um pedaço, podiam ser meeiros, podiam ser diaristas. Os documentos que tenho começam tarde demais e não dizem. Vou descrever o sistema, porque o sistema eu conheço, e deixar claro que não sei em que casa dele essa família morava.
+
+O que dá para afirmar é que ninguém ali era rico. Rico não emigra na terceira classe.
+
+Havia basicamente três lugares onde se podia estar.
+
+Proprietário de um retalho: dono de faixas espalhadas de encosta, somando às vezes menos de um hectare, o suficiente para não morrer e não o suficiente para viver.
+
+Meeiro: trabalhava a terra de outro e entregava metade da colheita. Contrato anual, renovável ou não, com vencimento em São Martinho.
+
+Diarista, o *bracciante*: não tinha terra nenhuma e vendia o dia. Era o último degrau, e era para onde os outros dois desciam.
+
+O movimento entre esses três lugares tinha uma direção só.
+
+A mecânica da queda é sempre a mesma e leva mais ou menos uma década.
+
+Vem um ano ruim: granizo, seca, doença na vinha. A colheita não paga o ano. A família pede emprestado para atravessar o inverno e comprar semente.
+
+No ano seguinte a colheita paga o ano mas não paga o juro. Pede de novo.
+
+No terceiro ou quarto ano vende uma faixa de terra para quitar. Agora tem menos terra, e portanto menos colheita, e portanto menos margem para o próximo ano ruim.
+
+Que vem.
+
+Quem emprestava não era banco. Banco não emprestava a camponês.
+
+Emprestava o proprietário vizinho, o comerciante da vila, o moleiro, o padre às vezes, e gente que fazia disso profissão. Os juros não estavam em nenhuma tabela. Estavam no que o credor achasse que dava para cobrar de alguém que não tinha alternativa.
+
+A terra que saía das mãos de uma família ia parar nas mãos de quem já tinha. É assim que funciona concentração fundiária: não por decreto, por juro.
+
+Aí, na década de 1880, veio uma pancada que não tinha nada a ver com a Itália.
+
+O trigo americano chegou à Europa.
+
+As pradarias dos Estados Unidos entraram em produção em escala industrial, a ferrovia levou o grão até os portos e o navio a vapor atravessou o Atlântico em duas semanas em vez de dois meses. O preço do trigo despencou no continente inteiro.
+
+Para o consumidor urbano foi ótimo. Para o pequeno agricultor europeu, que vendia o pouco que sobrava para pagar imposto e juro, foi a sentença.
+
+Repare no que estava acontecendo ao mesmo tempo, porque é uma das ironias mais perfeitas desta história.
+
+O navio a vapor foi a tecnologia que arruinou o camponês vêneto, porque foi ele que trouxe o grão barato da América.
+
+E foi a mesma tecnologia, muitas vezes literalmente os mesmos navios, que levou o camponês vêneto para a América.
+
+O grão vinha de lá para cá. A gente ia daqui para lá. Nos mesmos porões, em direções opostas.
+
+Faltava a doença.
+
+A pelagra já apareceu no primeiro capítulo deste livro como parte da paisagem: a pele rachada nas mãos e no rosto de quem comia polenta três vezes ao dia. Vale agora dizer de onde ela vinha, porque a explicação é pior do que a doença.
+
+A causa é falta de niacina, a vitamina B3. E é aqui que a história fica insuportável.
+
+O milho tem niacina. Só que no milho ela vem quimicamente presa, numa forma que o intestino humano não consegue absorver.
+
+Existe uma solução, e ela é antiga. Os povos da Mesoamérica, que domesticaram o milho ao longo de milhares de anos, cozinham o grão em água com cal ou com cinza antes de moer. O processo se chama nixtamalização, e ele quebra a ligação e libera a niacina. Sem isso, tortilla mataria mexicano. Com isso, alimenta.
+
+Quando os europeus levaram o milho da América para a Europa, no século XVI, levaram a semente e não levaram a técnica.
+
+Foi isso que aconteceu com o Vêneto.
+
+Adotaram um cereal do Novo Mundo porque ele rendia mais por hectare do que qualquer coisa que tivessem, plantaram, moeram e comeram do jeito que se comia trigo. Deu certo por gerações, enquanto a polenta era uma parte da dieta.
+
+Quando a polenta virou a dieta inteira, porque não sobrava dinheiro para mais nada, a conta chegou.
+
+As regiões mais atingidas pela pelagra na Itália foram a Lombardia, o Vêneto e a Emilia Romagna. Em 1878 o governo mandou fazer um levantamento nacional só sobre ela. Chegaram a existir instituições específicas para internar doentes, os pellagrosari.
+
+Uma população inteira adoeceu de fome comendo, e adoeceu porque tinha atravessado o Atlântico uma vez, três séculos antes, e trazido metade do conhecimento.
+
+A pelagra era uma doença de classe, e isso não é figura de linguagem.
+
+Ninguém que comesse carne, ovo, leite ou pão de trigo com alguma regularidade desenvolvia pelagra. Nenhum proprietário. Nenhum comerciante. Nenhum padre.
+
+Dava em quem comia polenta e mais nada, e quem comia polenta e mais nada era o camponês que entregava metade da colheita e o diarista que não tinha colheita nenhuma.
+
+Dava para olhar as mãos de uma pessoa na feira e saber em que degrau ela estava.
 
 O resultado está nos números da emigração, e os números são brutais.
 
@@ -108,6 +180,14 @@ Entre 1876 e 1900, três regiões produziram mais de quarenta e sete por cento d
 E não foi pico passageiro. Até a década de 1940 o Vêneto continuou liderando a estatística de emigração italiana, à frente da Sicília, da Campânia e da Calábria. Somando tudo, calcula-se que três milhões e duzentos mil vênetos foram embora.
 
 A região que mais gente perdeu não foi o sul miserável do imaginário popular. Foi esta, no norte, a que tinha acabado de entrar na Itália.
+
+Não é uma história de vilão. É uma história de engrenagem.
+
+Não houve um decreto expulsando ninguém, não houve exército queimando aldeia, não houve perseguição. Houve uma soma de coisas razoáveis do ponto de vista de quem as decidia, que juntas tornaram impossível continuar.
+
+Foi por isso que quando os cartazes começaram a aparecer nas praças, prometendo terra do outro lado do mar, eles não precisaram convencer ninguém.
+
+Só precisaram avisar que existia saída.
 
 Luigi Forner nasceu em 14 de agosto de 1817, em Monfumo, súdito austríaco.
 
@@ -134,11 +214,3 @@ Sei que ele fez alguma coisa que não cabe na versão fácil desta família.
 O homem mais velho de que temos notícia, nascido antes de a Itália existir, camponês de uma encosta de oito quilômetros quadrados, atravessou o Atlântico depois dos setenta.
 
 Trinta e seis anos antes da neta.
-
-E há mais uma geração atrás dele, que o mesmo livro registra e que ninguém desta família conhecia.
-
-O pai de Luigi chamava-se Domenico Forner, casado com Maria Vial.
-
-Não tenho data de nenhum dos dois. Tenho os nomes, e os nomes empurram esta história para o século XVIII.
-
-De Domenico e Maria até João Luca, nascido em 2012, são oito gerações documentadas, e sete delas nunca souberam que a oitava existiria.

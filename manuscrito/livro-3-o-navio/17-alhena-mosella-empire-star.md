@@ -1,4 +1,4 @@
-# 19. Alhena, Mosella, Empire Star
+# 17. Alhena, Mosella, Empire Star
 
 > Livro III — O navio
 > O resgate a noite inteira.
@@ -17,7 +17,7 @@ Os telegramas daquela noite registram **Alhena**, **Empire Star**, **Formosa**, 
 
 Dez nomes. Holandês, inglês, francês, italiano, brasileiro. Nenhum deles tinha qualquer obrigação com aquela gente além da que existe entre navios.
 
-E alguém, a bordo do *Alhena*, teve uma ideia que salvou vidas.
+Alguém, a bordo do *Alhena*, teve uma ideia que salvou vidas.
 
 Esticaram uma corda ao longo do casco, da popa à proa, à altura da água.
 
@@ -37,13 +37,9 @@ Os três primos dele morreram.
 
 Os tempos na água, como os próprios sobreviventes contaram:
 
-Uccelli, uma hora e meia. Beria, duas. Milano, duas. Galli, duas. Scavani, três. Hassen, quatro.
+Uccelli, uma hora e meia. Beria, duas. Milano, duas. Galli, duas. Scavani, três. Lynose, três e meia. Hassen, quatro. Sanfilippo, oito.
 
-Lynose nadou das sete da noite às dez e meia.
-
-Alfio Sanfilippo passou oito horas agarrado à quilha de um bote virado, com o irmão e um oficial do navio.
-
-E Eugenio Gabassi passou a noite inteira sobre uma tábua, com quatro mulheres e três crianças, até ser recolhido pelo *Rosetti* na manhã seguinte.
+E Gabassi, a noite inteira, sobre uma tábua, até o *Rosetti* o recolher de manhã.
 
 **Domingo Milano tinha catorze anos e viajava sozinho.**
 
@@ -73,7 +69,7 @@ Um homem entrava num bote, o bote virava, ele nadava até outro bote, esse bote 
 
 A soma que não fecha é a única prova aritmética que existe do que aconteceu com aquelas pessoas depois que o Mafalda sumiu: **elas foram passadas de mão em mão, no escuro, por gente que não sabia quem já tinha contado quem.**
 
-E é exatamente aqui que a minha família reaparece.
+É exatamente aqui que a minha família reaparece.
 
 O que a memória guarda é isto: o cozinheiro tirou as duas irmãs e as cinco crianças do porão e as levou para o bote dos cozinheiros.
 
@@ -105,7 +101,7 @@ E fecha o depoimento assim: *depois de três viagens à América do Sul, resolvi
 
 O naufrágio não a impediu de chegar. Impediu-a de voltar.
 
-E naquela folha estão as duas mulheres do capítulo 9.
+Naquela folha estão as duas mulheres do capítulo 8.
 
 Luchini Teresa, dezenove anos. De Rosi Emilia, cinquenta e cinco. Números 24 e 25, uma seguida da outra, cada uma com um *x* marcado à margem.
 

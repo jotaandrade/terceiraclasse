@@ -95,7 +95,7 @@ Pense no que uma frase dessas faz dentro de uma casa. Não houve caminhão, não
 
 Ficar era arriscar. Sair era largar a casa, os animais e a terra sem saber se haveria para onde voltar.
 
-E existe uma tabela que mede exatamente isso.
+Existe uma tabela que mede exatamente isso.
 
 Em outubro de 1918, com a guerra ainda em curso, o Ministero per le Terre Liberate fez um *Censimento dei profughi di guerra*: contou os refugiados de guerra por comune de origem. Os números do *distretto di Asolo*, onde ficam Castelcucco e Monfumo, foram publicados em Roma no ano seguinte.
 
@@ -155,7 +155,7 @@ Em 24 de outubro de 1918, um ano exato depois de Caporetto, o exército italiano
 
 Sante Forner, irmão mais velho de Rosa, nascido em 1893, estava no exército. Voltou com três medalhas, que a família mandou emoldurar e guarda até hoje, num quadro que atravessou um século e nunca atravessou o oceano.
 
-Ele é o assunto do capítulo 7. Aqui ele importa por um motivo só: quando a guerra acabou, Rosa tinha quinze anos e já tinha visto o mundo inteiro subir aquele morro.
+Ele é o assunto do capítulo 6. Aqui ele importa por um motivo só: quando a guerra acabou, Rosa tinha quinze anos e já tinha visto o mundo inteiro subir aquele morro.
 
 Depois da guerra, a terra era a mesma terra.
 

@@ -1,4 +1,4 @@
-# 8. Rosa e Fausto
+# 7. Rosa e Fausto
 
 > Livro I — A terra que não bastava
 > Enrico nasce em outubro de 1926, o casamento e em dezembro, e Fausto parte.
@@ -37,7 +37,7 @@ Isso não é escândalo e não é fofoca de cartório. É informação sobre com
 
 Numa vila católica do Vêneto de 1926, um filho nascido antes do casamento e reconhecido oito semanas depois quer dizer que houve uma relação estável antes, e que a formalização esperou alguma coisa. Dinheiro, autorização de família, a vinda de um padre, o fim de uma colheita, uma papelada. Não dá para saber qual.
 
-E há uma coincidência que o capítulo 4 já mostrou: **trinta e nove anos antes, os pais de Rosa fizeram exatamente a mesma coisa.** Vincenzo e Santa casaram-se em 1887, e a primeira filha, Angela, nasceu em 1886.
+E há uma coincidência que o capítulo 3 já mostrou: **trinta e nove anos antes, os pais de Rosa fizeram exatamente a mesma coisa.** Vincenzo e Santa casaram-se em 1887, e a primeira filha, Angela, nasceu em 1886.
 
 Duas gerações, a mesma sequência.
 
@@ -87,7 +87,7 @@ A emigração deixou de ser válvula de escape e passou a ser sangria.
 
 Em 28 de abril de 1927, por decreto-lei, o governo fascista extinguiu o Commissariato Generale dell’Emigrazione.
 
-É o mesmo órgão do capítulo 6 deste livro. Criado em 1901, foi ele que reuniu os relatórios consulares e sustentou o decreto Prinetti que protegeu os italianos das fazendas brasileiras em 1902.
+É o mesmo órgão do capítulo 5 deste livro. Criado em 1901, foi ele que reuniu os relatórios consulares e sustentou o decreto Prinetti que protegeu os italianos das fazendas brasileiras em 1902.
 
 Vinte e seis anos depois, foi extinto e substituído pela Direzione Generale degli Italiani all’Estero.
 

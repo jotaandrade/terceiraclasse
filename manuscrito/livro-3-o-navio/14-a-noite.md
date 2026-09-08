@@ -1,4 +1,4 @@
-# 16. A noite
+# 14. A noite
 
 > Livro III — O navio
 > Hora a hora, do estrondo às 22h10.
@@ -17,14 +17,6 @@ Pedro Volpi, trabalhador agrícola italiano de trinta e três anos, ficou a bord
 
 Ele não estava sendo ingênuo. Estava obedecendo a autoridade do lugar onde estava.
 
-E quem não acreditou saiu cedo.
-
-Pascual Pecci viajava na segunda classe com a mulher e a filha. Achou que o comandante estava enganado sobre o tempo que o navio aguentaria, e agiu por conta própria: tirou a família dali logo no começo.
-
-Os três sobreviveram.
-
-Pecci disse depois, com todas as letras, que a palavra do comandante tinha embalado os passageiros da primeira classe numa falsa sensação de segurança.
-
 Enquanto isso, no porão, ninguém sabia de nada.
 
 Milhem Solk, libanês de trinta e cinco anos, ouviu o estrondo e foi perguntar. Procurou marinheiro, perguntou a vários, um atrás do outro.
@@ -35,7 +27,7 @@ Não é que estivessem escondendo. É que não sabiam. A informação levava tem
 
 E o navio ia deitando.
 
-Ele já vinha adernado desde antes do acidente, como se viu dois capítulos atrás. Depois do eixo, a inclinação deixou de ser desconforto e virou geometria.
+Ele já vinha adernado desde antes do acidente, como se viu no capítulo anterior. Depois do eixo, a inclinação deixou de ser desconforto e virou geometria.
 
 Enrico Nazzeconi descreve a certa altura da noite uma inclinação a estibordo em estado extremo. Ali Hassen fala da popa afundando.
 
@@ -59,17 +51,7 @@ Os depoimentos voltam a esse ponto o tempo todo, e sempre da mesma maneira.
 
 Volpi, perguntado se tinha visto tubarões, respondeu que não, e emendou: *a noite estava muito escura*.
 
-Nazzeconi, que ficou a bordo até quase o fim, disse que se jogou na água, ouviu três apitos longos e um estrondo, e **não conseguiu ver o navio afundar**. Estava a poucas dezenas de metros dele.
-
 Batista Beria, nadando, só via o que os holofotes dos navios de resgate alcançavam. Nos intervalos, ouvia gritos sem conseguir localizar de onde vinham.
-
-E a informação continuou distribuída como sempre tinha estado a bordo: por classe.
-
-Nicola Lynose, iugoslavo da terceira classe, explicou o mecanismo sem querer. Quem viajava embaixo estava colado à tripulação e enxergava o que a tripulação fazia.
-
-Quem viajava em cima tinha a palavra do comandante.
-
-No dia a dia isso é uma diferença de conforto. Naquela noite virou uma diferença de tempo de reação, e tempo de reação, ali, era a distância entre estar num bote e estar na água.
 
 Havia também quem simplesmente esperasse.
 
@@ -78,12 +60,6 @@ A família Vacelli — o casal e três filhos de quinze, treze e dez anos — pa
 Às nove e meia da noite um bote do *Empire Star* encostou naquela escada e levou os cinco.
 
 Eles acham que foram dos últimos a sair. Mal chegaram ao navio inglês e o Mafalda já não estava lá.
-
-Mario Ottaviani, que ficou a bordo até quase o fim porque sabia nadar, deixou um número.
-
-Quando entendeu que o navio ia mesmo afundar e se jogou, ainda havia nos conveses cerca de sessenta mulheres e crianças, e cerca de duzentos homens.
-
-Guarde esse número. Ele volta no capítulo dos 314.
 
 Meia hora antes do fim, o navio começou a fazer um barulho novo.
 
@@ -94,8 +70,6 @@ Era a inclinação chegando ao ponto em que nada mais fica parado. Tudo o que es
 Quem estava no porão ouviu aquilo por cima da cabeça e entendeu.
 
 E as sete pessoas desta história?
-
-Duas mulheres. Cinco crianças, a mais velha com sete anos, a mais nova com dois. Um bebê de um ano no colo de uma delas.
 
 Nenhuma das duas sabia nadar. Nenhuma delas falava a língua da tripulação. Estavam num andar abaixo da linha d’água, num navio inclinando, no escuro.
 

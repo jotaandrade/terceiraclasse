@@ -1,4 +1,4 @@
-# 6. O Decreto Prinetti
+# 5. O Decreto Prinetti
 
 > Livro I — A terra que não bastava
 > 1902: a Itália proíbe a emigração subsidiada para o Brasil.
@@ -65,7 +65,7 @@ Para São Paulo, que tinha construído a lavoura de café sobre passagem subvenc
 
 O Brasil reagiu com diplomacia e com irritação. Em 1906 ainda havia gestão em curso para tentar derrubar as restrições italianas. Não conseguiram.
 
-E agora a parte que interessa diretamente a esta família.
+Agora a parte que interessa diretamente a esta família.
 
 O decreto não parou a emigração vêneta. Nada parou a emigração vêneta.
 
@@ -87,9 +87,7 @@ E a mulher, quando veio, veio pelo mesmo caminho.
 
 É uma diferença que parece pequena e que decide tudo o que vem depois.
 
-Reunião familiar não é colonização, e o Estado de São Paulo não pagava por ela.
-
-É por isso que Rosa não aparece em nenhuma Relação de subsidiados. É por isso que a família dela não foi encaminhada a uma fazenda com patrão declarado antes do embarque. E é por isso que ela viajou num transatlântico de linha regular, que levava primeira, segunda e terceira classe na mesma viagem, com passageiros que tinham comprado bilhete.
+Ela viajou num transatlântico de linha regular, que levava primeira, segunda e terceira classe na mesma viagem, com passageiros que tinham comprado bilhete.
 
 Ela pagou para estar ali.
 

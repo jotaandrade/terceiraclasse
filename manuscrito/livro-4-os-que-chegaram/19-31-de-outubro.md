@@ -1,4 +1,4 @@
-# 21. 31 de outubro
+# 19. 31 de outubro
 
 > Livro IV — Os que chegaram
 > Hospedaria do Brás. Livro 100, página 290.
@@ -19,7 +19,7 @@ A roupa de cama, as ferramentas, as fotografias, os documentos, a roupa de domin
 
 Chegaram com o corpo e com as crianças.
 
-Vale entrar por aquela porta com elas, e aqui eu faço outra vez o que fiz no capítulo 11: o que vem agora é reconstrução declarada.
+Vale entrar por aquela porta com elas, e aqui eu faço outra vez o que fiz no capítulo 10: o que vem agora é reconstrução declarada.
 
 O que existe é a data, a página, os sete nomes — e o procedimento da Hospedaria do Brás, que era escrito, rígido e igual para todo mundo.
 
@@ -43,7 +43,7 @@ Não havia mala para pôr na estufa. Não havia trouxa para etiquetar. Não havi
 
 Estava tudo no mesmo lugar onde tinha ficado o navio.
 
-E é aqui que a palavra que vem duas páginas adiante deixa de ser uma anotação de escrivão.
+É aqui que a palavra que vem duas páginas adiante deixa de ser uma anotação de escrivão.
 
 Um funcionário de hospedaria trabalha conferindo papel contra pessoa. Quando não há papel, sobra a pessoa.
 
@@ -57,7 +57,7 @@ Em 31 de outubro de 1927, seis dias depois do naufrágio, alguém abriu o Livro 
 
 Aquele livro era o funil por onde passava a imigração de São Paulo. Nome, idade, residência, número de família, destino. Milhares de páginas iguais, uma atrás da outra, por décadas.
 
-E há uma coluna naquela página que eu não consigo passar sem olhar duas vezes.
+Há uma coluna naquela página que eu não consigo passar sem olhar duas vezes.
 
 A coluna do vapor.
 
@@ -127,7 +127,7 @@ Na página do Brás há um De Rossi.
 
 Na digitalização que eu tenho, não consigo dizer se é ela. Se for, quer dizer que o pedido não foi atendido, ou que ela desistiu dele, e que a mulher que queria voltar pegou o mesmo trem que todo mundo.
 
-E é aqui que esta história faz uma curva que eu não esperava quando comecei.
+É aqui que esta história faz uma curva que eu não esperava quando comecei.
 
 Em 25 de outubro, aquelas sete pessoas foram notícia no mundo inteiro. O naufrágio do *Principessa Mafalda* saiu em jornal de Buenos Aires, de Roma, de Londres e de Nova York. Sobrevivente de terceira classe deu entrevista no cais.
 

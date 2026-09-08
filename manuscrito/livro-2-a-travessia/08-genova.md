@@ -1,4 +1,4 @@
-# 9. Gênova
+# 8. Gênova
 
 > Livro II — A travessia
 > O porto como sistema. A babel de dialetos, a despedida definitiva.
@@ -91,7 +91,7 @@ O que aquelas pessoas tinham em comum não era país, nem língua, nem religião
 
 Quinze anos antes aquele porão teria sido quase todo italiano. Em 1927 já não era. Nas duas semanas seguintes, aquela gente ia dividir o mesmo espaço sem partilhar uma língua.
 
-E no meio disso, sete pessoas de uma família só.
+No meio disso, sete pessoas de uma família só.
 
 **Forner Rosa**, vinte e quatro anos, com **Enrico**, de um.
 

@@ -1,4 +1,4 @@
-# 27. Os que ficaram, cem anos depois
+# 25. Os que ficaram, cem anos depois
 
 > Livro IV — Os que chegaram
 > O ramo do Sante. Ficar não produz documento — e o site que reencontrou a família.
@@ -37,7 +37,7 @@ Tenho a hora em que ela nasceu. Tenho a cabine em que ela viajou, o número da f
 
 Do Sante eu tenho uma data de nascimento, três medalhas, uma carteira de identidade e um ano de morte.
 
-E aquela carteira de identidade é o exemplo perfeito do problema.
+Aquela carteira de identidade é o exemplo perfeito do problema.
 
 Ele a tirou no comune de Asolo, em março de 1940. Ela existe neste projeto não pelo que diz sobre ele, mas pelo que diz sobre o pai dele: foi a linha *Padre: di Vincenzo* que me provou que o velho ainda estava vivo naquele mês.
 

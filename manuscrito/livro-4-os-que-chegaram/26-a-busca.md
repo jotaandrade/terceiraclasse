@@ -1,4 +1,4 @@
-# 28. A busca
+# 26. A busca
 
 > Livro IV — Os que chegaram
 > Como o papel mente, como a memória mente, e o que custa começar tarde.
@@ -31,7 +31,7 @@ Ela passa ao lado da primeira fileira sem tocar em nada, e vai se ligar à barra
 
 Oito filhos de Vincenzo e Santa, seis de Abele e Maria Teresa. Um traço de dois centímetros, num quadro impresso, decidindo quem é irmão de quem.
 
-E o quadro ainda erra por omissão, de um jeito que só se enxerga cruzando com os índices do comune.
+O quadro ainda erra por omissão, de um jeito que só se enxerga cruzando com os índices do comune.
 
 Ele traz oito filhos de Vincenzo e Santa. **Foram dez.**
 
@@ -41,7 +41,7 @@ Leia esse segundo nome outra vez. A genealogia impressa da família deixou de fo
 
 Não por malícia. Por ser um quadro, e quadro cabe o que cabe.
 
-E aqui está a coisa mais difícil desta pesquisa inteira, e eu levei meses para entender.
+Aqui está a coisa mais difícil desta pesquisa inteira, e eu levei meses para entender.
 
 **Aquele quadro não está errado.**
 
@@ -61,7 +61,7 @@ E num outro documento, como **Santa Pandelfa**.
 
 Três grafias. Ou é a mesma mulher escrita por três escrivães diferentes, ou são duas mulheres distintas com sobrenome parecido.
 
-E isso não é preciosismo de genealogista. É a diferença entre este livro estar certo ou estar contando a história de outra família.
+Isso não é preciosismo de genealogista. É a diferença entre este livro estar certo ou estar contando a história de outra família.
 
 Se a mulher do registro de 1893 não fosse a mesma dos outros seis, então **Sante não seria irmão de Rosa**. Seria primo, ou meio-irmão, ou nada.
 
@@ -133,7 +133,7 @@ Um livro velho erra e continua parecendo um livro velho: o papel amarelo avisa o
 
 E quando outra pessoa copia aquele nó para a árvore dela, o erro deixa de ter autor.
 
-E agora eu preciso dizer que a memória de família faz exatamente a mesma coisa.
+Agora eu preciso dizer que a memória de família faz exatamente a mesma coisa.
 
 Há uma versão desta história, contada nesta família há décadas, segundo a qual **Rosa embarcou grávida**, e foi por isso que tiraram as duas mulheres do navio: duas mulheres, cinco crianças e uma grávida.
 
@@ -141,7 +141,7 @@ Enrico tinha um ano e quinze dias e estava a bordo — está no Livro 100 da Hos
 
 Rosa não estava grávida naquele navio. Não há como estar.
 
-E dá para localizar de onde a versão veio.
+Dá para localizar de onde a versão veio.
 
 Quem contava essa história na família era João Betti, marido da Pulcheria, que não estava a bordo e ouviu de quem estava.
 
@@ -161,7 +161,7 @@ O outro galho guardou o carvão, a hospedaria e os dois homens procurando sem ac
 
 Foi preciso um site de genealogia, cem anos e duas pessoas digitando os próprios avós para que aquela noite voltasse a ter começo e fim ao mesmo tempo.
 
-E aqui vem a parte que não tem conserto.
+Aqui vem a parte que não tem conserto.
 
 Pulcheria Pasqua Dei Agnoli morreu em 2013.
 
@@ -176,5 +176,3 @@ Então este capítulo não é sobre papel velho.
 Eu sei ler *di* e *fu*. Sei que uma linha de dois centímetros muda uma família inteira. Sei que uma árvore da internet erra com hora marcada. Aprendi tudo isso, e aprender foi a parte fácil.
 
 Nenhum arquivo do mundo me devolve vinte minutos de conversa com uma mulher de noventa e dois anos que estava lá.
-
-**A minha avó tem oitenta e nove anos.**

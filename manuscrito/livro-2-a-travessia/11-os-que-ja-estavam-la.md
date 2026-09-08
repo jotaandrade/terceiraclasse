@@ -1,4 +1,4 @@
-# 12. Os que já estavam lá
+# 11. Os que já estavam lá
 
 > Livro II — A travessia
 > Fausto e Angelo no Brasil, a casa preparada, a espera.
@@ -39,7 +39,7 @@ Em fevereiro de 1925, quando Angelo já estava fora trabalhando, Fausto Miotto t
 
 Angelo saiu antes, e por uma margem larga.
 
-E em algum momento Angelo voltou à Itália, porque em 1927 ele fez a travessia outra vez, no sentido de vir.
+Em algum momento Angelo voltou à Itália, porque em 1927 ele fez a travessia outra vez, no sentido de vir.
 
 Existe uma certidão do Serviço de Registro de Estrangeiros, número 61, que registra o desembarque:
 
@@ -69,9 +69,9 @@ Dez meses.
 
 É toda a precisão que eu tenho sobre a travessia do meu bisavô.
 
-E a ausência dele não é mistério. É coerência.
+A ausência dele não é mistério. É coerência.
 
-O capítulo 6 mostrou que Fausto não veio recrutado. Não tinha patrão declarado, não tinha fazenda marcada, não estava em Relação de subsidiados nenhuma.
+O capítulo 5 mostrou que Fausto não veio recrutado. Não tinha patrão declarado, não tinha fazenda marcada, não estava em Relação de subsidiados nenhuma.
 
 Quem chegava assim, com dinheiro próprio e destino próprio, não passava pela Hospedaria. A Hospedaria era para quem precisava ser encaminhado, e ele não precisava.
 
@@ -109,7 +109,7 @@ Não sei quanto custava um bilhete daqueles em 1927. Ainda não achei o número.
 
 Sei o intervalo: Angelo desembarcou de volta em abril, e elas embarcaram em outubro. Seis meses entre uma coisa e outra.
 
-E há um mecanismo por trás desses seis meses, que tem nome e era o mais comum de todos.
+Há um mecanismo por trás desses seis meses, que tem nome e era o mais comum de todos.
 
 Chamava-se chamada.
 
@@ -117,7 +117,7 @@ O homem que já estava do outro lado juntava dinheiro, comprava a passagem aqui,
 
 Não era gesto isolado de ninguém. Era uma das maiores movimentações de dinheiro da Itália daquele tempo: emigrante mandando moeda estrangeira para casa, mês após mês, por décadas.
 
-E se foi assim com esta família — e é de longe o mais provável — então há uma consequência que eu levei muito tempo para enxergar.
+Se foi assim com esta família — e é de longe o mais provável — então há uma consequência que eu levei muito tempo para enxergar.
 
 **A data da viagem de Rosa não foi decidida por Rosa.**
 

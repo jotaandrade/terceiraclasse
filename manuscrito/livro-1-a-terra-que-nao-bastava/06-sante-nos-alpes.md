@@ -1,4 +1,4 @@
-# 7. Sante nos Alpes
+# 6. Sante nos Alpes
 
 > Livro I — A terra que não bastava
 > A Grande Guerra, as trincheiras, as três medalhas. O ramo que ficou.
@@ -59,7 +59,7 @@ Um camponês vêneto de vinte e dois anos, naquele front, tinha dois inimigos, e
 
 Em 1916 morreu Pietro Luigi Forner, irmão mais velho de Sante, aos vinte e sete anos.
 
-Durante muito tempo eu completei essa frase com outra, dizendo que ele tinha morrido na guerra, porque era o que fazia sentido. O nome dele não está no Albo d’Oro. O capítulo 4 conta essa busca e o que ela derrubou.
+Durante muito tempo eu completei essa frase com outra, dizendo que ele tinha morrido na guerra, porque era o que fazia sentido. O nome dele não está no Albo d’Oro. O capítulo 3 conta essa busca e o que ela derrubou.
 
 Então aqui fica só o que se sustenta: em 1916, no meio da guerra, aquela casa perdeu mais um, e eu não sei de quê.
 
@@ -73,7 +73,7 @@ Angelo di Antonio, classe 1876. Giuseppe di Antonio, 1880. Giovanni di Agostino,
 
 Nove homens, um sobrenome, uma vila.
 
-Monfumo hoje tem pouco mais de mil habitantes, e naquela época tinha menos. Não sei o grau de parentesco de cada um com Rosa, mas o capítulo 4 já mostrou o que um sobrenome significa numa vila daquele tamanho. É quase certo que houvesse parentesco com quase todos.
+Monfumo hoje tem pouco mais de mil habitantes, e naquela época tinha menos. Não sei o grau de parentesco de cada um com Rosa, mas o capítulo 3 já mostrou o que um sobrenome significa numa vila daquele tamanho. É quase certo que houvesse parentesco com quase todos.
 
 Vale ler *como* eles morreram, porque desmonta a imagem de guerra que a gente carrega.
 
@@ -147,7 +147,7 @@ E o metal tem procedência declarada: o decreto determinou que a medalha fosse c
 
 Sante Forner carregava no peito o metal que tinha atirado nele.
 
-E há um detalhe nessa medalha que pode responder uma pergunta que ninguém fez.
+Há um detalhe nessa medalha que pode responder uma pergunta que ninguém fez.
 
 Ela vinha com fascette, pequenas barras presas à fita. Uma barra para cada ano civil em que o soldado tivesse servido no mínimo quatro meses, e cada barra traz o ano gravado: 1915, 1916, 1917, 1918.
 
@@ -205,7 +205,7 @@ Embaixo, a assinatura do titular, firme e inteira: *Forner Sante*. Ele sabia esc
 
 Duas coisas mais, nas bordas do papel.
 
-A primeira está no campo da filiação, e é a linha que resolveu o capítulo 4: *Padre: **di** Vincenzo. Madre: **fu** Pandolfo Domenica Santa.* Pai vivo, mãe morta. Em março de 1940 o velho ainda estava lá.
+A primeira está no campo da filiação, e é a linha que resolveu o capítulo 3: *Padre: **di** Vincenzo. Madre: **fu** Pandolfo Domenica Santa.* Pai vivo, mãe morta. Em março de 1940 o velho ainda estava lá.
 
 A segunda está na data. *Asolo, lì 8-3-1940*, e ao lado, A. XVIII. *Anno diciottesimo*: o ano dezoito da era fascista, contado a partir da Marcha sobre Roma. Quem assina não é um prefeito eleito. É *il Podestà*.
 

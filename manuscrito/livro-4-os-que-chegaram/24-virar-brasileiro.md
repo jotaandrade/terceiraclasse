@@ -1,4 +1,4 @@
-# 26. Virar brasileiro
+# 24. Virar brasileiro
 
 > Livro IV — Os que chegaram
 > A língua que some em duas gerações, e os sobrenomes que saem da linha em três.
@@ -39,7 +39,7 @@ De um dia para o outro, viraram súditos do Eixo.
 
 Carteira de estrangeiro obrigatória. Restrição de circulação. Registro em delegacia.
 
-E é aqui que um papel deste acervo deixa de ser curiosidade de arquivo.
+É aqui que um papel deste acervo deixa de ser curiosidade de arquivo.
 
 O registro de estrangeiro de Angelo Dei Agnoli, com o carimbo da Delegacia de Polícia de Grama, foi o documento que me provou para onde a família tinha ido. Eu o usei como pista de geografia.
 
@@ -53,7 +53,7 @@ Não achei processo, não achei multa, não achei denúncia, não achei apreens�
 
 O que dá para dizer é que a lei valia para eles.
 
-E há uma coisa que o documento diz sozinho.
+Há uma coisa que o documento diz sozinho.
 
 Em 29 de dezembro de 1949 — quatro anos depois do fim da guerra, vinte e dois anos depois de ter atravessado o Atlântico com um ano de idade e de ter sido pescado de um naufrágio — Enrico Miotto ainda era italiano.
 
@@ -77,7 +77,7 @@ Os netos dela não falam italiano.
 
 **Duas gerações.** É esse o prazo.
 
-E existe um marcador ainda mais frio, que eu só enxerguei quando montei a árvore inteira numa página só.
+Existe um marcador ainda mais frio, que eu só enxerguei quando montei a árvore inteira numa página só.
 
 Rosa **Forner** casou com Fausto Miotto, e teve Mafalda **Miotto**.
 
@@ -91,13 +91,13 @@ Forner durou uma geração. Miotto durou duas.
 
 O bisneto que está escrevendo este livro não se chama nem Forner nem Miotto.
 
-E não houve perda nenhuma nisso, no sentido em que se costuma falar de perda.
+Não houve perda nenhuma nisso, no sentido em que se costuma falar de perda.
 
 Ninguém foi apagado, ninguém foi obrigado a trocar de nome, nenhuma dessas três mulheres foi coagida a coisa alguma. Casaram com quem quiseram e adotaram o sobrenome do marido, que era o que se fazia.
 
 **Virar brasileiro, nesta família, foi isso: uma sequência de mulheres trocando de nome, e cada troca afastando um pouco mais a linha do porto de onde ela saiu.**
 
-E talvez seja por isso que a memória desta família passou por mulher.
+Talvez seja por isso que a memória desta família passou por mulher.
 
 O sobrenome foi embora pelo lado dos homens. A história ficou do outro.
 

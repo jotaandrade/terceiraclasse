@@ -1,4 +1,4 @@
-# 23. Terra vermelha
+# 21. Terra vermelha
 
 > Livro IV — Os que chegaram
 > Grama, o café, e a palavra que decidiu tudo: espontâneos.
@@ -37,9 +37,11 @@ Sessenta e sete pessoas, dez famílias. E aquele formulário tem uma coluna que 
 
 Preenchida antes do embarque, com o destino já resolvido: Chavantes. Barreiro. Fazenda Guatapará. S. Simão. E o mesmo nome repetido linha após linha, *Dr. Ralpho P. Silva*.
 
+E no pé da folha, a conta: *TESTE N° 67, POSTI N° 57 1/4*. Sessenta e sete cabeças contra cinquenta e sete passagens e um quarto, porque criança pequena valia fração de bilhete.
+
 Aquelas pessoas atravessaram o Atlântico com o nome do dono do trabalho delas já escrito no papel, antes de terem pisado no Brasil.
 
-E iam na terceira classe, no mesmo porão, ao lado de quem tinha comprado a passagem.
+Iam na terceira classe, no mesmo porão, ao lado de quem tinha comprado a passagem.
 
 Do lado de fora não havia diferença nenhuma. A mesma comida, o mesmo beliche, a mesma água, o mesmo cheiro.
 

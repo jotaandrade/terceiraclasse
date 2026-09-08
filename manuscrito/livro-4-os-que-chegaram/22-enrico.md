@@ -1,4 +1,4 @@
-# 24. Enrico
+# 22. Enrico
 
 > Livro IV — Os que chegaram
 > 1926 a 1998. Cinco documentos, e nada além do que eles dizem.
@@ -41,7 +41,7 @@ Vinte e dois anos depois de chegar, ele ainda era italiano.
 
 Se chegou a se naturalizar em algum momento, eu não achei o papel.
 
-E aquele documento prova uma coisa que nenhum outro prova sozinho.
+Aquele documento prova uma coisa que nenhum outro prova sozinho.
 
 Criança nascida no Brasil não precisa de registro de estrangeiro.
 
@@ -67,14 +67,12 @@ A certidão registra insuficiência respiratória como causa direta, e desnutri�
 
 Setenta e um anos, aposentado, morador da Rua Cervantes, 607, Vila Assis, Sorocaba.
 
-Foi em 6 de outubro.
-
-Ele faria setenta e dois no dia 10.
-
 Enrico Miotto atravessou o Atlântico antes de aprender a andar.
 
 Sobreviveu a um naufrágio antes de aprender a falar.
 
 Não se lembrava de nada daquilo, e sabia de tudo aquilo, porque a mãe contou.
 
-**Foi o primeiro dos onze filhos de Rosa. Foi o único que esteve no navio.**
+Foi em 6 de outubro.
+
+Ele faria setenta e dois no dia 10.

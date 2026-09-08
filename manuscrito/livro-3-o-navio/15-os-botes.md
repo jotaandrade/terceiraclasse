@@ -1,4 +1,4 @@
-# 17. Os botes
+# 15. Os botes
 
 > Livro III — O navio
 > Lugares vendidos, botes danificados, os tubarões.
@@ -51,7 +51,7 @@ Ficaram ali oito horas, até o *Empire Star* se aproximar.
 
 Domenico Leo passou a noite do mesmo jeito, na quilha de outro bote, com sete ou oito pessoas.
 
-E agora eu preciso avisar o leitor de uma coisa.
+Agora eu preciso avisar o leitor de uma coisa.
 
 O que vem a seguir são três versões da mesma meia hora, contadas por três pessoas que estavam naquele navio.
 
@@ -123,7 +123,7 @@ E os tubarões.
 
 É a parte mais famosa deste naufrágio, a que aparece em toda reportagem, e é a que menos resiste a um exame.
 
-Gabassi diz que uma mulher e uma criança foram levadas por um tubarão enorme, na tábua em que ele boiava. Ponce viu dois. Galli viu vários, e diz que um feriu um companheiro que morreu depois de içado. Malone não viu tubarão nenhum, mas viu um homem boiando com a perna destruída.
+Gabassi diz que uma mulher e uma criança foram levadas por um tubarão enorme, na tábua em que ele boiava. Ponce viu dois. Galli viu vários, e diz que um feriu um companheiro que morreu depois de içado. Malone não viu nenhum.
 
 Volpi não viu — e acrescenta: *a noite estava muito escura*. Sanfilippo não viu, e diz outra coisa no lugar: viu o corpo de uma mulher boiando agarrada a um bebê. Beria, Uccelli e Solk também não viram.
 

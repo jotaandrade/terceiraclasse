@@ -1,4 +1,4 @@
-# 4. Forner e Miotto
+# 3. Forner e Miotto
 
 > Livro I — A terra que não bastava
 > Luigi Forner, 1817. Vincenzo, Santa Pandolfo e os dez filhos. Duas casas a quatro quilômetros.
@@ -18,6 +18,8 @@ O nome mais antigo com data é Luigi Forner, nascido em 14 de agosto de 1817, em
 Oitenta e oito anos. Naquele lugar e naquele século, é quase inverossímil.
 
 Atrás dele estão os pais, Domenico Forner e Maria Vial, sem datas. Dali para trás é escuro.
+
+De Domenico e Maria até João Luca, nascido em 2012, são oito gerações documentadas, e sete delas nunca souberam que a oitava existiria.
 
 Luigi casou-se com Elisabetta Forner.
 
@@ -95,7 +97,7 @@ Guarde essa moça.
 
 Treze anos depois, aos trinta e um, ela vai estar na água escura da costa da Bahia com quatro filhos pequenos, no mesmo naufrágio da irmã mais nova que ajudou a criar.
 
-Mas isso é dali a catorze capítulos.
+Mas isso é dali a onze capítulos.
 
 E o pai?
 
@@ -123,7 +125,7 @@ Fausto nasceu em 5 de julho de 1904, em Castelcucco, às quatro da manhã.
 
 Entre o casamento em Maser e o nascimento em Castelcucco há quatro anos e quatro quilômetros.
 
-E aqui aparece uma coisa que só se enxerga com os dois lados postos lado a lado.
+Aqui aparece uma coisa que só se enxerga com os dois lados postos lado a lado.
 
 Monfumo. Maser. Castelcucco. Cavaso. Quatro vilas, e entre as duas mais distantes não vão dez quilômetros.
 
@@ -149,7 +151,7 @@ Na outra, um homem deixou o nome em três papéis ao longo de oitenta anos e mai
 
 Rosa e Fausto casaram-se em 1926.
 
-E aqui entra uma coisa que eu só descobri no fim, e que muda o desenho deste capítulo inteiro.
+Aqui entra uma coisa que eu só descobri no fim, e que muda o desenho deste capítulo inteiro.
 
 Fausto tinha irmãos.
 
@@ -169,7 +171,7 @@ Ela ficou porque casou com quem ficou.
 
 Maria Luigia Miotto casou-se com Sante Forner.
 
-Sante é o irmão da Rosa. O das três medalhas, o do Monte Grappa, o do capítulo 7 deste livro.
+Sante é o irmão da Rosa. O das três medalhas, o do Monte Grappa, o do capítulo 6 deste livro.
 
 Ou seja: **Rosa Forner casou com Fausto Miotto, e o irmão de Rosa casou com a irmã de Fausto.**
 
@@ -180,9 +182,3 @@ Numa vila de mil e setecentos habitantes isso não é romance, é geografia. Est
 Mas o efeito, cem anos depois, é este: **o primo que mora na Itália e que me mandou as fotografias deste capítulo é meu parente pelos dois lados.** Forner pelo avô, Miotto pela avó.
 
 Os dois ramos que este livro vai passar o resto do tempo separando — os que foram e os que ficaram — já estavam amarrados um no outro antes de qualquer um pisar num navio.
-
-Os sobrenomes que sobreviveram nos livros daquelas paróquias são os dos que ficaram.
-
-E durante quase um século ninguém deste lado do oceano foi atrás deles.
-
-Este livro existe porque, na quarta geração, alguém foi.

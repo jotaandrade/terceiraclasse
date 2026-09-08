@@ -1,4 +1,4 @@
-# 10. A terceira classe
+# 9. A terceira classe
 
 > Livro II — A travessia
 > O porão por dentro: beliches, comida racionada, os corpos jogados ao mar.
@@ -67,7 +67,7 @@ A coluna do *Indirizzo* existe porque o Estado brasileiro queria saber onde cada
 
 Ninguém escreveu *Gênova* em nenhuma delas. Não havia volta prevista.
 
-E há uma anotação que desfaz uma imagem inteira.
+Há uma anotação que desfaz uma imagem inteira.
 
 Na folha de 25 de janeiro de 1924, ao lado de três linhas, alguém escreveu à margem:
 
@@ -137,7 +137,7 @@ E não é lembrança unânime. Outra bisneta de Maria Luigia, que ouviu do avô 
 
 Guarde esse cozinheiro.
 
-Daqui a oito capítulos, quando o navio estiver inclinado e cheio de água e as duas irmãs tiverem se escondido no fundo de um porão, é ele que vai descer atrás delas.
+Daqui a cinco capítulos, quando o navio estiver inclinado e cheio de água e as duas irmãs tiverem se escondido no fundo de um porão, é ele que vai descer atrás delas.
 
 O papel de repartição registrou o dinheiro, a bagagem, o destino e a morte daquela gente.
 

@@ -2089,3 +2089,78 @@ literalmente o padrao com um furo de que o capitulo fala.
   **vinte** anos, cada um no seu continente.
 - Retirada do cap. 29 uma suposicao sobre a lingua que o Giorgio e o autor falam - nao e fato
   apurado, e e sobre uma pessoa viva.
+
+---
+
+## 31. Segundo parecer editorial, e a passada de corte - 08.09.2026
+
+Leitura completa dos 29 capitulos depois das cenas e do negrito, com medicao. O que apareceu
+quando o barulho baixou:
+
+- **A lista das sete pessoas era recitada cinco vezes** (caps. 9, 11, 14, 15 e 16).
+- **Os caps. 14 e 15 diziam a mesma coisa duas vezes**, com as mesmas palavras: a avaria da
+  escala africana com o mesmo *"Escrevo algum porto"*, os 971 + 288, e *"o comandante Simone
+  Guli era um homem velho com uma vida inteira de mar"* - literal, nos dois.
+- **Os vinte depoentes circulavam**: Gabassi em 5 capitulos, Solk em 5, Hassen em 4,
+  Ottaviani em 4, Lynose em 4. Sanfilippo passava as mesmas oito horas na quilha nos caps.
+  17, 19 **e** 20.
+- **A Parte I era 36% do livro** e acontecia antes de alguem embarcar; quatro dos oito
+  capitulos eram ensaio sobre a emigracao italiana.
+- **29 de 29 capitulos terminavam em frase-martelo curta.** O leitor aprende o padrao no
+  capitulo 6 e depois espera por ele, o que anula o efeito.
+- **108 dos 482 blocos abriam com "E"** - um bloco em cinco.
+- **Tres dos ultimos cinco capitulos fechavam no mesmo cliffhanger**: a avo Mafalda, viva,
+  ainda nao gravada (caps. 25, 28 e 29).
+
+### 31.1 As fusoes: 29 -> 27 capitulos
+
+**Caps. 2 + 3 -> "A Italia que nao existia"** (2.403 palavras). O politico e o economico eram
+a mesma causa contada duas vezes. Cortados no caminho: o 1848 de Veneza (comprimido), a frase
+atribuida a Verdi que nunca consegui rastrear, a Inchiesta Jacini, a descricao dos sintomas da
+pelagra (o cap. 1 ja a dava) e a sintese "Junte as pecas", que era a segunda de duas seguidas.
+Termina agora no proprio Luigi Forner atravessando o Atlantico depois dos setenta.
+
+**Caps. 14 + 15 -> "A ultima viagem"** (2.596 palavras). Catorze dias de avaria e o minuto do
+eixo viraram um movimento so, com a linha *"Eram cinco e quinze da tarde de 25 de outubro de
+1927"* como dobradica no meio. Saiu tudo o que estava em dobro.
+
+Partes agora: **I: 1-7 · II: 8-11 · III: 12-18 · IV: 19-27**. Removidas as variaveis orfas
+`CAP2`, `CAP3`, `CAP19` e `CAP20`.
+
+### 31.2 A Relacao de 1923, que aparecia tres vezes
+
+O formulario de subsidiados do *Principessa Mafalda* era apresentado no cap. 5 (coluna por
+coluna), referido no cap. 6 e lido de novo no cap. 23. Agora o **cap. 4** guarda a
+**descoberta** - eu procurando o Fausto em vinte e cinco listas e achando outra coisa - e o
+**cap. 21** faz a **leitura**, que e onde ela decide uma vida. A conta *TESTE N° 67, POSTI N°
+57 1/4* mudou de capitulo junto.
+
+### 31.3 O que nao foi fundido, e por que
+
+Eu tinha recomendado fundir tambem os caps. 5 e 6 (o cartaz e o decreto Prinetti). Olhando de
+perto, **nao ha redundancia real entre os dois** - so a da Relacao de 1923, resolvida acima -
+e a fusao daria um capitulo de 2.500 palavras a custa de material bom. Ficaram separados, e
+mais curtos.
+
+### 31.4 Os fechos
+
+Quatro capitulos deixaram de terminar em martelo:
+
+- **cap. 3** (Forner e Miotto) perdeu *"Este livro existe porque, na quarta geracao, alguem
+  foi"* - era o terceiro "este livro existe" do livro - e termina nos dois casamentos
+  cruzados.
+- **cap. 13** termina em *"Todas as sete."*
+- **cap. 22** (Enrico) termina em *"Foi em 6 de outubro. Ele faria setenta e dois no dia 10."*
+- **cap. 23** (1937) termina em *"Ela nasceu em 2 de janeiro de 1937. Esta viva. E se chama
+  Mafalda."*
+
+E os tres finais que apontavam para a avo viraram um: o do **cap. 27**. O 23 e o 26 pararam
+de anunciar a entrevista que ainda nao houve.
+
+### 31.5 O "E"
+
+De **104 blocos para 53**. Ficou onde faz trabalho: *"E o pai?"*, *"E o Fausto?"*, *"E os
+tubaroes."*, *"E o comandante ficou."*, *"E ai, no setimo, Mafalda."* Saiu de *"E ha..."*,
+*"E aqui..."*, *"E agora..."*, *"E e aqui que..."* - onde era muleta.
+
+Livro: **27 capitulos, 36.308 palavras, 574 paginas**. Negrito em 1 a cada 202 palavras.

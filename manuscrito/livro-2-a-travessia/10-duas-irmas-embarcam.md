@@ -1,4 +1,4 @@
-# 11. Duas irmãs embarcam
+# 10. Duas irmãs embarcam
 
 > Livro II — A travessia
 > Sete pessoas sobem a prancha, e nenhuma delas é um homem adulto.
@@ -51,7 +51,7 @@ Esse exame é feito em sete pessoas. Em Rosa, em Maria Luigia, e em cinco crian�
 
 Uma pálpebra virada num bebê de um ano dá choro. Cinco crianças em fila dando choro, e a fila atrás esperando.
 
-E há um detalhe físico nisso que eu só percebi depois de contar as mãos.
+Há um detalhe físico nisso que eu só percebi depois de contar as mãos.
 
 Para mostrar os próprios olhos, Rosa precisa das duas mãos livres, ou pelo menos da cabeça solta. Ela está com Enrico no colo.
 
@@ -81,7 +81,7 @@ No alto, dentro, alguém conta.
 
 Cinco. Conta de novo.
 
-Depois é o porão, o beliche numerado, o cheiro que o capítulo 10 já descreveu, e catorze dias de mar.
+Depois é o porão, o beliche numerado, o cheiro que o capítulo 9 já descreveu, e catorze dias de mar.
 
 **Sem um único adulto para dividir isso.**
 

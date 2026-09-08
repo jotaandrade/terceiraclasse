@@ -1,4 +1,4 @@
-# 22. O reencontro
+# 20. O reencontro
 
 > Livro IV — Os que chegaram
 > Fausto e Angelo recebem as mulheres e as crianças.

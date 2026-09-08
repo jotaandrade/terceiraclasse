@@ -45,8 +45,8 @@ scripts/              histórico das rodadas de correção e escrita
 
 | | |
 |---|---|
-| Capítulos | 29, em 4 livros + epílogo — I: 1-8 · II: 9-12 · III: 13-20 · IV: 21-29 |
-| **Escritos** | **29 de 29 capítulos, 37.996 palavras** |
+| Capítulos | 27, em 4 livros + epílogo — I: 1-7 · II: 8-11 · III: 12-18 · IV: 19-27 |
+| **Escritos** | **27 de 27 capítulos, 36.308 palavras** |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |
 
@@ -107,11 +107,11 @@ diz *"Vincenzo e Santa tiveram dez filhos"*; a prova disso vive em
 livro de busca, o buraco declarado é enredo, não falha. Nenhuma pendência de arquivo trava
 um capítulo.
 
-**Enrico (cap. 24).** Escrever seco, sem adjetivo. Não transformar a doença dele em
+**Enrico (cap. 22).** Escrever seco, sem adjetivo. Não transformar a doença dele em
 metáfora. A causa registrada é neoplasia de orofaringe, não câncer de língua.
 
 **Patrícia Betti.** Neta da Pulcheria e bisneta de Maria Luigia. **Consentiu em ser
-nomeada e creditada no livro (08.09.2026).** Aparece nos caps. 5, 14, 16, 22, 23 e 27. É
+nomeada e creditada no livro (08.09.2026).** Aparece nos caps. 13, 14, 20, 21 e 25. É
 fonte de boa parte da tradição oral deste projeto — o cozinheiro, o bote dos cozinheiros,
 o navio de carvão e a menina que achou o pai. Creditar sempre que o material for dela.
 
@@ -134,6 +134,21 @@ bloco**, e a **palavra que é a própria prova** (CHEFE, Náufragos, Espontâneo
 *di*, *fu*). Nome próprio, data e número não vão em negrito. Fala de documento vai em
 **itálico**. Referência de dose: um negrito a cada **200 palavras**; a um a cada 90 o negrito
 para de destacar e vira textura.
+
+**Um fato, uma vez.** *(08.09.2026)* Nome, número e depoimento entram **num capítulo só**.
+A lista das sete pessoas se recita no cap. 8 (a relação de Gênova) e no cap. 10 (o capítulo
+delas), e em nenhum outro. Cada depoente tem o capítulo dele: Sanfilippo nos botes, Gabassi
+nos 314, Ottaviani no 22h10. Antes de repetir um fato para reforçar um argumento, procurar
+onde ele já está e apontar para lá.
+
+**O fecho não pode virar métrica.** *(08.09.2026)* A frase-martelo curta no fim do capítulo
+é o melhor recurso deste livro, e se todos os capítulos a usarem o leitor aprende o padrão e
+para de sentir. Um em cada cinco termina liso — num dado, numa data, no meio de um
+documento.
+
+**"E" no começo do bloco.** *(08.09.2026)* Fica onde faz trabalho: virada curta, pergunta,
+continuação real de uma lista. Nos outros casos some. Referência: um bloco em nove, não um
+em cinco.
 
 **Fontes orais.** Não corrigir a entrevistada durante a gravação, nunca — nem data errada.
 Divergência entre depoimento e documento se resolve no papel, depois.
