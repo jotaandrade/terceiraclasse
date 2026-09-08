@@ -2001,3 +2001,91 @@ cap. 4 diz **dez**. O quadro omite **Maria Elisabetta** (1895) e **Maria Luigia*
 Acrescentado ao cap. 30, porque e material do proprio capitulo: *a genealogia impressa da
 familia deixou de fora a mulher que atravessou o Atlantico com quatro filhos e sobreviveu ao
 naufragio deste livro.*
+
+---
+
+## 30. Avaliacao profissional e o plano executado - 08.09.2026
+
+Duas medidas antes de opinar:
+
+- **400 negritos em 36.455 palavras** = um a cada **91 palavras**. O cap. 21 estava em um a
+  cada 38.
+- Tamanho de capitulo: minimo **510**, maximo **2.402**, mediana **1.096**, media **1.175**.
+
+O diagnostico: o livro tinha voz formada, metodo genuino e material que ninguem mais tem, e
+era **um livro de argumentos, nao de experiencia**. Nao havia uma cena. Rosa nunca era
+sujeito. O negrito fazia o trabalho que era das frases. Os caps. 13, 14 e 15 eram o vale fino.
+
+Plano executado nesta ordem - funde primeiro (renumera uma vez so), cenas depois (ja na
+numeracao final), negrito por ultimo (senao corta-se negrito e repoe-se escrevendo).
+
+### 30.1 Fusao: 31 -> 29 capitulos
+
+Os caps. 13 (1908), 14 (Os anos de gloria) e 15 (O declinio) contavam **uma coisa** - o navio
+nasceu de um acidente, viveu disfarcado de hotel e envelheceu porque chegaram outros - com
+tres aberturas e tres fechos. Fundidos em **"1908"**, 1.708 palavras, do lancamento do
+*Jolanda* ate *"Ninguem sobe uma prancha olhando para o eixo."*
+
+Renumerado em `CAPS`, `CHAPTERS` e `IMG_BY_CAP`. Partes agora: **I: 1-8 · II: 9-12 ·
+III: 13-20 · IV: 21-29**. Removidas as variaveis orfas `CAP16`, `CAP17`, `CAP18`.
+
+Referencias acertadas: "capitulo 19" -> **17** (Os botes); "passou trinta capitulos" ->
+**vinte e oito**; colofao "os trinta e um capitulos" -> **vinte e nove** e "reescrita do
+capitulo 31" -> **29**. As referencias relativas ("capitulo anterior", "dois capitulos
+atras") estao todas fora da faixa fundida e continuam validas.
+
+### 30.2 As cenas
+
+Quatro, todas com a **reconstrucao declarada no proprio texto** e construidas so com o que
+esta documentado mais o procedimento de epoca:
+
+- **Cap. 11, a prancha.** O exame de tracoma feito em sete pessoas; a unica pessoa disponivel
+  para segurar o bebe naquele instante tem sete anos. E a grafia errada dos nomes na lista do
+  Rio (*Forner Maria, Ginneta, Pulgheria*) como prova de que aqueles nomes **foram ouvidos,
+  nao lidos** - nao houve documento passando de mao em mao, houve uma mulher dizendo os nomes
+  dos filhos em voz alta.
+- **Cap. 15, o porao as 17h15.** Onde ficava a terceira classe em relacao ao eixo que partiu
+  (e por que: e a tarifa, nao o azar); os dinamos parando junto com as maquinas, e o porao
+  sem janela ficando escuro no meio da tarde; e a escada de ferro que durante dezoito anos
+  serviu para separar as classes. **Nao situa Rosa** - o cap. 15 continua dizendo que isso
+  ele nao tem.
+- **Cap. 21, a porta da Hospedaria.** O procedimento tem um passo - a **estufa**, onde toda
+  bagagem era fumigada - que sete pessoas sem bagagem nao tinham como cumprir. Sem mala, sem
+  passaporte, sem certidao: sobra a pessoa, e alguem teve de dizer sete nomes em voz alta
+  pela terceira vez em vinte dias.
+- **Cap. 29, a tela.** A casa nao foi vista, foi mostrada: um telefone levantado na frente de
+  uma porta, do outro lado do oceano.
+
+Retirado do cap. 21 o carvao da locomotiva que eu tinha escrito: competia com **o carvao do
+cap. 22**, que e a unica imagem que a familia guardou de tudo aquilo.
+
+**A cena da chamada de video com o Giorgio nao foi escrita por mim.** E memoria do autor, nao
+reconstrucao de documento, e inventa-la quebraria exatamente a regra que sustenta o livro.
+O cap. 29 registra a **forma** (a tela, a distancia), e o que foi dito ali fica para o Joao.
+
+Livro: 29 capitulos, **37.996 palavras**.
+
+### 30.3 O negrito: 400 -> 183
+
+Um a cada **207 palavras**. Saiu de nome proprio (o leitor ja tinha sido apresentado a
+Gabassi, Ponce, Galli, Malone), de data corriqueira e de transcricao de documento. Ficou onde
+faz trabalho: a frase que e o golpe do bloco, e a palavra que e a **propria prova** - CHEFE,
+Naufragos, Espontaneos, Subsidiados, *di*, *fu*, *Single*, *P. Mafalda*.
+
+Onde o negrito marcava a fala do documento, entrou **italico**, que ja era o que o resto do
+livro usava (`connotati e contrassegni salienti`, `Forner Sante`).
+
+No cap. 25, os onze filhos deixaram de ser onze negritos: **so MAFALDA ficou**. E
+literalmente o padrao com um furo de que o capitulo fala.
+
+### 30.4 Erros pegos no caminho
+
+- A prancha de embarque: eu tinha escrito que o navio estava **alto na agua por estar vazio
+  de carvao**. E o contrario - um navio prestes a partir esta abastecido e cala mais fundo.
+  Frase removida.
+- 25 de outubro de 1927 foi **terca-feira**, nao domingo.
+- "Rosa e Sante ficaram trinta e nove anos vivos ao mesmo tempo" estava errado: **trinta e
+  nove** e quanto Rosa sobreviveu a ele. Depois da despedida de 1927, os dois viveram
+  **vinte** anos, cada um no seu continente.
+- Retirada do cap. 29 uma suposicao sobre a lingua que o Giorgio e o autor falam - nao e fato
+  apurado, e e sobre uma pessoa viva.

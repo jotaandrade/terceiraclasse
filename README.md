@@ -30,7 +30,7 @@ livro/
   build_livro.py      fonte do livro: texto, estrutura, imagens
   export_md.py        exporta manuscrito/ e docs/ em Markdown
   html2md.py          conversor HTML → Markdown usado pelo export
-  img/                66 imagens em webp, embutidas no HTML em base64
+  img/                98 imagens em webp, embutidas no HTML em base64
 
 manuscrito/           um .md por capítulo escrito (gerado)
 docs/                 dossiê, caderno de bordo, pesquisa documental, roteiros
@@ -41,12 +41,12 @@ scripts/              histórico das rodadas de correção e escrita
 
 ---
 
-## Estado (07.09.2026)
+## Estado (08.09.2026)
 
 | | |
 |---|---|
-| Capítulos planejados | 31, em 4 livros + epílogo |
-| **Escritos** | **31 de 31 capítulos, 36.455 palavras** |
+| Capítulos | 29, em 4 livros + epílogo — I: 1-8 · II: 9-12 · III: 13-20 · IV: 21-29 |
+| **Escritos** | **29 de 29 capítulos, 37.996 palavras** |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |
 
@@ -107,11 +107,11 @@ diz *"Vincenzo e Santa tiveram dez filhos"*; a prova disso vive em
 livro de busca, o buraco declarado é enredo, não falha. Nenhuma pendência de arquivo trava
 um capítulo.
 
-**Enrico (cap. 29).** Escrever seco, sem adjetivo. Não transformar a doença dele em
+**Enrico (cap. 24).** Escrever seco, sem adjetivo. Não transformar a doença dele em
 metáfora. A causa registrada é neoplasia de orofaringe, não câncer de língua.
 
 **Patrícia Betti.** Neta da Pulcheria e bisneta de Maria Luigia. **Consentiu em ser
-nomeada e creditada no livro (08.09.2026).** Aparece nos caps. 10, 21, 27, 31 e 32. É
+nomeada e creditada no livro (08.09.2026).** Aparece nos caps. 5, 14, 16, 22, 23 e 27. É
 fonte de boa parte da tradição oral deste projeto — o cozinheiro, o bote dos cozinheiros,
 o navio de carvão e a menina que achou o pai. Creditar sempre que o material for dela.
 
@@ -121,6 +121,19 @@ via **Patrícia Betti** — e a cena é em **São Paulo, na Hospedaria**, não n
 cozinheiro e a menina que acha o pai** vêm de outra prima, de outro ramo, e a Patrícia
 **não os confirma**. Nunca apresentar o cozinheiro como consenso da família: atribuir e
 dizer que a outra linha não tem essa lembrança.
+
+**Cena reconstruída se declara.** *(08.09.2026)* O livro pode montar uma cena que ninguém
+descreveu — a prancha em Gênova, o porão às 17h15, a porta da Hospedaria — desde que **diga
+no próprio texto que está reconstruindo**, e desde que a cena seja feita só de duas coisas: o
+que os documentos dão (data, nome, idade, planta do navio) e o **procedimento de época**, que
+era escrito e igual para todo mundo. O que nunca entra é o que se passou dentro de alguém.
+Memória do autor também não é reconstrução: se só o João viveu, só o João escreve.
+
+**Negrito é caro.** *(08.09.2026)* Duas funções, e mais nenhuma: a **frase que é o golpe do
+bloco**, e a **palavra que é a própria prova** (CHEFE, Náufragos, Espontâneos, Subsidiados,
+*di*, *fu*). Nome próprio, data e número não vão em negrito. Fala de documento vai em
+**itálico**. Referência de dose: um negrito a cada **200 palavras**; a um a cada 90 o negrito
+para de destacar e vira textura.
 
 **Fontes orais.** Não corrigir a entrevistada durante a gravação, nunca — nem data errada.
 Divergência entre depoimento e documento se resolve no papel, depois.
