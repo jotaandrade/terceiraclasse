@@ -52,7 +52,7 @@ CAPS = {
   (22,'Os botes','Lugares vendidos, botes danificados, os tubarões.'),
   (23,'22h10','O navio afunda. Gulì fica a bordo.'),
   (24,'Alhena, Mosella, Empire Star','O resgate a noite inteira.'),
-  (25,'Os 314','Os mortos, o inquérito, a lenda do ouro, e por que o Brasil esqueceu.'),
+  (25,'Os 314','Os mortos não têm lista, não têm sepultura e não têm nome. E o país nunca guardou a data.'),
  ],
  'IV': [
   (26,'31 de outubro','Hospedaria do Brás. Livro 100, página 290.'),
@@ -1231,6 +1231,148 @@ destino.
 <strong>Forner Rosa, vinte e quatro anos, chefe. Enrico, um ano, filho.</strong>
 
 Vivos.""",
+]
+
+CAP25 = [
+"""Eu não tenho os nomes deles.
+
+Tenho vinte depoimentos de sobreviventes, com nome, idade, classe, cidade de origem e a
+profissão de alguns. Tenho cinquenta nomes datilografados na lista do <em>Alhena</em>, com
+idade e grau de parentesco. Tenho uma família inteira reconstruída em cartório, geração por
+geração, até 1861.
+
+<strong>Dos trezentos e catorze, não tenho lista nenhuma.</strong>""",
+
+"""O próprio número não é pacífico. Há fonte que fala em duzentos e setenta e dois.
+Trezentos e catorze é o que o cruzamento sustenta, e é o que este livro usa.
+
+A bordo iam mil duzentas e cinquenta e nove pessoas.
+
+<strong>Um em cada quatro não chegou.</strong>""",
+
+"""E o que se sabe sobre como aquelas pessoas morreram não vem de laudo, de perícia nem de
+inquérito.
+
+<strong>Vem de olho de sobrevivente.</strong>
+
+Não houve autópsia, não houve corpo, não houve investigação no local. O que existe é o que
+gente apavorada, no escuro, dentro da água, disse ter visto — e disse dias depois, num porto,
+para jornalistas.""",
+
+"""Então é isto o que ficou.
+
+<strong>Valeriano Galli</strong> tinha um companheiro ao lado. O homem foi ferido na água e
+morreu depois de içado, já em segurança.
+
+<strong>Salvador Malone</strong> viu um homem boiando com uma perna destruída.
+
+<strong>Alfio Sanfilippo</strong>, agarrado à quilha havia horas, viu passar o corpo de uma
+mulher boiando com um bebê nos braços.
+
+<strong>Eugenio Gabassi</strong> passou a noite numa tábua com quatro mulheres e três
+crianças. Quando amanheceu e o <em>Rosetti</em> o recolheu, uma das mulheres e uma das
+crianças não estavam mais ali.""",
+
+"""<strong>Ali Hassen</strong> tinha quarenta e cinco anos e embarcou em Gênova com três
+primos.
+
+Chegou ao Rio de Janeiro sozinho.
+
+Não sei o nome de nenhum dos três. Não sei a idade, não sei de onde vieram, não sei para onde
+iam. Sei que eram três, que eram primos dele, e que morreram os três — porque ele contou, e
+porque quem conta uma coisa dessas não erra a conta.""",
+
+"""Há um número que não é a lista dos mortos, mas chega perto.
+
+Sete minutos antes do fim, <strong>Mario Ottaviani</strong> olhou o convés antes de se jogar
+e contou cerca de sessenta mulheres e crianças e cerca de duzentos homens.
+
+Duzentas e sessenta pessoas.
+
+Não é a lista dos que morreram: parte daquela gente se atirou depois dele e foi recolhida.
+Mas é <strong>a última vez que alguém, naquele navio, parou para contar quem ainda estava
+vivo</strong>.""",
+
+"""Dois dos trezentos e catorze estão num documento que está em cima da minha mesa. E estão
+nele como ausência.
+
+Na lista do <em>Alhena</em>, os números 24 e 25 são <strong>Luchini Teresa, dezenove
+anos</strong>, e <strong>De Rosi Emilia, cinquenta e cinco</strong>. Aparecem sozinhas, uma
+seguida da outra, sem parentesco declarado, cada uma com um <em>x</em> marcado à margem.
+
+E no pé da folha, escrito à mão:
+
+<em>As passageiras constantes sob Nº 24 e 25 perderam seus maridos, e pedem de ser enviadas
+para Italia.</em>
+
+Os dois homens não têm nome em documento nenhum que eu tenha encontrado. Existem ali como
+aquilo que faltou ao lado do nome de duas mulheres.""",
+
+"""E a última coisa daquela folha é o que elas pedem.
+
+Dezessete dias antes tinham subido a prancha em Gênova ao lado dos maridos, indo embora para
+sempre. Atravessaram o Atlântico inteiro. Chegaram.
+
+<strong>E o que pedem, na primeira repartição brasileira em que puderam falar, é para
+voltar.</strong>""",
+
+"""Não houve recolhimento de corpos.
+
+Os navios que chegaram naquela noite estavam apanhando gente viva no escuro, e foram embora
+ao amanhecer, cada um para o porto que já era o seu destino. Ninguém voltou àquele ponto do
+mar.
+
+Quem morreu ali ficou ali. <strong>Não existe sepultura de nenhum dos trezentos e catorze, em
+lugar nenhum, com nome nenhum.</strong>""",
+
+"""E aqui eu preciso admitir uma coisa sobre este livro.
+
+Ele é feito de depoimento. E depoimento é coisa de vivo.
+
+Vinte e quatro capítulos até agora, e quase todos são sobre gente que chegou. Não porque
+quem chegou importe mais. Porque foram eles que puderam falar.
+
+As duas mulheres desta família estão neste livro pelo mesmo motivo pelo qual quase todo mundo
+está: <strong>não morreram</strong>.""",
+
+"""E a minha família fica devendo.
+
+Rosa e Maria Luigia estiveram na água daquela noite com cinco crianças. Estiveram num bote.
+Foram passadas de navio em navio, no escuro. É quase impossível que não tenham visto alguém
+morrer.
+
+Nada disso atravessou.
+
+O que chegou até mim, por três gerações e pela boca, foi o cozinheiro, o porão, o carvão, e um
+pai procurando as filhas entre gente preta de fuligem.
+
+<strong>Sobre os mortos, silêncio.</strong>""",
+
+"""Eu acho que sei por quê, e é a coisa menos documentada que eu vou escrever neste livro.
+
+Uma família que atravessou uma noite dessas conta a parte que salva. Conta o cozinheiro.
+Conta o carvão. Conta o reencontro.
+
+A outra parte ela não conta, e não conta porque contar seria entregar aos filhos e aos netos
+alguma coisa que ela mesma não conseguiu carregar direito.
+
+Dez anos depois daquela noite, Rosa teve uma filha e botou nela <strong>o nome do
+navio</strong>.
+
+Isso não é esquecimento. Quem esquece não faz uma coisa dessas.""",
+
+"""E eu cheguei aos quarenta e poucos anos sabendo apenas que tinha havido um navio.
+
+Não aprendi na escola. Não vi em livro didático, não passei por nenhuma placa. Nenhum 25 de
+outubro da minha vida foi aniversário de coisa alguma.
+
+Um transatlântico afundou diante da costa da Bahia levando mil duzentas e cinquenta e nove
+pessoas, e a maior parte delas estava vindo para cá. Para ser brasileira. Muitas já tinham
+parente esperando numa estação do interior de São Paulo.
+
+<strong>Foi memória de família, não memória de país.</strong>
+
+É por causa dessa diferença que este livro existe.""",
 ]
 
 CAP19 = [
@@ -3420,7 +3562,7 @@ Para que quando o navio afundar, o leitor saiba exatamente o que aquelas pessoas
 tentando alcançar, e o que já tinham atravessado antes de chegar à água.""",
 ]
 
-CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24}
+CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24, 25: CAP25}
 
 # ------------------------------------------------------------------ paginas
 pages = []

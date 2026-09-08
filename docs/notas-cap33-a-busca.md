@@ -381,3 +381,18 @@ Fica assim: em 1916 aquela casa, que tinha enterrado a mãe dois anos antes, per
 6. **A quarta fonte** — o fecho: a árvore colaborativa erra de um jeito que nenhum livro
    velho erra, e o erro tem a mesma aparência de tudo o mais.
 
+
+---
+
+## Movido para cá do capítulo 25 (07.09.2026)
+
+O capítulo 25 estava planejado como *"os mortos + o inquérito italiano + a lenda do ouro a
+bordo + por que o Brasil esqueceu"*. Os dois do meio saíram na hora de escrever: **não há uma
+linha de documento no acervo sobre nenhum dos dois** — só menção de terceira mão.
+
+- **O inquérito italiano.** Se existiu processo, ele estaria na Navigazione Generale Italiana
+  ou no tribunal marítimo. Nada localizado até hoje.
+- **A lenda do ouro a bordo.** Circula em reportagem e em site de naufrágio. Sem fonte primária.
+
+Ficam aqui até aparecer papel. Se aparecerem, entram no 33 como episódio de busca, não como
+fato no 25.
