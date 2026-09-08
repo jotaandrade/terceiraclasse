@@ -35,6 +35,20 @@ E existe a casa.
 
 Eu não sei o número da porta. Não sei se ainda é da família, se foi vendida, se alguém mora dentro. Sei que ela existe e que ele sabe onde fica.
 
+E vale registrar como foi que eu a vi, porque a forma diz mais do que a casa.
+
+Eu não cheguei nela. Ela chegou em mim, numa tela, segurada por um homem que eu nunca vi pessoalmente, do outro lado do oceano.
+
+De um lado, um sujeito de pé num lugar onde a família dele está há duzentos anos. Do outro, um sujeito sentado numa mesa no Brasil, quatro gerações depois de alguém ter descido aquela estrada.
+
+**É isso que sobrou de cem anos de separação: um telefone levantado na frente de uma porta.**
+
+E é pouco, e é tudo.
+
+Nenhuma das quatro pessoas que saíram dali entre 1925 e 1927 tornou a ver quem ficou. Rosa e Sante ainda viveram vinte anos depois daquela despedida, cada um no seu continente, e não sobrou uma carta.
+
+**A primeira vez que os dois lados desta família se olharam de novo, um deles estava apontando uma câmera para uma parede.**
+
 Foi por uma porta em Castelcucco que Rosa Forner saiu, num dia de outubro de 1927, com Enrico de um ano no colo.
 
 Ela desceu a estrada até Asolo, pegou o trem para Treviso, e de Treviso foi a Gênova.

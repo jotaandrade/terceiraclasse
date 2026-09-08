@@ -27,9 +27,61 @@ O que sobrou para elas foi isto.
 
 Sair de Monfumo e de Castelcucco com cinco crianças. A estrada até Asolo, o trem até Treviso, outro trem até Gênova. Atravessar uma cidade que nenhuma das duas conhecia, com bagagem e com criança de colo.
 
-Achar o navio, achar a fila certa, passar pela inspeção sanitária, responder ao funcionário, entregar o nome e a idade de cada uma das sete pessoas.
+E só então o navio.
 
-E depois catorze dias de mar.
+Aqui eu vou fazer uma coisa que não fiz em nenhum outro capítulo deste livro, e é melhor avisar antes de fazer.
+
+**Não existe descrição do embarque delas.** Ninguém escreveu, ninguém contou, e a lista de Gênova é um dos papeis que eu não achei.
+
+O que existe é a data, os sete nomes, as sete idades — e o procedimento, que era o mesmo para toda gente de terceira classe que embarcava num porto italiano em 1927, e sobre o qual há documentação farta.
+
+Então o que vem agora é reconstrução, e está declarada. Está aqui porque a alternativa é continuar resumindo em quatro linhas a coisa que dá título a este capítulo.
+
+É 11 de outubro de 1927.
+
+Elas já estão em Gênova há alguns dias, porque ninguém chegava no dia. Enrico completou um ano na véspera, dentro dessa espera.
+
+A terceira classe embarca separado, e embarca antes. É uma fila comprida de gente com trouxa, mala amarrada e criança, encostada no cais, e ela não anda: pára e anda.
+
+O que faz a fila parar é o médico.
+
+A companhia respondia pelo passageiro recusado do outro lado do oceano, e por isso examinava deste lado. O exame que importava era o dos olhos: o polegar do médico vira a pálpebra para cima e procura o tracoma.
+
+**Esse exame é feito em sete pessoas.** Em Rosa, em Maria Luigia, e em cinco crianças, das quais a mais velha tem sete anos e a mais nova tem dois — e uma que tem um ano e não anda.
+
+Uma pálpebra virada num bebê de um ano dá choro. Cinco crianças em fila dando choro, e a fila atrás esperando.
+
+E há um detalhe físico nisso que eu só percebi depois de contar as mãos.
+
+Para mostrar os próprios olhos, Rosa precisa das duas mãos livres, ou pelo menos da cabeça solta. Ela está com Enrico no colo.
+
+Não há marido, não há irmão, não há pai. Maria Luigia está com quatro.
+
+**A única pessoa disponível para segurar o bebê naquele instante tem sete anos.**
+
+Depois do médico vem o funcionário, e o funcionário pede os nomes.
+
+Essa parte não é reconstrução — ela deixou marca. Catorze dias depois, no Rio de Janeiro, outro funcionário escreveu aqueles mesmos nomes numa lista, e escreveu assim:
+
+**Forner Maria. Ginneta. Pulgheria.**
+
+Não é *Maria Luigia*, não é *Gina*, não é *Pulcheria*. São os nomes como soam na boca de uma mulher do Vêneto e como caem no ouvido de um homem que escreve depressa.
+
+**Nenhum daqueles nomes foi lido. Todos foram ouvidos.** É a prova, no papel, de que ali não houve documento nenhum passando de mão em mão: houve uma mulher dizendo em voz alta o nome dos filhos, uma vez atrás da outra.
+
+E então a prancha.
+
+Uma prancha de embarque de terceira classe é estreita. Passa uma pessoa por vez, com corrimão de um lado só, e ela sobe: do cais até o portaló há vários metros de subida.
+
+Quem sobe uma prancha dessas com uma criança de mão dada tem que escolher entre a mão da criança e o corrimão.
+
+Rosa sobe com Enrico. Maria Luigia sobe quatro vezes essa escolha.
+
+No alto, dentro, alguém conta.
+
+Cinco. Conta de novo.
+
+Depois é o porão, o beliche numerado, o cheiro que o capítulo 10 já descreveu, e catorze dias de mar.
 
 **Sem um único adulto para dividir isso.**
 

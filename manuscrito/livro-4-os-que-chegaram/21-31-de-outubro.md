@@ -19,6 +19,40 @@ A roupa de cama, as ferramentas, as fotografias, os documentos, a roupa de domin
 
 Chegaram com o corpo e com as crianças.
 
+Vale entrar por aquela porta com elas, e aqui eu faço outra vez o que fiz no capítulo 11: o que vem agora é reconstrução declarada.
+
+O que existe é a data, a página, os sete nomes — e o procedimento da Hospedaria do Brás, que era escrito, rígido e igual para todo mundo.
+
+O procedimento é o que interessa, porque ele tem um passo que aquelas sete pessoas não tinham como cumprir.
+
+A Hospedaria não ficava perto da estação. **A estação entrava nela.**
+
+O prédio do Brás tinha desvio ferroviário próprio. O trem parava dentro, e o imigrante descia do vagão já do lado de dentro do muro, sem atravessar a cidade. Era um edifício para milhares de pessoas ao mesmo tempo, e funcionava como funciona uma alfândega de gente.
+
+Chegar ali era chegar direto no procedimento. Não havia rua no meio, nem praça, nem cidade: havia o vagão, a plataforma e a fila.
+
+Do lado de dentro a ordem era banho, desinfecção, inspeção médica, registro, dormitório.
+
+E a bagagem ia para a estufa.
+
+Esse era o passo. Todo volume que entrava naquele prédio era fumigado antes de subir para o alojamento, porque a Hospedaria existia tanto para receber gente quanto para impedir que a gente recebida trouxesse doença para dentro de São Paulo.
+
+**Rosa e Maria Luigia não tinham volume nenhum.**
+
+Não havia mala para pôr na estufa. Não havia trouxa para etiquetar. Não havia passaporte para carimbar, nem certidão, nem contrato, nem bilhete — nem o papel que provasse que elas tinham comprado a passagem do navio que as tinha trazido até ali.
+
+Estava tudo no mesmo lugar onde tinha ficado o navio.
+
+E é aqui que a palavra que vem duas páginas adiante deixa de ser uma anotação de escrivão.
+
+Um funcionário de hospedaria trabalha conferindo papel contra pessoa. Quando não há papel, sobra a pessoa.
+
+Alguém teve de ficar de pé na frente daquele balcão e dizer em voz alta, em italiano, sete nomes e sete idades, sem nada na mão para provar nenhum deles.
+
+Já tinha feito isso em Gênova, em 11 de outubro, e no Rio de Janeiro, em 28. Esta era a terceira vez em vinte dias.
+
+**E as três vezes valeram.** Os sete nomes estão nos três papéis.
+
 Em **31 de outubro de 1927**, seis dias depois do naufrágio, alguém abriu o Livro 100 da Hospedaria de Imigrantes do Brás na página 290 e começou a escrever.
 
 Aquele livro era o funil por onde passava a imigração de São Paulo. Nome, idade, residência, número de família, destino. Milhares de páginas iguais, uma atrás da outra, por décadas.

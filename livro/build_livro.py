@@ -1437,6 +1437,53 @@ que tivesse sobrado da passagem. Uma família que emigra leva o que consegue, e 
 
 Chegaram com o corpo e com as crianças.""",
 
+"""Vale entrar por aquela porta com elas, e aqui eu faço outra vez o que fiz no capítulo 11:
+o que vem agora é reconstrução declarada.
+
+O que existe é a data, a página, os sete nomes — e o procedimento da Hospedaria do Brás, que
+era escrito, rígido e igual para todo mundo.
+
+O procedimento é o que interessa, porque ele tem um passo que aquelas sete pessoas não tinham
+como cumprir.""",
+
+"""A Hospedaria não ficava perto da estação. <strong>A estação entrava nela.</strong>
+
+O prédio do Brás tinha desvio ferroviário próprio. O trem parava dentro, e o imigrante descia
+do vagão já do lado de dentro do muro, sem atravessar a cidade. Era um edifício para milhares
+de pessoas ao mesmo tempo, e funcionava como funciona uma alfândega de gente.
+
+Chegar ali era chegar direto no procedimento. Não havia rua no meio, nem praça, nem cidade:
+havia o vagão, a plataforma e a fila.""",
+
+"""Do lado de dentro a ordem era banho, desinfecção, inspeção médica, registro, dormitório.
+
+E a bagagem ia para a estufa.
+
+Esse era o passo. Todo volume que entrava naquele prédio era fumigado antes de subir para o
+alojamento, porque a Hospedaria existia tanto para receber gente quanto para impedir que a
+gente recebida trouxesse doença para dentro de São Paulo.""",
+
+"""<strong>Rosa e Maria Luigia não tinham volume nenhum.</strong>
+
+Não havia mala para pôr na estufa. Não havia trouxa para etiquetar. Não havia passaporte para
+carimbar, nem certidão, nem contrato, nem bilhete — nem o papel que provasse que elas tinham
+comprado a passagem do navio que as tinha trazido até ali.
+
+Estava tudo no mesmo lugar onde tinha ficado o navio.""",
+
+"""E é aqui que a palavra que vem duas páginas adiante deixa de ser uma anotação de escrivão.
+
+Um funcionário de hospedaria trabalha conferindo papel contra pessoa. Quando não há papel,
+sobra a pessoa.
+
+Alguém teve de ficar de pé na frente daquele balcão e dizer em voz alta, em italiano, sete
+nomes e sete idades, sem nada na mão para provar nenhum deles.
+
+Já tinha feito isso em Gênova, em 11 de outubro, e no Rio de Janeiro, em 28. Esta era a
+terceira vez em vinte dias.
+
+<strong>E as três vezes valeram.</strong> Os sete nomes estão nos três papéis.""",
+
 """Em <strong>31 de outubro de 1927</strong>, seis dias depois do naufrágio, alguém abriu o
 Livro 100 da Hospedaria de Imigrantes do Brás na página 290 e começou a escrever.
 
@@ -2345,10 +2392,82 @@ Sair de Monfumo e de Castelcucco com cinco crianças. A estrada até Asolo, o tr
 outro trem até Gênova. Atravessar uma cidade que nenhuma das duas conhecia, com bagagem e com
 criança de colo.
 
-Achar o navio, achar a fila certa, passar pela inspeção sanitária, responder ao funcionário,
-entregar o nome e a idade de cada uma das sete pessoas.
+E só então o navio.""",
 
-E depois catorze dias de mar.
+"""Aqui eu vou fazer uma coisa que não fiz em nenhum outro capítulo deste livro, e é melhor
+avisar antes de fazer.
+
+<strong>Não existe descrição do embarque delas.</strong> Ninguém escreveu, ninguém contou, e a
+lista de Gênova é um dos papeis que eu não achei.
+
+O que existe é a data, os sete nomes, as sete idades — e o procedimento, que era o mesmo para
+toda gente de terceira classe que embarcava num porto italiano em 1927, e sobre o qual há
+documentação farta.
+
+Então o que vem agora é reconstrução, e está declarada. Está aqui porque a alternativa é
+continuar resumindo em quatro linhas a coisa que dá título a este capítulo.""",
+
+"""É 11 de outubro de 1927.
+
+Elas já estão em Gênova há alguns dias, porque ninguém chegava no dia. Enrico completou um ano
+na véspera, dentro dessa espera.
+
+A terceira classe embarca separado, e embarca antes. É uma fila comprida de gente com trouxa,
+mala amarrada e criança, encostada no cais, e ela não anda: pára e anda.""",
+
+"""O que faz a fila parar é o médico.
+
+A companhia respondia pelo passageiro recusado do outro lado do oceano, e por isso examinava
+deste lado. O exame que importava era o dos olhos: o polegar do médico vira a pálpebra para
+cima e procura o tracoma.
+
+<strong>Esse exame é feito em sete pessoas.</strong> Em Rosa, em Maria Luigia, e em cinco
+crianças, das quais a mais velha tem sete anos e a mais nova tem dois — e uma que tem um ano
+e não anda.
+
+Uma pálpebra virada num bebê de um ano dá choro. Cinco crianças em fila dando choro, e a
+fila atrás esperando.""",
+
+"""E há um detalhe físico nisso que eu só percebi depois de contar as mãos.
+
+Para mostrar os próprios olhos, Rosa precisa das duas mãos livres, ou pelo menos da cabeça
+solta. Ela está com Enrico no colo.
+
+Não há marido, não há irmão, não há pai. Maria Luigia está com quatro.
+
+<strong>A única pessoa disponível para segurar o bebê naquele instante tem sete anos.</strong>""",
+
+"""Depois do médico vem o funcionário, e o funcionário pede os nomes.
+
+Essa parte não é reconstrução — ela deixou marca. Catorze dias depois, no Rio de Janeiro,
+outro funcionário escreveu aqueles mesmos nomes numa lista, e escreveu assim:
+
+<strong>Forner Maria. Ginneta. Pulgheria.</strong>
+
+Não é <em>Maria Luigia</em>, não é <em>Gina</em>, não é <em>Pulcheria</em>. São os nomes
+como soam na boca de uma mulher do Vêneto e como caem no ouvido de um homem que escreve
+depressa.
+
+<strong>Nenhum daqueles nomes foi lido. Todos foram ouvidos.</strong> É a prova, no papel, de
+que ali não houve documento nenhum passando de mão em mão: houve uma mulher dizendo em voz
+alta o nome dos filhos, uma vez atrás da outra.""",
+
+"""E então a prancha.
+
+Uma prancha de embarque de terceira classe é estreita. Passa uma pessoa por vez, com corrimão
+de um lado só, e ela sobe: do cais até o portaló há vários metros de subida.
+
+Quem sobe uma prancha dessas com uma criança de mão dada tem que escolher entre a mão da
+criança e o corrimão.
+
+Rosa sobe com Enrico. Maria Luigia sobe quatro vezes essa escolha.""",
+
+"""No alto, dentro, alguém conta.
+
+Cinco. Conta de novo.
+
+Depois é o porão, o beliche numerado, o cheiro que o capítulo 10 já descreveu, e catorze dias
+de mar.
 
 <strong>Sem um único adulto para dividir isso.</strong>""",
 
@@ -2703,6 +2822,27 @@ esteve nela. Foi ele quem me mostrou.
 
 Eu não sei o número da porta. Não sei se ainda é da família, se foi vendida, se alguém mora
 dentro. Sei que ela existe e que ele sabe onde fica.""",
+
+"""E vale registrar como foi que eu a vi, porque a forma diz mais do que a casa.
+
+Eu não cheguei nela. Ela chegou em mim, numa tela, segurada por um homem que eu nunca vi
+pessoalmente, do outro lado do oceano.
+
+De um lado, um sujeito de pé num lugar onde a família dele está há duzentos anos. Do outro,
+um sujeito sentado numa mesa no Brasil, quatro gerações depois de alguém ter descido aquela
+estrada.
+
+<strong>É isso que sobrou de cem anos de separação: um telefone levantado na frente de uma
+porta.</strong>""",
+
+"""E é pouco, e é tudo.
+
+Nenhuma das quatro pessoas que saíram dali entre 1925 e 1927 tornou a ver quem ficou. Rosa e
+Sante ainda viveram vinte anos depois daquela despedida, cada um no seu continente, e não
+sobrou uma carta.
+
+<strong>A primeira vez que os dois lados desta família se olharam de novo, um deles estava
+apontando uma câmera para uma parede.</strong>""",
 
 """Foi por uma porta em Castelcucco que Rosa Forner saiu, num dia de outubro de 1927, com
 Enrico de um ano no colo.
@@ -3282,6 +3422,59 @@ O aço rasgou. A água entrou. E entrou naquela velocidade que os relatórios
 descrevem em metros cúbicos por minuto e que, para quem estava lá dentro,
 significou simplesmente que o chão do porão sumiu debaixo de um barulho que
 ninguém nunca tinha ouvido.""",
+
+"""Vale parar nas cinco e quinze mais um instante, porque é aqui que este livro costuma
+correr.
+
+O que aconteceu no fundo daquele navio naquele minuto tem descrição possível, e ela não
+depende de saber onde Rosa estava. Depende de onde ficava a terceira classe.
+
+O eixo se parte na popa, embaixo, abaixo da linha d’água.
+
+<strong>A terceira classe é a acomodação mais próxima disso.</strong> Não é acaso e não é
+azar: é a tarifa. O bilhete mais barato é o pior lugar, e o pior lugar é o de baixo, encostado
+no casco e encostado nas máquinas.
+
+Cento e quarenta pessoas em cima ouviram um estrondo. Mais de oitocentas embaixo ouviram o
+aço.""",
+
+"""Cinco e quinze da tarde é hora de gente acordada.
+
+Não é a noite, não é a madrugada, não é gente dormindo. É o fim de tarde de uma terça-feira no
+mar, com o corredor cheio, a fila da comida começando a se formar e as crianças
+correndo no corredor de madeira porque não havia outro lugar para correr.
+
+O barulho pega aquilo assim, inteiro e de pé.""",
+
+"""E então as máquinas param, e com elas param os dínamos.
+
+Um navio a vapor faz a própria eletricidade. Quando a casa de máquinas alaga, a luz vai junto.
+
+Em cima ainda há sol: falta uma hora e seis minutos para as seis e vinte e um.
+
+Embaixo, não. Um porão sem janela e sem luz elétrica fica escuro no ato, no meio da tarde.""",
+
+"""Para sair dali, sobe-se.
+
+Não há outra maneira. A terceira classe está abaixo, os botes estão acima, e entre uma coisa e
+outra há escadas de bordo — íngremes, estreitas, degrau de ferro, feitas para uma pessoa por
+vez.
+
+São as mesmas escadas separadas, os mesmos corredores separados e as mesmas portas que se
+abriam num sentido só, que durante dezoito anos serviram para que a primeira classe não visse
+a terceira.
+
+Às cinco e quinze da tarde de 25 de outubro de 1927 elas viraram outra coisa.""",
+
+"""E aqui está a conta que este capítulo tem de fazer, e é a conta da prancha de Gênova, ao
+contrário.
+
+Duas mulheres. Cinco crianças. A mais velha com sete anos. Um bebê de um ano no colo.
+
+Subindo uma escada de ferro, no escuro, num navio que já estava inclinando para bombordo.
+
+<strong>Isso é o que a arquitetura daquele navio impõe.</strong> Onde exatamente elas estavam
+quando o eixo partiu, e o que exatamente cada uma fez em seguida, é a parte que eu não tenho.""",
 
 """Na sala de máquinas os homens souberam primeiro. Sempre sabem.
 
