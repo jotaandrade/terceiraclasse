@@ -1724,3 +1724,16 @@ Joao Luca | caderno: Divino Betti.
 Ha mais na pasta do Drive: `carta-de-identidade.jpg`, `Panfleto Oficial da Imigracao...`,
 `prnc-mafalda-cartaz2.jpg`, `42915663.jpg`, fotos da familia do autor, e o primo filho de
 Miotto Asia. Avaliar uma a uma.
+
+### Incorporado ao texto em 08.09.2026
+
+**Cap. 4** ganhou quatro blocos no fim: os irmaos de Fausto, o alerta das duas Maria Luigia,
+o casamento de Sante com Maria Luigia Miotto, e a conclusao - *"nao houve um casamento entre
+estas duas familias. Houve dois, cruzados"*, com o primo italiano sendo parente pelos dois
+lados.
+
+**Cap. 7** passou a dizer com quem Sante casou.
+
+FALTA AINDA: o cap. 29 ("Os que ficaram") argumenta que a linha que ficou seguiu por homens e
+a que foi seguiu por mulheres. Continua verdade, mas agora ha um dado a mais - Giorgio
+descende das duas familias. Avaliar se entra.

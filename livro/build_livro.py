@@ -4170,6 +4170,50 @@ Na outra, um homem deixou o nome em três papéis ao longo de oitenta anos e mai
 
 <strong>Rosa e Fausto casaram-se em 1926.</strong>""",
 
+"""E aqui entra uma coisa que eu só descobri no fim, e que muda o desenho deste capítulo
+inteiro.
+
+<strong>Fausto tinha irmãos.</strong>
+
+Maria Luigia. Amabile Veronica. Vittorio. Asia. E pelo menos mais uma irmã, cujo nome eu
+ainda não sei.
+
+Quem me deu esses nomes foi <strong>Giorgio Forner</strong>, na Itália, escrevendo debaixo de
+fotografias que a família dele guardou por um século. Até recebê-las, eu tinha do lado Miotto
+três linhas de cartório e mais nada.""",
+
+"""A mais velha dessas irmãs chamava-se <strong>Maria Luigia Miotto</strong>.
+
+Leia o nome outra vez, porque este livro já tem uma Maria Luigia, e não é esta.
+
+A que vai atravessar o Atlântico com quatro filhos pequenos é <strong>Forner</strong> Maria
+Luigia, irmã da Rosa.
+
+Esta outra é <strong>Miotto</strong> Maria Luigia, irmã do Fausto. E esta não foi a lugar
+nenhum.""",
+
+"""Ela ficou porque casou com quem ficou.
+
+<strong>Maria Luigia Miotto casou-se com Sante Forner.</strong>
+
+Sante é o irmão da Rosa. O das três medalhas, o do Monte Grappa, o do capítulo 7 deste livro.
+
+Ou seja: <strong>Rosa Forner casou com Fausto Miotto, e o irmão de Rosa casou com a irmã de
+Fausto.</strong>""",
+
+"""Não houve um casamento entre estas duas famílias. Houve dois, cruzados.
+
+Numa vila de mil e setecentos habitantes isso não é romance, é geografia. Este capítulo já
+mostrou que ninguém ali se movia mais que quatro quilômetros por vez e que os mesmos
+sobrenomes se repetiam dos dois lados do altar.
+
+Mas o efeito, cem anos depois, é este: <strong>o primo que mora na Itália e que me mandou as
+fotografias deste capítulo é meu parente pelos dois lados.</strong> Forner pelo avô, Miotto
+pela avó.
+
+Os dois ramos que este livro vai passar trinta capítulos separando — os que foram e os que
+ficaram — já estavam amarrados um no outro antes de qualquer um pisar num navio.""",
+
 """Os sobrenomes que sobreviveram nos livros daquelas paróquias são os dos que ficaram.
 
 Os que ficaram são os que hoje quase ninguém procura.
@@ -4863,9 +4907,11 @@ Fica sem nome, porque inventar aqui seria fácil e seria errado.""",
 
 """Sante Forner voltou.
 
-Casou, teve filhos, e continuou onde sempre esteve. Leo, Delfina e Galliano são dele. De
-Galliano veio Giorgio, que hoje mora na mesma região, conhece a história inteira, e é
-quem guarda o quadro.
+Casou com <strong>Maria Luigia Miotto</strong>, irmã mais velha de Fausto — de modo que os
+dois Forner desta história, Rosa e Sante, casaram com dois Miotto.
+
+Teve filhos e continuou onde sempre esteve. Leo, Delfina e Galliano são dele. De Galliano veio
+Giorgio, que hoje mora na mesma região, conhece a história inteira, e é quem guarda o quadro.
 
 Morreu em 1947, aos cinquenta e quatro anos.
 

@@ -149,6 +149,38 @@ Na outra, um homem deixou o nome em três papéis ao longo de oitenta anos e mai
 
 **Rosa e Fausto casaram-se em 1926.**
 
+E aqui entra uma coisa que eu só descobri no fim, e que muda o desenho deste capítulo inteiro.
+
+**Fausto tinha irmãos.**
+
+Maria Luigia. Amabile Veronica. Vittorio. Asia. E pelo menos mais uma irmã, cujo nome eu ainda não sei.
+
+Quem me deu esses nomes foi **Giorgio Forner**, na Itália, escrevendo debaixo de fotografias que a família dele guardou por um século. Até recebê-las, eu tinha do lado Miotto três linhas de cartório e mais nada.
+
+A mais velha dessas irmãs chamava-se **Maria Luigia Miotto**.
+
+Leia o nome outra vez, porque este livro já tem uma Maria Luigia, e não é esta.
+
+A que vai atravessar o Atlântico com quatro filhos pequenos é **Forner** Maria Luigia, irmã da Rosa.
+
+Esta outra é **Miotto** Maria Luigia, irmã do Fausto. E esta não foi a lugar nenhum.
+
+Ela ficou porque casou com quem ficou.
+
+**Maria Luigia Miotto casou-se com Sante Forner.**
+
+Sante é o irmão da Rosa. O das três medalhas, o do Monte Grappa, o do capítulo 7 deste livro.
+
+Ou seja: **Rosa Forner casou com Fausto Miotto, e o irmão de Rosa casou com a irmã de Fausto.**
+
+Não houve um casamento entre estas duas famílias. Houve dois, cruzados.
+
+Numa vila de mil e setecentos habitantes isso não é romance, é geografia. Este capítulo já mostrou que ninguém ali se movia mais que quatro quilômetros por vez e que os mesmos sobrenomes se repetiam dos dois lados do altar.
+
+Mas o efeito, cem anos depois, é este: **o primo que mora na Itália e que me mandou as fotografias deste capítulo é meu parente pelos dois lados.** Forner pelo avô, Miotto pela avó.
+
+Os dois ramos que este livro vai passar trinta capítulos separando — os que foram e os que ficaram — já estavam amarrados um no outro antes de qualquer um pisar num navio.
+
 Os sobrenomes que sobreviveram nos livros daquelas paróquias são os dos que ficaram.
 
 Os que ficaram são os que hoje quase ninguém procura.

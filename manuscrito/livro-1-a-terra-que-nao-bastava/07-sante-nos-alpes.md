@@ -165,7 +165,9 @@ Fica sem nome, porque inventar aqui seria fácil e seria errado.
 
 Sante Forner voltou.
 
-Casou, teve filhos, e continuou onde sempre esteve. Leo, Delfina e Galliano são dele. De Galliano veio Giorgio, que hoje mora na mesma região, conhece a história inteira, e é quem guarda o quadro.
+Casou com **Maria Luigia Miotto**, irmã mais velha de Fausto — de modo que os dois Forner desta história, Rosa e Sante, casaram com dois Miotto.
+
+Teve filhos e continuou onde sempre esteve. Leo, Delfina e Galliano são dele. De Galliano veio Giorgio, que hoje mora na mesma região, conhece a história inteira, e é quem guarda o quadro.
 
 Morreu em 1947, aos cinquenta e quatro anos.
 
