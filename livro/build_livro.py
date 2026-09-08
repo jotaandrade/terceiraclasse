@@ -5569,6 +5569,24 @@ body{background:var(--room);color:var(--ink);font-family:var(--fb);margin:0}
 .fm-1{font-family:var(--fd);font-style:italic;font-size:2.2em;margin:0;color:var(--accent)}
 .fm-2{font-family:var(--fu);font-size:.76em;line-height:1.7;color:var(--faint);margin:1.6em 0 0}
 
+/* dica */
+.dica{position:fixed;z-index:42;left:50%;transform:translateX(-50%);bottom:1.25rem;
+ font-family:var(--fu);font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;
+ color:var(--faint);background:var(--sheet);border:1px solid var(--rule);padding:.4rem .8rem;
+ opacity:1;transition:opacity .6s ease;pointer-events:none}
+.dica[data-off="1"]{opacity:0}
+@media (max-width:640px){.dica{display:none}}
+
+/* virar pagina */
+.pager{position:fixed;z-index:42;right:1.1rem;bottom:3.6rem;display:flex;flex-direction:column;
+ border:1px solid var(--rule);background:var(--sheet)}
+.pager button{background:none;border:0;color:var(--ink);font-size:.72rem;line-height:1;
+ padding:.5rem .7rem;cursor:pointer;font-family:var(--fu)}
+.pager button+button{border-top:1px solid var(--rule)}
+.pager button:hover,.pager button:focus-visible{color:var(--accent);outline:none}
+.stage:focus{outline:none}
+@media (max-width:640px){.pager{display:none}}
+
 /* dedicatoria e agradecimentos */
 .dedic{margin:auto 0;text-align:center}
 .dd-1{font-family:var(--fu);font-size:.72em;letter-spacing:.22em;text-transform:uppercase;
@@ -5729,9 +5747,31 @@ JS = """
   else if(k==='0'){e.preventDefault();setZoom(1-zi);}
  });
 
+ /* o teclado so recebe tecla se o foco estiver dentro desta pagina.
+    num artefato embutido isso nao acontece sozinho: forçamos. */
+ stage.setAttribute('tabindex','-1');
+ function pegarFoco(){ try{ stage.focus({preventScroll:true}); }catch(e){ try{stage.focus();}catch(_){} } }
+ window.addEventListener('load', function(){ setTimeout(pegarFoco, 120); });
+ setTimeout(pegarFoco, 300);
+ document.addEventListener('mousedown', function(e){
+  if(e.target.closest && (e.target.closest('button')||e.target.closest('a')||e.target.closest('.ptrack'))) return;
+  pegarFoco();
+ });
+ document.addEventListener('mouseenter', pegarFoco);
+ stage.addEventListener('keydown', function(e){
+  /* o listener principal esta no document; este so garante que o evento chegue */
+ });
+
+ var bprev=document.getElementById('pprev'), bnext=document.getElementById('pnext');
+ if(bprev) bprev.addEventListener('click',function(){ go(cur()-1); pegarFoco(); });
+ if(bnext) bnext.addEventListener('click',function(){ go(cur()+1); pegarFoco(); });
+
  var zsaved=null; try{zsaved=localStorage.getItem('tc_zoom');}catch(e){}
  if(zsaved!==null && STEPS[+zsaved]!==undefined) zi=+zsaved;
  paintZoom();
+
+ var dica=document.getElementById('dica');
+ if(dica){ setTimeout(function(){ dica.setAttribute('data-off','1'); }, 6000); }
 
  var saved=null; try{saved=localStorage.getItem('tc_pos');}catch(e){}
  if(saved!==null && +saved>0){ setTimeout(function(){ go(+saved); upd(); },60); } else { upd(); }
@@ -5916,8 +5956,13 @@ HTML = """<title>Terceira Classe</title>
 <div class="hud tl" id="lab">Capa</div>
 <div class="hud tr" id="pos">1 / 1</div>
 <button class="tocbtn" id="tocbtn">Sumário</button>
+<div class="dica" id="dica">use as setas ↑ ↓ para virar a página</div>
 <button class="readbtn" id="readbtn" type="button" data-on="0"
         title="Lê o livro em voz alta com a voz do seu computador">Ouvir</button>
+<div class="pager">
+  <button id="pprev" type="button" aria-label="Página anterior" title="Anterior (seta para cima)">&#9650;</button>
+  <button id="pnext" type="button" aria-label="Próxima página" title="Próxima (seta para baixo)">&#9660;</button>
+</div>
 <div class="zoomctl">
   <button id="zminus" type="button" aria-label="Diminuir a fonte" title="Diminuir (tecla -)">A&#8722;</button>
   <span id="zlab">100%%</span>
