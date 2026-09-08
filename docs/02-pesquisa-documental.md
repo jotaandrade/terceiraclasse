@@ -1434,3 +1434,49 @@ Strufaldi, Lovato, Panarotti, Puldeghinio, Beck, Strobel, Piretto, Ban.
   (2017), não documento primário — usar atribuído.
 - 🔎 **histarmar.com.ar** é citado como fonte. **É provavelmente a origem do corpus dos vinte
   depoimentos** — a pendência de procedência nº 1 do README. Vale rastrear.
+
+---
+
+## 17. Caps. 16, 17 e 18 — base de fontes, e o que verificar
+
+Estes três capítulos são os únicos do livro apoiados em **fontes públicas e secundárias**, não
+no acervo. Ficam listados aqui para verificação antes da publicação.
+
+**Usado no cap. 16**
+- Naufrágio do **Principessa Jolanda** no próprio lançamento, **22.09.1907**, estaleiro de
+  **Riva Trigoso**. Navio gêmeo, mesmo projeto. Causa atribuída a excesso de peso em cima e
+  lastro insuficiente (acabamento e mobília já instalados).
+  🔎 **Verificar:** o estaleiro exato e a atribuição de causa.
+- **Mafalda** lançado em 1908, em serviço em 1909, 9.210 t, ~18 nós, ~1.400 passageiros.
+- **Mafalda di Savoia** n. 1902, segunda filha de Vittorio Emanuele III.
+- ~90 travessias entre 1909 e 1927 (Museu da Imigração).
+  🔎 O livro extrapola para **"cerca de cem mil pessoas em dezoito anos"** — é conta minha
+  (90 × ~1.100). **Marcar como estimativa ou cortar.**
+
+**Usado no cap. 17**
+- Rota Gênova–Barcelona–Dakar–Rio–Montevidéu–Buenos Aires (Museu da Imigração).
+- Composição da última viagem: 60+ na 1ª, 80 na 2ª, ~1.000 na 3ª, ~300 de tripulação (idem).
+- Separação física entre classes: **descrição genérica de transatlântico da época**, não
+  documento deste navio. 🔎 Verificar com planta do Mafalda, se existir.
+
+**Usado no cap. 18**
+- Leis de cota dos EUA, **1921 e 1924**, e o desvio do fluxo para a América do Sul.
+- Navios italianos novos na rota: *Giulio Cesare* (1922), *Conte Rosso* (1922),
+  *Conte Verde* (1923), *Duilio* (1923).
+  🔎 Verificar companhia de cada um; o texto atribui genericamente a "companhias italianas".
+- O argumento do **rebaixamento** e da economia de manutenção é **interpretação do autor**,
+  coerente com os fatos mas sem fonte que o afirme. Está escrito como raciocínio, não como
+  fato citado.
+
+## 18. 🔴 Capítulo 13 é redundante
+
+O cap. 13 do plano ("Escala em Dakar — as falhas de máquina, os alertas, a decisão de seguir
+viagem") **já está inteiramente dentro do cap. 19**, escrito: Barcelona com um dia de atraso,
+Zanni e as avarias sucessivas, os banheiros e a refrigeração, a escala africana com a hedge
+Dakar/São Vicente, e o abaixo-assinado de de Rosas e Fontana que Rivarola desaconselhou.
+
+**Escrever o 13 como planejado seria repetição.** Decisão pendente do autor: cortar o 13, ou
+repropô-lo com outro assunto.
+
+➕ Mesma situação, menor grau, no **cap. 15** ("O que o Brasil prometia"), cujo argumento
+central — colonato x espontâneos — foi para o **cap. 28**.
