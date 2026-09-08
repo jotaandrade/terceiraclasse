@@ -5573,26 +5573,37 @@ JS = """
  if(!btn) return;
  if(!synth||typeof SpeechSynthesisUtterance==='undefined'){ btn.hidden=true; return; }
 
- var lendo=false, pedacos=[], i=0, voz=null, espera=-1;
+ var lendo=false, pedacos=[], i=0, voz=null;
+ var ger=0;        /* geracao: invalida callbacks de falas canceladas */
+ var virando=false;/* true enquanto a pagina vira sozinha */
+ var pagina=-1;
 
  function acharVoz(){
   var vs=[]; try{ vs=synth.getVoices()||[]; }catch(e){ vs=[]; }
   var pt=vs.filter(function(v){ return /^pt[-_]?br/i.test(v.lang||''); });
   if(!pt.length) pt=vs.filter(function(v){ return /^pt/i.test(v.lang||''); });
-  /* prefere vozes "natural"/"neural" quando existirem */
   var boa=pt.filter(function(v){ return /natural|neural|online/i.test(v.name||''); });
   voz=(boa[0]||pt[0]||null);
  }
  acharVoz();
  try{ synth.addEventListener('voiceschanged',acharVoz); }catch(e){ synth.onvoiceschanged=acharVoz; }
 
+ /* trechos curtos: o Chrome corta falas longas, e o remendo do resume() e' o
+    que fazia o texto repetir. Curto resolve sem remendo. */
  function fatia(el,txt){
   txt=(txt||'').replace(/\s+/g,' ').trim();
   if(!txt) return;
-  var fr=txt.split(/(?<=[.!?…:])\s+/), buf='';
+  var fr=txt.split(/(?<=[.!?…:;])\s+/), buf='';
   for(var k=0;k<fr.length;k++){
-   if((buf+' '+fr[k]).trim().length>210 && buf){ pedacos.push({el:el,t:buf.trim()}); buf=fr[k]; }
-   else { buf=(buf?buf+' ':'')+fr[k]; }
+   var p=fr[k];
+   while(p.length>150){                       /* frase gigante, corta na virgula */
+    var c=p.lastIndexOf(', ',150);
+    if(c<60) c=p.lastIndexOf(' ',150);
+    if(c<40) c=150;
+    pedacos.push({el:el,t:p.slice(0,c+1).trim()}); p=p.slice(c+1);
+   }
+   if((buf+' '+p).trim().length>150 && buf){ pedacos.push({el:el,t:buf.trim()}); buf=p; }
+   else { buf=(buf?buf+' ':'')+p; }
   }
   if(buf.trim()) pedacos.push({el:el,t:buf.trim()});
  }
@@ -5621,55 +5632,58 @@ JS = """
  function fala(){
   if(!lendo) return;
   if(i>=pedacos.length){ vira(); return; }
-  var c=pedacos[i]; marca(c.el);
+  var g=ger, c=pedacos[i];
+  marca(c.el);
   var u=new SpeechSynthesisUtterance(c.t);
   if(voz) u.voice=voz;
   u.lang='pt-BR'; u.rate=0.98; u.pitch=1;
-  u.onend=function(){ i++; fala(); };
-  u.onerror=function(){ i++; fala(); };
+  var seguiu=false;
+  function adiante(){ if(seguiu) return; seguiu=true;
+   if(g!==ger||!lendo) return;              /* fala cancelada: nao avanca */
+   i++; fala(); }
+  u.onend=adiante; u.onerror=adiante;
   try{ synth.speak(u); }catch(e){ parar(); }
  }
 
  function vira(){
   var c=window.__tc.cur();
   if(c>=window.__tc.leaves.length-1){ parar(); return; }
-  espera=c+1; window.__tc.go(c+1);
-  setTimeout(function(){ if(!lendo) return; monta(); i=0; fala(); },560);
+  virando=true; pagina=c+1;
+  window.__tc.go(c+1);
+  setTimeout(function(){
+   virando=false;
+   if(!lendo) return;
+   monta(); i=0; fala();
+  },620);
  }
 
  function comecar(){
   if(window.__pararAudio) window.__pararAudio();
+  ger++; try{ synth.cancel(); }catch(e){}
   lendo=true; btn.textContent='Parar'; btn.setAttribute('data-on','1');
-  try{ synth.cancel(); }catch(e){}
-  espera=window.__tc.cur(); monta(); i=0;
+  pagina=window.__tc.cur(); virando=false;
+  monta(); i=0;
   if(!pedacos.length){ vira(); return; }
-  setTimeout(fala,60);
+  setTimeout(fala,80);
  }
  function parar(){
-  lendo=false; btn.textContent='Ouvir'; btn.setAttribute('data-on','0');
+  lendo=false; ger++; btn.textContent='Ouvir'; btn.setAttribute('data-on','0');
   try{ synth.cancel(); }catch(e){}
   limpaMarca();
  }
 
  btn.addEventListener('click',function(){ lendo?parar():comecar(); });
- document.addEventListener('keydown',function(e){
-  if(e.key==='Escape'&&lendo){ parar(); }
- });
+ document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&lendo) parar(); });
 
- /* se o leitor virar a pagina na mao, continua de onde ele parou */
+ /* virou a pagina na mao no meio da leitura: para. Nao tenta continuar sozinho,
+    porque tentar era o que fazia repetir. */
  var st=document.getElementById('stage');
  if(st) st.addEventListener('scroll',function(){
-  if(!lendo) return;
+  if(!lendo||virando) return;
   var c=window.__tc.cur();
-  if(c===espera) return;
-  espera=c;
-  try{ synth.cancel(); }catch(e){}
-  clearTimeout(st.__rt);
-  st.__rt=setTimeout(function(){ if(!lendo) return; monta(); i=0; fala(); },700);
+  if(c===pagina) return;
+  parar();
  },{passive:true});
-
- /* o Chrome corta falas longas se ninguem cutucar */
- setInterval(function(){ if(lendo&&synth.speaking) { try{ synth.resume(); }catch(e){} } },7000);
 })();
 """
 
