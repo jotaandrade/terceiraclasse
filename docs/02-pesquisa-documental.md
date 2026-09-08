@@ -1811,3 +1811,23 @@ indexado, e **qualquer circulação do manuscrito fora da família**. Nessa pass
 números de documento, mostrar a Declaração de Óbito só no bloco da filiação e da causa,
 resolução de leitura e não de arquivo, e consentimento de **Giorgio, Marta e Mafalda** — e uma
 decisão explícita do pai sobre a foto e o nome de **João Luca**, que é criança.
+
+---
+
+## 25. Bug tipografico: os 401 negritos do livro nao estavam em negrito
+
+Descoberto pelo autor em 08.09.2026, na legenda da Pulcheria.
+
+**Causa.** O livro pedia ao Google Fonts apenas
+`EB+Garamond:ital,wght@0,400;0,500;1,400` e `Jost:wght@300;400;500`. Nenhum peso bold.
+
+Quando uma familia tem *alguma* face carregada, o navegador **usa a mais proxima em vez de
+sintetizar negrito falso**. Entao todo `<strong>` do livro caia em 500 - visualmente quase
+igual ao texto normal. Nao era CSS errado nem tag errada: era peso que nunca foi baixado.
+
+**Correcao.** Carregados 600 e 700 do EB Garamond (e 1,600 para italico) e 600 do Jost. Mais
+regras explicitas: 700 no corpo, na epigrafe e nos agradecimentos; 600 nas legendas, nas
+notas de audio e nas sinopses, onde 700 fica denso demais em corpo pequeno.
+
+**Licao:** ao escolher pesos de webfont, conferir se ha peso bold. Faltando, o navegador nao
+avisa - so deixa de fazer.

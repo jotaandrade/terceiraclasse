@@ -5503,6 +5503,9 @@ body{background:var(--room);color:var(--ink);font-family:var(--fb);margin:0}
 .corpo p:first-child::first-letter{font-family:var(--fd);font-size:2.6em;line-height:.82;float:left;
  padding:.06em .12em 0 0;color:var(--accent)}
 .corpo em{font-style:italic}
+.corpo strong,.agrad strong,.epig strong{font-weight:700}
+figcaption strong,.aud strong,.aud-n strong,.sm-t strong,.co-s strong{font-weight:600}
+strong{font-weight:700}
 
 /* capa */
 .is-capa{background:var(--graf);color:#F2EDE1;justify-content:space-between}
@@ -5949,7 +5952,7 @@ JS = """
 HTML = """<title>Terceira Classe</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@1,6..96,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@1,6..96,400&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Jost:wght@300;400;500;600&display=swap">
 <style>%s</style>
 
 <div class="bar"><i id="barfill"></i></div>
