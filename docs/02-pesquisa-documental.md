@@ -1778,3 +1778,36 @@ legenda no livro declara isso. **Pendencia de credito, como o panfleto do cap. 5
   **filho de Miotto Asia**, irma de Fausto -> caderno.
   Nota: o sobrenome **Pandolfo** e o mesmo da bisavo Santa Pandolfo. Outro cruzamento entre
   as familias da regiao, a investigar.
+
+---
+
+## 24. Dados pessoais nas imagens — decisão de 08.09.2026
+
+O autor levantou a questão: publicar documento de pessoa falecida pode servir para alguém
+fazer algo errado?
+
+**Avaliação.** O risco baixo é o óbvio (números de RG dos anos 40 e 60 não abrem nada hoje, e
+boa parte do acervo já é público — Arquivo Nacional e Museu da Imigração). Os riscos reais são
+outros quatro:
+
+1. **Cidadania italiana por descendência.** O livro publica o dossiê pronto: comune, número de
+   ato, hora de nascimento, filiação de quatro gerações e as imagens. É material de uso direto
+   para quem fabrica vínculo genealógico.
+2. **Perguntas de segurança dos vivos.** Nome de solteira da mãe, cidade e data de nascimento
+   dos mortos servem para responder por **Mafalda, Marta e o autor**, que estão vivos.
+3. **Terceiros vivos dentro dos documentos.** O médico que assinou o óbito de Enrico.
+4. **Fotos de vivos**, inclusive **um menor** (João Luca).
+
+**Feito agora:** tarjados o **nome, o CRM, o telefone e a assinatura do médico** na Declaração
+de Óbito. É a única pessoa daquele papel que não é da família. A legenda **declara a tarja** —
+editar documento em não-ficção sem dizer seria pior do que não editar. Original intacto no
+Drive; versão tarjada em `documentos/certidao-de-obito-tarjada.jpg`.
+
+**Decidido NÃO fazer agora:** tarjar números de documento e recortar endereços. O artefato é
+privado e o autor precisa dos documentos legíveis enquanto trabalha.
+
+🔴 **Fazer antes de duas coisas:** o **site do centenário (25.10.2027)**, que será público e
+indexado, e **qualquer circulação do manuscrito fora da família**. Nessa passada: tarjar RG e
+números de documento, mostrar a Declaração de Óbito só no bloco da filiação e da causa,
+resolução de leitura e não de arquivo, e consentimento de **Giorgio, Marta e Mafalda** — e uma
+decisão explícita do pai sobre a foto e o nome de **João Luca**, que é criança.
