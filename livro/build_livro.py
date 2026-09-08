@@ -392,10 +392,11 @@ Brincava com todo mundo, e havia ali um cozinheiro, um homem de pele escura, que
 dela.
 
 Isto não está em documento nenhum. Não está nos manifestos, não está nas listas, não está
-em jornal. É lembrança de família, contada pela própria Pulcheria, e chegou até mim pela
-<strong>Patrícia Betti</strong>, bisneta de Maria Luigia e neta dela.
+em jornal. É lembrança de família, atribuída à própria Pulcheria, e chegou até mim por uma
+prima de outro ramo.
 
-Três elos, e o primeiro deles é uma menina de seis anos que estava lá.""",
+E não é lembrança unânime. Outra bisneta de Maria Luigia, que ouviu do avô tudo o que sabe
+desta história, não conhece este cozinheiro.""",
 
 """Guarde esse cozinheiro.
 
@@ -727,9 +728,17 @@ Levou-os para o <strong>bote dos cozinheiros</strong>.""",
 Não está em documento nenhum. Não está nos manifestos, não está na lista do Rio, não está
 em jornal, não está no inquérito. Nenhum papel deste livro registra esse homem.
 
-É lembrança de família. Foi contada pela própria Pulcheria, que tinha seis anos e estava
-lá, e chegou até mim pela <strong>Patrícia Betti</strong>, bisneta de Maria Luigia e neta da
-Pulcheria. Dois ou três elos, e o primeiro é presencial.
+É lembrança de família, e eu preciso ser exato sobre de quem.
+
+Ela é atribuída à própria Pulcheria, que tinha seis anos e estava lá, e chegou até mim por uma
+prima de outro ramo — bisneta de Maria Luigia, como eu sou bisneto de Rosa.
+
+E <strong>a outra linha desta família não tem essa história.</strong> A Patrícia Betti, também
+bisneta de Maria Luigia e neta da Pulcheria, ouviu tudo o que sabe do avô, João Betti, que era
+o marido da Pulcheria. Do cozinheiro ele nunca falou.
+
+Então não são duas testemunhas. É uma lembrança que desceu por um galho desta família e não
+desceu pelo outro.
 
 E é a única explicação que existe para sete pessoas terem saído de dentro de um porão
 alagado.
@@ -1164,8 +1173,8 @@ por gente que não sabia quem já tinha contado quem.</strong>""",
 O que a memória guarda é isto: o cozinheiro tirou as duas irmãs e as cinco crianças do
 porão e as levou para o <strong>bote dos cozinheiros</strong>.
 
-Desse bote, foram levadas para outro navio. E esse navio, no relato que atravessou três
-gerações, <strong>não era um navio de passageiros. Era um navio que carregava carvão.</strong>""",
+Desse bote, foram levadas para outro navio. E esse navio, no relato que chegou até mim,
+<strong>não era um navio de passageiros. Era um navio que carregava carvão.</strong>""",
 
 """Não sei qual era.
 
@@ -1473,8 +1482,12 @@ Puldeghinio, Beck.
 São os mesmos que estão na lista do <em>Alhena</em>, três dias antes, no Rio.
 
 É a mesma leva de gente, documentada duas vezes, em duas cidades, por dois órgãos que não
-conversavam entre si. Cinquenta pessoas desembarcadas na Ilha das Flores, e boa parte delas
-reaparecendo em São Paulo no fim daquela semana.""",
+conversavam entre si.
+
+Cinquenta pessoas desembarcaram na Ilha das Flores. <strong>Quarenta e duas deram entrada no
+Brás em 31 de outubro, e mais uma no dia seguinte.</strong>
+
+Sete ficaram no Rio. Quem foram, eu não sei.""",
 
 """Há uma coisa nessa sobreposição que eu queria saber e não sei.
 
@@ -1518,19 +1531,25 @@ sobreviveram. As listas, os manifestos, as folhas de desembarque. Nenhum deles r
 O que vem agora não tem papel nenhum. Tem cadeia oral, e eu vou dizer qual é antes de
 contar.""",
 
-"""Quem viu foi <strong>Pulcheria</strong>, filha de Maria Luigia, que tinha seis anos na
-noite do naufrágio.
+"""<strong>Pulcheria Pasqua Dei Agnoli</strong>, filha de Maria Luigia, tinha seis anos na
+noite do naufrágio. Nasceu em 1921 e morreu em 2013, aos noventa e dois anos.
 
-Pulcheria nasceu em 1921 e morreu em 2013, aos noventa e dois anos.
+Ela casou com <strong>João Betti</strong>, nascido em 1920, que não estava naquele navio.
 
-A história chegou até mim pela <strong>Patrícia Betti</strong>, que é neta dela e bisneta de
-Maria Luigia — filha de <strong>Divino Aparecido Betti</strong>, filho da Pulcheria, morto em
-1992. Se a Patrícia ouviu isso do pai antes de 1992 ou direto da avó, que viveu até 2013, eu
-não sei.
+E foi <em>ele</em>, não ela, quem passou a vida contando esta história dentro de casa.
 
-Dois ou três elos, e o primeiro deles estava lá.
+A neta dos dois, <strong>Patrícia Betti</strong>, é categórica: <em>quem me contou todas as
+histórias foi meu avô, que era o marido da Pulcheria. Eu só sei da fonte dele.</em>""",
 
-É tudo o que eu tenho desta cena, e é mais do que qualquer arquivo do mundo tem.""",
+"""Vale parar um segundo nisso, porque é estranho e é importante.
+
+A mulher que viu aquele navio afundar aos seis anos de idade viveu até 2013, e não é ela a
+narradora desta história na própria casa.
+
+Quem narrava era o marido. Um homem que ouviu de outra pessoa e recontou por décadas — dela, e
+talvez também da sogra, Maria Luigia, que morreu em 1992, aos noventa e seis anos.
+
+<strong>Entre a menina que viu e eu, que escrevo, há um homem que não estava lá.</strong>""",
 
 """Os dois homens estavam esperando.
 
@@ -1551,10 +1570,16 @@ Em que mês e em que navio, eu ainda não sei. É uma das coisas que continuo pr
 
 """E os dois foram esperar.
 
-Não sei onde. O relato não diz se foi no Rio, quando o <em>Alhena</em> atracou em 28 de
-outubro, ou em São Paulo, três dias depois. Cabe nos dois, e eu não vou escolher por eles.
+<strong>Foi em São Paulo.</strong>
 
-Sei o que eles estavam esperando ver: uma mulher e crianças descendo de um navio.""",
+Não no cais do Rio, quando o <em>Alhena</em> atracou em 28 de outubro. Três dias depois, na
+Hospedaria de Imigrantes do Brás.
+
+Quem localiza a cena é a Patrícia, repetindo o avô: <em>quando o meu avô contou que o meu
+bisavô foi encontrar a família lá em São Paulo, ele não reconheceu… na frente da hospedaria
+ali…</em>
+
+Bate com o papel. A entrada no Livro 100 é de 31 de outubro.""",
 
 """E o que desceu foram duas mulheres e cinco crianças <strong>cobertas de pó de carvão da
 cabeça aos pés</strong>.
@@ -1567,7 +1592,9 @@ todo o resto.""",
 
 """<strong>Angelo e Fausto passaram os olhos por elas e não as reconheceram.</strong>
 
-Essa é a frase que atravessou cem anos.
+Essa é a frase que atravessou cem anos, e ela vem inteira na voz da Patrícia repetindo o
+avô: <em>ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma
+história, sim.</em>
 
 Não é que estivessem distraídos. Estavam procurando a cara da mulher deles no meio de uma
 multidão, e a cara da mulher deles estava preta.""",
@@ -1577,7 +1604,13 @@ multidão, e a cara da mulher deles estava preta.""",
 Uma criança pequena viu o pai no meio daquela gente toda, e foi ela quem resolveu.
 
 Não sei qual. Gina tinha sete anos, Pulcheria tinha seis. O relato diz apenas <em>uma das
-filhas pequenas dele</em>, e as duas cabem na frase.""",
+filhas pequenas dele</em>, e as duas cabem na frase.
+
+E este pedaço vem do outro galho. Na versão do João Betti, o carvão está lá e o
+não-reconhecimento está lá; a menina que resolve, não.
+
+<strong>Uma linha desta família guardou como a cena começou. A outra guardou como ela
+terminou.</strong>""",
 
 """Vale parar um segundo no que isso significa.
 
@@ -1607,11 +1640,11 @@ branco.</strong>""",
 Aquela noite tinha o estrondo, o convés inclinado, o navio apagando, os gritos na água, os
 mortos. Nada disso passou.
 
-O que atravessou três gerações, a boca de uma menina de seis anos e cem anos de Brasil foi
+O que atravessou os dois galhos desta família, três gerações e cem anos de Brasil foi
 <strong>o carvão</strong>.
 
-A sujeira. A imagem física de duas mulheres e cinco crianças pretas de fuligem, de pé num
-cais, sem serem reconhecidas.""",
+A sujeira. A imagem física de duas mulheres e cinco crianças pretas de fuligem, de pé diante de
+uma hospedaria de imigrantes, sem serem reconhecidas.""",
 
 """Talvez seja porque o carvão é a única parte da história que termina bem.
 

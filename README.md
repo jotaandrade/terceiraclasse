@@ -46,7 +46,7 @@ scripts/              histórico das rodadas de correção e escrita
 | | |
 |---|---|
 | Capítulos planejados | 34, em 4 livros + epílogo |
-| **Escritos** | **25 capítulos, 30.831 palavras** |
+| **Escritos** | **25 capítulos, 31.076 palavras** |
 | Livro I | caps. 1 a 8 |
 | Livro III | caps. 19 e 20 |
 | Centenário do naufrágio | 25.10.2027 |
@@ -78,6 +78,13 @@ metáfora. A causa registrada é neoplasia de orofaringe, não câncer de língu
 nomeada e creditada no livro (08.09.2026).** Aparece nos caps. 10, 21, 27, 31 e 32. É
 fonte de boa parte da tradição oral deste projeto — o cozinheiro, o bote dos cozinheiros,
 o navio de carvão e a menina que achou o pai. Creditar sempre que o material for dela.
+
+**A cadeia oral tem dois galhos, e eles não contam a mesma coisa.** *(08.09.2026)*
+O carvão e o não-reconhecimento vêm do **João Betti** (1920-2008), marido da Pulcheria,
+via **Patrícia Betti** — e a cena é em **São Paulo, na Hospedaria**, não no Rio. **O
+cozinheiro e a menina que acha o pai** vêm de outra prima, de outro ramo, e a Patrícia
+**não os confirma**. Nunca apresentar o cozinheiro como consenso da família: atribuir e
+dizer que a outra linha não tem essa lembrança.
 
 **Fontes orais.** Não corrigir a entrevistada durante a gravação, nunca — nem data errada.
 Divergência entre depoimento e documento se resolve no papel, depois.
