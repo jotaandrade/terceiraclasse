@@ -59,7 +59,7 @@ CAPS = {
   (27,'O reencontro','Fausto e Angelo recebem as mulheres e as crianças.'),
   (28,'Terra vermelha','Grama, o café, e a palavra que decidiu tudo: espontâneos.'),
   (29,'Enrico','1926 a 1998. Cinco documentos, e nada além do que eles dizem.'),
-  (30,'1937','Mafalda nasce em São José do Rio Pardo e recebe o nome do navio.'),
+  (30,'1937','A menina recebe o nome do navio. E a objecao que essa frase precisa aguentar.'),
   (31,'Virar brasileiro','Língua, comida, fé, o dialeto que some.'),
   (32,'Os que ficaram, cem anos depois','A linha de Sante: Galliano, Giorgio.'),
   (33,'A busca','A pesquisa como enredo. O dia em que o registro apareceu.'),
@@ -1836,6 +1836,137 @@ Sobreviveu a um naufrágio antes de aprender a falar.
 Não se lembrava de nada daquilo, e sabia de tudo aquilo, porque a mãe contou.
 
 <strong>Foi o primeiro dos onze filhos de Rosa. Foi o único que esteve no navio.</strong>""",
+]
+
+CAP30 = [
+"""Em 2 de janeiro de 1937, Rosa Forner teve o sétimo filho. Uma menina.
+
+E botou nela o nome do navio.""",
+
+"""Essa é a frase que fez este livro existir.
+
+Eu a ouvi pela primeira vez sem entender direito o que ela queria dizer, e depois passei a não
+conseguir pensar em outra coisa. Uma mulher que quase morreu num naufrágio com um bebê de um
+ano no colo dá a uma filha, dez anos depois, o nome do navio que afundou.
+
+É uma frase perfeita.
+
+E é exatamente por isso que ela precisa apanhar um pouco antes de eu deixar que fique de
+pé.""",
+
+"""A primeira objeção é a mais óbvia, e é a mais forte.
+
+<strong>Mafalda não era um nome esquisito na Itália.</strong>
+
+Mafalda di Savoia nasceu em 1902, filha de Vittorio Emanuele III, rei da Itália. Era princesa
+de sangue, casou com um príncipe alemão em 1925, saía em jornal e em revista, e em 1937 estava
+viva e tinha trinta e quatro anos.
+
+O navio não deu o nome a ela. <strong>Ela deu o nome ao navio.</strong> Quando o casco foi
+batizado, em 1908, escolheram o nome da filha do rei.""",
+
+"""Então uma italiana batizando uma filha de Mafalda em 1937 pode simplesmente estar fazendo o
+que muitas italianas da geração dela fizeram.
+
+Pode ser nome da moda. Pode ser devoção monárquica. Pode ser porque achava bonito.
+
+Se for isso, este livro perde a pergunta que o organiza. E eu prefiro admitir a possibilidade
+agora a deixar que um leitor a admita por mim no meio do capítulo.""",
+
+"""A segunda objeção é de tempo.
+
+Em janeiro de 1937 o naufrágio tinha <strong>dez anos</strong>.
+
+Não era ferida aberta. Era coisa de uma década antes, em outro oceano, numa vida que já tinha
+virado completamente outra. Rosa tinha trinta e três anos, seis filhos vivos, uma casa no
+interior de São Paulo e uma língua nova mais ou menos na boca.
+
+Quem passa por uma coisa dessas costuma querer distância. Botar o nome do navio numa filha é o
+contrário de distância.""",
+
+"""E há uma terceira objeção, que ninguém levanta e que eu levanto porque seria desonesto não
+levantar.
+
+<strong>Eu quero que a história seja verdadeira.</strong>
+
+Sou bisneto de Rosa. Cresci ouvindo isso. De todos os capítulos deste livro, este é o que eu
+mais queria escrever.
+
+Um autor nessa posição é a pessoa menos confiável do mundo para julgar a própria tese.""",
+
+"""Então eu fui procurar alguma coisa que não dependesse de mim.
+
+Achei numa lista de nomes.""",
+
+"""Rosa e Fausto tiveram onze filhos.
+
+<strong>Enrico</strong>, nascido na Itália em 1926. <strong>Erminda</strong>, 1928.
+<strong>Nair</strong>, 1931. <strong>Maria Therezinha</strong>, 1932.
+<strong>Izaira</strong>, 1932. <strong>Fermino</strong>, 1934.
+<strong>MAFALDA</strong>, 1937. <strong>Rosalia</strong>, 1940. <strong>Luiz</strong>, 1942.
+<strong>Dionísio</strong>, 1949. E mais uma.""",
+
+"""Leia a série de novo e olhe o que ela faz.
+
+O primeiro filho nasceu na Itália e tem nome italiano. Depois dele, a casa começa a batizar em
+português: Nair, Izaira, Luiz, Maria Therezinha. São nomes brasileiros de menino e de menina
+dos anos 1930, e não são nomes que se dão em Castelcucco.
+
+Aquela família estava fazendo o que toda família de imigrante faz a partir da segunda leva de
+filhos: virando daqui.""",
+
+"""E aí, no sétimo, <strong>Mafalda</strong>.
+
+Não Maria, não Ana, não Teresa. Não um nome italiano corriqueiro. Um nome da Casa de Savoia,
+no meio de uma sequência de nomes brasileiros, numa casa de agricultor no interior paulista,
+dez anos depois de a mãe ter sido tirada da água de um navio que se chamava assim.
+
+<strong>Não é prova. É um padrão com um furo, e o furo tem nome.</strong>""",
+
+"""E não é um furo qualquer. É o único.
+
+De onze filhos, dez foram batizados dentro de uma lógica: o primeiro italiano porque nasceu
+lá, os outros brasileiros porque nasceram aqui.
+
+Uma só escapa da regra. E a que escapa carrega exatamente as sete letras que estavam pintadas
+na proa.""",
+
+"""Falta dizer onde ela nasceu, e aí aparece uma coincidência que eu não esperava.
+
+A certidão de casamento de Mafalda, de 1954, reemitida em 1981 na cidade de Nova Fátima, diz
+que ela nasceu em <strong>São José do Rio Pardo</strong>.
+
+Só que a família morava em <strong>Grama</strong>. E Grama, naquela época, era município da
+comarca de São José do Rio Pardo.
+
+O escrivão quase certamente escreveu a jurisdição no lugar do lugar.""",
+
+"""E isso já tinha acontecido antes, do outro lado do oceano, com a mãe dela.
+
+Em 1926, o oficial de Castelcucco fez a mesma coisa com a naturalidade de Rosa.
+
+Dois cartórios, dois países, onze anos de distância, e o mesmo hábito de funcionário.
+<strong>Mãe e filha têm o próprio lugar de nascimento levemente errado no papel, pelo mesmo
+motivo.</strong>
+
+É a coisa mais parecida com herança que eu encontrei em documento neste projeto inteiro.""",
+
+"""E a pergunta continua de pé, e continua sem resposta.
+
+Eu tenho a data, tenho a lista de nomes, tenho o padrão e tenho o furo. Não tenho a única
+coisa que resolveria isso: alguém que estivesse naquela casa e que tivesse perguntado à Rosa
+por que aquele nome.
+
+Só que essa pessoa existe.""",
+
+"""Ela nasceu em 2 de janeiro de 1937.
+
+Está viva. Tem oitenta e nove anos, e faz noventa em 2 de janeiro de 2027.
+
+E se chama Mafalda.
+
+<strong>Este livro tem uma pergunta central e tem uma testemunha viva, e as duas são a mesma
+pessoa.</strong>""",
 ]
 
 CAP19 = [
@@ -4025,7 +4156,7 @@ Para que quando o navio afundar, o leitor saiba exatamente o que aquelas pessoas
 tentando alcançar, e o que já tinham atravessado antes de chegar à água.""",
 ]
 
-CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24, 25: CAP25, 26: CAP26, 27: CAP27, 28: CAP28, 29: CAP29}
+CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 14: CAP14, 19: CAP19, 20: CAP20, 21: CAP21, 22: CAP22, 23: CAP23, 24: CAP24, 25: CAP25, 26: CAP26, 27: CAP27, 28: CAP28, 29: CAP29, 30: CAP30}
 
 # ------------------------------------------------------------------ paginas
 pages = []
