@@ -1,4 +1,4 @@
-# 19. Os botes
+# 17. Os botes
 
 > Livro III — O navio
 > Lugares vendidos, botes danificados, os tubarões.

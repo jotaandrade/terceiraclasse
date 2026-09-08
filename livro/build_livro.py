@@ -57,27 +57,25 @@ CAPS = {
   (12,'Os que já estavam lá','Fausto e Angelo no Brasil, a casa preparada, a espera.'),
  ],
  'III': [
-  (13,'1908','O navio gêmeo que afundou no próprio lançamento, e o nome que veio depois.'),
-  (14,'Os anos de glória','Cento e quarenta pessoas em cima, mil embaixo. A glória era o andar de cima.'),
-  (15,'O declínio','Ele não foi aposentado. Foi rebaixado, um degrau por vez, por navios mais novos.'),
-  (16,'A última viagem','Quem estava a bordo. Garovaglio, von Lücken, Bucherer, o comandante Gulì.'),
-  (17,'17h15','O eixo da hélice de bombordo se rompe.'),
-  (18,'A noite','Hora a hora, do estrondo às 22h10.'),
-  (19,'Os botes','Lugares vendidos, botes danificados, os tubarões.'),
-  (20,'22h10','O navio afunda. Gulì fica a bordo.'),
-  (21,'Alhena, Mosella, Empire Star','O resgate a noite inteira.'),
-  (22,'Os 314','Os mortos não têm lista, não têm sepultura e não têm nome. E o país nunca guardou a data.'),
+  (13,'1908','O navio nasce de um acidente, vive disfarçado de hotel e morre rebaixado.'),
+  (14,'A última viagem','Quem estava a bordo. Garovaglio, von Lücken, Bucherer, o comandante Gulì.'),
+  (15,'17h15','O eixo da hélice de bombordo se rompe.'),
+  (16,'A noite','Hora a hora, do estrondo às 22h10.'),
+  (17,'Os botes','Lugares vendidos, botes danificados, os tubarões.'),
+  (18,'22h10','O navio afunda. Gulì fica a bordo.'),
+  (19,'Alhena, Mosella, Empire Star','O resgate a noite inteira.'),
+  (20,'Os 314','Os mortos não têm lista, não têm sepultura e não têm nome. E o país nunca guardou a data.'),
  ],
  'IV': [
-  (23,'31 de outubro','Hospedaria do Brás. Livro 100, página 290.'),
-  (24,'O reencontro','Fausto e Angelo recebem as mulheres e as crianças.'),
-  (25,'Terra vermelha','Grama, o café, e a palavra que decidiu tudo: espontâneos.'),
-  (26,'Enrico','1926 a 1998. Cinco documentos, e nada além do que eles dizem.'),
-  (27,'1937','A menina recebe o nome do navio, e a objeção que essa frase precisa aguentar.'),
-  (28,'Virar brasileiro','A língua que some em duas gerações, e os sobrenomes que saem da linha em três.'),
-  (29,'Os que ficaram, cem anos depois','O ramo do Sante. Ficar não produz documento — e o site que reencontrou a família.'),
-  (30,'A busca','Como o papel mente, como a memória mente, e o que custa começar tarde.'),
-  (31,'A casa','Escrito por quem nunca esteve lá. A porta por onde Rosa saiu, vista de longe.'),
+  (21,'31 de outubro','Hospedaria do Brás. Livro 100, página 290.'),
+  (22,'O reencontro','Fausto e Angelo recebem as mulheres e as crianças.'),
+  (23,'Terra vermelha','Grama, o café, e a palavra que decidiu tudo: espontâneos.'),
+  (24,'Enrico','1926 a 1998. Cinco documentos, e nada além do que eles dizem.'),
+  (25,'1937','A menina recebe o nome do navio, e a objeção que essa frase precisa aguentar.'),
+  (26,'Virar brasileiro','A língua que some em duas gerações, e os sobrenomes que saem da linha em três.'),
+  (27,'Os que ficaram, cem anos depois','O ramo do Sante. Ficar não produz documento — e o site que reencontrou a família.'),
+  (28,'A busca','Como o papel mente, como a memória mente, e o que custa começar tarde.'),
+  (29,'A casa','Escrito por quem nunca esteve lá. A porta por onde Rosa saiu, vista de longe.'),
  ],
 }
 
@@ -2427,260 +2425,6 @@ Ele afundou em <strong>25 de outubro</strong>.
 <strong>O navio durou exatamente o tempo de uma travessia.</strong>""",
 ]
 
-CAP16 = [
-"""Para entender o que aquele navio era em 1927, é preciso saber o que ele foi em 1908.
-
-E para saber isso, é preciso começar pelo irmão dele, que nunca navegou.""",
-
-"""<strong>22 de setembro de 1907.</strong> Estaleiro em Riva Trigoso, no litoral perto de
-Gênova.
-
-O <strong>Lloyd Italiano</strong>, companhia genovesa fundada três anos antes, ia lançar o
-primeiro de dois transatlânticos gêmeos encomendados para a rota da América do Sul. O primeiro
-se chamava <strong><em>Principessa Jolanda</em></strong>.
-
-Havia autoridade, havia imprensa, havia madrinha, havia multidão. Lançamento de navio grande
-era espetáculo público, e este tinha sido anunciado.""",
-
-"""O casco desceu a rampa e entrou na água.
-
-E <strong>tombou</strong>.
-
-Adernou para um lado, deitou, e afundou ali mesmo, diante de todo mundo, sem nunca ter
-navegado um metro.
-
-Foi fotografado. As imagens existem: um transatlântico novo, com a pintura fresca, deitado de
-lado na água rasa do próprio estaleiro.""",
-
-"""É um dos desastres navais mais constrangedores da história italiana, e ele não matou
-ninguém que se saiba — matou uma reputação.
-
-O <em>Jolanda</em> foi lançado com o acabamento interno já instalado, mobília e tudo, e sem
-lastro suficiente. Ficou pesado demais em cima.
-
-Um navio pesado em cima tomba. É a mesma física que ia importar dezenove anos depois, do outro
-lado do Atlântico, numa noite de outubro.""",
-
-"""E o <em>Jolanda</em> tinha um gêmeo.
-
-Mesmo projeto, mesmo estaleiro, casco já em construção ao lado.
-
-Depois do desastre, refizeram os cálculos, corrigiram o que havia para corrigir, e lançaram o
-segundo navio em <strong>1908</strong>. Esse desceu direito. Entrou em serviço em 1909.""",
-
-"""<strong>Esse navio se chamava Principessa Mafalda.</strong>
-
-Ele existe, na forma em que existiu, por causa de um acidente. Foi construído duas vezes: uma
-vez no papel, junto com o irmão, e outra vez depois que o irmão afundou na frente da imprensa
-italiana.""",
-
-"""O nome veio de uma criança.
-
-<strong>Mafalda di Savoia</strong> nasceu em 1902, segunda filha de Vittorio Emanuele III, rei
-da Itália. Tinha seis anos de idade quando um casco de nove mil toneladas recebeu o nome dela.
-
-Era o que se fazia. Navio grande de bandeira nacional levava nome de gente da casa real,
-porque o navio era propaganda antes de ser transporte: dizia ao mundo que a Itália construía
-coisas grandes.""",
-
-"""Ela não escolheu nada disso, e não teve como saber o que estava sendo posto no nome dela.
-
-Que em 1927 aquele casco ia afundar no Atlântico com trezentas e catorze pessoas dentro.
-
-E que quarenta anos depois, num sítio do interior de São Paulo, ia haver uma mulher brasileira
-com o nome dela e com o nome do navio, sem que as duas coisas fossem distinguíveis.""",
-
-"""As medidas, para quem quiser: nove mil duzentas e dez toneladas. Velocidade de serviço por
-volta de dezoito nós. Capacidade para pouco mais de mil e quatrocentos passageiros, a grande
-maioria em terceira classe.
-
-Entre 1909 e 1927 ele fez cerca de <strong>noventa travessias</strong> do Atlântico.
-
-A conta é minha e é grosseira, mas dá a ordem de grandeza: em dezoito anos de serviço,
-algo perto de cem mil pessoas atravessaram o Atlântico dentro daquele casco.""",
-
-"""E em 1908, quando aquele casco entrou na água pela primeira vez, em Monfumo não aconteceu
-nada.
-
-<strong>Rosa Forner tinha cinco anos.</strong> Santa Pandolfo, a mãe, estava viva e ainda ia
-viver seis anos. Vincenzo trabalhava a terra. Sante tinha quinze e ainda não tinha ouvido falar
-em Caporetto. Maria Luigia tinha doze.
-
-Ninguém naquela casa tinha ouvido falar de Riva Trigoso, nem do <em>Jolanda</em>, nem da filha
-do rei.""",
-
-"""A distância entre Monfumo e Riva Trigoso é de uns trezentos quilômetros.
-
-Naquele ano, numa ponta, uma família de agricultores plantava milho num pedaço de encosta que
-já não bastava.
-
-E na outra, um estaleiro punha na água a coisa que ia decidir a vida daquela família dezenove
-anos depois.""",
-]
-
-CAP17 = [
-"""O que se conta sobre esses navios é sempre a mesma coisa.
-
-Os salões. A escadaria. O jantar servido em várias etapas. A orquestra. As senhoras descendo
-para o jantar. O fumoir. A biblioteca.
-
-Tudo isso é verdade, e é a parte menos importante do navio.""",
-
-"""A rota do <em>Principessa Mafalda</em> era esta:
-
-<strong>Gênova — Barcelona — Dakar — Rio de Janeiro — Montevidéu — Buenos Aires.</strong>
-
-Catorze dias entre a Itália e a Argentina, em condições normais. Cerca de noventa vezes, entre
-1909 e 1927.
-
-Era uma linha de ônibus. Uma linha de ônibus de catorze dias, atravessando um oceano e uma
-linha do equador, mas uma linha: sempre os mesmos portos, sempre na mesma ordem, sempre para o
-mesmo lado.""",
-
-"""E agora a aritmética, que é onde a glória desses navios costuma se desmanchar.
-
-Na última viagem, a de outubro de 1927, iam a bordo novecentos e setenta e um passageiros.
-
-Pouco mais de <strong>sessenta na primeira classe</strong>. Cerca de <strong>oitenta na
-segunda</strong>.
-
-E <strong>todo o resto na terceira</strong> — mais de oitocentas pessoas.
-
-Mais duzentos e oitenta e oito tripulantes.""",
-
-"""Leia esses números outra vez, devagar.
-
-<strong>Cento e quarenta pessoas em cima. Mais de oitocentas embaixo.</strong>
-
-Para cada passageiro que jantava com orquestra, havia seis dormindo em beliche de ferro num
-porão sem janela.""",
-
-"""Então é preciso inverter a frase que se usa para descrever esses navios.
-
-Um transatlântico da rota sul-americana não era um hotel de luxo que também levava imigrante.
-
-<strong>Era um transporte de imigrante com um hotel montado em cima.</strong>
-
-O dinheiro estava embaixo. As passagens de terceira classe pagavam o navio. As sessenta
-cabines de primeira pagavam a reputação dele.""",
-
-"""E a reputação servia para uma coisa muito concreta.
-
-O luxo do andar de cima era o que gerava a reportagem, a fotografia no jornal, o nome
-conhecido e o cartaz colado na parede de uma praça de província.
-
-<strong>A propaganda era feita com a escadaria e vendida para quem ia no porão.</strong>
-
-O panfleto que Rosa e Fausto podem ter visto em Asolo não trazia foto de beliche. Trazia uma
-palavra: <em>América</em>.""",
-
-"""Isso não é hipocrisia particular daquele navio nem daquela companhia.
-
-É o modelo inteiro da emigração transatlântica, e funcionou por sessenta anos justamente
-porque funcionava: quem ia embaixo chegava, na esmagadora maioria das vezes, e mandava buscar a
-família.
-
-O <em>Principessa Mafalda</em> foi apenas competente nesse modelo. Dezoito anos de serviço e
-noventa travessias.""",
-
-"""E havia uma coisa que a primeira e a terceira classe daquele navio nunca faziam: se ver.
-
-Conveses separados. Escadas separadas. Refeitórios separados. Horários de banho separados.
-Grades e portas que se abriam num sentido só.
-
-Uma pessoa podia atravessar o Atlântico inteiro naquele casco sem trocar uma palavra com
-alguém que estivesse três andares abaixo dela.""",
-
-"""Foi assim durante dezoito anos.
-
-E numa única noite, em 25 de outubro de 1927, as duas partes daquele navio foram para a mesma
-água, ao mesmo tempo, com os mesmos coletes.
-
-O que aconteceu ali está no capítulo 19, e é a primeira e a última vez que os dois lados
-daquele casco falaram um sobre o outro.
-
-<strong>Não gostaram do que viram.</strong>""",
-]
-
-CAP18 = [
-"""Um navio não envelhece sozinho.
-
-Ele envelhece porque chegam outros.""",
-
-"""Em 1909, quando entrou em serviço, o <em>Principessa Mafalda</em> era o que a Itália tinha
-de melhor para mandar à América do Sul.
-
-Casco novo, nome de princesa, nove mil toneladas, a linha inteira de Gênova a Buenos Aires. Era
-o navio que se mostrava.
-
-Dezoito anos depois, era o navio que sobrava.""",
-
-"""O que aconteceu no meio não foi ferrugem. Foram duas coisas que nada tinham a ver com aquele
-casco.
-
-<strong>A primeira: os Estados Unidos fecharam a porta.</strong>
-
-As leis de cota de 1921 e de 1924 cortaram brutalmente a entrada de gente do sul e do leste da
-Europa. Um italiano que em 1910 iria para Nova York, em 1925 já não ia.
-
-O fluxo não parou. <strong>Virou.</strong> Desceu para Buenos Aires, Montevidéu e Santos.
-
-De repente, a rota da América do Sul deixou de ser a rota secundária e virou o negócio
-principal da emigração italiana.""",
-
-"""<strong>A segunda: as companhias italianas encomendaram navios novos.</strong>
-
-<em>Giulio Cesare</em>, 1922. <em>Conte Rosso</em>, 1922. <em>Conte Verde</em>, 1923.
-<em>Duilio</em>, 1923.
-
-Maiores, mais rápidos, com máquinas de outra geração, projetados depois da guerra para
-exatamente aquela rota que tinha acabado de ficar valiosa.
-
-Um navio de 1908 não compete com um de 1923. Não é questão de conservação. É questão de
-projeto.""",
-
-"""E aí acontece com um navio o que acontece com qualquer frota.
-
-<strong>O <em>Mafalda</em> não foi aposentado. Foi rebaixado.</strong>
-
-Cada navio novo que entrava na água o empurrava um degrau para baixo. O melhor navio faz a
-viagem de prestígio, com o nome no jornal. O segundo faz a mesma rota sem barulho. O terceiro
-faz o que sobra: a data que ninguém quer, a carga que ninguém disputa, a manutenção que der.""",
-
-"""E há uma consequência econômica disso que é fria e é direta.
-
-Um navio cujo dinheiro vem de mil passagens de terceira classe, e cujo prestígio já foi para
-outro casco, é um navio em que <strong>consertar custa caro e rende pouco</strong>.
-
-Não porque alguém seja mau. Porque cada lira gasta na casa de máquinas de um navio de dezenove
-anos é uma lira que não foi para o navio de quatro.
-
-As avarias sucessivas da última viagem — Barcelona, a escala africana, os mecânicos trabalhando
-durante a travessia — não foram azar de outubro de 1927.
-
-Foram o fim de uma sequência de decisões que começou quando o primeiro navio novo entrou na
-água.""",
-
-"""E nada disso chegava até quem comprava a passagem.
-
-O panfleto colado numa parede de Asolo não dizia <em>navio de dezenove anos, terceiro na fila
-da companhia, casa de máquinas remendada</em>.
-
-Dizia <strong>América</strong>.
-
-Essa informação existia dentro da companhia, dentro do estaleiro e dentro da casa de máquinas.
-Não existia em Monfumo, não existia em Castelcucco, e não existia no bolso de ninguém que
-subisse aquela prancha.""",
-
-"""Rosa Forner e Maria Luigia viram o que qualquer pessoa naquela situação teria visto.
-
-Um navio enorme, encostado no cais de Gênova, com bandeira italiana e nome de princesa.
-
-A maior coisa construída que qualquer uma das duas tinha visto na vida.
-
-<strong>Ninguém sobe uma prancha olhando para o eixo.</strong>""",
-]
-
 CAP_BUSCA = [
 """Tudo o que existe neste livro e não é lembrança de família veio de papel.
 
@@ -2991,7 +2735,7 @@ irmão do Vincenzo — isso não é voltar. É turismo.""",
 
 <strong>25 de outubro de 2027.</strong> Cem anos exatos da noite em que aquele navio afundou.
 
-Não escolhi por efeito. Escolhi porque um livro que passou trinta capítulos dizendo que
+Não escolhi por efeito. Escolhi porque um livro que passou vinte e oito capítulos dizendo que
 documento tem data precisa respeitar a única data que esta família tem.""",
 
 """O que eu vou fazer lá cabe em cinco linhas.
@@ -3010,6 +2754,258 @@ mulher chamada Mafalda, que vai ter noventa anos.
 <strong>Ela nunca viu essa porta. A mãe dela saiu por ela.</strong>
 
 Eu não sei o que vou dizer. Sei que é para isso que este livro está sendo escrito.""",
+]
+
+CAP_NAVIO = [
+"""Para entender o que aquele navio era em 1927, é preciso saber o que ele foi em 1908.
+
+E para saber isso, é preciso começar pelo irmão dele, que nunca navegou.""",
+
+"""<strong>22 de setembro de 1907.</strong> Estaleiro em Riva Trigoso, no litoral perto de
+Gênova.
+
+O <strong>Lloyd Italiano</strong>, companhia genovesa fundada três anos antes, ia lançar o
+primeiro de dois transatlânticos gêmeos encomendados para a rota da América do Sul. O primeiro
+se chamava <strong><em>Principessa Jolanda</em></strong>.
+
+Havia autoridade, havia imprensa, havia madrinha, havia multidão. Lançamento de navio grande
+era espetáculo público, e este tinha sido anunciado.""",
+
+"""O casco desceu a rampa e entrou na água.
+
+E <strong>tombou</strong>.
+
+Adernou para um lado, deitou, e afundou ali mesmo, diante de todo mundo, sem nunca ter
+navegado um metro.
+
+Foi fotografado. As imagens existem: um transatlântico novo, com a pintura fresca, deitado de
+lado na água rasa do próprio estaleiro.""",
+
+"""É um dos desastres navais mais constrangedores da história italiana, e ele não matou
+ninguém que se saiba — matou uma reputação.
+
+O <em>Jolanda</em> foi lançado com o acabamento interno já instalado, mobília e tudo, e sem
+lastro suficiente. Ficou pesado demais em cima.
+
+Um navio pesado em cima tomba. É a mesma física que ia importar dezenove anos depois, do outro
+lado do Atlântico, numa noite de outubro.""",
+
+"""E o <em>Jolanda</em> tinha um gêmeo.
+
+Mesmo projeto, mesmo estaleiro, casco já em construção ao lado.
+
+Depois do desastre, refizeram os cálculos, corrigiram o que havia para corrigir, e lançaram o
+segundo navio em <strong>1908</strong>. Esse desceu direito. Entrou em serviço em 1909.""",
+
+"""<strong>Esse navio se chamava Principessa Mafalda.</strong>
+
+Ele existe, na forma em que existiu, por causa de um acidente. Foi construído duas vezes: uma
+vez no papel, junto com o irmão, e outra vez depois que o irmão afundou na frente da imprensa
+italiana.""",
+
+"""O nome veio de uma criança.
+
+<strong>Mafalda di Savoia</strong> nasceu em 1902, segunda filha de Vittorio Emanuele III, rei
+da Itália. Tinha seis anos de idade quando um casco de nove mil toneladas recebeu o nome dela.
+
+Era o que se fazia. Navio grande de bandeira nacional levava nome de gente da casa real,
+porque o navio era propaganda antes de ser transporte: dizia ao mundo que a Itália construía
+coisas grandes.""",
+
+"""Ela não escolheu nada disso, e não teve como saber o que estava sendo posto no nome dela.
+
+Que em 1927 aquele casco ia afundar no Atlântico com trezentas e catorze pessoas dentro.
+
+E que quarenta anos depois, num sítio do interior de São Paulo, ia haver uma mulher brasileira
+com o nome dela e com o nome do navio, sem que as duas coisas fossem distinguíveis.""",
+
+"""As medidas, para quem quiser: nove mil duzentas e dez toneladas. Velocidade de serviço por
+volta de dezoito nós. Capacidade para pouco mais de mil e quatrocentos passageiros, a grande
+maioria em terceira classe.
+
+Entre 1909 e 1927 ele fez cerca de <strong>noventa travessias</strong> do Atlântico.
+
+A conta é minha e é grosseira, mas dá a ordem de grandeza: em dezoito anos de serviço,
+algo perto de cem mil pessoas atravessaram o Atlântico dentro daquele casco.""",
+
+"""E em 1908, quando aquele casco entrou na água pela primeira vez, em Monfumo não aconteceu
+nada.
+
+<strong>Rosa Forner tinha cinco anos.</strong> Santa Pandolfo, a mãe, estava viva e ainda ia
+viver seis anos. Vincenzo trabalhava a terra. Sante tinha quinze e ainda não tinha ouvido falar
+em Caporetto. Maria Luigia tinha doze.
+
+Ninguém naquela casa tinha ouvido falar de Riva Trigoso, nem do <em>Jolanda</em>, nem da filha
+do rei.""",
+
+"""A distância entre Monfumo e Riva Trigoso é de uns trezentos quilômetros.
+
+Naquele ano, numa ponta, uma família de agricultores plantava milho num pedaço de encosta que
+já não bastava.
+
+E na outra, um estaleiro punha na água a coisa que ia decidir a vida daquela família dezenove
+anos depois.""",
+
+"""Entre uma ponta e a outra há dezenove anos, e é o que houve no meio deles a parte deste
+capítulo que costuma ser contada errada.
+
+O que se conta sobre esses navios é sempre a mesma coisa. Os salões. A escadaria. O jantar
+servido em várias etapas. A orquestra. As senhoras descendo para o jantar.
+
+Tudo isso é verdade, e é a parte menos importante do navio.""",
+
+"""A rota do <em>Principessa Mafalda</em> era esta:
+
+<strong>Gênova — Barcelona — Dakar — Rio de Janeiro — Montevidéu — Buenos Aires.</strong>
+
+Catorze dias entre a Itália e a Argentina, em condições normais. Cerca de noventa vezes, entre
+1909 e 1927.
+
+Era uma linha de ônibus. Uma linha de ônibus de catorze dias, atravessando um oceano e uma
+linha do equador, mas uma linha: sempre os mesmos portos, sempre na mesma ordem, sempre para o
+mesmo lado.""",
+
+"""E agora a aritmética, que é onde a glória desses navios costuma se desmanchar.
+
+Na última viagem, a de outubro de 1927, iam a bordo novecentos e setenta e um passageiros.
+
+Pouco mais de <strong>sessenta na primeira classe</strong>. Cerca de <strong>oitenta na
+segunda</strong>.
+
+E <strong>todo o resto na terceira</strong> — mais de oitocentas pessoas.
+
+Mais duzentos e oitenta e oito tripulantes.""",
+
+"""Leia esses números outra vez, devagar.
+
+<strong>Cento e quarenta pessoas em cima. Mais de oitocentas embaixo.</strong>
+
+Para cada passageiro que jantava com orquestra, havia seis dormindo em beliche de ferro num
+porão sem janela.""",
+
+"""Então é preciso inverter a frase que se usa para descrever esses navios.
+
+Um transatlântico da rota sul-americana não era um hotel de luxo que também levava imigrante.
+
+<strong>Era um transporte de imigrante com um hotel montado em cima.</strong>
+
+O dinheiro estava embaixo. As passagens de terceira classe pagavam o navio. As sessenta
+cabines de primeira pagavam a reputação dele.""",
+
+"""E a reputação servia para uma coisa muito concreta.
+
+O luxo do andar de cima era o que gerava a reportagem, a fotografia no jornal, o nome
+conhecido e o cartaz colado na parede de uma praça de província.
+
+<strong>A propaganda era feita com a escadaria e vendida para quem ia no porão.</strong>
+
+O panfleto que Rosa e Fausto podem ter visto em Asolo não trazia foto de beliche. Trazia uma
+palavra: <em>América</em>.""",
+
+"""Isso não é hipocrisia particular daquele navio nem daquela companhia.
+
+É o modelo inteiro da emigração transatlântica, e funcionou por sessenta anos justamente
+porque funcionava: quem ia embaixo chegava, na esmagadora maioria das vezes, e mandava buscar a
+família.
+
+O <em>Principessa Mafalda</em> foi apenas competente nesse modelo. Dezoito anos de serviço e
+noventa travessias.""",
+
+"""E havia uma coisa que a primeira e a terceira classe daquele navio nunca faziam: se ver.
+
+Conveses separados. Escadas separadas. Refeitórios separados. Horários de banho separados.
+Grades e portas que se abriam num sentido só.
+
+Uma pessoa podia atravessar o Atlântico inteiro naquele casco sem trocar uma palavra com
+alguém que estivesse três andares abaixo dela.""",
+
+"""Foi assim durante dezoito anos.
+
+E numa única noite, em 25 de outubro de 1927, as duas partes daquele navio foram para a mesma
+água, ao mesmo tempo, com os mesmos coletes.
+
+O que aconteceu ali está no capítulo 17, e é a primeira e a última vez que os dois lados
+daquele casco falaram um sobre o outro.
+
+<strong>Não gostaram do que viram.</strong>""",
+
+"""Mas para chegar àquela noite é preciso passar pelos dezoito anos de serviço que vieram antes, e
+por uma coisa que aconteceu com aquele casco enquanto ninguém olhava.
+
+Um navio não envelhece sozinho. Envelhece porque chegam outros.""",
+
+"""Em 1909, quando entrou em serviço, o <em>Principessa Mafalda</em> era o que a Itália tinha
+de melhor para mandar à América do Sul.
+
+Casco novo, nome de princesa, nove mil toneladas, a linha inteira de Gênova a Buenos Aires. Era
+o navio que se mostrava.
+
+Dezoito anos depois, era o navio que sobrava.""",
+
+"""O que aconteceu no meio não foi ferrugem. Foram duas coisas que nada tinham a ver com aquele
+casco.
+
+<strong>A primeira: os Estados Unidos fecharam a porta.</strong>
+
+As leis de cota de 1921 e de 1924 cortaram brutalmente a entrada de gente do sul e do leste da
+Europa. Um italiano que em 1910 iria para Nova York, em 1925 já não ia.
+
+O fluxo não parou. <strong>Virou.</strong> Desceu para Buenos Aires, Montevidéu e Santos.
+
+De repente, a rota da América do Sul deixou de ser a rota secundária e virou o negócio
+principal da emigração italiana.""",
+
+"""<strong>A segunda: as companhias italianas encomendaram navios novos.</strong>
+
+<em>Giulio Cesare</em>, 1922. <em>Conte Rosso</em>, 1922. <em>Conte Verde</em>, 1923.
+<em>Duilio</em>, 1923.
+
+Maiores, mais rápidos, com máquinas de outra geração, projetados depois da guerra para
+exatamente aquela rota que tinha acabado de ficar valiosa.
+
+Um navio de 1908 não compete com um de 1923. Não é questão de conservação. É questão de
+projeto.""",
+
+"""E aí acontece com um navio o que acontece com qualquer frota.
+
+<strong>O <em>Mafalda</em> não foi aposentado. Foi rebaixado.</strong>
+
+Cada navio novo que entrava na água o empurrava um degrau para baixo. O melhor navio faz a
+viagem de prestígio, com o nome no jornal. O segundo faz a mesma rota sem barulho. O terceiro
+faz o que sobra: a data que ninguém quer, a carga que ninguém disputa, a manutenção que der.""",
+
+"""E há uma consequência econômica disso que é fria e é direta.
+
+Um navio cujo dinheiro vem de mil passagens de terceira classe, e cujo prestígio já foi para
+outro casco, é um navio em que <strong>consertar custa caro e rende pouco</strong>.
+
+Não porque alguém seja mau. Porque cada lira gasta na casa de máquinas de um navio de dezenove
+anos é uma lira que não foi para o navio de quatro.
+
+As avarias sucessivas da última viagem — Barcelona, a escala africana, os mecânicos trabalhando
+durante a travessia — não foram azar de outubro de 1927.
+
+Foram o fim de uma sequência de decisões que começou quando o primeiro navio novo entrou na
+água.""",
+
+"""E nada disso chegava até quem comprava a passagem.
+
+O panfleto colado numa parede de Asolo não dizia <em>navio de dezenove anos, terceiro na fila
+da companhia, casa de máquinas remendada</em>.
+
+Dizia <strong>América</strong>.
+
+Essa informação existia dentro da companhia, dentro do estaleiro e dentro da casa de máquinas.
+Não existia em Monfumo, não existia em Castelcucco, e não existia no bolso de ninguém que
+subisse aquela prancha.""",
+
+"""Rosa Forner e Maria Luigia viram o que qualquer pessoa naquela situação teria visto.
+
+Um navio enorme, encostado no cais de Gênova, com bandeira italiana e nome de princesa.
+
+A maior coisa construída que qualquer uma das duas tinha visto na vida.
+
+<strong>Ninguém sobe uma prancha olhando para o eixo.</strong>""",
 ]
 
 CAP19 = [
@@ -5228,7 +5224,7 @@ Para que quando o navio afundar, o leitor saiba exatamente o que aquelas pessoas
 tentando alcançar, e o que já tinham atravessado antes de chegar à água.""",
 ]
 
-CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 11: CAP12, 12: CAP14, 13: CAP16, 14: CAP17, 15: CAP18, 16: CAP19, 17: CAP20, 18: CAP21, 19: CAP22, 20: CAP23, 21: CAP24, 22: CAP25, 23: CAP26, 24: CAP27, 25: CAP28, 26: CAP29, 27: CAP30, 28: CAP31, 29: CAP32, 30: CAP_BUSCA, 31: CAP_CASA}
+CHAPTERS = {1: CAP1, 2: CAP2, 3: CAP3, 4: CAP4, 5: CAP5, 6: CAP6, 7: CAP7, 8: CAP8, 9: CAP9, 10: CAP10, 11: CAP12, 12: CAP14, 13: CAP_NAVIO, 14: CAP19, 15: CAP20, 16: CAP21, 17: CAP22, 18: CAP23, 19: CAP24, 20: CAP25, 21: CAP26, 22: CAP27, 23: CAP28, 24: CAP29, 25: CAP30, 26: CAP31, 27: CAP32, 28: CAP_BUSCA, 29: CAP_CASA}
 
 # ------------------------------------------------------------------ paginas
 pages = []
@@ -5259,32 +5255,33 @@ IMG_BY_CAP = {
       ('angelo_dei_agnoli__jpg','Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de São Paulo. Angelo Dei Agnoli, nascido em 12 de junho de 1898 em Cavaso, filho de Antonio Dei Agnoli e Paschoa Colla, lavrador, casado com Maria Luiza Forner, nascida em 5 de março de 1896 em Monfumo. <em>Desembarcado em 30/4/1927, no porto de Santos, da embarcação Principessa Mafalda.</em> Carimbo da Delegacia de Polícia de Grama.','montada')],
  13: [('cartaz_lloyd_italiano','Cartaz do <strong>Lloyd Italiano</strong> anunciando o <em>Principessa Mafalda</em>: <em>servizio speciale extra-rapido dall’Europa al Plata</em>, saída de Gênova, escalas em Barcelona e Las Palmas, chegada a Buenos Aires. <strong>Navigazione effettiva 14 giorni.</strong> Traz impressa a lista de passageiros da travessia.','montada'),
       ('princess_mafalda_of_savoy','Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.','oval')],
- 16: [('mafalda_barcelona','<em>Barcelona. Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.</em> Cartão-postal de época; o nome do navio se lê na proa. Barcelona era a primeira escala, e foi onde a última viagem parou um dia por avaria. Imagem de sítio de colecionismo, com marca d’água; a procedência original não foi localizada.','montada')],
- 21: [('passageiros_agnoli','A família Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>: Danilo 2, Dinetta 7, Dino 4, Maria de 31 e Pulcheria 6, todos em terceira classe.','montada')],
- 23: [('rosa_forner','<strong>Rosa Forner Miotto</strong>, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos, com o filho de um ano no colo. <em>Restauração feita pelo autor: o original está muito danificado.</em>','oval'),
+ 14: [('mafalda_barcelona','<em>Barcelona. Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.</em> Cartão-postal de época; o nome do navio se lê na proa. Barcelona era a primeira escala, e foi onde a última viagem parou um dia por avaria. Imagem de sítio de colecionismo, com marca d’água; a procedência original não foi localizada.','montada')],
+ 19: [('passageiros_agnoli','A família Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>: Danilo 2, Dinetta 7, Dino 4, Maria de 31 e Pulcheria 6, todos em terceira classe.','montada')],
+ 21: [('rosa_forner','<strong>Rosa Forner Miotto</strong>, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos, com o filho de um ano no colo. <em>Restauração feita pelo autor: o original está muito danificado.</em>','oval'),
       ('rosa_forner_documento','A cédula de identidade dela, emitida no Brasil décadas depois.','montada')],
- 24: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.','oval'),
+ 22: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.','oval'),
       ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e Angelo dei Agnoli com os filhos.','montada'),
       ('gina','<strong>Gina Oliva Dei Agnoli</strong>, nascida em 28 de março de 1920. Tinha sete anos na noite do naufrágio. Uma das duas meninas que podem ter achado o pai.','oval'),
       ('rino','<strong>Rino Dei Agnoli</strong>, nascido em 26 de janeiro de 1923. Tinha quatro anos. Fotografia de documento, 22 de novembro de 1979.','montada'),
       ('maria_luiza_e_angelo','Maria Luigia Forner e Angelo Dei Agnoli. Ela sobreviveu ao naufrágio com quatro filhos; ele esperava do outro lado, e tinha atravessado no mesmo navio seis meses antes.','montada')],
- 26: [('enrico','Enrico Miotto, 1926 a 1998. Tinha um ano e quinze dias na noite do naufrágio.','montada'),
+ 24: [('enrico','Enrico Miotto, 1926 a 1998. Tinha um ano e quinze dias na noite do naufrágio.','montada'),
       ('enrico_registro_de_estrangeiro','Registro de Estrangeiros de Enrico Miotto, 29 de dezembro de 1949. Data de nascimento: 10.10.1926.','montada'),
       ('certidao_de_obito','Declaração de Óbito nº 5501831. Sorocaba, 6 de outubro de 1998. Aposentado, solteiro, natural da Itália, filho de Fausto Miotto e Rosa Forner. Sepultado no Cemitério Santo Antônio. <em>O nome, o registro profissional, o telefone e a assinatura do médico que atestou o óbito foram tarjados nesta reprodução: ele é a única pessoa deste documento que não pertence à família e não escolheu estar neste livro.</em>','montada')],
- 27: [('mafalda_miotto_forner','Mafalda Miotto Terra, nascida em 1937, dez anos depois do naufrágio, com o nome do navio.','oval'),
+ 25: [('mafalda_miotto_forner','Mafalda Miotto Terra, nascida em 1937, dez anos depois do naufrágio, com o nome do navio.','oval'),
       ('mafalda_e_filhos','Mafalda e os filhos: Dionísio, Edna, Mafalda, Inês, Kênia, Marta e Siri. Falta o João.','montada'),
       ('mafalda_e_bisnetos','Mafalda e os bisnetos.','montada')],
- 29: [('sante_e_familia','Sante Forner e família, na Itália.','montada'),
+ 27: [('sante_e_familia','Sante Forner e família, na Itália.','montada'),
       ('forner_galliano','Galliano Forner, filho de Sante, com as tropas alpinas em 1950.','oval'),
       ('giorgio_e_sua_familia','Giorgio Forner e família, o ramo que permaneceu no Vêneto.','montada'),
       ('galliano_e_esposa','Galliano Forner, filho de Sante, e a mulher.','montada'),
       ('giorgio_e_pai','Giorgio Forner e o pai, Galliano. Três gerações do ramo que ficou cabem em duas fotografias: Sante, Galliano, Giorgio.','montada'),
       ('giorgio_e_netos','Giorgio Forner e os netos, no Vêneto. A quinta geração da casa que não atravessou.','montada')],
- 30: [('miotto_veronica_vancouver','Miotto Amabile Veronica, irmã de Fausto, com o marido Parisotto Lucindo e a família. Segundo Giorgio, uma das filhas, Valeria, <strong>vive em Vancouver</strong>.','montada')],
- 31: [('mafalda_e_joao','Mafalda e o autor.','montada'),
+ 28: [('miotto_veronica_vancouver','Miotto Amabile Veronica, irmã de Fausto, com o marido Parisotto Lucindo e a família. Segundo Giorgio, uma das filhas, Valeria, <strong>vive em Vancouver</strong>.','montada')],
+ 29: [('mafalda_e_joao','Mafalda e o autor.','montada'),
       ('mafalda_e_joao_luca','Mafalda e o bisneto João Luca, a quem este livro é dedicado.','montada'),
       ('mafalda_marta_joao_luca','<strong>Mafalda, Marta e João Luca.</strong> A filha de Rosa, a neta de Rosa e o tataraneto de Rosa, na mesma fotografia. A mais velha nasceu dez anos depois do naufrágio; o mais novo, oitenta e cinco anos depois dela.','montada')],
 }
+
 
 
 
@@ -5494,9 +5491,9 @@ for p in pages:
     elif t == 'fim':
         out.append(sheet(
             '<div class="fim"><p class="fm-1">continua</p>'
-            '<p class="fm-2">Os trinta e um capítulos estão escritos.<br>'
+            '<p class="fm-2">Os vinte e nove capítulos estão escritos.<br>'
             'Falta o epílogo, que depende das gravações com Mafalda Miotto Terra,<br>'
-            'e a reescrita do capítulo 31 depois da viagem a Castelcucco.<br><br>'
+            'e a reescrita do capítulo 29 depois da viagem a Castelcucco.<br><br>'
             'Centenário do naufrágio: 25 de outubro de 2027.</p></div>', '', data_nav='Fim'))
 
 BODY = '\n'.join(out)

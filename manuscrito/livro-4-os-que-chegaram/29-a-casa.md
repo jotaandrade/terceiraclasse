@@ -1,4 +1,4 @@
-# 31. A casa
+# 29. A casa
 
 > Livro IV — Os que chegaram
 > Escrito por quem nunca esteve lá. A porta por onde Rosa saiu, vista de longe.
@@ -61,7 +61,7 @@ A viagem tem data, e a data não é minha.
 
 **25 de outubro de 2027.** Cem anos exatos da noite em que aquele navio afundou.
 
-Não escolhi por efeito. Escolhi porque um livro que passou trinta capítulos dizendo que documento tem data precisa respeitar a única data que esta família tem.
+Não escolhi por efeito. Escolhi porque um livro que passou vinte e oito capítulos dizendo que documento tem data precisa respeitar a única data que esta família tem.
 
 O que eu vou fazer lá cabe em cinco linhas.
 

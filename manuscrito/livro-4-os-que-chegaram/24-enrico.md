@@ -1,4 +1,4 @@
-# 26. Enrico
+# 24. Enrico
 
 > Livro IV — Os que chegaram
 > 1926 a 1998. Cinco documentos, e nada além do que eles dizem.

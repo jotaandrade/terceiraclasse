@@ -1,4 +1,4 @@
-# 25. Terra vermelha
+# 23. Terra vermelha
 
 > Livro IV — Os que chegaram
 > Grama, o café, e a palavra que decidiu tudo: espontâneos.

@@ -1,4 +1,4 @@
-# 16. A última viagem
+# 14. A última viagem
 
 > Livro III — O navio
 > Quem estava a bordo. Garovaglio, von Lücken, Bucherer, o comandante Gulì.

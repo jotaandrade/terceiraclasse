@@ -1,4 +1,4 @@
-# 30. A busca
+# 28. A busca
 
 > Livro IV — Os que chegaram
 > Como o papel mente, como a memória mente, e o que custa começar tarde.
