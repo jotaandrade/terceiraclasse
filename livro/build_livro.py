@@ -5247,9 +5247,21 @@ linha não a tem.""",
 
 """Sobre pessoas que não escolheram estar aqui.
 
-Os documentos reproduzidos neste livro pertencem à família, mas alguns trazem terceiros
-dentro. Onde isso acontece, o dado pessoal de quem não é da família foi tarjado, e a tarja
-está declarada na legenda.""",
+Os documentos reproduzidos neste livro são de dois tipos, e eles não pedem a mesma
+coisa.
+
+O primeiro é registro de arquivo público: a relação do vapor <em>Alhena</em>, o livro
+de matrícula da Hospedaria do Brás. Aqueles nomes já estão publicados, e reproduzi-los
+é o que a pesquisa histórica faz — é também, no caso daquela gente, o único lugar
+onde ela ainda existe.
+
+O segundo é papel particular de família, e alguns trazem gente de fora dentro. Aí a
+régua é outra: o dado pessoal de quem não é da família e não é figura histórica foi
+tarjado, e a tarja está declarada na legenda. É o caso do médico que atestou o óbito
+de Enrico Miotto.
+
+As pessoas vivas nomeadas e fotografadas neste livro autorizaram o uso do nome e da
+imagem.""",
 ]
 
 # ------------------------------------------------------------------ fontes
@@ -5453,7 +5465,7 @@ PROV = {
  'imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890':
      u'Hospedaria dos Imigrantes, São Paulo, c. 1890. Acervo público — <em>[instituição e número de acervo a confirmar]</em>',
  'passageiros_agnoli': u'Intendência de Imigração, relação do vapor <em>Alhena</em>, 28 de outubro de 1927. '
-                       u'Reprodução parcial. <em>[tarja de terceiros a aplicar]</em>',
+                       u'Reprodução parcial de documento de acervo público.',
  'quadro_guerra_europa': GIO, 'sante_militar': GIO, 'sante_familia_completa': GIO,
  'carta_identidade_aberta': GIO, 'sante_forner_documento': GIO, 'miotto_tres_irmaos': GIO,
  'forner_martino': GIO, 'sante_e_maria_luigia_miotto': GIO, 'sante_e_familia': GIO,
@@ -5462,10 +5474,9 @@ PROV = {
  'miotto_veronica_vancouver': GIO,
  'certidao_de_obito': u'Declaração de Óbito nº 5501831, Sorocaba, 1998. Acervo da família. '
                       u'<em>Dados do médico tarjados nesta reprodução.</em>',
- 'angelo__dei_agnoli': u'Passaporte de Angelo Dei Agnoli, Regno d’Italia. Acervo da família. '
-                       u'<em>[tarja de terceiros a avaliar]</em>',
+ 'angelo__dei_agnoli': u'Passaporte de Angelo Dei Agnoli, Regno d’Italia. Acervo da família.',
  'angelo_dei_agnoli__jpg': u'Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de São Paulo. '
-                           u'Acervo da família. <em>[tarja de terceiros a avaliar]</em>',
+                           u'Acervo da família.',
  'rosa_forner': u'Acervo da família. <em>Restauração digital do autor.</em>',
  'asolo': u'Vista de Asolo. ' + CONF,
 }
@@ -5968,8 +5979,11 @@ for p in pages:
             '</div>'
             '<p class="cr-n">As fotografias e os documentos reproduzidos pertencem ao acervo da '
             'fam\u00edlia Miotto e Forner, salvo indica\u00e7\u00e3o em contr\u00e1rio na rela\u00e7\u00e3o de cr\u00e9ditos de '
-            'imagem, ao fim do volume. Onde um documento da fam\u00edlia trazia dado pessoal de '
-            'terceiro, o dado foi tarjado, e a tarja est\u00e1 declarada na legenda.</p>'
+            'imagem, ao fim do volume.</p>'
+            '<p class="cr-n">As pessoas vivas nomeadas e fotografadas nesta obra '
+            'autorizaram o uso do nome e da imagem. Onde um documento particular da '
+            'família trazia dado pessoal de terceiro, o dado foi tarjado, e a tarja '
+            'está declarada na legenda.</p>'
             '</div>', '', data_nav='Cr\u00e9ditos'))
     elif t == 'nota':
         paras = ''.join('<p>%s</p>' % x.strip() for x in p['body'].split('\n\n'))

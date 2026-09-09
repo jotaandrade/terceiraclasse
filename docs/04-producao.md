@@ -77,27 +77,28 @@ Nenhum destes impede a leitura. Todos impedem a impressão.
 
 ---
 
-## 4. Pessoas vivas — autorização de nome e imagem
+## 4. Pessoas vivas — RESOLVIDO (08.09.2026)
 
-Registrado hoje: **um** consentimento, o de Patrícia Betti (08.09.2026).
+**Todas as autorizações foram obtidas.** Giorgio Forner, Mafalda Miotto Terra, João Luca
+(pelos responsáveis), Patrícia Betti e a família do caderno de imagens autorizaram o uso do
+nome e da imagem.
 
-| pessoa | onde aparece | falta |
-|---|---|---|
-| **Giorgio Forner** | 8 menções no texto, 13 em legendas; fotos dele, do pai, da mulher e dos netos | autorização. É cidadão italiano — **GDPR**, não só LGPD |
-| **Mafalda Miotto Terra**, 89 anos | testemunha central, fotografada, e a fonte do epílogo | autorização de uso e **cessão de direitos sobre o depoimento gravado** |
-| **João Luca**, nascido em 2012 | pelo menos 6 legendas | **menor** — autorização dos dois responsáveis |
-| Marta, Carlos, Kênia, Inês, Siri, Edna, Dionísio, Aline, Mattia, Valeria | legendas do caderno | autorização simples |
+O registro entrou no próprio volume, que é onde tem de estar: na **página de créditos** e no
+fim da **nota de método**.
 
-**E a régua que o próprio livro criou.** O médico da declaração de óbito foi tarjado porque
-*"ele é a única pessoa deste documento que não pertence à família e não escolheu estar neste
-livro"*. A mesma decisão precisa ser aplicada — ou explicitamente dispensada com argumento —
-aos outros documentos reproduzidos:
+### A tarja de terceiros — também resolvida
 
-- a **relação do *Alhena*** (cap. 17) traz **cinquenta nomes** de pessoas que não são desta
-  família, com idade e parentesco;
-- o **passaporte do Angelo** e o **registro de estrangeiros** trazem terceiros.
+A questão era se os cinquenta nomes da relação do <em>Alhena</em> e os terceiros dentro dos
+documentos precisavam ser tarjados. **Não precisam, e a distinção é esta:**
 
-Os créditos de imagem já marcam esses três como `[tarja de terceiros a avaliar]`.
+- **Registro de arquivo público** — a relação do <em>Alhena</em>, o Livro 100 da Hospedaria.
+  Aqueles nomes **já estão publicados**, inclusive pelo Museu da Imigração. Reproduzi-los é o
+  que a pesquisa histórica faz, e no caso daquela gente é o único lugar onde ela ainda existe.
+- **Papel particular de família** com dado de quem não é da família nem figura histórica — aí
+  a tarja vale. É o caso, único no livro, do médico que atestou o óbito de Enrico Miotto.
+
+A regra está escrita na nota de método, e as marcas `[tarja a avaliar]` saíram dos créditos de
+imagem.
 
 ---
 

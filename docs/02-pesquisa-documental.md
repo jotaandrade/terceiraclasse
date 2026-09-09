@@ -2222,3 +2222,27 @@ autorizacoes de nome e imagem, a tarja de terceiros na relacao do *Alhena*, e o 
 calendario - a viagem a Castelcucco esta marcada para o dia do lancamento.
 
 Livro: **601 paginas navegaveis**, 27 capitulos, 36.308 palavras.
+
+---
+
+## 33. Autorizacoes e a regra da tarja - 08.09.2026
+
+**Todas as autorizacoes de nome e imagem foram obtidas.** Giorgio Forner, Mafalda Miotto Terra,
+Joao Luca (pelos responsaveis), Patricia Betti e a familia do caderno de imagens. O registro
+entrou na pagina de creditos e no fim da nota de metodo - dentro do volume, que e onde tem de
+estar.
+
+E a questao da tarja de terceiros ficou resolvida por uma distincao que o proprio autor
+levantou e que o livro agora carrega escrita:
+
+- **Registro de arquivo publico** - a relacao do vapor *Alhena*, o Livro 100 da Hospedaria do
+  Bras. Aqueles nomes **ja estao publicados**, inclusive pelo Museu da Imigracao. Reproduzi-los
+  e o que a pesquisa historica faz, e no caso daquela gente e o unico lugar onde ela ainda
+  existe.
+- **Papel particular de familia** com dado de quem nao e da familia nem figura historica - ai a
+  tarja vale. E o caso, unico no livro, do medico que atestou o obito de Enrico Miotto.
+
+Saiu do livro toda marca de `[tarja de terceiros a avaliar]`. O que continua marcado como
+`[a confirmar]` nos creditos de imagem e outra coisa e continua aberto: as cinco imagens de
+terceiros obtidas na internet, a instituicao da fotografia da Hospedaria, e as referencias
+bibliograficas de *Storia di Castelcucco* e da epigrafe de Derenzi.

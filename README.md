@@ -111,8 +111,18 @@ um capítulo.
 **Enrico (cap. 22).** Escrever seco, sem adjetivo. Não transformar a doença dele em
 metáfora. A causa registrada é neoplasia de orofaringe, não câncer de língua.
 
-**Patrícia Betti.** Neta da Pulcheria e bisneta de Maria Luigia. **Consentiu em ser
-nomeada e creditada no livro (08.09.2026).** Aparece nos caps. 13, 14, 20, 21 e 25. É
+**Autorizações de nome e imagem: todas obtidas (08.09.2026).** Giorgio Forner, Mafalda
+Miotto Terra, João Luca (pelos responsáveis), Patrícia Betti e a família que aparece no
+caderno de imagens autorizaram o uso do nome e da imagem. O registro está na página de
+créditos e na nota de método do próprio livro.
+
+**Nome em arquivo público não se tarja.** *(08.09.2026)* A relação do vapor <em>Alhena</em> e
+o livro de matrícula da Hospedaria do Brás são acervo público — aqueles nomes já estão
+publicados, inclusive pelo Museu da Imigração, e reproduzi-los é o que a pesquisa histórica
+faz. A tarja fica para o outro caso: dado pessoal de quem não é da família nem figura
+histórica, dentro de **papel particular** — o médico da declaração de óbito.
+
+**Patrícia Betti.** Neta da Pulcheria e bisneta de Maria Luigia. Aparece nos caps. 13, 14, 20, 21 e 25. É
 fonte de boa parte da tradição oral deste projeto — o cozinheiro, o bote dos cozinheiros,
 o navio de carvão e a menina que achou o pai. Creditar sempre que o material for dela.
 
@@ -189,11 +199,10 @@ uma linha cada:
    menor lado, e o problema está nos originais, não na conversão.
 3. **Nove liberações de direito de imagem e texto**, incluindo a procedência do corpus de vinte
    depoimentos (jornal, data, página).
-4. **Autorizações de nome e imagem** de Giorgio Forner, Mafalda, João Luca (menor) e da
-   família do caderno. Só a de Patrícia Betti está registrada.
-5. **Tarja de terceiros** nos documentos reproduzidos — a relação do <em>Alhena</em> traz
-   cinquenta nomes de fora da família.
-6. **Conflito de calendário**: a viagem a Castelcucco está marcada para o dia do lançamento.
+4. **Conflito de calendário**: a viagem a Castelcucco está marcada para o dia do lançamento.
+
+Resolvidas em 08.09.2026: as **autorizações de nome e imagem** (todas obtidas) e a **tarja de
+terceiros** (nome em arquivo público não se tarja — ver a nota de método do livro).
 
 ---
 
