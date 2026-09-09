@@ -70,10 +70,35 @@ O manifesto completo, arquivo por arquivo, está no fim deste documento.
 | 5 | Fotografia da Hospedaria, c. 1890 | cap. 9 | creditada como "acervo público" — falta instituição e nº de acervo |
 | ~~6~~ | Vista de Asolo | cap. 1 | **RESOLVIDO** — capa de folheto de época, acervo Forner, enviada por Giorgio. Creditada |
 | 7 | **Corpus de 20 depoimentos** | caps. 13 a 18 | sem jornal, data e página. Impresso, deixa de ser lacuna declarada e vira citação sem fonte. Há também direito sobre a tradução |
-| 8 | *Storia di Castelcucco* | cap. 26 | genealogia impressa, descrita e argumentada. Falta referência bibliográfica completa |
-| 9 | Epígrafe de Serafim Derenzi (1974) | abertura | obra em domínio privado; citação curta com crédito provavelmente cabe no art. 46 da Lei 9.610 — confirmar por escrito |
+| ~~8~~ | *Storia di Castelcucco* | cap. 26 | **RESOLVIDO** — FARRONATO, Gabriele. *Storia di Castelcucco: un comune veneto del Pedemonte del Grappa*. Castelcucco: Edizioni Acelum, 2008 |
+| 9 | Epígrafe de Derenzi | abertura | referência obtida — DERENZI, Luiz Serafim. *Os italianos no Estado do Espírito Santo*. Rio de Janeiro: Artenova, 1974. Falta só a decisão sobre a citação (ver nota) |
 
-Nenhum destes impede a leitura. **Sete ainda impedem a impressão.**
+Nenhum destes impede a leitura. **Cinco ainda impedem a impressão**, e delas quatro são
+procedência, não direito.
+
+### Nota sobre a epígrafe (08.09.2026)
+
+Com a referência completa, o item 9 deixa de ser uma busca e vira uma decisão.
+
+A citação tem cerca de cinquenta palavras e vem com autor e ano na própria página — que é o
+que o **art. 46, III, da Lei 9.610/1998** exige: a citação de passagem de qualquer obra, para
+fins de estudo, crítica ou polêmica, na medida justificada, indicando o nome do autor e a
+origem. A relação de Fontes do livro agora traz a referência completa e diz, em letra, sob que
+artigo a citação se faz.
+
+O ponto discutível é que epígrafe não é exatamente estudo ou crítica — é abertura. Duas
+saídas, e a segunda é barata:
+
+1. **Escrever aos herdeiros.** A Artenova não opera mais, então os direitos terão revertido à
+   família. O Arquivo Público do Espírito Santo, que o livro já cita, é um bom ponto de
+   partida para chegar até eles.
+2. **Puxar a epígrafe para dentro do texto.** Se a mesma passagem for citada e comentada num
+   capítulo, a citação passa a ser inequivocamente de estudo. O capítulo 8, Gênova, é o lugar
+   óbvio: a cena da amurada e dos lenços é exatamente o que ele descreve.
+
+**Confirmar contra o exemplar.** As duas referências vieram do autor e não foram checadas em
+catálogo — a italiana no OPAC SBN, a brasileira na Biblioteca Nacional. É meia hora, e evita
+imprimir um ISBN errado.
 
 ### Nota sobre o panfleto *…In América* (08.09.2026)
 

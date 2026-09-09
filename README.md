@@ -197,8 +197,8 @@ uma linha cada:
    02.01.2027. É a única pendência sem substituto.
 2. **Originais em alta resolução** — 41 das 43 imagens do miolo estão abaixo de 1.200 px no
    menor lado, e o problema está nos originais, não na conversão.
-3. **Sete liberações de direito de imagem e texto**, incluindo a procedência do corpus de vinte
-   depoimentos (jornal, data, página).
+3. **Cinco liberações**, das quais quatro são procedência e não direito. A que importa é a
+   procedência do corpus de vinte depoimentos (jornal, data, página).
 4. **Viagem a Castelcucco: abril de 2027** — decidido em 08.09.2026, para o capítulo 27 ser escrito de volta dela. O centenário, 25.10.2027, fica sendo o lançamento.
 
 Resolvidas em 08.09.2026: as **autorizações de nome e imagem** (todas obtidas) e a **tarja de

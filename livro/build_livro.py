@@ -5296,11 +5296,13 @@ FONTES_GERAIS = [
   u"Mafalda</em>.",
   u"<em>Hemeroteca Digital da Biblioteca Nacional</em>.",
   u"<em>Albo d’Oro dei Caduti della Grande Guerra</em>, Ministero della Difesa.",
-  u"<em>Storia di Castelcucco</em> — história local, com a genealogia impressa da família "
-  u"Forner. <em>[referência bibliográfica completa a confirmar]</em>",
+  u"FARRONATO, Gabriele. <em>Storia di Castelcucco: un comune veneto del Pedemonte del "
+  u"Grappa</em>. Castelcucco: Edizioni Acelum, 2008 — história local, com a genealogia "
+  u"impressa da família Forner.",
   u"Acervo da família Miotto e Forner, no Brasil e no Vêneto."]),
 ("Epígrafe",
- [u"Serafim Derenzi, 1974. <em>[referência bibliográfica completa e autorização a confirmar]</em>"]),
+ [u"DERENZI, Luiz Serafim. <em>Os italianos no Estado do Espírito Santo</em>. Rio de Janeiro: "
+  u"Artenova, 1974. Citada nos termos do art. 46, III, da Lei 9.610/1998."]),
 ]
 
 FONTES = {
@@ -5310,7 +5312,7 @@ FONTES = {
     u"Asolo. Roma, 1919.",
     u"Prefettura di Treviso, documentação do <em>sgombero facoltativo e parziale</em>, "
     u"27 de fevereiro de 1918."],
-2: [u"<em>Storia di Castelcucco</em>: genealogia impressa da família Forner e a anotação "
+2: [u"FARRONATO, <em>Storia di Castelcucco</em>: genealogia impressa da família Forner e a anotação "
     u"<em>emigrato in America dopo il 1891</em> ao lado de Luigi Forner.",
     u"<em>Tassa sul macinato</em>, lei de 7 de julho de 1868, em vigor a partir de 1º de janeiro "
     u"de 1869; confirmação pelo Senado em 26 de janeiro de 1869.",
@@ -5446,7 +5448,7 @@ FONTES = {
     u"Vêneto.",
     u"Árvore genealogica colaborativa: o cruzamento que reencontrou Patrícia Betti, a partir do "
     u"casal Vincenzo Forner e Santa Pandolfo."],
-26:[u"<em>Storia di Castelcucco</em>: a genealogia impressa, a linha vertical que liga a segunda "
+26:[u"FARRONATO, <em>Storia di Castelcucco</em>: a genealogia impressa, a linha vertical que liga a segunda "
     u"fileira ao irmão de Vincenzo, e o erro na data de nascimento de Rosa.",
     u"Índices de nascimento do Comune di Monfumo: as três grafias do nome de Santa Pandolfo.",
     u"<em>Carta d’identità</em> de Sante Forner, 8 de março de 1940: <em>Padre: di Vincenzo. "

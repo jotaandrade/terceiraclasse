@@ -2290,3 +2290,24 @@ um sinal de que quem compos a peca nao trabalhava em italiano - que e o que o ca
 
 Licao de metodo, e ela e do proprio livro: **sinal de retoque num arquivo nao prova nada sobre
 o objeto que ele reproduz.** Antes de concluir, pedir o original.
+
+### 33.3 As duas referencias bibliograficas, fornecidas pelo autor
+
+**FARRONATO, Gabriele.** *Storia di Castelcucco: un comune veneto del Pedemonte del Grappa*.
+Castelcucco: Edizioni Acelum, 2008. ISBN 978-88-903558-0-6.
+
+**DERENZI, Luiz Serafim.** *Os italianos no Estado do Espirito Santo*. Rio de Janeiro:
+Artenova, 1974.
+
+As duas entraram na relacao de Fontes do livro, e o nome de Farronato entrou junto nas entradas
+dos caps. 2 e 26, onde a genealogia impressa e usada.
+
+Sobre a epigrafe: a passagem ("A cena e lancinante. Lagrimas, lamurias, desmaios...") descreve
+a despedida no cais e bate com *Os italianos no Estado do Espirito Santo*, nao com *Biografia
+de uma Ilha* (1965), que e sobre Vitoria. A data que o livro ja trazia - 1974 - confirma.
+
+A Fontes agora diz sob que artigo a citacao se faz: art. 46, III, da Lei 9.610/1998.
+
+**Pendente, e barato:** conferir as duas referencias em catalogo - a italiana no OPAC SBN, a
+brasileira na Biblioteca Nacional. Vieram do autor e nao foram checadas; e meia hora, e evita
+imprimir um ISBN errado.
