@@ -64,7 +64,7 @@ O manifesto completo, arquivo por arquivo, está no fim deste documento.
 | # | o quê | onde | situação |
 |---|---|---|---|
 | ~~1~~ | Panfleto *…In América* | cap. 4 | **RESOLVIDO** — peça de uso público, sem autoria identificável. Decisão do autor: fica. Ver nota abaixo |
-| 2 | Cartão-postal de Barcelona | cap. 13 | sítio de colecionismo, **com marca d'água visível** |
+| 2 | Cartão-postal de Barcelona | cap. 13 | **procedência localizada** — Museu de la Targeta Postal de Catalunya, Colección Jorge Venini, cat. CAT XXX 01 TP 1939. Falta pedir a reprodução limpa (ver nota) |
 | 3 | Cartaz do Lloyd Italiano | cap. 12 | procedência não declarada |
 | 4 | Retrato de Mafalda di Savoia | cap. 12 | procedência não declarada |
 | 5 | Fotografia da Hospedaria, c. 1890 | cap. 9 | creditada como "acervo público" — falta instituição e nº de acervo |
@@ -75,6 +75,29 @@ O manifesto completo, arquivo por arquivo, está no fim deste documento.
 
 Nenhum destes impede a leitura. **Cinco ainda impedem a impressão**, e delas quatro são
 procedência, não direito.
+
+### Nota sobre o cartão-postal de Barcelona (08.09.2026)
+
+Procedência localizada pelo autor, no catálogo do **Museu de la Targeta Postal de Catalunya**
+(L’Ametlla del Vallès). A peça está na **Colección Jorge Venini, Barcelona**, sob
+**CAT XXX 01 TP 1939** — e há uma segunda, quase igual, sob CAT XXX 01 TP 1938, que vale
+comparar.
+
+O cartão rendeu duas coisas ao ler de perto, e as duas entraram na legenda:
+
+- É da **série 128** de Barcelona.
+- A legenda vem repetida embaixo **em esperanto**: *Haveno. Mara stacidomo.* Barcelona era um
+  dos centros esperantistas da Europa naquelas décadas, e os editores de postal da cidade
+  imprimiam as legendas nas duas línguas.
+
+Saiu da legenda a frase *"o nome do navio se lê na proa"*: a 720×475 não dá para ler. Se a
+reprodução em alta confirmar, ela volta.
+
+**O que falta é um pedido, e ele resolve três coisas de uma vez.** O arquivo em uso veio do
+todocoleccion e traz a marca d’água do site no canto inferior direito, além de estar a
+720×475 — abaixo do mínimo de impressão. Escrever ao museu (Plaça de l’Ajuntament, L’Ametlla
+del Vallès) pedindo reprodução em alta e autorização resolve **marca d’água, resolução e
+direito** numa carta só. Não usar a imagem do sítio do museu sem esse pedido.
 
 ### Nota sobre a epígrafe (08.09.2026)
 

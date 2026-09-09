@@ -5471,7 +5471,7 @@ GIO = u'Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.'
 CONF = u'<em>[procedência e autorização a confirmar]</em>'
 PROV = {
  'panfleto_in_america': u'Reprodução de época, de uso público, sem autoria identificável; procedência não localizada.',
- 'mafalda_barcelona':   u'Cartão-postal de época, reproduzido de sítio de colecionismo, com marca d’água. ' + CONF,
+ 'mafalda_barcelona':   u'Cartão-postal de época, série 128. Museu de la Targeta Postal de Catalunya, L’Ametlla del Vallès — Colección Jorge Venini, Barcelona, cat. CAT XXX 01 TP 1939. <em>[reprodução limpa a solicitar]</em>',
  'cartaz_lloyd_italiano': u'Cartaz do Lloyd Italiano. ' + CONF,
  'princess_mafalda_of_savoy': u'Retrato de Mafalda di Savoia. ' + CONF,
  'imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890':
@@ -5699,7 +5699,7 @@ IMG_BY_CAP = {
       ('angelo_dei_agnoli__jpg','Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de São Paulo. Angelo Dei Agnoli, nascido em 12 de junho de 1898 em Cavaso, filho de Antonio Dei Agnoli e Paschoa Colla, lavrador, casado com Maria Luiza Forner, nascida em 5 de março de 1896 em Monfumo. <em>Desembarcado em 30/4/1927, no porto de Santos, da embarcação Principessa Mafalda.</em> Carimbo da Delegacia de Polícia de Grama.','montada')],
  12: [('cartaz_lloyd_italiano','Cartaz do <strong>Lloyd Italiano</strong> anunciando o <em>Principessa Mafalda</em>: <em>servizio speciale extra-rapido dall’Europa al Plata</em>, saída de Gênova, escalas em Barcelona e Las Palmas, chegada a Buenos Aires. <strong>Navigazione effettiva 14 giorni.</strong> Traz impressa a lista de passageiros da travessia.','montada'),
       ('princess_mafalda_of_savoy','Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.','oval')],
- 13: [('mafalda_barcelona','<em>Barcelona. Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.</em> Cartão-postal de época; o nome do navio se lê na proa. Barcelona era a primeira escala, e foi onde a última viagem parou um dia por avaria. Imagem de sítio de colecionismo, com marca d’água; a procedência original não foi localizada.','montada')],
+ 13: [('mafalda_barcelona','<em>Barcelona. 128 — Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.</em> Cartão-postal de época, com a legenda repetida embaixo <strong>em esperanto</strong>: <em>Haveno. Mara stacidomo.</em> Barcelona era a primeira escala do navio, e foi onde a última viagem parou um dia por avaria.','montada')],
  17: [('passageiros_agnoli','A família Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>: Danilo 2, Dinetta 7, Dino 4, Maria de 31 e Pulcheria 6, todos em terceira classe.','montada')],
  19: [('rosa_forner','<strong>Rosa Forner Miotto</strong>, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos, com o filho de um ano no colo. <em>Restauração feita pelo autor: o original está muito danificado.</em>','oval'),
       ('rosa_forner_documento','A cédula de identidade dela, emitida no Brasil décadas depois.','montada')],

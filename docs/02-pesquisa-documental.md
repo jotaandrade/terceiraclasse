@@ -2311,3 +2311,26 @@ A Fontes agora diz sob que artigo a citacao se faz: art. 46, III, da Lei 9.610/1
 **Pendente, e barato:** conferir as duas referencias em catalogo - a italiana no OPAC SBN, a
 brasileira na Biblioteca Nacional. Vieram do autor e nao foram checadas; e meia hora, e evita
 imprimir um ISBN errado.
+
+### 33.4 O cartao-postal de Barcelona: procedencia localizada
+
+O autor achou a peca no catalogo do **Museu de la Targeta Postal de Catalunya**, L'Ametlla del
+Valles: **Coleccion Jorge Venini, Barcelona, cat. CAT XXX 01 TP 1939**. Ha uma segunda entrada
+quase igual, CAT XXX 01 TP 1938, que vale comparar.
+
+Lendo o cartao de perto apareceram duas coisas, e as duas entraram na legenda:
+
+- E da **serie 128** de Barcelona - o numero esta impresso antes de "Puerto".
+- A legenda vem repetida embaixo **em esperanto**: *Haveno. Mara stacidomo.* Barcelona era um
+  dos centros esperantistas da Europa naquelas decadas, e os editores de postal da cidade
+  imprimiam nas duas linguas.
+
+Confirmado tambem que o cartao traz **Principessa** com dois esses, forma italiana - o catalogo
+do museu transcreve "Princesa", que e a forma espanhola. A citacao do livro esta certa.
+
+Saiu da legenda a frase "o nome do navio se le na proa": a 720x475 nao da para ler. Se a
+reproducao em alta confirmar, volta.
+
+**Pendente:** o arquivo em uso veio do todocoleccion e traz a marca d'agua do site. Escrever ao
+museu pedindo reproducao em alta e autorizacao resolve marca d'agua, resolucao e direito numa
+carta so. Nao usar a imagem do sitio do museu sem esse pedido.
