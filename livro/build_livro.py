@@ -4332,15 +4332,15 @@ falando.""",
 italiano tinha largado havia séculos. <em>Vito</em> onde deveria estar <em>vitto</em>, que
 é comida.
 
-Não é falha da minha leitura: está lá, nas três palavras.
+E o próprio título: <em>América</em>, com acento agudo. Em italiano não se acentua. Em
+português, sim.
 
-E aqui eu devo ao leitor uma linha sobre o próprio cartaz. Ele chegou até mim sem
-procedência, e eu não consigo provar que a folha é de época. Uso-o pelo que ele carrega, que
-está documentado em dezenas de peças que sobreviveram: <strong>a forma daquela promessa.</strong>
+Não é falha da minha leitura. Está impresso. Alguém compôs aquele tipo letra por letra,
+alguém mandou rodar, e ninguém corrigiu.
 
-Quem quer que a tenha composto não era gente para quem o italiano fosse língua de trabalho, e
-ninguém no caminho achou que valesse a pena revisar — porque o público alvo, na praça da
-vila, em boa parte não sabia ler.""",
+Não sei quem imprimiu esse cartaz. Sei que não era gente para quem o italiano fosse língua
+de trabalho, e que ninguém no caminho achou que valesse a pena revisar — porque o público
+alvo, na praça da vila, em boa parte não sabia ler.""",
 
 """Era por isso que alguém lia em voz alta.
 
@@ -5468,7 +5468,7 @@ FAM = u'Acervo da família Miotto e Forner.'
 GIO = u'Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.'
 CONF = u'<em>[procedência e autorização a confirmar]</em>'
 PROV = {
- 'panfleto_in_america': u'Peça de uso público, sem autoria identificável; procedência não localizada.',
+ 'panfleto_in_america': u'Reprodução de época, de uso público, sem autoria identificável; procedência não localizada.',
  'mafalda_barcelona':   u'Cartão-postal de época, reproduzido de sítio de colecionismo, com marca d’água. ' + CONF,
  'cartaz_lloyd_italiano': u'Cartaz do Lloyd Italiano. ' + CONF,
  'princess_mafalda_of_savoy': u'Retrato de Mafalda di Savoia. ' + CONF,
@@ -5684,7 +5684,7 @@ IMG_BY_CAP = {
  3:  [('miotto_tres_irmaos','Três irmãos de Fausto Miotto: <strong>Maria Luigia</strong> ao centro, <strong>Veronica</strong> à direita e <strong>Vittorio</strong>. Fotografia e identificação enviadas por Giorgio Forner, neto de Maria Luigia.','montada'),
       ('sante_e_maria_luigia_miotto','<strong>Sante Forner e Maria Luigia Miotto.</strong> Ele, irmão de Rosa. Ela, irmã de Fausto. Os dois casamentos desta história cruzaram as mesmas duas famílias.','montada'),
       ('forner_martino','Martino Forner, irmão de Sante e de Rosa. Fotografia de época enviada da Itália.','montada')],
- 4:  [('panfleto_in_america','“…In América. Terre in Brasile per gli Italiani.” Preto sobre papel barato, com o italiano cheio de erros de composição e um navio no lugar onde deveria estar a terra prometida. Imagem obtida na internet; a procedência não foi localizada.','montada')],
+ 4:  [('panfleto_in_america','“…In América. Terre in Brasile per gli Italiani.” Reprodução de linha do cartaz: preto sobre papel barato, com o italiano cheio de erros de composição e um navio no lugar onde deveria estar a terra prometida. Imagem de uso público; a procedência não foi localizada.','montada')],
  6:  [('quadro_guerra_europa','O quadro com as três medalhas de guerra de Sante Forner, na parede da casa da família no Vêneto. No diploma, escrito à mão: <em>Forner Sante di Vincenzo</em>. Fotografia enviada por Giorgio Forner.','montada'),
       ('sante_militar','Sante Forner, 1893 a 1947, fardado.','oval'),
       ('sante_familia_completa','Sante Forner ao centro, com a mulher Maria Luigia Miotto. Atrás, o filho Leo; à esquerda, em baixo, o filho Galliano.','montada'),
@@ -5760,7 +5760,8 @@ for bn, btitle, byears, bcolor in BOOKS:
             P(t='audio', key=k, tit=tit, meta=meta, nota=nota, tr=tr, book=bn)
 
 # ---------------------------------------------------- caderno de imagens
-SKIP = {'52f7878846e1bd9668eb0502126ae9a0', '571_1', '571_2', '710doxadqgl__sl1360',
+SKIP = {
+ 'panfleto_in_america_colorizado','52f7878846e1bd9668eb0502126ae9a0', '571_1', '571_2', '710doxadqgl__sl1360',
         '716aeqgd2pl__sl1499', '71lmjwglzgl__sl1200', '71rnbfpskhl__sl1360',
         '9e1442ad1cef72882ae3ced892b93163', 'arovore_genealogica', 'brasao', 'capa', 'cartaz',
         'castellcuco', 'e01164_afab8415694242ebbd01f48d699c9193_mv2', 'familia_forner',

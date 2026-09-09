@@ -2268,3 +2268,25 @@ E o 25 de outubro passa a ser, no texto, *"o dia em que este livro chega a mao d
 Bonus de producao: a viagem de abril e a chance de recolher em alta resolucao, na mao, o que
 hoje so existe em foto de WhatsApp - o quadro das tres medalhas, a carta d'identita, os
 retratos do ramo que ficou.
+
+### 33.2 O panfleto "...In America": a volta
+
+Registro inteiro, porque a conclusao mudou no meio.
+
+Ao medir a resolucao do arquivo que estava no livro, apareceram sinais de reconstrucao
+moderna: sans-serif contemporanea no corpo do texto, envelhecimento digital uniforme,
+ornamentos de canto vetoriais repetidos. Conclusao na hora: peca refeita em computador, e o
+capitulo 4 estaria lendo como documento primario uma coisa que nao e.
+
+**Certo sobre o arquivo, errado sobre o documento.** O autor forneceu a reproducao oficial, em
+preto e branco - reproducao de linha de um impresso, com o corpo do texto numa condensada de
+tipografia comercial. O arquivo que estava no livro era uma colorizacao retocada dela, com o
+texto re-composto por alguem depois. Foi a retocagem que deu os sinais.
+
+A imagem do cap. 4 passou a ser a reproducao oficial; a colorizacao foi para o SKIP. **A
+leitura do capitulo voltou inteira**, e ganhou uma prova a mais que so apareceu por causa da
+checagem: **America com acento agudo**. Em italiano nao se acentua; em portugues, sim. E mais
+um sinal de que quem compos a peca nao trabalhava em italiano - que e o que o capitulo diz.
+
+Licao de metodo, e ela e do proprio livro: **sinal de retoque num arquivo nao prova nada sobre
+o objeto que ele reproduz.** Antes de concluir, pedir o original.

@@ -77,29 +77,33 @@ Nenhum destes impede a leitura. **Sete ainda impedem a impressão.**
 
 ### Nota sobre o panfleto *…In América* (08.09.2026)
 
-Ao medir a resolução do arquivo, apareceu outra coisa: a peça **tem sinais fortes de ser uma
-reconstrução moderna**, não um impresso de época — sans-serif contemporânea no corpo do texto,
-envelhecimento digital uniforme, ornamentos de canto que são o mesmo vetor repetido, e
-*América* com acento agudo, que é grafia portuguesa e não italiana. Isso também explicaria os
-erros de italiano que o capítulo analisa.
+Houve uma volta aqui, e vale registrar inteira.
 
-**Decisão do autor: a imagem fica** — é de uso público e não há responsável a localizar.
+Ao medir a resolução do arquivo que estava no livro, apareceram sinais de reconstrução
+moderna: sans-serif contemporânea no corpo do texto, envelhecimento digital uniforme,
+ornamentos de canto vetoriais. **Estava certo sobre o arquivo e errado sobre o documento.**
 
-O que mudou foi o texto, e só no que era afirmação de fato sobre o objeto. Saíram a descrição
-física de uma folha que o autor não tem (*"amarelado nas bordas e vincado no lugar onde alguém
-o dobrou"*) e a afirmação de manufatura (*"Está impresso. Alguém compôs aquele tipo letra por
-letra"*). No lugar entrou uma linha que faz o que o resto do livro faz — declara a lacuna:
+O autor forneceu a **reprodução oficial**, em preto e branco: uma reprodução de linha de um
+impresso, com o corpo do texto numa condensada de tipografia comercial — não a sans moderna. O
+arquivo que estava no livro era uma **colorização retocada** dela, com o texto re-composto.
 
-> E aqui eu devo ao leitor uma linha sobre o próprio cartaz. Ele chegou até mim sem
-> procedência, e eu não consigo provar que a folha é de época. Uso-o pelo que ele carrega, que
-> está documentado em dezenas de peças que sobreviveram: **a forma daquela promessa.**
+**O que mudou:**
 
-A leitura do cartaz continua inteira, e as promessas que ela descreve seguem historicamente
-corretas. **Se um cartaz autêntico e documentado aparecer** — Museu da Imigração, Arquivo
-Público do Espírito Santo, museus italianos da emigração — a abertura do capítulo 4 melhora
-trocando de objeto.
+- A imagem do cap. 4 passou a ser a reprodução oficial (547×768). A colorização foi guardada
+  como `panfleto_in_america_colorizado.webp` e entrou no `SKIP`.
+- **A leitura do capítulo voltou inteira**, porque a afirmação de manufatura se sustenta:
+  *"Está impresso. Alguém compôs aquele tipo letra por letra, alguém mandou rodar, e ninguém
+  corrigiu."*
+- E ganhou uma prova a mais, que veio da checagem: **<em>América</em> com acento agudo**. Em
+  italiano não se acentua; em português, sim. É mais um sinal de que quem compôs a peça não
+  trabalhava em italiano — exatamente o que o capítulo argumenta.
+- Ficou de fora só a descrição física da folha (*"amarelado nas bordas e vincado no lugar onde
+  alguém o dobrou"*), porque isso vinha do arquivo colorizado, não do documento.
 
----
+**O que continua aberto:** a procedência (que acervo publicou esta reprodução) e a
+**resolução** — 547×768 imprime a 4,6 cm em 300 dpi. Para reproduzir maior, ou se acha um scan
+melhor, ou se trata como arte de linha: conversão bitonal com aumento de escala, que é o que uma
+casa de repro faz com reprodução de linha e imprime limpo.
 
 ## 4. Pessoas vivas — RESOLVIDO (08.09.2026)
 
