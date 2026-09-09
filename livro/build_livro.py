@@ -5300,7 +5300,8 @@ FONTES_GERAIS = [
   u"Mafalda</em>.",
   u"<em>Hemeroteca Digital da Biblioteca Nacional</em>.",
   u"CARVALHO, Maurício. <em>Principessa Mafalda</em>, em <em>Naufrágios do Brasil</em> — "
-  u"pesquisa secundária, consultada para cotejo de datas, posição e números.",
+  u"pesquisa secundária. É dela que vem a relação dos navios que ouviram o pedido de socorro, "
+  u"no capítulo 17, e o nome da estação radiotelegráfica de Amaralina, em Salvador.",
   u"<em>Albo d’Oro dei Caduti della Grande Guerra</em>, Ministero della Difesa.",
   u"FARRONATO, Gabriele. <em>Storia di Castelcucco: un comune veneto del Pedemonte del "
   u"Grappa</em>. Castelcucco: Edizioni Acelum, 2008 — história local, com a genealogia "

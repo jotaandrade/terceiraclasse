@@ -2412,3 +2412,33 @@ Registro tambem o limite do meu proprio cheque: o algoritmo simplificado que use
 minutos contra valores conhecidos (aferido em Rio e Sao Paulo), entao ele **nao serve para
 contestar** o 18h21 - so para mostrar que a escolha de posicao nao o afeta. Se um dia se quiser
 o numero ao minuto, usar efemeride de verdade.
+
+### 34.5 O que veio dali foram nomes, e um deles abre trabalho
+
+Esclarecimento do autor: **do sitio sairam nomes, nao imagens.** Cotejando as listas, e a
+relacao dos navios: os dez do cap. 17 - Alhena, Empire Star, Formosa, Mosella, Avelona,
+Rosetti, Salem, Forthmouth, Frederik e Piauhy - batem um a um com a pagina, incluindo os quatro
+incomuns. E de la tambem vem o nome da estacao radiotelegrafica de **Amaralina**, em Salvador.
+
+Juridicamente isso e o cenario limpo: nome e fato nao tem direito autoral; imagem tem, e a
+pagina veda o uso comercial das dela. Nada de la foi usado como imagem.
+
+O credito nas Fontes passou a dizer exatamente isso, em vez do generico "cotejo de datas".
+
+**E confirma que o corpus dos vinte depoimentos NAO veio dali:** a pagina nao nomeia nenhum
+sobrevivente. Segue em aberto, com o livro do Garibaldi/Giorgerini/Magnani Bosio como proxima
+acao.
+
+**Achado que abre trabalho no cap. 17.** A pagina arrola **dezesseis** embarcacoes, nao dez. As
+seis que o livro nao tem: *Rio Grande do Sul*, *Elias Oulucumdis*, *Saint Anthony*, *Dunca de
+Liabrolli*, *Conte Verde* - e a propria *Principessa Mafalda*. O capitulo 17 afirma "Dez
+nomes", numero que agora se sabe ser recorte, nao a conta da fonte.
+
+Nao importei: fonte secundaria sem notas, e parte desses nomes pode estar na pagina por outro
+motivo (o *Conte Verde*, por exemplo, aparece neste livro como um dos transatlanticos novos de
+1923, nao como navio de resgate). **A verificar antes de mexer no cap. 17:** quais dessas seis
+de fato atenderam ao SOS. Se mais de dez atenderam, a frase "Dez nomes" muda - e o argumento do
+capitulo, que e a densidade de trafego naquele trecho do Atlantico, so melhora.
+
+Menor, tambem a conferir: a pagina grafa *Rossetti* com dois esses e *Simone Guli* sem crase; o
+livro usa *Rosetti* e *Guli* com crase.
