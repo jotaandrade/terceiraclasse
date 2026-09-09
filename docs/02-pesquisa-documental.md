@@ -2334,3 +2334,27 @@ reproducao em alta confirmar, volta.
 **Pendente:** o arquivo em uso veio do todocoleccion e traz a marca d'agua do site. Escrever ao
 museu pedindo reproducao em alta e autorizacao resolve marca d'agua, resolucao e direito numa
 carta so. Nao usar a imagem do sitio do museu sem esse pedido.
+
+### 33.5 Direitos assumidos pelo autor
+
+Decisao do autor: aprova o uso de todas as pecas restantes e assume a responsabilidade.
+
+Em livro impresso isso tem uma forma, e ela entrou na pagina de creditos - a **clausula de
+diligencia**, padrao em livro de historia e de familia:
+
+> Foram feitos todos os esforcos para identificar e creditar os detentores de direito sobre as
+> imagens e os textos reproduzidos. Onde a procedencia nao pode ser estabelecida, isso esta
+> dito na propria relacao de creditos. O autor se compromete a corrigir, em edicoes futuras,
+> qualquer omissao ou erro que lhe seja apontado.
+
+Ela **so funciona porque o livro de fato diz onde nao sabe**. Os creditos de imagem passaram a
+carregar "peca de epoca, de uso publico; procedencia nao localizada" em cada caso, e nao
+inventam acervo nenhum. Regra que fica: **nunca preencher um credito com um acervo plausivel.**
+
+Sairam dos creditos todos os colchetes de pendencia - nota de trabalho nao se imprime. O que
+sobra como *a definir* e so o que depende de editora: ano, ISBN, ficha CIP, equipe, grafica.
+
+Continuam de pe, porque nao sao questao de direito: a **resolucao** das pecas, a **marca
+d'agua do todocoleccion** no arquivo do cartao-postal (acabamento, nao direito), e a
+**procedencia dos vinte depoimentos**, que e pesquisa e ja esta declarada como lacuna dentro
+do livro.

@@ -5468,14 +5468,16 @@ FONTES = {
 # ir para a gráfica sem carta.
 FAM = u'Acervo da família Miotto e Forner.'
 GIO = u'Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.'
-CONF = u'<em>[procedência e autorização a confirmar]</em>'
+CONF = u'Peça de época, de uso público; procedência não localizada.'
 PROV = {
  'panfleto_in_america': u'Reprodução de época, de uso público, sem autoria identificável; procedência não localizada.',
- 'mafalda_barcelona':   u'Cartão-postal de época, série 128. Museu de la Targeta Postal de Catalunya, L’Ametlla del Vallès — Colección Jorge Venini, Barcelona, cat. CAT XXX 01 TP 1939. <em>[reprodução limpa a solicitar]</em>',
+ 'mafalda_barcelona':   u'Cartão-postal de época, série 128. Museu de la Targeta Postal de Catalunya, L’Ametlla del Vallès — Colección Jorge Venini, Barcelona, cat. CAT XXX 01 TP 1939.',
  'cartaz_lloyd_italiano': u'Cartaz do Lloyd Italiano. ' + CONF,
+ # os que seguem sem procedência levam a mesma fórmula, e a cláusula de
+ # diligência na página de créditos responde por eles.
  'princess_mafalda_of_savoy': u'Retrato de Mafalda di Savoia. ' + CONF,
  'imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890':
-     u'Hospedaria dos Imigrantes, São Paulo, c. 1890. Acervo público — <em>[instituição e número de acervo a confirmar]</em>',
+     u'Hospedaria dos Imigrantes, São Paulo, c. 1890. Acervo público; instituição não identificada.',
  'passageiros_agnoli': u'Intendência de Imigração, relação do vapor <em>Alhena</em>, 28 de outubro de 1927. '
                        u'Reprodução parcial de documento de acervo público.',
  'quadro_guerra_europa': GIO, 'sante_militar': GIO, 'sante_familia_completa': GIO,
@@ -5993,6 +5995,11 @@ for p in pages:
             '<p class="cr-n">As fotografias e os documentos reproduzidos pertencem ao acervo da '
             'fam\u00edlia Miotto e Forner, salvo indica\u00e7\u00e3o em contr\u00e1rio na rela\u00e7\u00e3o de cr\u00e9ditos de '
             'imagem, ao fim do volume.</p>'
+            '<p class="cr-n">Foram feitos todos os esforços para identificar e creditar os '
+            'detentores de direito sobre as imagens e os textos reproduzidos. Onde a procedência '
+            'não pôde ser estabelecida, isso está dito na própria relação de créditos. O autor se '
+            'compromete a corrigir, em edições futuras, qualquer omissão ou erro que lhe seja '
+            'apontado.</p>'
             '<p class="cr-n">As pessoas vivas nomeadas e fotografadas nesta obra '
             'autorizaram o uso do nome e da imagem. Onde um documento particular da '
             'família trazia dado pessoal de terceiro, o dado foi tarjado, e a tarja '

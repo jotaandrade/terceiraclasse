@@ -111,6 +111,11 @@ um capítulo.
 **Enrico (cap. 22).** Escrever seco, sem adjetivo. Não transformar a doença dele em
 metáfora. A causa registrada é neoplasia de orofaringe, não câncer de língua.
 
+**Direitos de imagem e texto: assumidos pelo autor (08.09.2026).** As peças sem procedência
+fechada são material de época e o livro diz, em cada crédito, que a procedência não foi
+localizada. A página de créditos traz a cláusula de diligência. **Nunca inventar um acervo
+para preencher um crédito** — é ela que sustenta a cláusula.
+
 **Autorizações de nome e imagem: todas obtidas (08.09.2026).** Giorgio Forner, Mafalda
 Miotto Terra, João Luca (pelos responsáveis), Patrícia Betti e a família que aparece no
 caderno de imagens autorizaram o uso do nome e da imagem. O registro está na página de
@@ -197,8 +202,8 @@ uma linha cada:
    02.01.2027. É a única pendência sem substituto.
 2. **Originais em alta resolução** — 41 das 43 imagens do miolo estão abaixo de 1.200 px no
    menor lado, e o problema está nos originais, não na conversão.
-3. **Cinco liberações**, das quais quatro são procedência e não direito. A que importa é a
-   procedência do corpus de vinte depoimentos (jornal, data, página).
+3. **Procedência do corpus de vinte depoimentos** (jornal, data, página) — item de pesquisa,
+   não de liberação. Já declarado como lacuna dentro do livro.
 4. **Viagem a Castelcucco: abril de 2027** — decidido em 08.09.2026, para o capítulo 27 ser escrito de volta dela. O centenário, 25.10.2027, fica sendo o lançamento.
 
 Resolvidas em 08.09.2026: as **autorizações de nome e imagem** (todas obtidas) e a **tarja de

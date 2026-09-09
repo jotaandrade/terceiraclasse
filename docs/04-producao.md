@@ -59,69 +59,43 @@ O manifesto completo, arquivo por arquivo, está no fim deste documento.
 
 ---
 
-## 3. Direitos — cartas que precisam existir antes do PDF ir para a gráfica
+## 3. Direitos — ASSUMIDOS PELO AUTOR (08.09.2026)
 
-| # | o quê | onde | situação |
-|---|---|---|---|
-| ~~1~~ | Panfleto *…In América* | cap. 4 | **RESOLVIDO** — peça de uso público, sem autoria identificável. Decisão do autor: fica. Ver nota abaixo |
-| 2 | Cartão-postal de Barcelona | cap. 13 | **procedência localizada** — Museu de la Targeta Postal de Catalunya, Colección Jorge Venini, cat. CAT XXX 01 TP 1939. Falta pedir a reprodução limpa (ver nota) |
-| 3 | Cartaz do Lloyd Italiano | cap. 12 | procedência não declarada |
-| 4 | Retrato de Mafalda di Savoia | cap. 12 | procedência não declarada |
-| 5 | Fotografia da Hospedaria, c. 1890 | cap. 9 | creditada como "acervo público" — falta instituição e nº de acervo |
-| ~~6~~ | Vista de Asolo | cap. 1 | **RESOLVIDO** — capa de folheto de época, acervo Forner, enviada por Giorgio. Creditada |
-| 7 | **Corpus de 20 depoimentos** | caps. 13 a 18 | sem jornal, data e página. Impresso, deixa de ser lacuna declarada e vira citação sem fonte. Há também direito sobre a tradução |
-| ~~8~~ | *Storia di Castelcucco* | cap. 26 | **RESOLVIDO** — FARRONATO, Gabriele. *Storia di Castelcucco: un comune veneto del Pedemonte del Grappa*. Castelcucco: Edizioni Acelum, 2008 |
-| 9 | Epígrafe de Derenzi | abertura | referência obtida — DERENZI, Luiz Serafim. *Os italianos no Estado do Espírito Santo*. Rio de Janeiro: Artenova, 1974. Falta só a decisão sobre a citação (ver nota) |
+**Decisão do autor: aprova o uso de todas as peças restantes e assume a responsabilidade.**
 
-Nenhum destes impede a leitura. **Cinco ainda impedem a impressão**, e delas quatro são
-procedência, não direito.
+Em livro impresso essa decisão tem uma forma, e ela entrou na **página de créditos**:
 
-### Nota sobre o cartão-postal de Barcelona (08.09.2026)
+> Foram feitos todos os esforços para identificar e creditar os detentores de direito sobre as
+> imagens e os textos reproduzidos. Onde a procedência não pôde ser estabelecida, isso está
+> dito na própria relação de créditos. O autor se compromete a corrigir, em edições futuras,
+> qualquer omissão ou erro que lhe seja apontado.
 
-Procedência localizada pelo autor, no catálogo do **Museu de la Targeta Postal de Catalunya**
-(L’Ametlla del Vallès). A peça está na **Colección Jorge Venini, Barcelona**, sob
-**CAT XXX 01 TP 1939** — e há uma segunda, quase igual, sob CAT XXX 01 TP 1938, que vale
-comparar.
+É a cláusula de diligência, padrão em livro de história e de família. Ela só funciona porque o
+livro **de fato diz** onde não sabe: os créditos de imagem carregam *"peça de época, de uso
+público; procedência não localizada"* em cada caso, e não inventam um acervo.
 
-O cartão rendeu duas coisas ao ler de perto, e as duas entraram na legenda:
+Saíram dos créditos, por isso, todos os colchetes de pendência — nota de trabalho não se
+imprime. O que sobra marcado como *a definir* na página de créditos é só o que depende de
+editora: ano, ISBN, ficha CIP, equipe e gráfica.
 
-- É da **série 128** de Barcelona.
-- A legenda vem repetida embaixo **em esperanto**: *Haveno. Mara stacidomo.* Barcelona era um
-  dos centros esperantistas da Europa naquelas décadas, e os editores de postal da cidade
-  imprimiam as legendas nas duas línguas.
+### O que a decisão cobre, e o que não cobre
 
-Saiu da legenda a frase *"o nome do navio se lê na proa"*: a 720×475 não dá para ler. Se a
-reprodução em alta confirmar, ela volta.
+**Cobre** o uso das cinco peças sem procedência fechada: o panfleto *…In América*, o cartaz do
+Lloyd Italiano, o retrato de Mafalda di Savoia, a fotografia da Hospedaria e o corpus de vinte
+depoimentos. Todas são material de época; fotografia entra em domínio público setenta anos
+depois da divulgação (Lei 9.610, art. 44), e texto de jornal de 1927 também. O risco prático é
+baixo e a cláusula responde por ele.
 
-**O que falta é um pedido, e ele resolve três coisas de uma vez.** O arquivo em uso veio do
-todocoleccion e traz a marca d’água do site no canto inferior direito, além de estar a
-720×475 — abaixo do mínimo de impressão. Escrever ao museu (Plaça de l’Ajuntament, L’Ametlla
-del Vallès) pedindo reprodução em alta e autorização resolve **marca d’água, resolução e
-direito** numa carta só. Não usar a imagem do sítio do museu sem esse pedido.
+**Não cobre**, e continuam como estavam:
 
-### Nota sobre a epígrafe (08.09.2026)
-
-Com a referência completa, o item 9 deixa de ser uma busca e vira uma decisão.
-
-A citação tem cerca de cinquenta palavras e vem com autor e ano na própria página — que é o
-que o **art. 46, III, da Lei 9.610/1998** exige: a citação de passagem de qualquer obra, para
-fins de estudo, crítica ou polêmica, na medida justificada, indicando o nome do autor e a
-origem. A relação de Fontes do livro agora traz a referência completa e diz, em letra, sob que
-artigo a citação se faz.
-
-O ponto discutível é que epígrafe não é exatamente estudo ou crítica — é abertura. Duas
-saídas, e a segunda é barata:
-
-1. **Escrever aos herdeiros.** A Artenova não opera mais, então os direitos terão revertido à
-   família. O Arquivo Público do Espírito Santo, que o livro já cita, é um bom ponto de
-   partida para chegar até eles.
-2. **Puxar a epígrafe para dentro do texto.** Se a mesma passagem for citada e comentada num
-   capítulo, a citação passa a ser inequivocamente de estudo. O capítulo 8, Gênova, é o lugar
-   óbvio: a cena da amurada e dos lenços é exatamente o que ele descreve.
-
-**Confirmar contra o exemplar.** As duas referências vieram do autor e não foram checadas em
-catálogo — a italiana no OPAC SBN, a brasileira na Biblioteca Nacional. É meia hora, e evita
-imprimir um ISBN errado.
+1. **A resolução.** Nenhuma decisão de direito muda o fato de que o cartão-postal está a
+   720×475 e o cartaz do Lloyd a 267×360. Ver seção 2.
+2. **A marca d’água do todocoleccion** no arquivo do cartão-postal. Essa não é questão de
+   direito, é de acabamento: não se imprime a marca de outro site num livro. A carta ao Museu
+   de la Targeta Postal resolve marca d’água e resolução de uma vez.
+3. **A procedência dos vinte depoimentos** — jornal, data e página. Isso nunca foi direito, é
+   pesquisa, e o livro já declara a lacuna dentro do capítulo 13 e na relação de Fontes. Fica
+   como item de pesquisa, não de liberação. A pista aberta segue sendo histarmar.com.ar.
 
 ### Nota sobre o panfleto *…In América* (08.09.2026)
 
