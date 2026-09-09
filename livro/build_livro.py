@@ -3167,12 +3167,20 @@ Chegar em Castelcucco antes de ler os índices do comune, antes de aprender que 
 pai vivo e <em>fu</em> é pai morto, antes de descobrir que a segunda fileira do quadro é do
 irmão do Vincenzo — isso não é voltar. É turismo.""",
 
-"""A viagem tem data, e a data não é minha.
+"""A viagem tem data, e ela é anterior a este livro ficar pronto. De propósito.
 
-<strong>25 de outubro de 2027.</strong> Cem anos exatos da noite em que aquele navio afundou.
+<strong>Abril de 2027.</strong>
 
-Não escolhi por efeito. Escolhi porque um livro que passou vinte e seis capítulos dizendo que
-documento tem data precisa respeitar a única data que esta família tem.""",
+Podia ter sido 25 de outubro, cem anos exatos da noite em que aquele navio afundou, e por um
+tempo foi essa a ideia. Desisti dela por um motivo que este livro inteiro me ensinou:
+<strong>data bonita não é método.</strong>
+
+Indo no centenário, eu chegaria em Castelcucco com o livro fechado, e a casa entraria nele
+como fotografia de capa. Indo em abril, eu chego com o capítulo aberto e volto com ele
+escrito.
+
+O 25 de outubro fica sendo o que sempre foi para esta família: o dia. E passa a ser também o
+dia em que este livro chega à mão dela.""",
 
 """O que eu vou fazer lá cabe em cinco linhas.
 
@@ -3182,7 +3190,7 @@ que desce para Asolo, a pé, que é o caminho que eles fizeram.
 
 E a casa.""",
 
-"""E tem uma coisa que eu quero fazer, e que é a razão de a viagem ter data em vez de ter mês.
+"""E tem uma coisa que eu quero fazer lá, e ela é a razão de tudo isto.
 
 Um dia eu vou estar de pé naquela porta com o telefone na mão, e do outro lado vai atender uma
 mulher chamada Mafalda, que vai ter noventa anos.

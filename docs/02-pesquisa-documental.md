@@ -2246,3 +2246,25 @@ Saiu do livro toda marca de `[tarja de terceiros a avaliar]`. O que continua mar
 `[a confirmar]` nos creditos de imagem e outra coisa e continua aberto: as cinco imagens de
 terceiros obtidas na internet, a instituicao da fotografia da Hospedaria, e as referencias
 bibliograficas de *Storia di Castelcucco* e da epigrafe de Derenzi.
+
+### 33.1 A viagem foi antecipada para abril de 2027
+
+O conflito: a viagem a Castelcucco estava marcada para 25 de outubro de 2027, que e o dia do
+lancamento no centenario. As duas coisas nao cabiam no mesmo dia.
+
+Decisao do autor: **abril de 2027**. Indo antes, ele chega la com o capitulo 27 aberto e volta
+com ele escrito; indo no centenario, chegaria com o livro fechado e a casa entraria como
+fotografia de capa.
+
+A passagem do cap. 27 foi reescrita. O argumento antigo era o do centenario - *"um livro que
+passou vinte e seis capitulos dizendo que documento tem data precisa respeitar a unica data que
+esta familia tem"*. O novo e melhor, e sai do proprio metodo do livro:
+
+> Podia ter sido 25 de outubro (...) Desisti dela por um motivo que este livro inteiro me
+> ensinou: **data bonita nao e metodo.**
+
+E o 25 de outubro passa a ser, no texto, *"o dia em que este livro chega a mao dela"*.
+
+Bonus de producao: a viagem de abril e a chance de recolher em alta resolucao, na mao, o que
+hoje so existe em foto de WhatsApp - o quadro das tres medalhas, a carta d'identita, os
+retratos do ramo que ficou.

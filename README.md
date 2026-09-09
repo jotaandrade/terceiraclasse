@@ -199,7 +199,7 @@ uma linha cada:
    menor lado, e o problema está nos originais, não na conversão.
 3. **Nove liberações de direito de imagem e texto**, incluindo a procedência do corpus de vinte
    depoimentos (jornal, data, página).
-4. **Conflito de calendário**: a viagem a Castelcucco está marcada para o dia do lançamento.
+4. **Viagem a Castelcucco: abril de 2027** — decidido em 08.09.2026, para o capítulo 27 ser escrito de volta dela. O centenário, 25.10.2027, fica sendo o lançamento.
 
 Resolvidas em 08.09.2026: as **autorizações de nome e imagem** (todas obtidas) e a **tarja de
 terceiros** (nome em arquivo público não se tarja — ver a nota de método do livro).

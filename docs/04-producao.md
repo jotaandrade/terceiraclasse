@@ -102,25 +102,33 @@ imagem.
 
 ---
 
-## 5. Cronograma, contando para trás de 25.10.2027
+## 5. Cronograma — DECIDIDO (08.09.2026)
+
+**A viagem a Castelcucco foi antecipada para abril de 2027.** O conflito era que ela estava
+marcada para 25 de outubro de 2027, que é o dia do lançamento; as duas coisas não cabiam no
+mesmo dia. Indo em abril, o autor chega lá com o capítulo 27 aberto e volta com ele escrito, e
+o centenário fica sendo o lançamento.
+
+A passagem do cap. 27 foi reescrita: <em>"Podia ter sido 25 de outubro (…) Desisti dela por um
+motivo que este livro inteiro me ensinou: data bonita não é método."</em>
 
 | prazo | o quê |
 |---|---|
 | **agora** | gravações com Mafalda Miotto Terra — ela faz 90 em 02.01.2027 |
-| **agora** | pedidos de original em alta e cartas de autorização (6 meses de folga é pouco) |
-| março/2027 | epílogo escrito |
-| **abril/2027** | **original fechado** |
-| abril–julho/2027 | preparação, revisão, projeto gráfico, diagramação, provas |
+| **agora** | pedidos de original em alta resolução (ver seção 2 e manifesto) |
+| **agora** | as nove liberações de direito de imagem e texto (seção 3) |
+| jan–mar/2027 | epílogo escrito, a partir das gravações |
+| **abril/2027** | **viagem a Castelcucco** — igreja, cemitério, comune, a estrada até Asolo a pé, e a casa |
+| maio/2027 | capítulo 27 reescrito de volta da viagem, com as fotografias de lá |
+| **junho/2027** | **original fechado** |
+| jun–ago/2027 | preparação, revisão, projeto gráfico, diagramação, provas |
 | agosto/2027 | PDF na gráfica (45 a 60 dias de produção) |
-| 25.10.2027 | lançamento |
+| **25.10.2027** | **lançamento**, no centenário |
 
-**O conflito.** A viagem a Castelcucco está marcada para 25.10.2027, que é o dia do lançamento.
-As duas coisas não cabem no mesmo dia. Ou a viagem antecipa para abril, ou o capítulo 27 sai
-como está — escrito por quem nunca esteve lá, que é uma posição legítima e declarada — e a
-viagem vira posfácio de segunda edição.
-
-**Recomendação: antecipar a viagem.** O capítulo 27 fica melhor escrito de lá, e 25 de outubro
-de 2027 deve ser o lançamento, não a pesquisa.
+A viagem de abril também resolve uma pendência da seção 2: é a chance de recolher em alta
+resolução, na mão, o que hoje só existe em foto de WhatsApp — o quadro das três medalhas, a
+<em>carta d’identità</em>, os retratos do ramo que ficou. Levar escâner portátil ou combinar
+com o Giorgio antes.
 
 ---
 
