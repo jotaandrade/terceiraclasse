@@ -100,6 +100,66 @@ baixo e a cláusula responde por ele.
    naval de peso, e o lugar natural onde os relatos da imprensa teriam sido reunidos e
    referenciados. Depois, histarmar.com.ar e a <em>Revista Mergulho</em> nº 155 (2009).
 
+### Verificação aberta no capítulo 17 (08.09.2026)
+
+A relação dos dez navios que ouviram o pedido de socorro veio da pesquisa de Maurício Carvalho
+em *Naufrágios do Brasil*. Cotejando, **a fonte arrola dezesseis embarcações, não dez.**
+
+As seis que o livro não tem: *Rio Grande do Sul*, *Elias Oulucumdis*, *Saint Anthony*, *Dunca
+de Liabrolli*, *Conte Verde* — e a própria *Principessa Mafalda*.
+
+**A verificar:** quais dessas de fato atenderam ao SOS. Parte pode estar na página por outro
+motivo — o *Conte Verde*, por exemplo, aparece neste livro como um dos transatlânticos novos de
+1923, não como navio de resgate. Se mais de dez atenderam, a frase *"Dez nomes"* muda, e o
+argumento do capítulo — que é a densidade de tráfego naquele trecho do Atlântico — só
+melhora.
+
+Menor, também a conferir: a página grafa *Rossetti* com dois esses e *Simone Guli* sem crase; o
+livro usa *Rosetti* e *Gulì*.
+
+### Cartão-postal de Barcelona — procedência localizada (08.09.2026)
+
+Museu de la Targeta Postal de Catalunya, L’Ametlla del Vallès — **Colección Jorge Venini,
+Barcelona, cat. CAT XXX 01 TP 1939**. Há uma segunda entrada quase igual, CAT XXX 01 TP 1938,
+que vale comparar.
+
+O cartão rendeu dois detalhes ao ler de perto, e os dois entraram na legenda: é da **série
+128**, e a legenda vem repetida embaixo **em esperanto** — *Haveno. Mara stacidomo.* Barcelona
+era um dos centros esperantistas da Europa naquelas décadas.
+
+Confirmado que o cartão traz *Principessa* com dois esses, forma italiana; o catálogo do museu
+transcreve "Princesa". A citação do livro está certa.
+
+Saiu da legenda *"o nome do navio se lê na proa"*: a 720×475 não dá para ler. Se a reprodução
+em alta confirmar, volta.
+
+**Uma carta resolve três coisas.** O arquivo em uso veio do todocoleccion e traz a marca
+d’água do sítio, além de estar abaixo do mínimo de impressão. Escrever ao museu (Plaça de
+l’Ajuntament, L’Ametlla del Vallès) pedindo reprodução em alta e autorização resolve marca
+d’água, resolução e cortesia de uma vez. Não baixar a imagem do sítio do museu antes disso.
+
+### Epígrafe — referência obtida, falta uma decisão (08.09.2026)
+
+DERENZI, Luiz Serafim. *Os italianos no Estado do Espírito Santo*. Rio de Janeiro: Artenova,
+1974.
+
+A citação tem cerca de cinquenta palavras e vem com autor e ano na página — que é o que o
+**art. 46, III, da Lei 9.610/1998** pede. A relação de Fontes agora traz a referência completa
+e diz sob que artigo a citação se faz.
+
+O ponto discutível é que epígrafe não é exatamente estudo ou crítica — é abertura. Duas
+saídas, e a segunda é barata:
+
+1. **Escrever aos herdeiros.** A Artenova não opera mais; o Arquivo Público do Espírito Santo,
+   que o livro já cita, é um bom ponto de partida para chegar até eles.
+2. **Puxar a epígrafe para dentro do texto.** Se a mesma passagem for citada e comentada num
+   capítulo, a citação passa a ser inequivocamente de estudo. O capítulo 8, Gênova, é o lugar
+   óbvio: a cena da amurada e dos lenços é exatamente o que ele descreve.
+
+**Confirmar contra o exemplar.** As duas referências bibliográficas (esta e a de Farronato)
+vieram do autor e não foram checadas em catálogo — a italiana no OPAC SBN, a brasileira na
+Biblioteca Nacional.
+
 ### Nota sobre o panfleto *…In América* (08.09.2026)
 
 Houve uma volta aqui, e vale registrar inteira.
