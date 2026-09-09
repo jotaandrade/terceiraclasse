@@ -7,7 +7,7 @@
 
 O cartaz não era colorido.
 
-Tinta preta sobre papel barato, hoje amarelado nas bordas e vincado no lugar onde alguém o dobrou para guardar. O que chamava atenção não era cor nenhuma. Era a letra do alto: gótica, cheia de volutas, do tamanho de meia folha, do tipo que se usava em cartaz de circo e em capa de missal.
+Tinta preta sobre papel barato. O que chamava atenção não era cor nenhuma. Era a letra do alto: gótica, cheia de volutas, do tamanho de meia folha, do tipo que se usava em cartaz de circo e em capa de missal.
 
 Duas palavras, com uma reticência antes, como quem completa uma frase que a pessoa já vinha pensando sozinha havia meses:
 
@@ -51,9 +51,11 @@ Quem escreveu aquele texto não sabia escrever italiano.
 
 *Construire*, com um *n* que não existe em *costruire*. *Putete havere*, no lugar de *potete avere*, com um *h* que o italiano tinha largado havia séculos. *Vito* onde deveria estar *vitto*, que é comida.
 
-Não é falha da minha leitura. Está impresso. Alguém compôs aquele tipo letra por letra, alguém mandou rodar, e ninguém corrigiu.
+Não é falha da minha leitura: está lá, nas três palavras.
 
-Não sei quem imprimiu esse cartaz. Sei que não era gente para quem o italiano fosse língua de trabalho, e que ninguém no caminho achou que valesse a pena revisar — porque o público alvo, na praça da vila, em boa parte não sabia ler.
+E aqui eu devo ao leitor uma linha sobre o próprio cartaz. Ele chegou até mim sem procedência, e eu não consigo provar que a folha é de época. Uso-o pelo que ele carrega, que está documentado em dezenas de peças que sobreviveram: **a forma daquela promessa.**
+
+Quem quer que a tenha composto não era gente para quem o italiano fosse língua de trabalho, e ninguém no caminho achou que valesse a pena revisar — porque o público alvo, na praça da vila, em boa parte não sabia ler.
 
 Era por isso que alguém lia em voz alta.
 

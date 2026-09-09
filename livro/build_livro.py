@@ -4274,8 +4274,7 @@ ficaram — já estavam amarrados um no outro antes de qualquer um pisar num nav
 CAP5 = [
 """O cartaz não era colorido.
 
-Tinta preta sobre papel barato, hoje amarelado nas bordas e vincado no lugar onde alguém
-o dobrou para guardar. O que chamava atenção não era cor nenhuma. Era a letra do alto:
+Tinta preta sobre papel barato. O que chamava atenção não era cor nenhuma. Era a letra do alto:
 gótica, cheia de volutas, do tamanho de meia folha, do tipo que se usava em cartaz de
 circo e em capa de missal.
 
@@ -4333,12 +4332,15 @@ falando.""",
 italiano tinha largado havia séculos. <em>Vito</em> onde deveria estar <em>vitto</em>, que
 é comida.
 
-Não é falha da minha leitura. Está impresso. Alguém compôs aquele tipo letra por letra,
-alguém mandou rodar, e ninguém corrigiu.
+Não é falha da minha leitura: está lá, nas três palavras.
 
-Não sei quem imprimiu esse cartaz. Sei que não era gente para quem o italiano fosse língua
-de trabalho, e que ninguém no caminho achou que valesse a pena revisar — porque o público
-alvo, na praça da vila, em boa parte não sabia ler.""",
+E aqui eu devo ao leitor uma linha sobre o próprio cartaz. Ele chegou até mim sem
+procedência, e eu não consigo provar que a folha é de época. Uso-o pelo que ele carrega, que
+está documentado em dezenas de peças que sobreviveram: <strong>a forma daquela promessa.</strong>
+
+Quem quer que a tenha composto não era gente para quem o italiano fosse língua de trabalho, e
+ninguém no caminho achou que valesse a pena revisar — porque o público alvo, na praça da
+vila, em boa parte não sabia ler.""",
 
 """Era por isso que alguém lia em voz alta.
 
@@ -5466,7 +5468,7 @@ FAM = u'Acervo da família Miotto e Forner.'
 GIO = u'Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.'
 CONF = u'<em>[procedência e autorização a confirmar]</em>'
 PROV = {
- 'panfleto_in_america': u'Imagem obtida na internet; procedência não localizada. ' + CONF,
+ 'panfleto_in_america': u'Peça de uso público, sem autoria identificável; procedência não localizada.',
  'mafalda_barcelona':   u'Cartão-postal de época, reproduzido de sítio de colecionismo, com marca d’água. ' + CONF,
  'cartaz_lloyd_italiano': u'Cartaz do Lloyd Italiano. ' + CONF,
  'princess_mafalda_of_savoy': u'Retrato de Mafalda di Savoia. ' + CONF,
@@ -5486,7 +5488,7 @@ PROV = {
  'angelo_dei_agnoli__jpg': u'Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de São Paulo. '
                            u'Acervo da família.',
  'rosa_forner': u'Acervo da família. <em>Restauração digital do autor.</em>',
- 'asolo': u'Vista de Asolo. ' + CONF,
+ 'asolo': GIO,
 }
 
 
@@ -5677,7 +5679,7 @@ for _b in NOTA_METODO:
     P(t='nota', body=_b)
 
 IMG_BY_CAP = {
- 1:  [('asolo','Asolo, a cidade nas colinas para onde desce a estrada que sai de Castelcucco. De Asolo se pega o trem, e de trem em trem se chega a Gênova.','montada')],
+ 1:  [('asolo','Asolo vista do alto, na capa de um folheto turístico de época — embaixo, o anúncio do <em>Casonetto Ristorante-Parco</em>. É a cidade nas colinas para onde desce a estrada que sai de Castelcucco: de Asolo se pega o trem, e de trem em trem se chega a Gênova.','montada')],
  2:  [('giovani_bambini','Fotografia do acervo da família, sem data e sem identificação. Ao fundo, a encosta plantada em faixas — a mesma paisagem descrita neste capítulo, e a mesma economia: pouca terra, dividida, trabalhada de cima a baixo.','montada')],
  3:  [('miotto_tres_irmaos','Três irmãos de Fausto Miotto: <strong>Maria Luigia</strong> ao centro, <strong>Veronica</strong> à direita e <strong>Vittorio</strong>. Fotografia e identificação enviadas por Giorgio Forner, neto de Maria Luigia.','montada'),
       ('sante_e_maria_luigia_miotto','<strong>Sante Forner e Maria Luigia Miotto.</strong> Ele, irmão de Rosa. Ela, irmã de Fausto. Os dois casamentos desta história cruzaram as mesmas duas famílias.','montada'),

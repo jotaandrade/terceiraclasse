@@ -63,17 +63,41 @@ O manifesto completo, arquivo por arquivo, está no fim deste documento.
 
 | # | o quê | onde | situação |
 |---|---|---|---|
-| 1 | Panfleto *…In América* | cap. 4 | "obtida na internet; procedência não localizada" |
+| ~~1~~ | Panfleto *…In América* | cap. 4 | **RESOLVIDO** — peça de uso público, sem autoria identificável. Decisão do autor: fica. Ver nota abaixo |
 | 2 | Cartão-postal de Barcelona | cap. 13 | sítio de colecionismo, **com marca d'água visível** |
 | 3 | Cartaz do Lloyd Italiano | cap. 12 | procedência não declarada |
 | 4 | Retrato de Mafalda di Savoia | cap. 12 | procedência não declarada |
 | 5 | Fotografia da Hospedaria, c. 1890 | cap. 9 | creditada como "acervo público" — falta instituição e nº de acervo |
-| 6 | Vista de Asolo | cap. 1 | procedência não declarada |
+| ~~6~~ | Vista de Asolo | cap. 1 | **RESOLVIDO** — capa de folheto de época, acervo Forner, enviada por Giorgio. Creditada |
 | 7 | **Corpus de 20 depoimentos** | caps. 13 a 18 | sem jornal, data e página. Impresso, deixa de ser lacuna declarada e vira citação sem fonte. Há também direito sobre a tradução |
 | 8 | *Storia di Castelcucco* | cap. 26 | genealogia impressa, descrita e argumentada. Falta referência bibliográfica completa |
 | 9 | Epígrafe de Serafim Derenzi (1974) | abertura | obra em domínio privado; citação curta com crédito provavelmente cabe no art. 46 da Lei 9.610 — confirmar por escrito |
 
-Nenhum destes impede a leitura. Todos impedem a impressão.
+Nenhum destes impede a leitura. **Sete ainda impedem a impressão.**
+
+### Nota sobre o panfleto *…In América* (08.09.2026)
+
+Ao medir a resolução do arquivo, apareceu outra coisa: a peça **tem sinais fortes de ser uma
+reconstrução moderna**, não um impresso de época — sans-serif contemporânea no corpo do texto,
+envelhecimento digital uniforme, ornamentos de canto que são o mesmo vetor repetido, e
+*América* com acento agudo, que é grafia portuguesa e não italiana. Isso também explicaria os
+erros de italiano que o capítulo analisa.
+
+**Decisão do autor: a imagem fica** — é de uso público e não há responsável a localizar.
+
+O que mudou foi o texto, e só no que era afirmação de fato sobre o objeto. Saíram a descrição
+física de uma folha que o autor não tem (*"amarelado nas bordas e vincado no lugar onde alguém
+o dobrou"*) e a afirmação de manufatura (*"Está impresso. Alguém compôs aquele tipo letra por
+letra"*). No lugar entrou uma linha que faz o que o resto do livro faz — declara a lacuna:
+
+> E aqui eu devo ao leitor uma linha sobre o próprio cartaz. Ele chegou até mim sem
+> procedência, e eu não consigo provar que a folha é de época. Uso-o pelo que ele carrega, que
+> está documentado em dezenas de peças que sobreviveram: **a forma daquela promessa.**
+
+A leitura do cartaz continua inteira, e as promessas que ela descreve seguem historicamente
+corretas. **Se um cartaz autêntico e documentado aparecer** — Museu da Imigração, Arquivo
+Público do Espírito Santo, museus italianos da emigração — a abertura do capítulo 4 melhora
+trocando de objeto.
 
 ---
 
