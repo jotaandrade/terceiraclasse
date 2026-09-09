@@ -5280,11 +5280,15 @@ FONTES_GERAIS = [
  [u"Vinte relatos de sobreviventes publicados na imprensa argentina e brasileira nos dias "
   u"seguintes ao naufrágio, recebidos em tradução, com nome, idade e procedência de cada "
   u"depoente. São a espinha dorsal dos capítulos 13 a 18.",
-  u"<strong>O jornal, a data e a página de cada relato ainda não foram localizados.</strong> A "
-  u"pista aberta é o acervo reunido em histarmar.com.ar, citado pelo artigo do Museu da "
-  u"Imigração. Enquanto a procedência não fecha, o livro identifica cada relato pelo nome do "
-  u"depoente e diz, toda vez, o que ele é: gente que tinha acabado de sair da água, falando "
-  u"com repórter, poucos dias depois."]),
+  u"<strong>O jornal, a data e a página de cada relato ainda não foram localizados.</strong> "
+  u"Enquanto a procedência não fecha, o livro identifica cada relato pelo nome do depoente e "
+  u"diz, toda vez, o que ele é: gente que tinha acabado de sair da água, falando com repórter, "
+  u"poucos dias depois.",
+  u"As pistas abertas, na ordem em que serão seguidas: o acervo reunido em histarmar.com.ar, "
+  u"citado pelo artigo do Museu da Imigração; e as duas obras que a pesquisa de Maurício "
+  u"Carvalho para o sítio <em>Naufrágios do Brasil</em> arrola — <em>Revista Mergulho</em>, ano "
+  u"XIII, nº 155, junho de 2009, e GARIBALDI, Luciano; GIORGERINI, Giorgio; MAGNANI BOSIO, "
+  u"Maria Enrica. <em>Principessa Mafalda: Titanic italiano</em>. Ed. R. Garosci, 2010."]),
 ("Acervos consultados",
  [u"<em>Portale Antenati</em>, Ministero della Cultura — atos de nascimento, casamento e "
   u"óbito dos comuni de Monfumo, Castelcucco, Cavaso del Tomba e Maser.",
@@ -5295,6 +5299,8 @@ FONTES_GERAIS = [
   u"da Hospedaria do Brás, e o artigo do acervo sobre os náufragos do <em>Principessa "
   u"Mafalda</em>.",
   u"<em>Hemeroteca Digital da Biblioteca Nacional</em>.",
+  u"CARVALHO, Maurício. <em>Principessa Mafalda</em>, em <em>Naufrágios do Brasil</em> — "
+  u"pesquisa secundária, consultada para cotejo de datas, posição e números.",
   u"<em>Albo d’Oro dei Caduti della Grande Guerra</em>, Ministero della Difesa.",
   u"FARRONATO, Gabriele. <em>Storia di Castelcucco: un comune veneto del Pedemonte del "
   u"Grappa</em>. Castelcucco: Edizioni Acelum, 2008 — história local, com a genealogia "

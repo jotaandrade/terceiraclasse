@@ -94,8 +94,11 @@ baixo e a cláusula responde por ele.
    direito, é de acabamento: não se imprime a marca de outro site num livro. A carta ao Museu
    de la Targeta Postal resolve marca d’água e resolução de uma vez.
 3. **A procedência dos vinte depoimentos** — jornal, data e página. Isso nunca foi direito, é
-   pesquisa, e o livro já declara a lacuna dentro do capítulo 13 e na relação de Fontes. Fica
-   como item de pesquisa, não de liberação. A pista aberta segue sendo histarmar.com.ar.
+   pesquisa, e o livro já declara a lacuna dentro do capítulo 13 e na relação de Fontes.
+   **Próxima ação:** conseguir GARIBALDI, GIORGERINI e MAGNANI BOSIO, <em>Principessa
+   Mafalda: Titanic italiano</em> (R. Garosci, 2010) — livro italiano de 2010 com historiador
+   naval de peso, e o lugar natural onde os relatos da imprensa teriam sido reunidos e
+   referenciados. Depois, histarmar.com.ar e a <em>Revista Mergulho</em> nº 155 (2009).
 
 ### Nota sobre o panfleto *…In América* (08.09.2026)
 

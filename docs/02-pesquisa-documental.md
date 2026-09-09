@@ -2358,3 +2358,57 @@ Continuam de pe, porque nao sao questao de direito: a **resolucao** das pecas, a
 d'agua do todocoleccion** no arquivo do cartao-postal (acabamento, nao direito), e a
 **procedencia dos vinte depoimentos**, que e pesquisa e ja esta declarada como lacuna dentro
 do livro.
+
+## 34. Naufragios do Brasil: cotejo, pistas e um dado que se confirmou - 08.09.2026
+
+Fonte: CARVALHO, Mauricio. *Principessa Mafalda*, em <naufragiosdobrasil.com.br>. Pesquisa
+secundaria, sem notas de rodape. Aviso na pagina: "Todos os Direitos Reservados - Vedado o uso
+comercial das imagens" - **nao usar imagem de la.**
+
+### 34.1 O que ela NAO tem
+
+**Nao e a fonte dos vinte depoimentos.** Traz um unico relato, de um passageiro recolhido pelo
+*Mossela*, sem atribuicao. A procedencia do corpus continua aberta.
+
+### 34.2 As duas pistas que ela abre, e sao boas
+
+A pagina arrola duas obras, e a segunda e o candidato mais forte a ser onde o corpus foi
+compilado:
+
+- *Revista Mergulho*, ano XIII, n. 155, junho de 2009: "Destino Naufragios: Principessa
+  Mafalda".
+- **GARIBALDI, Luciano; GIORGERINI, Giorgio; MAGNANI BOSIO, Maria Enrica. *Principessa
+  Mafalda: Titanic italiano*. Ed. R. Garosci, 2010.**
+
+Giorgerini e historiador naval italiano de peso. Um livro italiano de 2010 sobre este naufragio
+e o lugar natural onde os relatos da imprensa argentina e brasileira teriam sido reunidos e
+referenciados. **Proxima acao do corpus: conseguir esse livro.**
+
+As duas entraram na relacao de Fontes do livro, como pistas declaradas.
+
+### 34.3 Divergencias registradas, nao importadas
+
+| dado | o livro | naufragiosdobrasil |
+|---|---|---|
+| posicao | 17 54' S (usada no calculo do por do sol) | 16 45' S, 37 41' W |
+| hora do SOS | 17h35 **ou** 19h15, sem arbitrar | 19h15, atribuida ao registro da Estacao de Amaralina |
+| mortos | 314 (registra que ha fonte com 272) | 272 = 46 tripulantes + 226 passageiros |
+
+Nada disso foi importado para o livro: e fonte secundaria sem notas. Ficam como itens de
+cotejo. **A atribuicao do 19h15 ao registro da Estacao de Amaralina e a mais interessante** -
+se confirmar num documento, o cap. 14 deixa de dizer "uma fonte diz" e passa a nomear.
+
+### 34.4 O calculo do por do sol se sustenta
+
+A divergencia de posicao levantou a duvida: o cap. 13 afirma por do sol as 18h21 e fim do
+crepusculo civil as 18h48, e chama isso de "dado astronomico, nao literario". Se a latitude
+estivesse errada, a afirmacao cairia.
+
+Rodei o calculo nas duas posicoes. **Deram um minuto de diferenca entre si** - a ~1 grau de
+latitude, nesta epoca do ano, o por do sol praticamente nao se move. **A afirmacao do capitulo
+e robusta a qual das duas posicoes esteja certa.**
+
+Registro tambem o limite do meu proprio cheque: o algoritmo simplificado que usei erra ate 13
+minutos contra valores conhecidos (aferido em Rio e Sao Paulo), entao ele **nao serve para
+contestar** o 18h21 - so para mostrar que a escolha de posicao nao o afeta. Se um dia se quiser
+o numero ao minuto, usar efemeride de verdade.
