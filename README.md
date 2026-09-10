@@ -17,8 +17,9 @@ bisneto de duas sobreviventes.
 **exportados** dele — editar os `.md` não altera o livro.
 
 ```bash
-python livro/build_livro.py    # gera terceira-classe.html (não versionado)
-python livro/export_md.py      # regenera manuscrito/ e docs/ a partir da fonte
+python livro/build_livro.py         # gera terceira-classe.html (não versionado)
+python livro/export_md.py           # regenera manuscrito/ e docs/ a partir da fonte
+python livro/export_livro_unico.py  # regenera o livro inteiro num único .md
 ```
 
 ---
@@ -29,9 +30,11 @@ python livro/export_md.py      # regenera manuscrito/ e docs/ a partir da fonte
 livro/
   build_livro.py      fonte do livro: texto, estrutura, imagens
   export_md.py        exporta manuscrito/ e docs/ em Markdown
+  export_livro_unico.py  exporta o volume inteiro num único Markdown
   html2md.py          conversor HTML → Markdown usado pelo export
   img/                98 imagens em webp, embutidas no HTML em base64
 
+terceira-classe-livro-completo.md   o volume inteiro num arquivo só (gerado)
 manuscrito/           um .md por capítulo escrito (gerado)
 docs/                 dossiê, caderno de bordo, pesquisa documental, roteiros
 documentos/           fontes primárias digitalizadas
