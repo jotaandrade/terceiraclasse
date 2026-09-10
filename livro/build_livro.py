@@ -2567,6 +2567,25 @@ provou que o velho ainda estava vivo naquele mês.
 
 <strong>O homem que ficou aparece no meu arquivo como testemunha da vida de outra pessoa.</strong>""",
 
+"""E é aqui que a régua deste capítulo se quebra.
+
+Em setembro de 2026 eu soube como Sante Forner morreu, e quanto tempo ele levou para morrer.
+
+Três ou quatro dias.
+
+Exatamente o tamanho do único pedaço da vida da irmã dele que este livro conseguiu reconstituir
+hora a hora.""",
+
+"""Isso não saiu de arquivo nenhum, e não sairia nunca.
+
+Saiu de um homem que mora a poucos quilômetros daquela mina, que é neto dele, e que um dia
+resolveu me escrever.
+
+Ficar não produz documento, e isso continua sendo verdade. Mas ficar produz outra coisa, e eu
+demorei a enxergar: produz gente que ainda está lá para contar.
+
+<strong>O lado que passou cem anos produzindo papel é o lado que não sabia.</strong>""",
+
 """Sante morreu em 1947, aos cinquenta e quatro anos.
 
 Rosa morreu em 1986, aos oitenta e três, no Brasil.
@@ -2646,7 +2665,7 @@ numa folha holandesa.</strong>""",
 """E foi por elas, pelas primas que apareceram do outro lado do Brasil, que eu cheguei ao
 Giorgio.
 
-O bisneto do irmão que ficou.
+O neto do irmão que ficou.
 
 Cem anos, um oceano e uma guerra depois, a família que se dividiu em Monfumo voltou a se falar
 porque quatro ou cinco pessoas resolveram, mais ou menos ao mesmo tempo, escrever os nomes dos
@@ -2656,7 +2675,8 @@ próprios avós num formulário na internet.""",
 
 A casa de onde Rosa saiu, se ainda estiver de pé, continua na Itália.
 
-E agora existe alguém do lado de lá que atende quando eu chamo.""",
+E agora existe alguém do lado de lá que atende quando eu chamo — e que, de vez em quando,
+chama primeiro.""",
 ]
 
 CAP12 = [
@@ -3113,7 +3133,7 @@ Nenhum dos dois atravessou o oceano. Eu os conheço por fotografia de fotografia
 
 """E existe a casa.
 
-Giorgio Forner — bisneto do Sante, o ramo que ficou — mora na região e já
+Giorgio Forner — neto do Sante, o ramo que ficou — mora na região e já
 esteve nela. Foi ele quem me mostrou.
 
 Eu não sei o número da porta. Não sei se ainda é da família, se foi vendida, se alguém mora
@@ -4138,7 +4158,43 @@ Não está lá.
 Pode ter sido a guerra sem constar em lugar nenhum. Pode ter sido tuberculose, acidente,
 uma das epidemias que atravessavam aquelas vilas.
 
-Naquele mundo, morrer aos vinte e sete não exigia guerra nenhuma.""",
+Naquele mundo, morrer aos vinte e sete não exigia guerra nenhuma.
+
+Durante anos eu não soube dizer mais do que isso.""",
+
+"""Em setembro de 2026 chegou uma resposta que eu não tinha pedido.
+
+Giorgio Forner escreveu do Vêneto, num parágrafo corrido, sem pontuação e sem nenhum alarde,
+o que a casa dele conta: <em>Pietro è morto negli Stati Uniti per un incidente sul lavoro in
+miniera però non so in che anno è successo questo.</em>
+
+<strong>Pietro morreu nos Estados Unidos, num acidente de trabalho numa mina.</strong> O ano,
+ele não sabe.""",
+
+"""Repare no que essa frase faz com o resto.
+
+Ela não bate de frente com documento nenhum, porque documento não há. E explica, sem tentar,
+a única coisa que eu tinha achado estranha: um homem em idade de convocação não aparece no
+registro dos mortos daquela guerra porque não estava naquela guerra. Estava do outro lado do
+Atlântico, debaixo da terra.
+
+Ela também põe um segundo nome numa rota que o capítulo anterior deixou aberta. Ao lado de
+Luigi Forner, o avô, a genealogia impressa traz <em>emigrato in America dopo il 1891</em>, e
+eu escrevi ali que não sabia para onde ele tinha ido. O neto que carrega o nome dele teria ido
+para o mesmo lugar.""",
+
+"""Nada disso está provado, e eu não vou escrever que está.
+
+É lembrança de família. Chegou sem ano, sem estado e sem cidade, e vem do galho que ficou na
+Itália — o mesmo que guardou o quadro das medalhas. Vale o que vale um depoimento: muito, e
+sozinho.
+
+Duas folhas resolveriam. O <em>atto di morte</em> do Comune di Monfumo diz onde ele morreu, e
+se não existir já diz que não foi ali. E quem desce numa mina americana deixa manifesto de
+entrada, folha de pagamento e certidão, porque naquele país acidente de mina gerava papel.
+
+Enquanto elas não aparecem, as duas versões ficam lado a lado, e a segunda é de quem tem mais
+direito de contá-la do que eu.""",
 
 """Dois anos antes disso, em 1914, morreu Santa Pandolfo.
 
@@ -4913,8 +4969,6 @@ dois Forner desta história, Rosa e Sante, casaram com dois Miotto.
 Teve filhos e continuou onde sempre esteve. Leo, Delfina e Galliano são dele. De Galliano veio
 Giorgio, que hoje mora na mesma região, conhece a história inteira, e é quem guarda o quadro.
 
-Morreu em 1947, aos cinquenta e quatro anos.
-
 Nunca emigrou. Nunca viu o Brasil. Ninguém naquela condição atravessava o Atlântico duas
 vezes, e ele não foi exceção.""",
 
@@ -4985,12 +5039,55 @@ O ramo que ficou tem um quadro na parede, com três medalhas e uma Vitória alad
 bronze inimigo. E tem, guardada, uma carteira de identidade de 1940 com o rosto dele
 dentro.
 
-Nenhum dos dois lados escapou. Um enfrentou o Atlântico, o outro enfrentou o Grappa. A
+Nenhum dos dois lados escapou. Um enfrentou o Atlântico, o outro enfrentou o Grappa e,
+depois dele, a galeria. A
 diferença é que um dos dois foi obrigado a levar tudo o que tinha numa mala de madeira, e
 por isso quase nada sobrou.
 
 Por isso este capítulo existe. Porque o objeto que melhor conta essa família nunca esteve
 no Brasil.""",
+
+"""E há mais uma coisa do lado de lá, que eu só soube em setembro de 2026.
+
+Giorgio me contou como o avô morreu.
+
+Houve um acidente numa mina, em Monfumo. Amputaram uma perna. A barriga também estava
+esmagada. <em>Dopo tre quattro giorni è morto dalle conseguenze.</em>
+
+Levou três ou quatro dias. Era 1947, e ele tinha cinquenta e quatro anos.""",
+
+"""Eu não sabia que havia mina em Monfumo. Há.
+
+Abriram galerias na encosta, seguindo a camada de linhito — um carvão pobre, que serve para
+aquecer casa e tocar forno pequeno. A história local conta que uma companhia austríaca as
+trabalhou até 1866, o ano em que a fronteira mudou de lugar no capítulo 2 deste livro, e que
+depois disso pararam. Nos anos trinta e quarenta, quando o país passou a precisar de carvão
+que não dependesse de importação, reabriram, e por uma temporada aquela vila deu trabalho a
+gente vinda de todos os arredores.
+
+Algumas bocas continuam abertas na subida da forcella Mostaccin, no caminho do Grappa.""",
+
+"""É a segunda mina desta família.
+
+A primeira está no capítulo 3, do outro lado do oceano.""",
+
+"""Agora ponha em ordem.
+
+A encosta não dava de comer, e foi por isso que as duas irmãs dele embarcaram. A montanha em
+cima da encosta virou frente de guerra, e ele passou um ano defendendo-a. Voltou.
+
+Vinte e nove anos depois, a mesma encosta se abriu por dentro, aceitou o trabalho dele e caiu
+em cima dele.
+
+<strong>Ele não precisou de oceano nenhum.</strong>""",
+
+"""Nada disto está em papel — ainda.
+
+Giorgio diz que deve ter em casa um documento sobre o acidente, e o <em>atto di morte</em> de
+1947 está no Comune. Enquanto os dois não estiverem na minha mão, isto aqui é depoimento: o
+neto contando o que sabe do avô, oitenta anos depois, e eu escrevendo do jeito que ele contou.
+
+Do lado de cá não havia versão nenhuma para comparar. Ninguém aqui sabia.""",
 ]
 
 CAP8 = [
@@ -5248,12 +5345,15 @@ não lidos: uma mulher do Vêneto dizia, e um funcionário escrevia. Gina Oliva 
 depois Dinetta, depois Ginita. O livro mantém a grafia do documento quando cita o documento, e
 usa a forma do registro de nascimento no resto.""",
 
-"""A tradição oral desta família desceu por dois galhos, e eles não contam a mesma coisa.
+"""A tradição oral desta família desceu por três galhos, e eles não contam a mesma coisa.
 
-Um guardou o carvão e o não-reconhecimento na frente da Hospedaria; o outro guardou o
-cozinheiro que desceu ao porão e a menina que achou o pai. O livro nunca apresenta um dos
-dois como consenso da família: atribui cada lembrança a quem a carrega e registra que a outra
-linha não a tem.""",
+Dois estão no Brasil e vieram do navio: um guardou o carvão e o não-reconhecimento na frente
+da Hospedaria, o outro guardou o cozinheiro que desceu ao porão e a menina que achou o pai. O
+terceiro ficou na Itália e não guardou o navio — guardou como morreram os homens que não
+embarcaram.
+
+O livro nunca apresenta uma dessas lembranças como consenso da família: atribui cada uma a
+quem a carrega e registra que as outras linhas não a têm.""",
 
 """Sobre pessoas que não escolheram estar aqui.
 
@@ -5330,7 +5430,10 @@ FONTES = {
     u"Castelcucco, Cavaso del Tomba e Maser.",
     u"Certificado de casamento de Luigi Miotto e Domenica Ganeo, Comune di Maser, "
     u"24 de junho de 1900.",
-    u"Declaração de óbito de Fausto Miotto, São João da Boa Vista, 13 de agosto de 1979."],
+    u"Declaração de óbito de Fausto Miotto, São João da Boa Vista, 13 de agosto de 1979.",
+    u"Tradição oral, ramo Forner do Vêneto: a morte de Pietro Luigi Forner num acidente de mina "
+    u"nos Estados Unidos, contada por <strong>Giorgio Forner</strong> em setembro de 2026. "
+    u"<em>Sem ano, sem lugar e sem documento — declarado no próprio capítulo.</em>"],
 4: [u"Panfleto <em>… In América. Terre in Brasile per gli Italiani</em>. Procedência não "
     u"localizada — ver Créditos de imagem.",
     u"Arquivo Público do Estado de São Paulo: <em>Relação dos immigrantes italianos "
@@ -5350,7 +5453,13 @@ FONTES = {
     u"família Forner, Vêneto.",
     u"Decreto real de 29 de julho de 1920, que institui a <em>Medaglia commemorativa della "
     u"guerra italo-austriaca 1915-1918</em> e determina que seja cunhada com bronze de canhões "
-    u"capturados."],
+    u"capturados.",
+    u"Tradição oral, ramo Forner do Vêneto: o acidente na mina de Monfumo e a morte de Sante "
+    u"Forner em 1947, contados por <strong>Giorgio Forner</strong>, neto dele, em setembro "
+    u"de 2026.",
+    u"Mina de linhito de Monfumo: histórias locais da Marca Trevigiana e o percurso das galerias "
+    u"remanescentes na forcella Mostaccin. <em>O atto di morte de 1947 e o documento do acidente "
+    u"ainda não foram vistos pelo autor.</em>"],
 7: [u"Anotação à margem do <em>atto di nascita</em> de Rosa Forner, Comune di Monfumo: "
     u"<em>ha contratto matrimonio con Miotto Fausto in data 03/12/1926 a Castelcucco</em>.",
     u"Comune di Castelcucco, ato nº 9, parte I, do ano de 1926.",
@@ -5804,7 +5913,7 @@ LEG = {
  'forner_martino_fratello_di_mio_nonno_sante':'Martino Forner, irmão de Sante.',
  'galiano':'Galliano Forner.',
  'galliano':'Galliano Forner, retrato emoldurado conservado pela família na Itália.',
- 'giorgio':'Giorgio Forner, bisneto de Sante, reencontrado em pesquisa genealógica.',
+ 'giorgio':'Giorgio Forner, neto de Sante, reencontrado em pesquisa genealógica.',
  'giorgio_seu_pai':'Giorgio Forner e o pai.',
  'giorgio_su_amore':'Giorgio Forner e a esposa.',
  'girgio':'Giorgio Forner.',

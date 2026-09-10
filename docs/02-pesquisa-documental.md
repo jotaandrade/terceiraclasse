@@ -16,9 +16,9 @@ Domenico Forner × Maria Vial
        ├─ Domenico Alessandro (1853-1928)
        ├─ Vincenzo (n. 06.08.1862) × Santa Pandolfo (1865-1914)   → DEZ filhos
        │    ├─ Angela 1886
-       │    ├─ Pietro Luigi 27.10.1889 † 1916
+       │    ├─ Pietro Luigi 27.10.1889 † 1916? — tradição oral do Vêneto: morreu nos EUA, acidente de mina (seção 35)
        │    ├─ Martino Giuseppe 11.11.1891
-       │    ├─ Sante 16.04.1893 (Monfumo) † 1947 — Grande Guerra, 3 medalhas — o ramo que FICOU
+       │    ├─ Sante 16.04.1893 (Monfumo) † 1947, acidente na mina de Monfumo — Grande Guerra, 3 medalhas — o ramo que FICOU
        │    ├─ Maria Elisabetta 1895 (atto 11)
        │    ├─ Maria Luigia 1896 (atto 12) × Angelo Dei Agnoli
        │    ├─ Bonfiglio Sabino 1898 (atto 23)
@@ -1159,6 +1159,9 @@ mesma página: **De Rossi, Strufaldi, Lovato, Panarotto, Beck**.
 | 11 | Quantas embarcacoes atenderam ao SOS - o livro diz dez, a fonte arrola dezesseis | **cap. 17** | secao 34.5 |
 | 12 | Grafia: *Rosetti* ou *Rossetti* | **cap. 17** | secao 34.5 |
 | 13 | Confirmar em catalogo as referencias de Farronato e Derenzi | Fontes | OPAC SBN e Biblioteca Nacional |
+| 14 | **A morte de Sante na mina de Monfumo, 1947** | **cap. 6** | depoimento de Giorgio, 09.09.2026 — faltam o *atto di morte* e o documento que ele diz ter em casa (secao 35) |
+| 15 | **Pietro Luigi morreu nos EUA, em mina?** E em que ano | **cap. 3** | depoimento de Giorgio; e o proprio `† 1916` **nao tem procedencia registrada neste acervo** (secao 35) |
+| 16 | A mina de Monfumo: concessao austriaca ate 1866, reabertura nos anos 30-40 | **cap. 6** | so fontes secundarias de web ate agora (secao 35) |
 
 Nenhuma destas bloqueia a leitura: todas as que entram no texto entram declaradas como lacuna.
 As que mudariam uma frase se fechassem sao a **8**, a **10** e a **11**.
@@ -2447,3 +2450,109 @@ capitulo, que e a densidade de trafego naquele trecho do Atlantico, so melhora.
 
 Menor, tambem a conferir: a pagina grafa *Rossetti* com dois esses e *Simone Guli* sem crase; o
 livro usa *Rosetti* e *Guli* com crase.
+
+---
+
+## 35. As duas minas — depoimento de Giorgio Forner, 09.09.2026
+
+O Giorgio escreveu por conta própria, sem pergunta minha, e trouxe **duas mortes que este
+projeto não tinha**. Texto como veio:
+
+> *No Pietro è morto negli Stati Uniti per un incidente sul lavoro in miniera però non so in
+> che anno è successo questo*
+>
+> *Dovrei avere anche un documento che parla dell'incidente di mio nonno Sante successo sempre
+> in miniera ma qua a Monfumo e dopo tre quattro giorni e morto dalle conseguenze gli avevamo
+> amputato una gamba ma era schiacciato anche la pancia e purtroppo non c'è l'ha fatta*
+
+### 35.1 Sante Forner (1893-1947): acidente de mina, em Monfumo
+
+Perna amputada, barriga esmagada, morreu três ou quatro dias depois. **Giorgio é neto dele**,
+filho de Galliano: é lembrança de primeira mão do ramo que ficou, a menos de uma geração do
+fato. Do lado brasileiro **não existia versão nenhuma** — ninguém aqui sabia como Sante tinha
+morrido, e o livro trazia só o ano.
+
+⭐ É a informação mais forte que veio do Vêneto até hoje, e a que mais mudou página: o cap. 6
+terminava no inventário do que sobrou de cada lado; agora termina na mina.
+
+### 35.2 Pietro Luigi Forner (n. 27.10.1889): acidente de mina, nos Estados Unidos
+
+Sem ano e sem estado. Vale menos que a de cima — para o Giorgio é um tio-avô do pai, três
+gerações acima — mas **responde à pergunta que o cap. 3 tinha deixado aberta**: por que Pietro
+Luigi não está no Albo d'Oro. Se estava na América, não estava na guerra, e a ausência deixa de
+ser estranha.
+
+🔴 **E abre um buraco no nosso próprio acervo:** o `† 1916` que este projeto repete desde o
+começo **não tem procedência registrada em lugar nenhum destas notas**. Não é do quadro do
+Farronato como transcrito na seção 2 (aquela fileira traz só datas de nascimento), e não está
+creditado nas Fontes do livro. Antes de qualquer coisa, achar de onde veio esse ano.
+
+⭐ Ele também põe um segundo nome na rota do avô: **Luigi Forner, *emigrato in America dopo il
+1891***. O neto que carrega o nome dele teria ido para o mesmo lugar. Duas gerações da mesma
+casa na América, e nenhuma delas voltou.
+
+### 35.3 A mina de Monfumo existe — e a data fecha
+
+Eu não sabia que havia mina em Monfumo. Há, e é conhecida na Marca Trevigiana:
+
+- Galerias abertas na encosta seguindo a camada de **linhito** (carvão pobre, para aquecer casa
+  e tocar forno pequeno).
+- **Algumas bocas continuam visíveis perto da forcella Mostaccin**, na subida do Grappa. Hoje
+  há trilha sinalizada e projeto de valorização do sítio da ex-miniera.
+- Fontes locais dizem que uma **companhia austríaca** a trabalhou **até 1866** — o ano em que o
+  Vêneto passou para a Itália, que é o cap. 2 deste livro — e que houve nova tentativa nos anos
+  trinta, no período de autarquia, com atividade nos **anos quarenta**, empregando gente dos
+  arredores.
+- Os números divergem entre as páginas (de 150 mineiros a centenas), e por isso **não entrou
+  número nenhum no livro**.
+
+**Sante morreu em 1947, com a mina em atividade.** O depoimento e a cronologia industrial batem.
+
+⚠️ Tudo isto veio de páginas de divulgação e de itinerários de caminhada, não de arquivo:
+`passeggiatetreviso.it`, `fotografodiguerra.it`, `eanetwork.eu`, `piste-ciclabili.com`. Serve
+para saber que a mina existia e onde ficava; **não serve como fonte de datas**. O livro atribui
+a "história local" e declara que o *atto di morte* não foi visto.
+
+### 35.3-A 🔴 Correção de parentesco: Giorgio é NETO de Sante, não bisneto
+
+Ele escreve *"mio nonno Sante"*. A cadeia que este acervo já registrava —
+**Sante → Galliano → Giorgio** — dizia a mesma coisa, mas o livro chamava o Giorgio de
+*bisneto* em três lugares (cap. 25, cap. 27 e a legenda do retrato dele no caderno de
+imagens) e de *neto* na contagem das gerações do cap. 25. Corrigido para **neto** em
+09.09.2026.
+
+Consequência que vale guardar: **Giorgio e eu não somos da mesma geração.** Eu sou bisneto de
+Rosa, ele é neto de Sante — ele está uma geração mais perto do fato, o que é exatamente o que
+faz o depoimento dele valer o que vale.
+
+### 35.4 O que pedir, e a quem
+
+**Ao Giorgio, na próxima conversa:**
+
+1. **O documento do acidente do Sante** que ele diz ter em casa. É a peça que fecha o cap. 6.
+2. Se a família sabe **em que mina e em que serviço** ele estava, e se havia mais parentes lá
+   dentro.
+3. Sobre o Pietro: **de quem ele ouviu isso**, e se ficou algum nome de estado, de cidade ou de
+   companhia. Carta, retrato, envelope — qualquer papel com carimbo americano.
+4. Se ele pode pedir no **Comune di Monfumo** o *atto di morte* de Sante Forner (1947) e o de
+   Pietro Luigi Forner (1916, se existir). Pedir sempre **copia integrale**.
+
+**Do lado americano, se o Pietro se confirmar** — é uma frente nova, e de graça:
+
+- Manifestos de entrada (Ellis Island / *Castle Garden*, 1905-1914) para Forner de Monfumo.
+- Registros estaduais de óbito e relatórios de inspeção de minas: nos Estados Unidos, acidente
+  de mina gerava relatório oficial com nome do morto.
+- Censo de 1910 e 1920, procurando Forner na Pensilvânia, Virgínia Ocidental, Illinois e
+  Colorado, que é onde o vêneto de mina ia parar.
+
+### 35.5 O que isto fez com a estrutura do livro
+
+**A tradição oral desta família tem três galhos, não dois.** Os dois do Brasil vieram do navio
+(o carvão e o não-reconhecimento, pelo João Betti via Patrícia; o cozinheiro e a menina que
+acha o pai, pela outra prima). **O terceiro ficou na Itália e não guardou o navio — guardou
+como morreram os homens que não embarcaram.** A nota de método do livro foi reescrita para
+dizer isso.
+
+E vira o argumento do cap. 25 do avesso, sem desmenti-lo: **ficar não produz documento, mas
+produz gente que ainda está lá para contar.** O lado que passou cem anos produzindo papel é o
+lado que não sabia.

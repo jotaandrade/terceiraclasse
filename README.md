@@ -41,12 +41,12 @@ scripts/              histórico das rodadas de correção e escrita
 
 ---
 
-## Estado (08.09.2026)
+## Estado (09.09.2026)
 
 | | |
 |---|---|
 | Capítulos | 27, em 4 livros + epílogo — I: 1-7 · II: 8-11 · III: 12-18 · IV: 19-27 |
-| **Escritos** | **27 de 27 capítulos, 36.373 palavras** |
+| **Escritos** | **27 de 27 capítulos, 37.162 palavras, 612 páginas** |
 | Aparato | créditos, nota de método, fontes, créditos de imagem e índice onomástico — prontos |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |
@@ -131,12 +131,19 @@ histórica, dentro de **papel particular** — o médico da declaração de óbi
 fonte de boa parte da tradição oral deste projeto — o cozinheiro, o bote dos cozinheiros,
 o navio de carvão e a menina que achou o pai. Creditar sempre que o material for dela.
 
-**A cadeia oral tem dois galhos, e eles não contam a mesma coisa.** *(08.09.2026)*
-O carvão e o não-reconhecimento vêm do **João Betti** (1920-2008), marido da Pulcheria,
-via **Patrícia Betti** — e a cena é em **São Paulo, na Hospedaria**, não no Rio. **O
-cozinheiro e a menina que acha o pai** vêm de outra prima, de outro ramo, e a Patrícia
-**não os confirma**. Nunca apresentar o cozinheiro como consenso da família: atribuir e
-dizer que a outra linha não tem essa lembrança.
+**A cadeia oral tem três galhos, e eles não contam a mesma coisa.** *(09.09.2026)*
+Dois estão no Brasil e vieram do navio. O carvão e o não-reconhecimento vêm do **João Betti**
+(1920-2008), marido da Pulcheria, via **Patrícia Betti** — e a cena é em **São Paulo, na
+Hospedaria**, não no Rio. **O cozinheiro e a menina que acha o pai** vêm de outra prima, de
+outro ramo, e a Patrícia **não os confirma**. Nunca apresentar o cozinheiro como consenso da
+família: atribuir e dizer que a outra linha não tem essa lembrança.
+
+**O terceiro galho é o do Vêneto, e é o do Giorgio.** Ele não guardou o navio — guardou **como
+morreram os homens que não embarcaram**: o avô **Sante**, na mina de Monfumo em 1947, e o
+tio-avô **Pietro Luigi**, numa mina nos Estados Unidos, sem ano. Do lado de cá não havia
+versão nenhuma para comparar: **ninguém aqui sabia**. Vale a mesma regra dos outros dois —
+atribuir ao Giorgio, dizer que não há documento e dizer qual documento resolveria. Ver
+`docs/02-pesquisa-documental.md`, seção 35.
 
 **Cena reconstruída se declara.** *(08.09.2026)* O livro pode montar uma cena que ninguém
 descreveu — a prancha em Gênova, o porão às 17h15, a porta da Hospedaria — desde que **diga
@@ -205,6 +212,10 @@ uma linha cada:
 3. **Procedência do corpus de vinte depoimentos** (jornal, data, página) — item de pesquisa,
    não de liberação. Já declarado como lacuna dentro do livro.
 4. **Viagem a Castelcucco: abril de 2027** — decidido em 08.09.2026, para o capítulo 27 ser escrito de volta dela. O centenário, 25.10.2027, fica sendo o lançamento.
+5. **Os dois documentos das minas** *(aberto em 09.09.2026)* — o papel do acidente do Sante, que
+   o Giorgio diz ter em casa, e o *atto di morte* de 1947 no Comune di Monfumo. Não bloqueiam a
+   leitura (os caps. 3 e 6 declaram que são depoimento), mas fecham o capítulo 6. E, antes de
+   tudo, **achar de onde veio o `† 1916` do Pietro Luigi**: este acervo o repete sem procedência.
 
 Resolvidas em 08.09.2026: as **autorizações de nome e imagem** (todas obtidas) e a **tarja de
 terceiros** (nome em arquivo público não se tarja — ver a nota de método do livro).

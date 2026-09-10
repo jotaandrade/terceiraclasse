@@ -31,7 +31,7 @@ Nenhum dos dois atravessou o oceano. Eu os conheço por fotografia de fotografia
 
 E existe a casa.
 
-Giorgio Forner — bisneto do Sante, o ramo que ficou — mora na região e já esteve nela. Foi ele quem me mostrou.
+Giorgio Forner — neto do Sante, o ramo que ficou — mora na região e já esteve nela. Foi ele quem me mostrou.
 
 Eu não sei o número da porta. Não sei se ainda é da família, se foi vendida, se alguém mora dentro. Sei que ela existe e que ele sabe onde fica.
 

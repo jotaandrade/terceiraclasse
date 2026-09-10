@@ -169,8 +169,6 @@ Casou com Maria Luigia Miotto, irmã mais velha de Fausto — de modo que os doi
 
 Teve filhos e continuou onde sempre esteve. Leo, Delfina e Galliano são dele. De Galliano veio Giorgio, que hoje mora na mesma região, conhece a história inteira, e é quem guarda o quadro.
 
-Morreu em 1947, aos cinquenta e quatro anos.
-
 Nunca emigrou. Nunca viu o Brasil. Ninguém naquela condição atravessava o Atlântico duas vezes, e ele não foi exceção.
 
 E existe um segundo objeto, guardado na mesma pasta.
@@ -219,6 +217,38 @@ O ramo que partiu tem fotografias, documentos de imigração, uma certidão de �
 
 O ramo que ficou tem um quadro na parede, com três medalhas e uma Vitória alada de bronze inimigo. E tem, guardada, uma carteira de identidade de 1940 com o rosto dele dentro.
 
-Nenhum dos dois lados escapou. Um enfrentou o Atlântico, o outro enfrentou o Grappa. A diferença é que um dos dois foi obrigado a levar tudo o que tinha numa mala de madeira, e por isso quase nada sobrou.
+Nenhum dos dois lados escapou. Um enfrentou o Atlântico, o outro enfrentou o Grappa e, depois dele, a galeria. A diferença é que um dos dois foi obrigado a levar tudo o que tinha numa mala de madeira, e por isso quase nada sobrou.
 
 Por isso este capítulo existe. Porque o objeto que melhor conta essa família nunca esteve no Brasil.
+
+E há mais uma coisa do lado de lá, que eu só soube em setembro de 2026.
+
+Giorgio me contou como o avô morreu.
+
+Houve um acidente numa mina, em Monfumo. Amputaram uma perna. A barriga também estava esmagada. *Dopo tre quattro giorni è morto dalle conseguenze.*
+
+Levou três ou quatro dias. Era 1947, e ele tinha cinquenta e quatro anos.
+
+Eu não sabia que havia mina em Monfumo. Há.
+
+Abriram galerias na encosta, seguindo a camada de linhito — um carvão pobre, que serve para aquecer casa e tocar forno pequeno. A história local conta que uma companhia austríaca as trabalhou até 1866, o ano em que a fronteira mudou de lugar no capítulo 2 deste livro, e que depois disso pararam. Nos anos trinta e quarenta, quando o país passou a precisar de carvão que não dependesse de importação, reabriram, e por uma temporada aquela vila deu trabalho a gente vinda de todos os arredores.
+
+Algumas bocas continuam abertas na subida da forcella Mostaccin, no caminho do Grappa.
+
+É a segunda mina desta família.
+
+A primeira está no capítulo 3, do outro lado do oceano.
+
+Agora ponha em ordem.
+
+A encosta não dava de comer, e foi por isso que as duas irmãs dele embarcaram. A montanha em cima da encosta virou frente de guerra, e ele passou um ano defendendo-a. Voltou.
+
+Vinte e nove anos depois, a mesma encosta se abriu por dentro, aceitou o trabalho dele e caiu em cima dele.
+
+**Ele não precisou de oceano nenhum.**
+
+Nada disto está em papel — ainda.
+
+Giorgio diz que deve ter em casa um documento sobre o acidente, e o *atto di morte* de 1947 está no Comune. Enquanto os dois não estiverem na minha mão, isto aqui é depoimento: o neto contando o que sabe do avô, oitenta anos depois, e eu escrevendo do jeito que ele contou.
+
+Do lado de cá não havia versão nenhuma para comparar. Ninguém aqui sabia.

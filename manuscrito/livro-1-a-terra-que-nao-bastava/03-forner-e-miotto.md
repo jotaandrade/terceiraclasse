@@ -85,6 +85,28 @@ Pode ter sido a guerra sem constar em lugar nenhum. Pode ter sido tuberculose, a
 
 Naquele mundo, morrer aos vinte e sete não exigia guerra nenhuma.
 
+Durante anos eu não soube dizer mais do que isso.
+
+Em setembro de 2026 chegou uma resposta que eu não tinha pedido.
+
+Giorgio Forner escreveu do Vêneto, num parágrafo corrido, sem pontuação e sem nenhum alarde, o que a casa dele conta: *Pietro è morto negli Stati Uniti per un incidente sul lavoro in miniera però non so in che anno è successo questo.*
+
+**Pietro morreu nos Estados Unidos, num acidente de trabalho numa mina.** O ano, ele não sabe.
+
+Repare no que essa frase faz com o resto.
+
+Ela não bate de frente com documento nenhum, porque documento não há. E explica, sem tentar, a única coisa que eu tinha achado estranha: um homem em idade de convocação não aparece no registro dos mortos daquela guerra porque não estava naquela guerra. Estava do outro lado do Atlântico, debaixo da terra.
+
+Ela também põe um segundo nome numa rota que o capítulo anterior deixou aberta. Ao lado de Luigi Forner, o avô, a genealogia impressa traz *emigrato in America dopo il 1891*, e eu escrevi ali que não sabia para onde ele tinha ido. O neto que carrega o nome dele teria ido para o mesmo lugar.
+
+Nada disso está provado, e eu não vou escrever que está.
+
+É lembrança de família. Chegou sem ano, sem estado e sem cidade, e vem do galho que ficou na Itália — o mesmo que guardou o quadro das medalhas. Vale o que vale um depoimento: muito, e sozinho.
+
+Duas folhas resolveriam. O *atto di morte* do Comune di Monfumo diz onde ele morreu, e se não existir já diz que não foi ali. E quem desce numa mina americana deixa manifesto de entrada, folha de pagamento e certidão, porque naquele país acidente de mina gerava papel.
+
+Enquanto elas não aparecem, as duas versões ficam lado a lado, e a segunda é de quem tem mais direito de contá-la do que eu.
+
 Dois anos antes disso, em 1914, morreu Santa Pandolfo.
 
 Rosa tinha onze anos. A caçula, Maria, tinha sete.

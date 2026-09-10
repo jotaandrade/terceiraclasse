@@ -305,7 +305,7 @@ com o Giorgio antes.
 | caderno | `familia_do_autor` | 683×911 | acervo do autor | A família do autor. |
 | caderno | `forner_maria_luigia_dei_agnoli_angelo` | 720×960 | acervo do autor | Maria Luigia Forner e Angelo Dei Agnoli. |
 | caderno | `galliano` | 1001×1200 | acervo do autor | Galliano Forner, retrato emoldurado conservado pela família na… |
-| caderno | `giorgio` | 526×934 | acervo do autor | Giorgio Forner, bisneto de Sante, reencontrado em pesquisa… |
+| caderno | `giorgio` | 526×934 | acervo do autor | Giorgio Forner, neto de Sante, reencontrado em pesquisa… |
 | caderno | `giorgio_seu_pai` | 936×1200 | acervo do autor | Giorgio Forner e o pai. |
 | caderno | `giorgio_su_amore` | 420×664 | acervo do autor | Giorgio Forner e a esposa. |
 | caderno | `giorgio_vendendo` | 1050×1400 | Giorgio Forner | Giorgio Forner numa feira, no Vêneto. |

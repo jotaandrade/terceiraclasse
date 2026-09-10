@@ -43,6 +43,22 @@ Ele a tirou no comune de Asolo, em março de 1940. Ela existe neste projeto não
 
 **O homem que ficou aparece no meu arquivo como testemunha da vida de outra pessoa.**
 
+E é aqui que a régua deste capítulo se quebra.
+
+Em setembro de 2026 eu soube como Sante Forner morreu, e quanto tempo ele levou para morrer.
+
+Três ou quatro dias.
+
+Exatamente o tamanho do único pedaço da vida da irmã dele que este livro conseguiu reconstituir hora a hora.
+
+Isso não saiu de arquivo nenhum, e não sairia nunca.
+
+Saiu de um homem que mora a poucos quilômetros daquela mina, que é neto dele, e que um dia resolveu me escrever.
+
+Ficar não produz documento, e isso continua sendo verdade. Mas ficar produz outra coisa, e eu demorei a enxergar: produz gente que ainda está lá para contar.
+
+**O lado que passou cem anos produzindo papel é o lado que não sabia.**
+
 Sante morreu em 1947, aos cinquenta e quatro anos.
 
 Rosa morreu em 1986, aos oitenta e três, no Brasil.
@@ -105,7 +121,7 @@ E de outra prima, de outro ramo desta mesma família, veio o resto: o cozinheiro
 
 E foi por elas, pelas primas que apareceram do outro lado do Brasil, que eu cheguei ao Giorgio.
 
-O bisneto do irmão que ficou.
+O neto do irmão que ficou.
 
 Cem anos, um oceano e uma guerra depois, a família que se dividiu em Monfumo voltou a se falar porque quatro ou cinco pessoas resolveram, mais ou menos ao mesmo tempo, escrever os nomes dos próprios avós num formulário na internet.
 
@@ -113,4 +129,4 @@ O quadro com as três medalhas continua na Itália.
 
 A casa de onde Rosa saiu, se ainda estiver de pé, continua na Itália.
 
-E agora existe alguém do lado de lá que atende quando eu chamo.
+E agora existe alguém do lado de lá que atende quando eu chamo — e que, de vez em quando, chama primeiro.
