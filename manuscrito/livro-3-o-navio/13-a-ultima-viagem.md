@@ -51,11 +51,21 @@ Passageiros da primeira classe reclamaram. A companhia registrou as reclamaçõe
 
 Nada disso, sozinho, é catástrofe. Tudo isso junto é um navio que já não deveria estar naquela linha.
 
-Em algum porto da escala africana o Mafalda parou outra vez, por avaria na máquina de bombordo.
+Na escala africana o Mafalda parou outra vez, por avaria na máquina de bombordo.
 
-Escrevo *algum porto* de propósito. As descrições da rota habitual do navio citam Dakar, mas o que as fontes registram desta última viagem é a saída de São Vicente, em Cabo Verde, no dia 18 de outubro, rumo ao Rio.
+Escrevi *algum porto* durante muito tempo, porque as descrições da rota habitual do navio citam Dakar. Não foi Dakar. Foi **Mindelo, na ilha de São Vicente, em Cabo Verde**, e o desvio tem um motivo que um passageiro de segunda classe explicou ao pai numa carta: em Dakar tinha estourado *cólera*.
 
-Ainda não tenho documento que diga em qual dos dois a máquina abriu; quando tiver, nomeio. Consta como parada emergencial. Consertaram mais uma vez, com o que havia, e seguiram mais uma vez.
+Ficaram vinte e quatro horas em São Vicente, quando outros vapores gastavam quatro ou seis para carvoar. Encheram as carvoeiras, tentaram mais uma vez consertar a máquina e embarcaram um boi, porcos e galinhas vivas, porque as câmaras frias estavam paradas havia dias.
+
+E de noite bombearam água para fora do casco.
+
+Um passageiro de primeira classe não conseguiu dormir com o barulho, saiu para ver e entendeu o que era. Soube depois que um suporte do eixo da hélice tinha se soltado, que a hélice, ao saltar, abrira uma fresta, e que a água vinha entrando desde então.
+
+**Foi de São Vicente que o comandante telegrafou para Gênova.**
+
+Simone Gulì considerou arriscado demais continuar com aquele navio e disse isso à companhia. A companhia respondeu com a ordem — *renovada*, registra a fonte, o que significa que não era a primeira — de prosseguir o quanto antes.
+
+O Mafalda era esperado no Rio de Janeiro no dia 25 de outubro.
 
 Restavam sete dias.
 
@@ -127,11 +137,17 @@ O Mafalda tinha trinta e três horas de vida.
 
 No dia seguinte, à tarde, aconteceu uma coisa que deixou o porão otimista.
 
-O Mafalda ultrapassou o *Alhena*.
+Os dois navios se cruzaram: o Mafalda e o *Alhena*.
 
-O Alhena era um navio holandês da Zuid Rotterdam, mais lento, indo para o mesmo lado. Ver o navio velho passar por outro com desenvoltura, depois de duas semanas de pane, avaria e adernamento, foi o suficiente para o medo baixar alguns graus.
+O Alhena era um cargueiro holandês da Zuid Rotterdam, indo para o mesmo lado.
 
-Lynose conta que foi exatamente esse o efeito: os passageiros se encheram de otimismo pela velocidade com que o Mafalda passou pelo Alhena.
+**E aqui as fontes discordam sobre quem passou por quem.**
+
+Lynose, que estava a bordo, conta que foi o Mafalda que ultrapassou, e que os passageiros se encheram de otimismo com a velocidade da manobra: ver o navio velho passar por outro com desenvoltura, depois de duas semanas de pane, avaria e adernamento, baixou o medo alguns graus.
+
+A pesquisa mais recente diz o contrário — que às três e meia da tarde foi o *Alhena* que ultrapassou o Mafalda, e que o capitão do cargueiro estranhou o balanço do transatlântico.
+
+Não tenho como decidir, e as duas versões contam a mesma coisa por dois ângulos: de dentro, um navio que ainda parecia forte; de fora, um navio que já chamava atenção pelo jeito de andar.
 
 Pouco depois cruzaram com outro, o *Empire Star*, britânico.
 

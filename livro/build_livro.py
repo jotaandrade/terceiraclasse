@@ -677,17 +677,30 @@ companhia faz com reclamação.
 Nada disso, sozinho, é catástrofe. Tudo isso junto é um navio que já não deveria estar
 naquela linha.""",
 
-"""Em algum porto da escala africana o Mafalda parou outra vez, por avaria na máquina de
-bombordo.
+"""Na escala africana o Mafalda parou outra vez, por avaria na máquina de bombordo.
 
-Escrevo <em>algum porto</em> de propósito. As
-descrições da rota habitual do navio citam Dakar, mas o que as fontes registram desta última
-viagem é a saída de São Vicente, em Cabo Verde, no dia 18 de outubro, rumo
-ao Rio.
+Escrevi <em>algum porto</em> durante muito tempo, porque as descrições da rota habitual do
+navio citam Dakar. Não foi Dakar. Foi <strong>Mindelo, na ilha de São Vicente, em Cabo
+Verde</strong>, e o desvio tem um motivo que um passageiro de segunda classe explicou ao pai
+numa carta: em Dakar tinha estourado <em>cólera</em>.
 
-Ainda não tenho documento que diga em qual dos dois a máquina abriu; quando tiver,
-nomeio. Consta como parada emergencial. Consertaram mais uma vez, com o que havia, e seguiram mais
-uma vez.
+Ficaram vinte e quatro horas em São Vicente, quando outros vapores gastavam quatro ou seis
+para carvoar. Encheram as carvoeiras, tentaram mais uma vez consertar a máquina e embarcaram
+um boi, porcos e galinhas vivas, porque as câmaras frias estavam paradas havia dias.
+
+E de noite bombearam água para fora do casco.
+
+Um passageiro de primeira classe não conseguiu dormir com o barulho, saiu para ver e entendeu
+o que era. Soube depois que um suporte do eixo da hélice tinha se soltado, que a hélice, ao
+saltar, abrira uma fresta, e que a água vinha entrando desde então.
+
+<strong>Foi de São Vicente que o comandante telegrafou para Gênova.</strong>
+
+Simone Gulì considerou arriscado demais continuar com aquele navio e disse isso à companhia.
+A companhia respondeu com a ordem — <em>renovada</em>, registra a fonte, o que significa que
+não era a primeira — de prosseguir o quanto antes.
+
+O Mafalda era esperado no Rio de Janeiro no dia 25 de outubro.
 
 Restavam sete dias.""",
 
@@ -787,14 +800,21 @@ O Mafalda tinha trinta e três horas de vida.""",
 
 """No dia seguinte, à tarde, aconteceu uma coisa que deixou o porão otimista.
 
-O Mafalda ultrapassou o <em>Alhena</em>.
+Os dois navios se cruzaram: o Mafalda e o <em>Alhena</em>.
 
-O Alhena era um navio holandês da Zuid Rotterdam, mais lento, indo para o mesmo lado. Ver o
-navio velho passar por outro com desenvoltura, depois de duas semanas de pane, avaria e
-adernamento, foi o suficiente para o medo baixar alguns graus.
+O Alhena era um cargueiro holandês da Zuid Rotterdam, indo para o mesmo lado.
 
-Lynose conta que foi exatamente esse o efeito: os passageiros se encheram de otimismo pela
-velocidade com que o Mafalda passou pelo Alhena.""",
+<strong>E aqui as fontes discordam sobre quem passou por quem.</strong>
+
+Lynose, que estava a bordo, conta que foi o Mafalda que ultrapassou, e que os passageiros se
+encheram de otimismo com a velocidade da manobra: ver o navio velho passar por outro com
+desenvoltura, depois de duas semanas de pane, avaria e adernamento, baixou o medo alguns graus.
+
+A pesquisa mais recente diz o contrário — que às três e meia da tarde foi o <em>Alhena</em>
+que ultrapassou o Mafalda, e que o capitão do cargueiro estranhou o balanço do transatlântico.
+
+Não tenho como decidir, e as duas versões contam a mesma coisa por dois ângulos: de dentro, um
+navio que ainda parecia forte; de fora, um navio que já chamava atenção pelo jeito de andar.""",
 
 """Pouco depois cruzaram com outro, o <em>Empire Star</em>, britânico.
 
@@ -1227,6 +1247,56 @@ Um homem da primeira classe viu a terceira invadir os botes. Um homem da terceir
 tripulação já dentro deles. As duas coisas provavelmente aconteceram, com meia hora de
 diferença, em pontos distintos de um convés no escuro.""",
 
+"""Há uma coisa, porém, que a aritmética diz e o testemunho não diz.
+
+A conta dos mortos, feita por classe.
+
+De cada cem pessoas da tripulação, morreram onze. De cada cem da terceira classe, vinte e
+oito. De cada cem da primeira, quarenta e oito. De cada cem da segunda, sessenta e um.
+
+<strong>A terceira classe foi a que menos morreu entre os passageiros. A segunda foi a que
+mais morreu.</strong>
+
+É o contrário do que a intuição manda esperar, e é o contrário do que tinha acontecido no
+Titanic quinze anos antes, onde a primeira classe se salvou e a terceira se afogou.""",
+
+"""Isso não prova nada sobre o comportamento de ninguém, e eu não vou usar como se provasse.
+Não diz que a terceira classe se atirou aos botes, nem que a segunda foi passada para trás.
+Diz outra coisa, e a explicação não tem nenhuma virtude dentro.
+
+A primeira parte da explicação é onde cada um morava dentro do casco.
+
+O eixo partiu a bombordo, na popa. A água entrou pela popa. O navio afundou de popa.
+
+E a segunda classe morava na popa. O refeitório e o fumoir ficavam ali, as cabines no convés
+de baixo. As duas baleeiras suplementares e as seis jangadas mais próximas daquela gente
+estavam empilhadas em cima do refeitório deles — e estavam presas. Travadas por ventiladores
+pesados que ninguém conseguiu arredar, e provavelmente também por ferrugem, tinta e sal.
+
+A segunda classe passou o jantar daquela viagem inteira sentada em cima do rombo, e o
+salvamento mais perto dela era o que não abria.""",
+
+"""A segunda parte é quem era cada um.
+
+Terceira classe de navio de emigrante, em 1927, é gente jovem. Tem que ser: a inspeção médica
+antes do embarque existe justamente para isso, e quem atravessa o Atlântico naquele porão
+atravessa porque tem corpo para trabalhar do outro lado. Primeira e segunda classe é família
+inteira, é senhora de idade, é menino de colégio, é vestido comprido.
+
+E aquela noite não foi decidida nos botes. Foi decidida na água.
+
+Os tempos que os próprios sobreviventes contaram estão no capítulo seguinte: uma hora e meia,
+duas, três, quatro, oito horas boiando no Atlântico. Quem aguenta oito horas ali tem vinte e
+poucos anos.
+
+<strong>A hierarquia de classe organizou aquela viagem inteira e não organizou o naufrágio.</strong>
+
+Ela decidiu quem comia bacalhau e quem comia frango, quem dormia em cabine e quem dormia em
+dormitório de homens, quem subia pela escada principal e quem entrava por uma portinhola no
+costado. Quando o navio começou a afundar, parou de decidir.
+
+O que passou a decidir foi a planta do casco e o que o corpo de cada um aguentava.""",
+
 """Há uma coisa, porém, em que os três lados concordam.
 
 Parte da tripulação ficou.
@@ -1383,6 +1453,11 @@ Ele estava na ponte quando o navio afundou.""",
 Salvador Malone, já içado a bordo do <em>Alhena</em>, diz que assistiu ao
 fim de longe e que viu o comandante na ponte, se despedindo com um <em>Viva Italia</em>.
 
+⁂ Sobre essa frase é preciso dizer uma coisa. A imprensa italiana a publicou como fato nos
+dias seguintes, e a pesquisa recente registra que ela foi <strong>atribuída</strong> a Gulì,
+não colhida de testemunha. Malone diz ter visto; o que não dá para saber é se ele viu antes ou
+depois de ler nos jornais o que tinha visto.
+
 Eugenio Gabassi, ainda na água, conta outra coisa: ouviu tiros vindos da
 ponte, onde estavam o comandante e o primeiro maquinista, e concluiu que os dois tinham se
 matado.""",
@@ -1408,6 +1483,27 @@ O que se sabe é que ele ficou.
 
 <strong>O navio afundou às dez e dez da noite de 25 de outubro de 1927, com o comandante a
 bordo.</strong>""",
+
+"""Essa é a hora que os sobreviventes deram, e é a que este livro usa. Mas ela não é firme, e
+seria desonesto fingir que é.
+
+O diário de bordo do <em>Formosa</em>, o vapor francês, registra o afundamento às nove e
+quarenta e cinco. O protocolo das comunicações de rádio e a pesquisa italiana mais recente
+apontam para uma hora antes disso ainda, perto das nove e meia.
+
+Nenhum dos três está mentindo, e é provável que os três estejam marcando o mesmo instante.
+
+Um navio, em 1927, acertava o relógio pela longitude, e cada um acertava o seu. Os
+radiotelegrafistas trabalhavam no horário de Greenwich, os passageiros viviam na hora de bordo,
+e ninguém, naquela noite, parou para conferir com o vizinho. A mesma reportagem que traz o
+diário do <em>Formosa</em> já estranhava, dez dias depois do naufrágio, que o francês dissesse
+ter recebido o pedido de socorro às três e meia da tarde, quando o eixo só partiu às cinco e
+quinze.
+
+<strong>A diferença entre as fontes não mede o tempo. Mede a distância entre dois relógios.</strong>
+
+O que todas dizem igual é o que importa: entre a luz apagar e o navio sumir passaram-se
+minutos, não horas, e ele foi embora pela popa.""",
 
 """Às dez e onze, aquele ponto do Atlântico era um campo de gente boiando.
 
@@ -1612,16 +1708,10 @@ A bordo iam mil duzentas e cinquenta e nove pessoas.
 
 <strong>Um em cada quatro não chegou.</strong>""",
 
-"""E o um em cada quatro não caiu igual sobre todo mundo.
+"""E o um em cada quatro não caiu igual sobre todo mundo. As proporções por classe estão
+no capítulo 15, e a única que não entrou lá é a da tripulação.
 
-A mesma fonte que fecha a conta do resgate traz o dado que falta em todas as outras: dos
-duzentos e oitenta e oito tripulantes, salvaram-se duzentos e quarenta e dois.
-
-Morreram quarenta e seis.
-
-Quarenta e seis em duzentos e oitenta e oito é um em cada seis. Pela mesma contabilidade,
-entre os novecentos e noventa e três passageiros morreram duzentos e sessenta e seis — mais
-de um em cada quatro.
+De cada cem tripulantes, morreram onze.
 
 <strong>Morria-se menos trabalhando naquele navio do que viajando nele.</strong>
 
@@ -1758,7 +1848,7 @@ CAP26 = [
 O intérprete Thomas Filipovich assinou a parte dele no Rio de Janeiro em 28 de outubro. A
 entrada na Hospedaria do Brás, em São Paulo, é de 31.
 
-O que aconteceu no meio, eu não sei. Não sei se foram de trem ou de navio costeiro, não sei
+O que aconteceu no meio, eu quase não sei. Não sei
 onde dormiram, não sei o que comeram, não sei quem pagou.""",
 
 """O que dá para dizer é o que elas não tinham.
@@ -1918,7 +2008,26 @@ conversavam entre si.
 Cinquenta pessoas desembarcaram na Ilha das Flores. Quarenta e duas deram entrada no
 Brás em 31 de outubro, e mais uma no dia seguinte.
 
-Sete ficaram no Rio. Quem foram, eu não sei.""",
+Sete não estão naquela página. Para onde foram, eu não sei — e ficar no Rio é só uma das
+coisas que podem ter acontecido com elas.""",
+
+"""Dos três dias entre a Ilha das Flores e o Brás, uma parte já dá para fechar, e fecha por
+eliminação.
+
+Naqueles dias saíram do Rio dois navios com náufragos do Mafalda a bordo.
+
+O <em>Conte Verde</em> zarpou em 31 de outubro, levando a tripulação sobrevivente de volta
+para a Itália. Não servia.
+
+O <em>Duca degli Abruzzi</em> — que até 1924 tinha sido comandado pelo próprio Simone Gulì —
+levou para Santos, Montevidéu e Buenos Aires a maioria dos passageiros que iam para lá. Mas
+saiu em <strong>2 de novembro</strong>, e Rosa já estava registrada em São Paulo no dia 31.
+
+<strong>Elas não foram por mar.</strong> Foram por terra, como quase todo imigrante que
+desembarcava no Rio com destino ao interior paulista, e chegaram à Hospedaria do jeito que
+todo mundo chegava: pelo desvio ferroviário, do lado de dentro do muro.
+
+Continuo sem saber onde dormiram, o que comeram e quem pagou.""",
 
 """Há uma coisa nessa sobreposição que eu queria saber e não sei.
 
@@ -1926,11 +2035,47 @@ Na lista do <em>Alhena</em>, a passageira número 25 é De Rosi Emilia,
 cinquenta e cinco anos, que perdeu o marido no naufrágio e pediu para ser mandada de volta à
 Itália.
 
-Na página do Brás há um De Rossi.
+Na página do Brás está <em>De Rossi Emilia, 53, só, Padova</em> — e na linha de baixo, como
+na relação do <em>Alhena</em>, a mesma vizinha: <em>Zita Strufaldi, 43</em>.
 
-Na digitalização que eu tenho, não consigo dizer se é ela. Se for, quer dizer que o pedido não
-foi atendido, ou que ela desistiu dele, e que a mulher que queria voltar pegou o mesmo trem
-que todo mundo.""",
+Prenome, condição e companhia de linha conferem. A idade oscila dois anos, o que naquele
+acervo é rotina.
+
+<strong>A mulher que pediu para ser mandada de volta à Itália entrou em São Paulo três dias
+depois.</strong>
+
+Não sei se o pedido foi negado, se ela desistiu, ou se alguém simplesmente nunca o leu. Sei
+que a viúva de número vinte e cinco pegou o mesmo trem que todo mundo.""",
+
+"""E há um nome naquela página que eu não sabia ler, e que só aprendi a ler depois.
+
+Dois registros acima de Rosa, no 19274, está <em>Ernesto, 24, irmão</em>. É Ernesto Lovato,
+que na relação do <em>Alhena</em> aparece sozinho, na linha 36: vinte e quatro anos, solteiro,
+terceira classe. Veio com o irmão Cornelio, a cunhada e os dois sobrinhos.
+
+Ele atravessou a mesma noite, foi recolhido pelo mesmo cargueiro holandês, passou pela mesma
+Ilha das Flores e entrou pela mesma porta da Hospedaria do Brás, no mesmo dia, duas linhas
+antes da minha bisavó.
+
+Depois foi trabalhar de guarda-noturno no Rio de Janeiro.
+
+<strong>Na manhã de 1º de maio de 1929, um ano e meio depois do naufrágio, Ernesto Lovato deu
+um tiro na própria testa.</strong>
+
+Os jornais deram a notícia com um título que eu não consigo tirar da cabeça: <em>a última
+vítima de um naufrágio</em>.
+
+Ele tinha vinte e cinco anos.""",
+
+"""Ponho isso aqui porque este capítulo é sobre uma família que chegou, e porque a chegada
+não é o fim de nada.
+
+Dos trezentos e catorze eu não tenho os nomes. Deste eu tenho: nome, idade, número de
+registro, a linha em que ele estava, e a data em que aquela noite finalmente o alcançou.
+
+Rosa também atravessou. Ficou cinquenta e nove anos do lado de cá.
+
+A diferença entre os dois não é mérito de ninguém.""",
 
 """É aqui que esta história faz uma curva que eu não esperava quando comecei.
 
@@ -5446,7 +5591,19 @@ FONTES_GERAIS = [
   u"citado pelo artigo do Museu da Imigração; e as duas obras que a pesquisa de Maurício "
   u"Carvalho para o sítio <em>Naufrágios do Brasil</em> arrola — <em>Revista Mergulho</em>, ano "
   u"XIII, nº 155, junho de 2009, e GARIBALDI, Luciano; GIORGERINI, Giorgio; MAGNANI BOSIO, "
-  u"Maria Enrica. <em>Principessa Mafalda: Titanic italiano</em>. Ed. R. Garosci, 2010."]),
+  u"Maria Enrica. <em>Principessa Mafalda. Titanic italiano</em>, org. R. Garosci. Novara: De "
+  u"Agostini, 2010.",
+  u"INEICHEN, Stefan. <em>Il Principessa Mafalda</em>. Torino: Bollati Boringhieri, 2023 — "
+  u"história do navio de 1908 a 1927, com aparato de notas e pesquisa de arquivo na Itália, na "
+  u"Suíça, na Alemanha e no Brasil. É a obra de referência sobre o assunto, e chegou a este "
+  u"projeto quando o livro já estava escrito.",
+  u"<em>Relazione dell'inchiesta ufficiale</em> sobre o naufrágio, parcialmente tornada "
+  u"pública em março de 1928, comentada em «Hansa, Deutsche Schiffahrtszeitschrift», ano 65, "
+  u"n. 9, 3 de março de 1928, p. 390.",
+  u"TREVISANI, Giuseppe. Reportagem em sete partes sobre o naufrágio, em «L'Europeo», n. 533 a "
+  u"539, de 1º de janeiro a 12 de fevereiro de 1956. Dezenas de entrevistas com sobreviventes, "
+  u"vinte e oito anos depois. <strong>É a pista aberta para a procedência do corpus de "
+  u"depoimentos deste livro.</strong>"]),
 ("Acervos consultados",
  [u"<em>Portale Antenati</em>, Ministero della Cultura — atos de nascimento, casamento e "
   u"óbito dos comuni de Monfumo, Castelcucco, Cavaso del Tomba e Maser.",
@@ -5562,8 +5719,12 @@ FONTES = {
     u"Museu da Imigração do Estado de São Paulo, artigo do acervo sobre os náufragos.",
     u"Pôr do sol calculado para a posição aproximada do naufrágio, 17°54′ de latitude sul, em "
     u"25 de outubro de 1927: 18h21; fim do crepúsculo civil, 18h48.",
-    u"<em>A escala africana em que a máquina abriu — Dakar ou São Vicente — e a idade do "
-    u"comandante Simone Gulì seguem em aberto, declarados no texto.</em>"],
+    u"INEICHEN, <em>Il Principessa Mafalda</em> (2023): a escala em Mindelo, São Vicente, e o desvio de Dakar por causa do cólera; o "
+    u"telegrama de Gulì à companhia e a ordem renovada de prosseguir; o cruzamento com o "
+    u"<em>Alhena</em> às 15h30 e com o <em>Empirestar</em>; a delegação da terceira classe "
+    u"punida e o abaixo-assinado da segunda que não foi entregue.",
+    u"<em>Sobre quem ultrapassou quem, o depoimento de Lynose e a pesquisa recente divergem, "
+    u"e o texto não arbitra. A idade do comandante Simone Gulì segue em aberto.</em>"],
 14:[u"Corpus de depoimentos: Eugenio Gabassi, Pedro Volpi, Milhem Solk, Enrico Nazzeconi, "
     u"Ali Hassen, Batista Beria, Nicola Lynose, família Vacelli, Mario Ottaviani.",
     u"<em>A hora do pedido de socorro — 17h35 ou 19h15 — diverge entre as fontes, e o texto "
@@ -5572,8 +5733,19 @@ FONTES = {
     u"da família, atribuída no próprio capítulo."],
 15:[u"Corpus de depoimentos: Ali Hassen, Salvador Malone, Antonio Ponce, Valeriano Galli, "
     u"Maria Spinelli, Vincenzo Mandolezzi, Alfio Sanfilippo, Domenico Leo, Juan Santororo, "
-    u"família Vacelli, Mario Ottaviani, Nicola Lynose, Pascual Pecci."],
-16:[u"Corpus de depoimentos: Mario Ottaviani, Enrico Nazzeconi, Andres Scavani del Vicario, "
+    u"família Vacelli, Mario Ottaviani, Nicola Lynose, Pascual Pecci.",
+    u"Mortalidade por classe: CAMPODONICO, Pierangelo, <em>Tragedie dell'emigrazione italiana "
+    u"per mare</em>, Museo del Mare, Genova, 2014, p. 86, apud INEICHEN, <em>Il Principessa Mafalda</em> (2023). Sobre um total de 1.255 "
+    u"pessoas a bordo: 287 tripulantes, 255 salvos; 821 passageiros de terceira classe, 593 "
+    u"salvos; 95 de segunda, 58 mortos; 52 de primeira, 25 mortos.",
+    u"Planta do navio, posição da segunda classe à popa, as catorze baleeiras e as seis "
+    u"jangadas travadas por ventiladores: INEICHEN, <em>Il Principessa Mafalda</em> (2023).",
+    u"<em>As proporções por classe vêm de uma contabilidade que difere das outras usadas neste "
+    u"livro. O que se aproveita delas é a ordem de grandeza, não o decimal.</em>"],
+16:[u"Divergência de horários do afundamento e a explicação do fuso: INEICHEN, <em>Il Principessa Mafalda</em> (2023); o horário do diário "
+    u"do <em>Formosa</em>, em <em>O Malho</em>, 5.11.1927, p. 31. O <em>Viva Italia</em> "
+    u"atribuído a Gulì pela imprensa italiana: INEICHEN, <em>Il Principessa Mafalda</em> (2023).",
+    u"Corpus de depoimentos: Mario Ottaviani, Enrico Nazzeconi, Andres Scavani del Vicario, "
     u"Salvador Malone, Eugenio Gabassi, família Vacelli.",
     u"<em>As duas versões da morte do comandante — a saudação na ponte e os tiros — vêm de "
     u"duas testemunhas na água, no escuro. O texto não escolhe.</em>"],
@@ -5602,7 +5774,14 @@ FONTES = {
     u"19269 (Forner Maria e as quatro crianças) e 19276 e 19277 (Forner Rosa e Enrico). A "
     u"numeração do livro é por pessoa, não por família.",
     u"Procedimento interno da Hospedaria — banho, desinfecção, estufa, inspeção médica, "
-    u"registro. <strong>A cena é reconstrução declarada no próprio capítulo.</strong>"],
+    u"registro. <strong>A cena é reconstrução declarada no próprio capítulo.</strong>",
+    u"Partida do <em>Conte Verde</em> do Rio em 31 de outubro de 1927 e do <em>Duca degli "
+    u"Abruzzi</em> em 2 de novembro: INEICHEN, <em>Il Principessa Mafalda</em> (2023), que remete a Garosci (2010), p. 42.",
+    u"Ernesto Lovato: relação do <em>Alhena</em>, linha 36; Livro 100 da Hospedaria do Brás, "
+    u"registro 19274; e a notícia do suicídio em 1º de maio de 1929, no <em>Diario Nacional</em> "
+    u"(São Paulo), 1.5.1929, e em <em>La Sentinelle</em>, 7.5.1929, localizadas por INEICHEN, <em>Il Principessa Mafalda</em> (2023).",
+    u"<em>Que as sete pessoas tenham seguido por terra é conclusão por eliminação, não "
+    u"documento: os dois navios disponíveis não serviam. Está dito assim no texto.</em>"],
 20:[u"Tradição oral, ramo Betti: João Betti (1920–2008), marido de Pulcheria, transmitida por "
     u"<strong>Patrícia Betti</strong>, que consentiu em ser nomeada e creditada. O carvão e o "
     u"não-reconhecimento.",

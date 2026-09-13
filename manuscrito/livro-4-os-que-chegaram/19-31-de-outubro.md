@@ -9,7 +9,7 @@ Entre a Ilha das Flores e a Hospedaria do Brás existem três dias que ninguém 
 
 O intérprete Thomas Filipovich assinou a parte dele no Rio de Janeiro em 28 de outubro. A entrada na Hospedaria do Brás, em São Paulo, é de 31.
 
-O que aconteceu no meio, eu não sei. Não sei se foram de trem ou de navio costeiro, não sei onde dormiram, não sei o que comeram, não sei quem pagou.
+O que aconteceu no meio, eu quase não sei. Não sei onde dormiram, não sei o que comeram, não sei quem pagou.
 
 O que dá para dizer é o que elas não tinham.
 
@@ -127,15 +127,53 @@ São os mesmos que estão na lista do *Alhena*, três dias antes, no Rio.
 
 Cinquenta pessoas desembarcaram na Ilha das Flores. Quarenta e duas deram entrada no Brás em 31 de outubro, e mais uma no dia seguinte.
 
-Sete ficaram no Rio. Quem foram, eu não sei.
+Sete não estão naquela página. Para onde foram, eu não sei — e ficar no Rio é só uma das coisas que podem ter acontecido com elas.
+
+Dos três dias entre a Ilha das Flores e o Brás, uma parte já dá para fechar, e fecha por eliminação.
+
+Naqueles dias saíram do Rio dois navios com náufragos do Mafalda a bordo.
+
+O *Conte Verde* zarpou em 31 de outubro, levando a tripulação sobrevivente de volta para a Itália. Não servia.
+
+O *Duca degli Abruzzi* — que até 1924 tinha sido comandado pelo próprio Simone Gulì — levou para Santos, Montevidéu e Buenos Aires a maioria dos passageiros que iam para lá. Mas saiu em **2 de novembro**, e Rosa já estava registrada em São Paulo no dia 31.
+
+**Elas não foram por mar.** Foram por terra, como quase todo imigrante que desembarcava no Rio com destino ao interior paulista, e chegaram à Hospedaria do jeito que todo mundo chegava: pelo desvio ferroviário, do lado de dentro do muro.
+
+Continuo sem saber onde dormiram, o que comeram e quem pagou.
 
 Há uma coisa nessa sobreposição que eu queria saber e não sei.
 
 Na lista do *Alhena*, a passageira número 25 é De Rosi Emilia, cinquenta e cinco anos, que perdeu o marido no naufrágio e pediu para ser mandada de volta à Itália.
 
-Na página do Brás há um De Rossi.
+Na página do Brás está *De Rossi Emilia, 53, só, Padova* — e na linha de baixo, como na relação do *Alhena*, a mesma vizinha: *Zita Strufaldi, 43*.
 
-Na digitalização que eu tenho, não consigo dizer se é ela. Se for, quer dizer que o pedido não foi atendido, ou que ela desistiu dele, e que a mulher que queria voltar pegou o mesmo trem que todo mundo.
+Prenome, condição e companhia de linha conferem. A idade oscila dois anos, o que naquele acervo é rotina.
+
+**A mulher que pediu para ser mandada de volta à Itália entrou em São Paulo três dias depois.**
+
+Não sei se o pedido foi negado, se ela desistiu, ou se alguém simplesmente nunca o leu. Sei que a viúva de número vinte e cinco pegou o mesmo trem que todo mundo.
+
+E há um nome naquela página que eu não sabia ler, e que só aprendi a ler depois.
+
+Dois registros acima de Rosa, no 19274, está *Ernesto, 24, irmão*. É Ernesto Lovato, que na relação do *Alhena* aparece sozinho, na linha 36: vinte e quatro anos, solteiro, terceira classe. Veio com o irmão Cornelio, a cunhada e os dois sobrinhos.
+
+Ele atravessou a mesma noite, foi recolhido pelo mesmo cargueiro holandês, passou pela mesma Ilha das Flores e entrou pela mesma porta da Hospedaria do Brás, no mesmo dia, duas linhas antes da minha bisavó.
+
+Depois foi trabalhar de guarda-noturno no Rio de Janeiro.
+
+**Na manhã de 1º de maio de 1929, um ano e meio depois do naufrágio, Ernesto Lovato deu um tiro na própria testa.**
+
+Os jornais deram a notícia com um título que eu não consigo tirar da cabeça: *a última vítima de um naufrágio*.
+
+Ele tinha vinte e cinco anos.
+
+Ponho isso aqui porque este capítulo é sobre uma família que chegou, e porque a chegada não é o fim de nada.
+
+Dos trezentos e catorze eu não tenho os nomes. Deste eu tenho: nome, idade, número de registro, a linha em que ele estava, e a data em que aquela noite finalmente o alcançou.
+
+Rosa também atravessou. Ficou cinquenta e nove anos do lado de cá.
+
+A diferença entre os dois não é mérito de ninguém.
 
 É aqui que esta história faz uma curva que eu não esperava quando comecei.
 

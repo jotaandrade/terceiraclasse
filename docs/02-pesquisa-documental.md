@@ -2732,3 +2732,144 @@ Verificar as paginas seguintes do Livro 100 antes de escrever qualquer coisa.
 3. **Metodo.** O proprio parecer avisa que as leituras visuais "sao herdadas da primeira
    conferencia" e que ele "nao afirma te-las repetido integralmente". Parecer assim e pista a
    verificar, nao laudo — e foi como foi tratado.
+
+---
+
+## 38. Stefan Ineichen, *Il Principessa Mafalda* (2023) — 12.09.2026
+
+**INEICHEN, Stefan. *Il Principessa Mafalda*. Torino: Bollati Boringhieri, 2023.**
+ISBN 9788833942568. Catorze capitulos, notas por capitulo, bibliografia com arquivos.
+
+Nao e um livro sobre o naufragio: e sobre **o navio**, de 1908 a 1927, e sobre quem passou por
+ele — Marconi testando o radio, Pirandello, o padre Genocchi enviado pelo papa, Weingartner,
+Gadda, Harry Graf Kessler. O naufragio ocupa os capitulos 11 a 13. **E a obra de referencia
+moderna, e chegou a este projeto com o livro ja escrito.**
+
+### 38.1 O que ele confirma
+
+| Fato | Situacao anterior |
+|---|---|
+| ruptura do eixo as **17h15** | ja era a hora do livro; confirmada |
+| apito longo para o *Empirestar*, em rota oposta | confirmado |
+| o abaixo-assinado da 2a classe que nao foi entregue | confirmado, **e com um motivo novo**: desistiram para nao criar conflito com a tripulacao, "e talvez tambem porque a delegacao da terceira classe nao tinha conseguido grande coisa" |
+| o adernamento na vespera | confirmado, com imagem melhor: na manha do dia 25 **o cafe transbordava das xicaras** |
+| os tubaroes | **resolvidos**: a carne estragada era jogada ao mar toda noite e um sequito de tubaroes seguia o navio. Alguns leram como mau agouro |
+
+E um fato novo que o livro nao tinha: **a delegacao da terceira classe foi ao capitao pedir
+explicacao e foi punida**, "em virtude do poder disciplinar".
+
+### 38.2 O que ele contradiz — e o que foi feito
+
+| O livro dizia | Ineichen | Aplicado |
+|---|---|---|
+| escala em **Dakar**, declarada em aberto | **Mindelo, Sao Vicente, Cabo Verde** — desviaram de Dakar porque la estourara **colera** | lacuna fechada no cap. 13 |
+| o Mafalda ultrapassou o *Alhena* | as 15h30 **o Alhena ultrapassou o Mafalda**, e o capitao do cargueiro estranhou o balanco | as duas versoes declaradas, sem arbitrar |
+| afundou as **22h10** | ~21h15 no texto, **~21h30** por Campodonico, "e o protocolo das radiocomunicacoes parece concordar" | divergencia declarada no cap. 16 |
+| *Viva Italia* como depoimento de Malone | a frase foi **atribuida** a Guli pela imprensa italiana | ressalva acrescentada |
+| "Ed. R. Garosci, 2010" | **R. Garosci (org.), De Agostini, Novara, 2010** | referencia corrigida |
+
+🔴 **E um erro meu, revertido:** eu havia trocado *Formosa* por *Formose* com base em *O Malho*.
+O navio e o **Formosa**, frances, da **Compagnie des Chargeurs Reunis**. O livro ja estava certo.
+
+### 38.3 A mortalidade por classe — o achado que mexe na tese
+
+Ineichen, citando **Campodonico (2014), p. 86**: sobre 1.255 pessoas a bordo,
+
+| | a bordo | mortos | % |
+|---|---:|---:|---:|
+| Tripulacao | 287 | 32 | **11%** |
+| 3a classe | 821 | 228 | **28%** |
+| 1a classe | 52 | 25 | **48%** |
+| 2a classe | 95 | 58 | **61%** |
+
+**A terceira classe foi a que menos morreu entre os passageiros.** E o contrario do Titanic.
+
+🔴 **Regra de leitura, fixada pelo autor em 12.09.2026:** *nao* apresentar isso como "a terceira
+classe prejudicou a segunda". Quem esta na terceira classe sabe que nao e prioridade; a
+prioridade de salvamento, quando existe, e das classes altas. A explicacao dos numeros **nao e
+moral, e estrutural**, e tem duas partes, as duas documentadas em Ineichen:
+
+1. **Onde cada um morava no casco.** O eixo partiu a bombordo, na popa; a agua entrou pela
+   popa; o navio afundou de popa. **A segunda classe morava na popa** — refeitorio e fumoir no
+   convés principal, cabines no convés 4. E as **duas baleeiras suplementares e as seis
+   jangadas** mais proximas deles estavam empilhadas sobre aquele refeitorio, **travadas por
+   ventiladores pesados**, ferrugem, tinta e sal.
+2. **Quem era cada um.** Terceira classe de navio de emigrante e gente jovem aprovada em
+   inspecao medica. Primeira e segunda e familia inteira, senhora de idade, menino de colegio.
+   E a noite **foi decidida na agua, nao nos botes** — os tempos que os proprios sobreviventes
+   contaram vao de uma hora e meia a oito horas boiando.
+
+Entrou no cap. 15, com o fecho: *a hierarquia de classe organizou aquela viagem inteira e nao
+organizou o naufragio.*
+
+### 38.4 Os tres dias, fechados por eliminacao
+
+- **Conte Verde**: saiu do Rio em **31.10.1927**, levando a tripulacao de volta a Italia.
+- **Duca degli Abruzzi**: saiu em **2.11.1927** para Santos, Montevideu e Buenos Aires
+  (Garosci 2010, p. 42). Ate 1924 fora comandado pelo proprio Guli.
+
+Rosa foi registrada no Bras em **31.10**. **Nenhum dos dois navios serviu**: elas foram por
+terra. Isso tambem explica o erro de *O Malho*, que falava numa partida "na segunda-feira" —
+segunda-feira era 31.10, dia do *Conte Verde*, que ia para a Italia com a tripulacao.
+
+### 38.5 Ernesto Lovato — a ultima vitima
+
+Relacao do *Alhena*, folha 3, **linha 36**: `Lovatto Ernesto, 24, solteiro, so`.
+Livro 100 do Bras, **registro 19274**: `Ernesto, 24, Irmao` — **dois registros acima de Rosa**,
+que e o 19276.
+
+Ineichen: na manha de **1o de maio de 1929**, trabalhando como guarda-noturno no Rio de
+Janeiro, ainda atormentado pelas imagens da tragedia, Ernesto Lovato **matou-se com um tiro na
+testa**, aos vinte e cinco anos. Os jornais titularam *L'ultima vittima di un naufragio*.
+Fontes: **Diario Nacional (Sao Paulo), 1.5.1929** — esta na Hemeroteca — e **La Sentinelle,
+7.5.1929**.
+
+Entrou no cap. 19.
+
+### 38.6 De Rosi Emilia, fechada
+
+*Alhena*, folha 2: `Strupalai Zitta, 43, so` / `Luchini Terera, 19, so` / `De Rosi Emilia, 55, so`.
+Bras, p. 290: `De Rossi Emilia, 53, So, Padova` / `Zita Strufaldi, 43, So`, na mesma sequencia.
+
+**A viuva que pediu para ser mandada de volta a Italia entrou em Sao Paulo tres dias depois.**
+A lacuna do cap. 19 foi fechada. ⚠️ **Luchini Teresa continua sem aparecer** na pagina 290.
+
+### 38.7 Pistas novas que este livro abriu
+
+1. **L'Europeo, reportagem de Giuseppe Trevisani em sete partes**, n. 533 a 539, de 1.1.1956
+   a 12.2.1956, com titulos: *Nate gemelle sotto cattiva stella* / *Annegavano nel mare calmo* /
+   *Il segno della croce e giu nella tomba d'acqua* / *Una barricata di materassi contro la
+   pressione dell'oceano* / *Riabbracciando la moglie un superstite le ruppe due costole* /
+   *La nave e in piedi* / *Guli*. Trevisani entrevistou dezenas de sobreviventes vinte e oito
+   anos depois. Ineichen diz que e a fonte mais importante e que publicacoes recentes a ignoram.
+   ⭐ **E a melhor pista aberta para a procedencia do corpus de vinte depoimentos.**
+2. **O relatorio do inquerito oficial**, parcialmente publicado em marco de 1928, comentado em
+   **Hansa, Deutsche Schiffahrtszeitschrift, ano 65, n. 9, 3.3.1928, p. 390**. Traz o detalhe
+   tecnico: anteparas com dobradicas enferrujadas, uma portinhola de **63 x 60 cm** que nao
+   fechou por defeito no ferrolho, **250 toneladas de agua em vinte minutos**.
+3. **Houve processo, e a companhia pagou para nao ser condenada.** Autos no **Archivio di stato
+   di Lucerna** — Bille, Bucherer e Grandjean contra a NGI, ate a Corte Suprema Federal suica
+   (1931). Ha tambem um "processo von Lucken" (L'Europeo n. 536-537).
+4. **Italian Liners Historical Society** — fotos, brochuras e **plantas dos conveses** do
+   Principessa Mafalda. Util para as cenas reconstruidas e para o site do centenario.
+5. **CEMLA** (`cemla.com/buscador`) — busca de passageiros desembarcados em Buenos Aires. Serve
+   para a familia Mattiogi, que ia para la.
+6. **A censura.** Os sobreviventes italianos **receberam ordem de nao criticar** o que houve a
+   bordo e de evitar qualquer observacao que prejudicasse a imagem da Italia. Isso muda a
+   leitura de todo depoimento italiano de 1927, e ainda nao foi incorporado ao livro.
+7. **Bruschi e a Marcia Reale.** A imprensa publicou que a orquestra tocou o hino enquanto o
+   navio afundava. Em 11.11.1927 a associacao dos musicos quis condecora-los. **Bruschi, o
+   segundo violino, recusou a medalha porque nao era verdade** — ele e o outro violinista ja
+   estavam a bordo do *Alhena* havia muito tempo. Responderam-lhe que as medalhas ja estavam
+   prontas, que ninguem saberia, que estava nos jornais e que punha a Italia sob boa luz. Ele
+   pensou nos cinco filhos do contrabaixista morto e aceitou. **Ainda nao incorporado.**
+
+### 38.8 A validacao do caminho da Hemeroteca
+
+Nas notas do cap. 13, Ineichen cita como fonte de Rosa Zambrino: **O Malho, 5.11.1927** — a
+mesma edicao lida aqui em 12.09.2026 — e **Il Pasquino Coloniale (Sao Paulo), 5.11.1927**,
+que e um dos tres jornais italianos que a varredura localizou e que ainda nao foi lido. A
+Biblioteca Nacional Digital esta na lista de arquivos online dele.
+
+⚠️ **Direitos.** Os fatos sao livres; a traducao italiana de Ineichen nao. O que for usado no
+livro deve vir da fonte primaria que ele cita, ou entrar como citacao curta e atribuida.

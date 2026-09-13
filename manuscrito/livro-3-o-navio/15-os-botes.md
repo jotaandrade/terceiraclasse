@@ -91,6 +91,40 @@ Então não arbitro. Ponho as três lado a lado e deixo à vista o que elas têm
 
 Um homem da primeira classe viu a terceira invadir os botes. Um homem da terceira viu a tripulação já dentro deles. As duas coisas provavelmente aconteceram, com meia hora de diferença, em pontos distintos de um convés no escuro.
 
+Há uma coisa, porém, que a aritmética diz e o testemunho não diz.
+
+A conta dos mortos, feita por classe.
+
+De cada cem pessoas da tripulação, morreram onze. De cada cem da terceira classe, vinte e oito. De cada cem da primeira, quarenta e oito. De cada cem da segunda, sessenta e um.
+
+**A terceira classe foi a que menos morreu entre os passageiros. A segunda foi a que mais morreu.**
+
+É o contrário do que a intuição manda esperar, e é o contrário do que tinha acontecido no Titanic quinze anos antes, onde a primeira classe se salvou e a terceira se afogou.
+
+Isso não prova nada sobre o comportamento de ninguém, e eu não vou usar como se provasse. Não diz que a terceira classe se atirou aos botes, nem que a segunda foi passada para trás. Diz outra coisa, e a explicação não tem nenhuma virtude dentro.
+
+A primeira parte da explicação é onde cada um morava dentro do casco.
+
+O eixo partiu a bombordo, na popa. A água entrou pela popa. O navio afundou de popa.
+
+E a segunda classe morava na popa. O refeitório e o fumoir ficavam ali, as cabines no convés de baixo. As duas baleeiras suplementares e as seis jangadas mais próximas daquela gente estavam empilhadas em cima do refeitório deles — e estavam presas. Travadas por ventiladores pesados que ninguém conseguiu arredar, e provavelmente também por ferrugem, tinta e sal.
+
+A segunda classe passou o jantar daquela viagem inteira sentada em cima do rombo, e o salvamento mais perto dela era o que não abria.
+
+A segunda parte é quem era cada um.
+
+Terceira classe de navio de emigrante, em 1927, é gente jovem. Tem que ser: a inspeção médica antes do embarque existe justamente para isso, e quem atravessa o Atlântico naquele porão atravessa porque tem corpo para trabalhar do outro lado. Primeira e segunda classe é família inteira, é senhora de idade, é menino de colégio, é vestido comprido.
+
+E aquela noite não foi decidida nos botes. Foi decidida na água.
+
+Os tempos que os próprios sobreviventes contaram estão no capítulo seguinte: uma hora e meia, duas, três, quatro, oito horas boiando no Atlântico. Quem aguenta oito horas ali tem vinte e poucos anos.
+
+**A hierarquia de classe organizou aquela viagem inteira e não organizou o naufrágio.**
+
+Ela decidiu quem comia bacalhau e quem comia frango, quem dormia em cabine e quem dormia em dormitório de homens, quem subia pela escada principal e quem entrava por uma portinhola no costado. Quando o navio começou a afundar, parou de decidir.
+
+O que passou a decidir foi a planta do casco e o que o corpo de cada um aguentava.
+
 Há uma coisa, porém, em que os três lados concordam.
 
 Parte da tripulação ficou.

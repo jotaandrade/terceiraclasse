@@ -50,7 +50,7 @@ scripts/              histórico das rodadas de correção e escrita
 | | |
 |---|---|
 | Capítulos | 27, em 4 livros + epílogo — I: 1-7 · II: 8-11 · III: 12-18 · IV: 19-27 |
-| **Escritos** | **27 de 27 capítulos, 37.640 palavras, 615 páginas** |
+| **Escritos** | **27 de 27 capítulos, 38.962 palavras, 622 páginas** |
 | Aparato | créditos, nota de método, fontes, créditos de imagem e índice onomástico — prontos |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |
@@ -201,6 +201,39 @@ funcionários, parentes distantes entram anônimos ou não entram.
 
 Quando duas versões se contradizem, procurar primeiro **o que elas têm em comum** — quase
 sempre existe, e quase sempre é mais forte do que a disputa.
+
+---
+
+## Ineichen entrou na pesquisa *(12.09.2026)*
+
+**INEICHEN, Stefan. *Il Principessa Mafalda*. Torino: Bollati Boringhieri, 2023.** É a obra de
+referência moderna sobre o navio, com aparato de notas e pesquisa de arquivo na Itália, na
+Suíça, na Alemanha e no Brasil. Chegou quando o livro já estava escrito. Conferência completa
+na seção 38 de `docs/02-pesquisa-documental.md`.
+
+**Aplicado:** a escala africana era **Mindelo, São Vicente** (desviaram de Dakar por causa do
+cólera) e foi de lá que **Gulì telegrafou a Gênova e recebeu ordem de prosseguir**; as duas
+versões sobre quem ultrapassou quem no cruzamento com o *Alhena*; a **divergência de horários
+do afundamento**, com a explicação do fuso; o *Viva Italia* como frase **atribuída** pela
+imprensa; a **mortalidade por classe**; os três dias entre a Ilha das Flores e o Brás, fechados
+por eliminação; **De Rosi Emilia** identificada no Brás; **Ernesto Lovato**; e a referência
+bibliográfica correta do Garosci (2010).
+
+🔴 **Regra fixada pelo autor sobre a mortalidade por classe.** A terceira classe foi a que menos
+morreu entre os passageiros (28%, contra 48% na primeira e 61% na segunda). **Isso não se
+apresenta como "a terceira classe prejudicou a segunda".** Quem viaja na terceira sabe que não
+é prioridade — a prioridade de salvamento, quando existe, é das classes altas. A explicação é
+**estrutural, não moral**: a segunda classe morava na popa, que foi por onde a água entrou e por
+onde o navio afundou, e as balsas mais próximas dela estavam travadas por ventiladores; e a
+noite foi decidida na água, não nos botes, o que favorece quem é jovem. Está assim no cap. 15.
+
+**Não incorporado ainda:** a ordem dada aos sobreviventes italianos de **não criticar** o que
+houve a bordo (muda a leitura de todo depoimento italiano de 1927); e a cena de **Bruschi
+recusando a medalha da Marcia Reale** porque a orquestra não tocou o hino.
+
+**Pista maior que este livro abriu:** «L'Europeo», reportagem de **Giuseppe Trevisani** em sete
+partes, n. 533 a 539, de 1º de janeiro a 12 de fevereiro de 1956 — dezenas de entrevistas com
+sobreviventes. É a melhor pista para a procedência do corpus de vinte depoimentos.
 
 ---
 
