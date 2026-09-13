@@ -3,11 +3,36 @@
 Trinta e três imagens colocadas pelo autor em `D:\italiaminha\Familia Miotto\Fotos Jornal`,
 conferidas uma a uma em **13.09.2026**. Total 40,5 MB.
 
-🔴 **PROCEDÊNCIA NÃO INFORMADA.** Nenhuma das trinta e três veio com fonte. A regra deste
-projeto é dura nesse ponto — *nunca inventar um acervo para preencher um crédito* — e a página
-de créditos do livro tem cláusula de diligência que só se sustenta se cada peça for declarada
-como o que é. **Antes de qualquer uma entrar no miolo, é preciso dizer de onde veio.** Onde há
-pista, ela está anotada abaixo.
+## Procedência *(informada pelo autor em 13.09.2026)*
+
+**As imagens vieram do acervo do Museu da Imigração do Estado de São Paulo.**
+
+Isso resolve o conjunto da Hospedaria do Brás, que é o mais importante da remessa, e confirma a
+pista que estava escrita na própria chapa: a numeração *H.134* e *H.135 G.8* é catálogo de
+acervo, e bate.
+
+🔴 **Mas não pode valer para as trinta e três em bloco**, e a razão é a regra do próprio
+projeto: *nunca inventar um acervo para preencher um crédito*. Sete peças têm origem
+evidentemente diversa, pelo que está impresso nelas:
+
+| Arquivo | O que está impresso na peça | Acervo provável |
+|---|---|---|
+| `PrincMafalda19` | **Heraldo de Madrid**, 26.10.1927 | Biblioteca Nacional de España |
+| `Princmafalda11` | **O Paiz** (Rio), 28.10.1927 | Hemeroteca Digital / BN |
+| `PRINCIPESSA MAFALDA 07` | o diagrama d'**O Malho**, 5.11.1927 | Hemeroteca Digital / BN |
+| `mafsink2` | recorte de jornal **em polonês** | — |
+| `PRINCIPESSA MAFALDA deckplans1` | planta técnica, nome de arquivo em inglês | Italian Liners Historical Society |
+| `The Main Stairwell` · `The First Class Dining Saloon` · `A happy company of actors…` | legendas em inglês | sítio de linhas italianas |
+
+Nenhuma delas **deixa** de poder estar no acervo do Museu — um museu de imigração guarda
+recortes de jornal estrangeiro e plantas de navio. Mas o crédito de um jornal espanhol de 1927
+não é *"Museu da Imigração"*: é *Heraldo de Madrid*, com data, e o acervo onde foi consultado.
+**São duas informações, e o livro precisa das duas.**
+
+⚠️ **E falta uma terceira coisa: autorização de uso.** O acervo do Museu é público para consulta;
+reproduzir em livro impresso é outro ato, e normalmente depende de pedido formal. O projeto já
+tem a cláusula de diligência na página de créditos, mas aqui não se trata de peça órfã — o
+detentor é conhecido e localizável. **Vale escrever ao Museu antes da diagramação.**
 
 ---
 
@@ -151,7 +176,10 @@ independente, publicada em Madrid no dia seguinte ao naufrágio.
 
 ## 8. Pendências que esta remessa abre
 
-1. 🔴 **Procedência das trinta e três.** Sem ela nenhuma entra no miolo.
+1. ✅ **Procedência informada:** acervo do **Museu da Imigração do Estado de São Paulo**.
+   🔴 Falta **a autorização de uso para impressão** — o detentor é conhecido, então a cláusula
+   de diligência não cobre. E falta **creditar separadamente as sete peças de origem
+   evidentemente diversa** (jornais espanhol, carioca e polonês; plantas do navio).
 2. **A planta dos conveses em resolução de impressão** — a que há tem 1600×907.
 3. **O *Heraldo de Madrid* está digitalizado e livre** na Hemeroteca Digital da Biblioteca
    Nacional de España, **sem CAPTCHA**. A edição de 26.10.1927 e as seguintes podem ser lidas
