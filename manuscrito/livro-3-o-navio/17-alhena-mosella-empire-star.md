@@ -125,6 +125,6 @@ Entre o estrondo das cinco e quinze do dia 25 e a assinatura do intérprete no d
 
 E então, de repente, sete nomes, sete idades, uma profissão, uma coluna de instrução e um destino.
 
-**Forner Rosa, vinte e quatro anos, chefe. Enrico, um ano, filho.**
+**Forner Rosa, vinte e quatro anos, *mãi*. Enrico, um ano, filho.**
 
 Vivos.

@@ -113,7 +113,7 @@ Vincenzo Forner e Santa Pandolfo, mortos havia mais de um século, apresentaram 
 
 Depois disso a gente conversou muito, e continua conversando.
 
-Unificamos as raízes, juntamos o que cada um tinha, e boa parte do que este livro conta veio dessas conversas. O navio de carvão veio daí. A hospedaria veio daí. Os dois homens que passaram os olhos por elas e não as reconheceram vieram daí.
+Unificamos as raízes, juntamos o que cada um tinha, e boa parte do que este livro conta veio dessas conversas. O navio de carvão veio daí. A hospedaria veio daí. Os dois homens que passou os olhos por ela e não a reconheceu veio daí.
 
 E de outra prima, de outro ramo desta mesma família, veio o resto: o cozinheiro que desceu ao porão e a menina que achou o pai no meio da multidão.
 

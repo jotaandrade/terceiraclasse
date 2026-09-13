@@ -67,12 +67,14 @@ O navio estava no fundo do mar havia seis dias. Trezentas e catorze pessoas tinh
 
 Não é frieza. É o procedimento fazendo a única coisa que sabe fazer. Mas o efeito, lido cem anos depois, é que aquela página registra sete pessoas chegando a São Paulo num navio que já não existia.
 
-Família número 19270:
+A numeração daquele livro não é da família. É de cada pessoa, uma por linha, na ordem em que foram entrando.
+
+Registro 19276:
 
 **FORNER ROSA, 24 anos, Castelcucco.** 
- **ENRICO, 1 ano.**
+ **ENRICO, 1 ano** — registro 19277.
 
-Família número 19260:
+Registros 19265 a 19269:
 
 **FORNER MARIA, 31 anos, Cavaso del Tomba.** 
  Gina, 7. Pulcheria, 6. Rino, 4. Danilo, 2.
@@ -85,11 +87,19 @@ Não é erro do escrivão. No registro civil italiano a mulher não troca de sob
 
 As duas se apresentaram como as duas irmãs Forner que eram, e o funcionário escreveu o que ouviu.
 
-E as duas entram como **CHEFE**.
+E as duas encabeçam os próprios grupos.
 
-Não é leitura minha. Está escrito na coluna de parentesco da lista do *Alhena*, no Rio, em 28 de outubro. E o registro do Brás, três dias depois, em outra cidade e em outro órgão, faz o mesmo.
+No Rio, em 28 de outubro, o escrivão do *Alhena* preencheu a coluna de parentesco das duas com a palavra *mãi*. Abaixo de Rosa vem Enrico, um ano, filho. Abaixo de Maria vêm quatro crianças. O sobrenome se escreve uma vez, na linha de cima, e desce para as de baixo.
 
-Duas mulheres casadas, com os maridos vivos e esperando no interior de São Paulo, registradas como chefes das próprias famílias em dois documentos independentes do Estado brasileiro.
+Não dá para forçar essa palavra. Na mesma folha o escrivão escreveu *mãi* também na linha de Lovatto Cornelio, que era homem e viajava com a mulher e dois filhos, e nas outras linhas alternou entre *chefe*, *pai* e *mãi* sem critério nenhum. Ele estava preenchendo depressa a linha de quem vinha na frente de cada grupo.
+
+Três dias depois, em São Paulo, outro funcionário, de outro órgão, teve de preencher a mesma coluna.
+
+E escreveu **CHEFE**.
+
+*Forner Rosa, 24, chefe, Castelcuco.* E, algumas linhas acima, *Forner Maria, 31, chefe, Cavazzo.* Livro 100, página 290.
+
+Duas mulheres casadas, com os maridos vivos e esperando no interior de São Paulo, registradas como chefes das próprias famílias num livro do Estado brasileiro.
 
 Chefe, ali, não é uma opinião sobre o casamento delas.
 
@@ -131,7 +141,7 @@ Na digitalização que eu tenho, não consigo dizer se é ela. Se for, quer dize
 
 Em 25 de outubro, aquelas sete pessoas foram notícia no mundo inteiro. O naufrágio do *Principessa Mafalda* saiu em jornal de Buenos Aires, de Roma, de Londres e de Nova York. Sobrevivente de terceira classe deu entrevista no cais.
 
-Em 31 de outubro, seis dias depois, elas viraram **família 19270 e família 19260**.
+Em 31 de outubro, seis dias depois, cada uma delas virou **um número numa coluna**: de 19265 a 19269, e 19276 e 19277.
 
 E era exatamente isso que elas tinham vindo fazer.
 

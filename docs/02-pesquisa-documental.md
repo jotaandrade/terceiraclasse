@@ -2615,3 +2615,120 @@ aparecem nos dois — o adernamento na vespera, os apitos do dia 24, os botes po
 escaleres sem remo nem leme, o comandante que ficou — deixam de depender de qualquer um deles.
 
 A pendencia de procedencia continua aberta. O que ela bloqueia diminuiu.
+
+---
+
+## 37. Revisao documental externa, e o que a conferencia mostrou — 12.09.2026
+
+Um parecer externo de revisao documental apontou treze pontos. Cada ponto verificavel foi
+conferido **contra o documento**, e nao contra o parecer. O resultado abaixo e o da
+conferencia.
+
+### 37.1 A palavra da coluna de parentesco — o erro mais grave
+
+O livro afirmava, em dois lugares, que Rosa e Maria Luigia entram como **CHEFE** na relacao
+do vapor *Alhena*, e o cap. 19 dizia com todas as letras *"Nao e leitura minha. Esta escrito
+na coluna de parentesco"*. **Nao esta.**
+
+Ampliacao celula a celula da folha 3 (`documentos/Alhena_28-10-1927_folha3…png`):
+
+| Linha | Pessoa | Coluna de parentesco |
+|---|---|---|
+| 26 | Forner Rosa, 24, casada | **Mai** |
+| 27 | Enrico, 1 | filho |
+| 28 | Pettina Ottavio, 25, casado | **Chefe** (rasurado e reescrito) |
+| 32 | Lovatto Cornelio, 26, casado | **Mai** |
+| 37 | Mazzasete Giovanni, 48, casado | **Pai** |
+| 40 | Panarotto Sylvino, 32, casado | **Chefe** |
+| 44 | Forner Maria, 31, casada | **Mai** |
+
+A palavra *Chefe* existe naquela folha, com grafia inconfundivel — mas em outras linhas.
+🔴 **A folha esta reproduzida dentro do proprio livro, no cap. 17.** Qualquer leitor confere.
+
+**E a leitura "mae" tambem nao se sustenta como designacao.** Na linha 32, *Mai* esta na linha
+de **Lovatto Cornelio**, homem casado que viajava com a mulher (linha 33, *Esposa*) e dois
+filhos. O escrivao alternava entre *chefe*, *pai* e *mai* sem criterio, preenchendo depressa a
+linha de quem encabecava cada grupo. O mesmo Cornelio, tres dias depois, esta no Bras como
+**Chefe**, e a mulher dele como *Mulher*.
+
+### 37.2 Mas no Bras esta escrito Chefe — conferido
+
+O parecer externo nao pode validar o Bras ("a tentativa de abrir a reproducao nao forneceu
+acesso"). O PDF esta no acervo, em `D:/italiaminha/L100_290.pdf`. Aberto e ampliado:
+
+> **Forner Rosa 24 → Chefe Castelcuco** · Eurico 1 → Filho
+> **Forner Maria 31 → Chefe Cavazzo** · Ginita 7 → Filho · Pulcheria 6 · Rino 4 · Danilo 2
+
+✅ **A designacao de chefia e verdadeira, e vem do Livro 100.** O que caiu foi a atribuicao ao
+*Alhena* e a formula "dois documentos independentes": e um documento.
+
+O capitulo 19 foi reescrito para mostrar a mudanca de palavra entre os dois registros, que e
+mais interessante do que a repeticao que se supunha.
+
+### 37.3 A numeracao do Livro 100 nao e de familia — achado desta conferencia
+
+O livro dizia "familia numero 19270" (Rosa) e "familia numero 19260" (Maria). **As duas coisas
+estao erradas**, e o erro nao estava no parecer externo: e da conferencia.
+
+A numeracao daquela pagina e **sequencial por pessoa**. Onde o numero cheio aparece, ele ancora
+a contagem; entre um e outro vao 1 a 9. Conferido nas duas pontas:
+
+```
+5 Panarotte Innocente 26      3 De Rossi Emilia 53
+6 Forner Rosa         24      4 Zita Strufaldi  43
+7     Eurico           1      5 Forner Maria    31
+8 Puldeghinio Oreste  31      6 Ginita           7
+9 Da Feria Cosmo      18      7 Pulcheria        6
+19.280 Beck Josef     53      8 Rino             4
+                              9 Danilo           2
+                              19270 Lovato Cornelio 26
+```
+
+Logo: **Rosa = 19276, Enrico = 19277; Maria = 19265, e as quatro criancas 19266 a 19269.**
+
+### 37.4 De Rosi Emilia foi para Sao Paulo
+
+O cap. 19 declara a lacuna: *"Na lista do Alhena, a passageira numero 25 e De Rosi Emilia,
+cinquenta e cinco anos, que perdeu o marido no naufragio e pediu para ser mandada de volta a
+Italia. Na pagina do Bras ha um De Rossi."*
+
+Conferido nos dois documentos:
+
+- *Alhena*, folha 2, fim: `Strupalai Zitta, 43, C, so` · `Luchini Terera, 19, C, so` ·
+  `De Rosi Emilia, 55, C, so` — as passageiras 23, 24 e 25.
+- Bras, pagina 290: `De Rossi Emilia, 53, So, Padova` · `Zita Strufaldi, 43, So` — nas linhas
+  19263 e 19264, uma ao lado da outra, como no *Alhena*.
+
+Prenome, condicao de sozinha e a vizinha de linha conferem; a idade oscila dois anos, o que
+naquele acervo e rotina. ⭐ **A mulher que pediu para ser mandada de volta a Italia entrou em
+Sao Paulo tres dias depois.**
+
+⚠️ **Luchini Teresa, 19 anos, a outra viuva, nao aparece na pagina 290.** Isso diz que ela nao
+esta naquela pagina, e nada mais — a mesma disciplina que o parecer cobra em D03 vale aqui.
+Verificar as paginas seguintes do Livro 100 antes de escrever qualquer coisa.
+
+### 37.5 Os demais pontos conferidos
+
+| Ponto | Veredito | Evidencia |
+|---|---|---|
+| "cinquenta nomes **datilografados**" (cap. 18) | procede | tudo manuscrito em cursiva |
+| "Sete ficaram no Rio" (cap. 19) | procede | 50 − 43 nao estabelece destino — **Bloco B** |
+| selo "de vinte e cinco centavos" (cap. 6) | procede | o selo diz *DIRITTI DI SEGRETERIA · CENT 25 · Comune di Asolo* |
+| Monte Grappa (cap. 6) | procede | contradicao interna com a lacuna declarada no mesmo capitulo — **Bloco B** |
+| tipo do documento de Enrico (cap. 22) | procede | **DECLARACAO DE OBITO nº 5501831**, Min. da Saude, 2ª via; registro 37.834 fls. 60, registrado em 08.10.98, obito em 06.10.98 |
+| a neoplasia omitida (cap. 22) | procede | o texto dizia "morreu de cancer" e listava as causas **sem** a neoplasia de orofaringe |
+| "Angelo **e Fausto**… por **elas**" (caps. 20, 25, 26) | procede | a transcricao diz *"o meu bisavo… **ele** nao reconheceu… nao sei se foi a minha avo mesmo que estava na frente"* — um homem, uma mulher, e a fonte em duvida |
+| "Rosa nao estava gravida. Nao ha como estar" (cap. 26) | procede em parte | a data de Erminda exclui **aquela** gravidez, nao qualquer uma — **Bloco B** |
+| "E a **prova** de que ali nao houve documento nenhum" (cap. 10) | procede | inferencia apresentada como prova, e o capitulo e o do embarque em Genova — **Bloco B** |
+| "nada alem do que eles dizem" (cap. 22) | procede | a promessa e quebrada pelo proprio capitulo |
+
+### 37.6 Onde o parecer externo erra
+
+1. **A redacao que ele propoe para o D01** — *"Rosa e Maria aparecem como maes"* — introduz erro
+   novo, pelo caso do Lovatto Cornelio.
+2. **D13, segunda parte.** Mandar retirar a leitura de que a memoria escorregou para a imagem
+   mais forte confunde generos: e interpretacao declarada do autor, num livro em primeira
+   pessoa, nao conclusao documental. O que vale mexer e o *sempre*.
+3. **Metodo.** O proprio parecer avisa que as leituras visuais "sao herdadas da primeira
+   conferencia" e que ele "nao afirma te-las repetido integralmente". Parecer assim e pista a
+   verificar, nao laudo — e foi como foi tratado.

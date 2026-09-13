@@ -68,7 +68,7 @@ CAPS = {
   (19,'31 de outubro','Hospedaria do Brás. Livro 100, página 290.'),
   (20,'O reencontro','Fausto e Angelo recebem as mulheres e as crianças.'),
   (21,'Terra vermelha','Grama, o café, e a palavra que decidiu tudo: espontâneos.'),
-  (22,'Enrico','1926 a 1998. Cinco documentos, e nada além do que eles dizem.'),
+  (22,'Enrico','1926 a 1998. Cinco documentos, e a lembrança de quem o conheceu.'),
   (23,'1937','A menina recebe o nome do navio, e a objeção que essa frase precisa aguentar.'),
   (24,'Virar brasileiro','A língua que some em duas gerações, e os sobrenomes que saem da linha em três.'),
   (25,'Os que ficaram, cem anos depois','O ramo do Sante. Ficar não produz documento — e o site que reencontrou a família.'),
@@ -1590,7 +1590,7 @@ uma linha sequer sobre elas em documento nenhum. Três dias inteiros de nada.
 E então, de repente, sete nomes, sete idades, uma profissão, uma coluna de instrução e um
 destino.
 
-<strong>Forner Rosa, vinte e quatro anos, chefe. Enrico, um ano, filho.</strong>
+<strong>Forner Rosa, vinte e quatro anos, <em>mãi</em>. Enrico, um ano, filho.</strong>
 
 Vivos.""",
 ]
@@ -1599,7 +1599,7 @@ CAP25 = [
 """Eu não tenho os nomes deles.
 
 Tenho vinte depoimentos de sobreviventes, com nome, idade, classe, cidade de origem e a
-profissão de alguns. Tenho cinquenta nomes datilografados na lista do <em>Alhena</em>, com
+profissão de alguns. Tenho cinquenta nomes escritos à mão na lista do <em>Alhena</em>, com
 idade e grau de parentesco. Tenho uma família inteira reconstruída em cartório, geração por
 geração, até 1861.
 
@@ -1839,12 +1839,15 @@ Não é frieza. É o procedimento fazendo a única coisa que sabe fazer. Mas o e
 anos depois, é que aquela página registra sete pessoas chegando a São Paulo num navio que já
 não existia.""",
 
-"""Família número 19270:
+"""A numeração daquele livro não é da família. É de cada pessoa, uma por linha, na ordem
+em que foram entrando.
+
+Registro 19276:
 
 <strong>FORNER ROSA, 24 anos, Castelcucco.</strong><br>
-<strong>ENRICO, 1 ano.</strong>
+<strong>ENRICO, 1 ano</strong> — registro 19277.
 
-Família número 19260:
+Registros 19265 a 19269:
 
 <strong>FORNER MARIA, 31 anos, Cavaso del Tomba.</strong><br>
 Gina, 7. Pulcheria, 6. Rino, 4. Danilo, 2.""",
@@ -1859,14 +1862,27 @@ continua sendo quem nasceu, em todos os papéis, a vida inteira.
 As duas se apresentaram como as duas irmãs Forner que eram, e o funcionário escreveu o que
 ouviu.""",
 
-"""E as duas entram como <strong>CHEFE</strong>.
+"""E as duas encabeçam os próprios grupos.
 
-Não é leitura minha. Está escrito na coluna de parentesco da lista do <em>Alhena</em>, no Rio,
-em 28 de outubro. E o registro do Brás, três dias depois, em outra cidade e em outro órgão,
-faz o mesmo.
+No Rio, em 28 de outubro, o escrivão do <em>Alhena</em> preencheu a coluna de parentesco das
+duas com a palavra <em>mãi</em>. Abaixo de Rosa vem Enrico, um ano, filho. Abaixo de Maria vêm
+quatro crianças. O sobrenome se escreve uma vez, na linha de cima, e desce para as de baixo.
+
+Não dá para forçar essa palavra. Na mesma folha o escrivão escreveu <em>mãi</em> também na
+linha de Lovatto Cornelio, que era homem e viajava com a mulher e dois filhos, e nas outras
+linhas alternou entre <em>chefe</em>, <em>pai</em> e <em>mãi</em> sem critério nenhum. Ele
+estava preenchendo depressa a linha de quem vinha na frente de cada grupo.""",
+
+"""Três dias depois, em São Paulo, outro funcionário, de outro órgão, teve de preencher a
+mesma coluna.
+
+E escreveu <strong>CHEFE</strong>.
+
+<em>Forner Rosa, 24, chefe, Castelcuco.</em> E, algumas linhas acima, <em>Forner Maria, 31,
+chefe, Cavazzo.</em> Livro 100, página 290.
 
 Duas mulheres casadas, com os maridos vivos e esperando no interior de São Paulo, registradas
-como chefes das próprias famílias em dois documentos independentes do Estado brasileiro.""",
+como chefes das próprias famílias num livro do Estado brasileiro.""",
 
 """Chefe, ali, não é uma opinião sobre o casamento delas.
 
@@ -1922,8 +1938,8 @@ Em 25 de outubro, aquelas sete pessoas foram notícia no mundo inteiro. O naufr�
 <em>Principessa Mafalda</em> saiu em jornal de Buenos Aires, de Roma, de Londres e de Nova
 York. Sobrevivente de terceira classe deu entrevista no cais.
 
-Em 31 de outubro, seis dias depois, elas viraram <strong>família 19270 e família
-19260</strong>.""",
+Em 31 de outubro, seis dias depois, cada uma delas virou <strong>um número numa
+coluna</strong>: de 19265 a 19269, e 19276 e 19277.""",
 
 """E era exatamente isso que elas tinham vindo fazer.
 
@@ -2005,14 +2021,17 @@ horas, ou dias, dentro dele.
 Não havia como se lavar. Não havia roupa para trocar, porque a roupa tinha afundado junto com
 todo o resto.""",
 
-"""<strong>Angelo e Fausto passaram os olhos por elas e não as reconheceram.</strong>
+"""<strong>Angelo passou os olhos por ela e não a reconheceu.</strong>
 
-Essa é a frase que atravessou cem anos, e ela vem inteira na voz da Patrícia repetindo o
-avô: <em>ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma
+Essa é a frase que atravessou cem anos, e ela vem na voz da Patrícia repetindo o avô:
+<em>ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma
 história, sim.</em>
 
-Não é que estivessem distraídos. Estavam procurando a cara da mulher deles no meio de uma
-multidão, e a cara da mulher deles estava preta.""",
+Quem estava parada na frente dele, a Patrícia não afirma: <em>não sei se foi a minha avó mesmo
+que estava na frente.</em> Deixo a dúvida onde ela a deixou.
+
+Não é que estivesse distraído. Estava procurando a cara da mulher dele no meio de uma
+multidão, e a cara da mulher dele estava preta.""",
 
 """<strong>Quem achou foi uma das meninas.</strong>
 
@@ -2212,7 +2231,7 @@ CAP29 = [
 Morreu em 6 de outubro de 1998, no Conjunto Hospitalar de Sorocaba.
 
 Entre uma data e a outra há setenta e um anos e cinco documentos. Este capítulo é feito com
-eles, e não vai ter aqui nada que eles não digam.""",
+eles e com a lembrança de quem o conheceu, e diz de qual das duas coisas vem cada linha.""",
 
 """Ele tinha um ano e quinze dias quando o navio afundou.
 
@@ -2221,8 +2240,8 @@ não se lembrou de nada.
 
 É o passageiro deste livro que menos participou da própria história.""",
 
-"""Em 31 de outubro de 1927 ele entrou na Hospedaria do Brás como segunda linha da família
-19270.
+"""Em 31 de outubro de 1927 ele entrou na Hospedaria do Brás como o registro 19277, na linha
+logo abaixo da mãe.
 
 ENRICO, 1 ano.
 
@@ -2271,13 +2290,16 @@ Era pedreiro em São Paulo na década de 1950, que é quando São Paulo cresceu 
 
 Solteiro em 1998, aos setenta e um.
 
-Nunca se casou e não teve filhos. Os dois documentos que eu tenho, separados por quase
-cinquenta anos, dizem a mesma coisa nessa linha.""",
+Nunca se casou e não teve filhos.
+
+Os dois documentos, separados por quase cinquenta anos, registram o estado civil e param aí:
+solteiro, e solteiro. Que não houve filho nenhum em nenhum dos dois intervalos é o que sabe
+quem conviveu com ele.""",
 
 """Morreu de câncer.
 
-A certidão registra insuficiência respiratória como causa direta, e desnutrição. Declaração de
-Óbito nº 5501831.
+A Declaração de Óbito nº 5501831 traz, na linha da causa direta, insuficiência respiratória, e
+logo abaixo dela a neoplasia de orofaringe. Num campo separado, desnutrição.
 
 Setenta e um anos, aposentado, morador da Rua Cervantes, 607, Vila Assis, Sorocaba.""",
 
@@ -2690,7 +2712,7 @@ dois bisnetos que não sabiam da existência um do outro.""",
 
 Unificamos as raízes, juntamos o que cada um tinha, e boa parte do que este livro conta veio
 dessas conversas. O navio de carvão veio daí. A hospedaria veio daí. Os dois homens que
-passaram os olhos por elas e não as reconheceram vieram daí.
+passou os olhos por ela e não a reconheceu veio daí.
 
 E de outra prima, de outro ramo desta mesma família, veio o resto: o cozinheiro que desceu ao
 porão e a menina que achou o pai no meio da multidão.
@@ -3098,7 +3120,7 @@ colo é uma imagem mais forte do que uma mulher com um bebê de colo. <strong>A 
 sempre na direção da imagem que se sustenta melhor.</strong>
 
 E o resto do que ele contou está de pé. Que a terceira classe não tinha preferência. Que elas
-chegaram pretas de carvão. Que os maridos passaram os olhos por elas e não as reconheceram.
+chegaram pretas de carvão. Que Angelo passou os olhos por ela e não a reconheceu.
 
 Uma testemunha que erra num detalhe não é uma testemunha ruim. É uma testemunha.""",
 
@@ -5011,8 +5033,8 @@ vezes, e ele não foi exceção.""",
 """E existe um segundo objeto, guardado na mesma pasta.
 
 Em 8 de março de 1940 o Comune di Asolo emitiu a <em>carta d’identità</em> de Sante
-Forner. Ela está no acervo desta família, gasta nas dobras, com uma marca de vinte e cinco
-centavos colada no canto de baixo.
+Forner. Ela está no acervo desta família, gasta nas dobras, com um selo de direitos de
+secretaria do Comune di Asolo, de vinte e cinco centesimi, colado no canto de baixo.
 
 E tem a fotografia dele.
 
@@ -5576,8 +5598,9 @@ FONTES = {
     u"<em>Não existe relação nominal dos trezentos e catorze mortos. O próprio número varia "
     u"entre as fontes.</em>"],
 19:[u"Museu da Imigração do Estado de São Paulo: Livro de Registro de Matrícula nº 100 da "
-    u"Hospedaria de Imigrantes do Brás, página 290, 31 de outubro de 1927. Famílias 19270 e "
-    u"19260.",
+    u"Hospedaria de Imigrantes do Brás, página 290, 31 de outubro de 1927. Registros 19265 a "
+    u"19269 (Forner Maria e as quatro crianças) e 19276 e 19277 (Forner Rosa e Enrico). A "
+    u"numeração do livro é por pessoa, não por família.",
     u"Procedimento interno da Hospedaria — banho, desinfecção, estufa, inspeção médica, "
     u"registro. <strong>A cena é reconstrução declarada no próprio capítulo.</strong>"],
 20:[u"Tradição oral, ramo Betti: João Betti (1920–2008), marido de Pulcheria, transmitida por "
@@ -5863,7 +5886,7 @@ IMG_BY_CAP = {
  12: [('cartaz_lloyd_italiano','Cartaz do <strong>Lloyd Italiano</strong> anunciando o <em>Principessa Mafalda</em>: <em>servizio speciale extra-rapido dall’Europa al Plata</em>, saída de Gênova, escalas em Barcelona e Las Palmas, chegada a Buenos Aires. <strong>Navigazione effettiva 14 giorni.</strong> Traz impressa a lista de passageiros da travessia.','montada'),
       ('princess_mafalda_of_savoy','Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.','oval')],
  13: [('mafalda_barcelona','<em>Barcelona. 128 — Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.</em> Cartão-postal de época, com a legenda repetida embaixo <strong>em esperanto</strong>: <em>Haveno. Mara stacidomo.</em> Barcelona era a primeira escala do navio, e foi onde a última viagem parou um dia por avaria.','montada')],
- 17: [('passageiros_agnoli','A família Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>: Danilo 2, Dinetta 7, Dino 4, Maria de 31 e Pulcheria 6, todos em terceira classe.','montada')],
+ 17: [('passageiros_agnoli','A família Dei Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>, com os nomes como o escrivão os escreveu: Forner Maria de 31, Ginneta de 7, Pulgheria de 6, Rino de 4 e Danilo de 2, todos em terceira classe.','montada')],
  19: [('rosa_forner','<strong>Rosa Forner Miotto</strong>, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos, com o filho de um ano no colo. <em>Restauração feita pelo autor: o original está muito danificado.</em>','oval'),
       ('rosa_forner_documento','A cédula de identidade dela, emitida no Brasil décadas depois.','montada')],
  20: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.','oval'),

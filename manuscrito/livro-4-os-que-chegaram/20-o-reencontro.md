@@ -57,11 +57,13 @@ O navio que as recolheu, depois do bote dos cozinheiros, carregava carvão. Elas
 
 Não havia como se lavar. Não havia roupa para trocar, porque a roupa tinha afundado junto com todo o resto.
 
-**Angelo e Fausto passaram os olhos por elas e não as reconheceram.**
+**Angelo passou os olhos por ela e não a reconheceu.**
 
-Essa é a frase que atravessou cem anos, e ela vem inteira na voz da Patrícia repetindo o avô: *ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma história, sim.*
+Essa é a frase que atravessou cem anos, e ela vem na voz da Patrícia repetindo o avô: *ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma história, sim.*
 
-Não é que estivessem distraídos. Estavam procurando a cara da mulher deles no meio de uma multidão, e a cara da mulher deles estava preta.
+Quem estava parada na frente dele, a Patrícia não afirma: *não sei se foi a minha avó mesmo que estava na frente.* Deixo a dúvida onde ela a deixou.
+
+Não é que estivesse distraído. Estava procurando a cara da mulher dele no meio de uma multidão, e a cara da mulher dele estava preta.
 
 **Quem achou foi uma das meninas.**
 

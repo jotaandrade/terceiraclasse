@@ -1201,7 +1201,7 @@ Nunca emigrou. Nunca viu o Brasil. Ninguém naquela condição atravessava o Atl
 
 E existe um segundo objeto, guardado na mesma pasta.
 
-Em 8 de março de 1940 o Comune di Asolo emitiu a *carta d’identità* de Sante Forner. Ela está no acervo desta família, gasta nas dobras, com uma marca de vinte e cinco centavos colada no canto de baixo.
+Em 8 de março de 1940 o Comune di Asolo emitiu a *carta d’identità* de Sante Forner. Ela está no acervo desta família, gasta nas dobras, com um selo de direitos de secretaria do Comune di Asolo, de vinte e cinco centesimi, colado no canto de baixo.
 
 E tem a fotografia dele.
 
@@ -2937,13 +2937,13 @@ Entre o estrondo das cinco e quinze do dia 25 e a assinatura do intérprete no d
 
 E então, de repente, sete nomes, sete idades, uma profissão, uma coluna de instrução e um destino.
 
-**Forner Rosa, vinte e quatro anos, chefe. Enrico, um ano, filho.**
+**Forner Rosa, vinte e quatro anos, *mãi*. Enrico, um ano, filho.**
 
 Vivos.
 
-![A família Agnoli na relação dos náufragos recolhidos pelo Alhena: Danilo 2, Dinetta 7,…](livro/img/passageiros_agnoli.webp)
+![A família Dei Agnoli na relação dos náufragos recolhidos pelo Alhena, com os nomes como o…](livro/img/passageiros_agnoli.webp)
 
-*A família Agnoli na relação dos náufragos recolhidos pelo *Alhena*: Danilo 2, Dinetta 7, Dino 4, Maria de 31 e Pulcheria 6, todos em terceira classe.*
+*A família Dei Agnoli na relação dos náufragos recolhidos pelo *Alhena*, com os nomes como o escrivão os escreveu: Forner Maria de 31, Ginneta de 7, Pulgheria de 6, Rino de 4 e Danilo de 2, todos em terceira classe.*
 
 ## 18. Os 314
 
@@ -2951,7 +2951,7 @@ Vivos.
 
 Eu não tenho os nomes deles.
 
-Tenho vinte depoimentos de sobreviventes, com nome, idade, classe, cidade de origem e a profissão de alguns. Tenho cinquenta nomes datilografados na lista do *Alhena*, com idade e grau de parentesco. Tenho uma família inteira reconstruída em cartório, geração por geração, até 1861.
+Tenho vinte depoimentos de sobreviventes, com nome, idade, classe, cidade de origem e a profissão de alguns. Tenho cinquenta nomes escritos à mão na lista do *Alhena*, com idade e grau de parentesco. Tenho uma família inteira reconstruída em cartório, geração por geração, até 1861.
 
 **Dos trezentos e catorze, não tenho lista nenhuma.**
 
@@ -3133,12 +3133,14 @@ O navio estava no fundo do mar havia seis dias. Trezentas e catorze pessoas tinh
 
 Não é frieza. É o procedimento fazendo a única coisa que sabe fazer. Mas o efeito, lido cem anos depois, é que aquela página registra sete pessoas chegando a São Paulo num navio que já não existia.
 
-Família número 19270:
+A numeração daquele livro não é da família. É de cada pessoa, uma por linha, na ordem em que foram entrando.
+
+Registro 19276:
 
 **FORNER ROSA, 24 anos, Castelcucco.** 
- **ENRICO, 1 ano.**
+ **ENRICO, 1 ano** — registro 19277.
 
-Família número 19260:
+Registros 19265 a 19269:
 
 **FORNER MARIA, 31 anos, Cavaso del Tomba.** 
  Gina, 7. Pulcheria, 6. Rino, 4. Danilo, 2.
@@ -3151,11 +3153,19 @@ Não é erro do escrivão. No registro civil italiano a mulher não troca de sob
 
 As duas se apresentaram como as duas irmãs Forner que eram, e o funcionário escreveu o que ouviu.
 
-E as duas entram como **CHEFE**.
+E as duas encabeçam os próprios grupos.
 
-Não é leitura minha. Está escrito na coluna de parentesco da lista do *Alhena*, no Rio, em 28 de outubro. E o registro do Brás, três dias depois, em outra cidade e em outro órgão, faz o mesmo.
+No Rio, em 28 de outubro, o escrivão do *Alhena* preencheu a coluna de parentesco das duas com a palavra *mãi*. Abaixo de Rosa vem Enrico, um ano, filho. Abaixo de Maria vêm quatro crianças. O sobrenome se escreve uma vez, na linha de cima, e desce para as de baixo.
 
-Duas mulheres casadas, com os maridos vivos e esperando no interior de São Paulo, registradas como chefes das próprias famílias em dois documentos independentes do Estado brasileiro.
+Não dá para forçar essa palavra. Na mesma folha o escrivão escreveu *mãi* também na linha de Lovatto Cornelio, que era homem e viajava com a mulher e dois filhos, e nas outras linhas alternou entre *chefe*, *pai* e *mãi* sem critério nenhum. Ele estava preenchendo depressa a linha de quem vinha na frente de cada grupo.
+
+Três dias depois, em São Paulo, outro funcionário, de outro órgão, teve de preencher a mesma coluna.
+
+E escreveu **CHEFE**.
+
+*Forner Rosa, 24, chefe, Castelcuco.* E, algumas linhas acima, *Forner Maria, 31, chefe, Cavazzo.* Livro 100, página 290.
+
+Duas mulheres casadas, com os maridos vivos e esperando no interior de São Paulo, registradas como chefes das próprias famílias num livro do Estado brasileiro.
 
 Chefe, ali, não é uma opinião sobre o casamento delas.
 
@@ -3197,7 +3207,7 @@ Na digitalização que eu tenho, não consigo dizer se é ela. Se for, quer dize
 
 Em 25 de outubro, aquelas sete pessoas foram notícia no mundo inteiro. O naufrágio do *Principessa Mafalda* saiu em jornal de Buenos Aires, de Roma, de Londres e de Nova York. Sobrevivente de terceira classe deu entrevista no cais.
 
-Em 31 de outubro, seis dias depois, elas viraram **família 19270 e família 19260**.
+Em 31 de outubro, seis dias depois, cada uma delas virou **um número numa coluna**: de 19265 a 19269, e 19276 e 19277.
 
 E era exatamente isso que elas tinham vindo fazer.
 
@@ -3271,11 +3281,13 @@ O navio que as recolheu, depois do bote dos cozinheiros, carregava carvão. Elas
 
 Não havia como se lavar. Não havia roupa para trocar, porque a roupa tinha afundado junto com todo o resto.
 
-**Angelo e Fausto passaram os olhos por elas e não as reconheceram.**
+**Angelo passou os olhos por ela e não a reconheceu.**
 
-Essa é a frase que atravessou cem anos, e ela vem inteira na voz da Patrícia repetindo o avô: *ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma história, sim.*
+Essa é a frase que atravessou cem anos, e ela vem na voz da Patrícia repetindo o avô: *ele não reconheceu porque disse que ela estava toda suja de carvão. Então, tem uma história, sim.*
 
-Não é que estivessem distraídos. Estavam procurando a cara da mulher deles no meio de uma multidão, e a cara da mulher deles estava preta.
+Quem estava parada na frente dele, a Patrícia não afirma: *não sei se foi a minha avó mesmo que estava na frente.* Deixo a dúvida onde ela a deixou.
+
+Não é que estivesse distraído. Estava procurando a cara da mulher dele no meio de uma multidão, e a cara da mulher dele estava preta.
 
 **Quem achou foi uma das meninas.**
 
@@ -3443,13 +3455,13 @@ Rosa e Fausto atravessaram um oceano, sobreviveram a um naufrágio e foram parar
 
 ## 22. Enrico
 
-> 1926 a 1998. Cinco documentos, e nada além do que eles dizem.
+> 1926 a 1998. Cinco documentos, e a lembrança de quem o conheceu.
 
 Enrico Miotto nasceu em 10 de outubro de 1926, na Itália.
 
 Morreu em 6 de outubro de 1998, no Conjunto Hospitalar de Sorocaba.
 
-Entre uma data e a outra há setenta e um anos e cinco documentos. Este capítulo é feito com eles, e não vai ter aqui nada que eles não digam.
+Entre uma data e a outra há setenta e um anos e cinco documentos. Este capítulo é feito com eles e com a lembrança de quem o conheceu, e diz de qual das duas coisas vem cada linha.
 
 Ele tinha um ano e quinze dias quando o navio afundou.
 
@@ -3457,7 +3469,7 @@ Estava no colo da mãe, na terceira classe, no porão. Não escolheu nada, não 
 
 É o passageiro deste livro que menos participou da própria história.
 
-Em 31 de outubro de 1927 ele entrou na Hospedaria do Brás como segunda linha da família 19270.
+Em 31 de outubro de 1927 ele entrou na Hospedaria do Brás como o registro 19277, na linha logo abaixo da mãe.
 
 ENRICO, 1 ano.
 
@@ -3499,11 +3511,13 @@ Solteiro em 1949, aos vinte e três.
 
 Solteiro em 1998, aos setenta e um.
 
-Nunca se casou e não teve filhos. Os dois documentos que eu tenho, separados por quase cinquenta anos, dizem a mesma coisa nessa linha.
+Nunca se casou e não teve filhos.
+
+Os dois documentos, separados por quase cinquenta anos, registram o estado civil e param aí: solteiro, e solteiro. Que não houve filho nenhum em nenhum dos dois intervalos é o que sabe quem conviveu com ele.
 
 Morreu de câncer.
 
-A certidão registra insuficiência respiratória como causa direta, e desnutrição. Declaração de Óbito nº 5501831.
+A Declaração de Óbito nº 5501831 traz, na linha da causa direta, insuficiência respiratória, e logo abaixo dela a neoplasia de orofaringe. Num campo separado, desnutrição.
 
 Setenta e um anos, aposentado, morador da Rua Cervantes, 607, Vila Assis, Sorocaba.
 
@@ -3859,7 +3873,7 @@ Vincenzo Forner e Santa Pandolfo, mortos havia mais de um século, apresentaram 
 
 Depois disso a gente conversou muito, e continua conversando.
 
-Unificamos as raízes, juntamos o que cada um tinha, e boa parte do que este livro conta veio dessas conversas. O navio de carvão veio daí. A hospedaria veio daí. Os dois homens que passaram os olhos por elas e não as reconheceram vieram daí.
+Unificamos as raízes, juntamos o que cada um tinha, e boa parte do que este livro conta veio dessas conversas. O navio de carvão veio daí. A hospedaria veio daí. Os dois homens que passou os olhos por ela e não a reconheceu veio daí.
 
 E de outra prima, de outro ramo desta mesma família, veio o resto: o cozinheiro que desceu ao porão e a menina que achou o pai no meio da multidão.
 
@@ -4047,7 +4061,7 @@ Quem contava essa história na família era João Betti, marido da Pulcheria, qu
 
 Repare no que aconteceu, porque é bonito e não é vergonhoso: uma mulher grávida com um bebê de colo é uma imagem mais forte do que uma mulher com um bebê de colo. **A memória escorrega sempre na direção da imagem que se sustenta melhor.**
 
-E o resto do que ele contou está de pé. Que a terceira classe não tinha preferência. Que elas chegaram pretas de carvão. Que os maridos passaram os olhos por elas e não as reconheceram.
+E o resto do que ele contou está de pé. Que a terceira classe não tinha preferência. Que elas chegaram pretas de carvão. Que Angelo passou os olhos por ela e não a reconheceu.
 
 Uma testemunha que erra num detalhe não é uma testemunha ruim. É uma testemunha.
 
@@ -4419,7 +4433,7 @@ João José de Andrade Neto
 - *Não existe relação nominal dos trezentos e catorze mortos. O próprio número varia entre as fontes.*
 **Capítulo 19 · 31 de outubro**
 
-- Museu da Imigração do Estado de São Paulo: Livro de Registro de Matrícula nº 100 da Hospedaria de Imigrantes do Brás, página 290, 31 de outubro de 1927. Famílias 19270 e 19260.
+- Museu da Imigração do Estado de São Paulo: Livro de Registro de Matrícula nº 100 da Hospedaria de Imigrantes do Brás, página 290, 31 de outubro de 1927. Registros 19265 a 19269 (Forner Maria e as quatro crianças) e 19276 e 19277 (Forner Rosa e Enrico). A numeração do livro é por pessoa, não por família.
 - Procedimento interno da Hospedaria — banho, desinfecção, estufa, inspeção médica, registro. **A cena é reconstrução declarada no próprio capítulo.**
 **Capítulo 20 · O reencontro**
 
@@ -4510,7 +4524,7 @@ João José de Andrade Neto
 - Cap. 12 — Cartaz do Lloyd Italiano anunciando o Principessa Mafalda: servizio…. Cartaz do Lloyd Italiano. Peça de época, de uso público; procedência não localizada.
 - Cap. 12 — Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Retrato de Mafalda di Savoia. Peça de época, de uso público; procedência não localizada.
 - Cap. 13 — Llegada del vapor Principessa Mafalda. Cartão-postal de época, série 128. Museu de la Targeta Postal de Catalunya, L’Ametlla del Vallès — Colección Jorge Venini, Barcelona, cat. CAT XXX 01 TP 1939.
-- Cap. 17 — A família Agnoli na relação dos náufragos recolhidos pelo Alhena:…. Intendência de Imigração, relação do vapor *Alhena*, 28 de outubro de 1927. Reprodução parcial de documento de acervo público.
+- Cap. 17 — A família Dei Agnoli na relação dos náufragos recolhidos pelo…. Intendência de Imigração, relação do vapor *Alhena*, 28 de outubro de 1927. Reprodução parcial de documento de acervo público.
 - Cap. 19 — Rosa Forner Miotto, 1903 a 1986. Acervo da família. *Restauração digital do autor.*
 - Cap. 19 — A cédula de identidade dela, emitida no Brasil décadas depois.. Acervo da família Miotto e Forner.
 - Cap. 20 — Maria Luigia Forner, 1896 a 1992, irmã de Rosa.. Acervo da família Miotto e Forner.
@@ -4566,32 +4580,32 @@ João José de Andrade Neto
 ## Índice onomástico
 
 - Alhena, vapor passim
-- Andrade, Carlos Aparecido de 484, 553, 564
-- Andrade, João Luca Soares de 53, 500, 549-550, 552-553, 564
+- Andrade, Carlos Aparecido de 485, 554, 565
+- Andrade, João Luca Soares de 53, 501, 550-551, 553-554, 565
 - Asolo passim
-- Beck Josef 175, 398
+- Beck Josef 175, 399
 - Beria, Batista 312, 334-335, 354, 356
-- Betti, João 318, 406, 413, 529
-- Betti, Patrícia 318, 406, 410, 412, 502, 554
-- Buenos Aires 195-196, 256, 265-266, 272, 336, 400
+- Betti, João 318, 407, 414, 530
+- Betti, Patrícia 318, 407, 411, 413, 503, 555
+- Buenos Aires 195-196, 256, 265-266, 272, 336, 401
 - Cadorna, Luigi 123
 - Cadorna, Raffaele 32, 123
 - Castelcucco passim
 - Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 224, 242, 278, 393
 - Dei Agnoli, Angelo passim
 - Dei Agnoli, Danilo 159, 180, 205, 224, 228, 367, 393
-- Dei Agnoli, Gina Oliva 159, 180, 205, 212, 228, 278, 367, 393, 413, 420
-- Dei Agnoli, Pulcheria Pasqua 159, 180, 199, 202, 205, 212, 228, 317-318, 367, 393, 406, 413, 415, 487, 502, 529, 531, 554
-- Dei Agnoli, Rino 159, 180, 205, 228, 393, 421
-- De Rosi Emilia 177, 365, 376, 399
+- Dei Agnoli, Gina Oliva 159, 180, 205, 212, 228, 278, 367, 393, 414, 421
+- Dei Agnoli, Pulcheria Pasqua 159, 180, 199, 202, 205, 212, 228, 317-318, 367, 393, 407, 414, 416, 488, 503, 530, 532, 555
+- Dei Agnoli, Rino 159, 180, 205, 228, 367, 393, 422
+- De Rosi Emilia 177, 365, 376, 400
 - *Empire Star* 290-291, 313, 326, 344, 351-353, 358-359
 - Filipovich, Thomas 363, 384
 - Fontana, Antonio 282-283
-- Forner, Abele Alessandro 55, 516
+- Forner, Abele Alessandro 55, 517
 - Forner, Domenico 53
-- Forner, Galliano 136, 149, 499-500, 508, 510-511, 538, 558
+- Forner, Galliano 136, 149, 500-501, 509, 511-512, 539, 559
 - Forner, Giorgio passim
-- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 537
+- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 538
 - Forner, Maria Luigia passim
 - Forner, Pietro Luigi 57, 60, 124, 154
 - Forner, Rosa passim
@@ -4600,29 +4614,29 @@ João José de Andrade Neto
 - Forner, Vincenzo passim
 - *Formose* 345, 353, 358-359
 - Gabassi, Eugenio 306, 335, 347, 356, 373
-- Galli, Valeriano 136, 149, 322, 333, 335, 356, 373, 499-500, 508, 510-511, 538, 558
-- Ganeo, Domenica 67, 525
+- Galli, Valeriano 136, 149, 322, 333, 335, 356, 373, 500-501, 509, 511-512, 539, 559
+- Ganeo, Domenica 67, 526
 - Gênova passim
-- Grama (São Sebastião da Grama) 232, 242, 423-424, 433-434, 442, 466, 479
+- Grama (São Sebastião da Grama) 232, 242, 424-425, 434-435, 443, 467, 480
 - Gulì, Simone 287, 290, 338, 346, 349
 - Hassen, Ali 309, 322, 355-356, 374
-- Hospedaria de Imigrantes do Brás 201, 229, 231, 383-384, 386-388, 391, 410, 441, 528
-- Ilha das Flores 291, 363, 384, 398
+- Hospedaria de Imigrantes do Brás 201, 229, 231, 383-384, 386-388, 391, 411, 442, 529
+- Ilha das Flores 291, 363, 384, 399
 - Leo, Domenico 326, 335
 - Luchini Teresa 177, 365, 376
 - Lynose, Nicola 286, 289-290, 314, 330, 334, 356
 - Malone, Salvador 322, 335, 347, 373
 - Mandolezzi, Vincenzo 324
 - Manin, Daniele 27
-- Maser 67-69, 523
+- Maser 67-69, 524
 - Milano, Domingo 356-357
-- Miotto, Amabile Veronica 72, 76, 533
+- Miotto, Amabile Veronica 72, 76, 534
 - Miotto, Enrico passim
-- Miotto, Erminda 434, 436, 462, 475, 528
+- Miotto, Erminda 435, 437, 463, 476, 529
 - Miotto, Fausto passim
-- Miotto, Luigi 67-68, 70, 154, 522-523, 525-526
-- Miotto, Maria Luigia 73-74, 77, 136, 149, 569
-- Miotto, Vittorio 19, 72, 76, 125-126, 131, 250, 273, 457
+- Miotto, Luigi 67-68, 70, 154, 523-524, 526-527
+- Miotto, Maria Luigia 73-74, 77, 136, 149, 570
+- Miotto, Vittorio 19, 72, 76, 125-126, 131, 250, 273, 458
 - Monfumo passim
 - Monte Grappa passim
 - *Mosella* 351, 353, 358-359
@@ -4630,7 +4644,7 @@ João José de Andrade Neto
 - Mussolini, Benito 161
 - Nazzeconi, Enrico 309, 319, 342, 344, 354
 - Ottaviani, Mario 329, 341, 375
-- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 216, 253, 489, 503, 519, 521, 570
+- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 216, 253, 490, 504, 520, 522, 571
 - Pecci, Pascual 287, 336
 - Ponce, Antonio 322, 335
 - Possagno 3, 14, 127
@@ -4644,24 +4658,24 @@ João José de Andrade Neto
 - *Rosetti* 353, 356, 358-359, 373
 - Sanfilippo, Alfio 326, 335, 356, 373
 - Santororo, Juan 333
-- Santos, porto de 97, 116, 190, 194-195, 197, 206, 227, 235, 242, 266, 408
-- Savoia, Mafalda di 250, 273, 457
+- Santos, porto de 97, 116, 190, 194-195, 197, 206, 227, 235, 242, 266, 409
+- Savoia, Mafalda di 250, 273, 458
 - Scavani del Vicario, Andres 345, 356
 - Solk, Milhem 197, 285, 308, 335, 354
-- Sorocaba 141, 439, 448, 453
+- Sorocaba 141, 440, 449, 454
 - São Paulo passim
 - São Vicente (Cabo Verde) 281
 - Spinelli, Maria 187, 323, 364
-- Terra, Mafalda Miotto 97, 427, 462, 470, 484
-- Terra, Marta 471, 484, 487, 500, 550, 565-566
-- Treviso 12, 21, 166, 171, 207, 542
+- Terra, Mafalda Miotto 97, 428, 463, 471, 485
+- Terra, Marta 472, 485, 488, 501, 551, 566-567
+- Treviso 12, 21, 166, 171, 207, 543
 - Vacelli, família 313, 328, 332, 344
-- Vancouver 522-524, 526, 533
+- Vancouver 523-525, 527, 534
 
-- Vargas, Getúlio 476
+- Vargas, Getúlio 477
 - Vêneto passim
 - Vial, Maria 53
-- Vittorio Emanuele III 250, 273, 457
+- Vittorio Emanuele III 250, 273, 458
 - Volpi, Pedro 307, 312, 332, 335
 - Zanni, Antonio 279
 

@@ -1,4 +1,4 @@
-# Terceira Classe
+﻿# Terceira Classe
 
 Livro de não-ficção sobre a travessia italiana para o Brasil e o naufrágio do
 **Principessa Mafalda** (25 de outubro de 1927), escrito por João José de Andrade Neto,
@@ -50,7 +50,7 @@ scripts/              histórico das rodadas de correção e escrita
 | | |
 |---|---|
 | Capítulos | 27, em 4 livros + epílogo — I: 1-7 · II: 8-11 · III: 12-18 · IV: 19-27 |
-| **Escritos** | **27 de 27 capítulos, 37.423 palavras, 614 páginas** |
+| **Escritos** | **27 de 27 capítulos, 37.640 palavras, 615 páginas** |
 | Aparato | créditos, nota de método, fontes, créditos de imagem e índice onomástico — prontos |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |
@@ -242,6 +242,35 @@ Detalhe e transcrição em `docs/05-hemeroteca.md`; verificações abertas na se
   em cada seis, contra mais de um em cada quatro entre os passageiros.
 - **Fontes** dos caps. 17 e 18 atualizadas; a nota do 17 que dizia que nenhuma soma fechava
   foi corrigida.
+
+### Revisão documental: o que foi corrigido *(12.09.2026)*
+
+Um parecer externo apontou treze pontos; cada um foi conferido contra o documento, não contra
+o parecer. Conferência completa na seção 37 de `docs/02-pesquisa-documental.md`.
+
+**Aplicado (Bloco A — erros factuais):**
+
+- 🔴 **A palavra da coluna de parentesco.** O livro dizia que Rosa e Maria entram como *CHEFE*
+  na relação do *Alhena*. **Não entram: está escrito *mãi*.** A palavra *Chefe* está na mesma
+  folha, em outras linhas. E a folha está reproduzida dentro do livro. ✅ Mas **no Livro 100 do
+  Brás está escrito Chefe** — conferido no PDF do acervo. O cap. 19 foi reescrito para mostrar
+  a mudança de palavra entre os dois registros, que vale mais que a repetição suposta.
+- **A numeração do Livro 100 é por pessoa, não por família.** Rosa é o registro **19276** e
+  Enrico o **19277**; Maria é **19265** e as crianças 19266 a 19269. Não existe "família 19270".
+- **Cap. 18:** os cinquenta nomes do *Alhena* são **manuscritos**, não datilografados.
+- **Caps. 20, 25 e 26:** o relato da Patrícia fala de **um** homem e **uma** mulher, e ela
+  declara não saber quem estava na frente do Angelo. O livro dizia "Angelo e Fausto… por elas".
+- **Cap. 22:** é **Declaração de Óbito**, não certidão; e o texto omitia a **neoplasia de
+  orofaringe** ao listar as causas. A promessa "nada além do que eles dizem" foi ajustada: o
+  estado civil vem dos documentos, o resto de quem conviveu com ele.
+- **Cap. 6:** o selo é de **vinte e cinco centesimi**, direitos de secretaria do Comune di
+  Asolo — não "vinte e cinco centavos".
+- **Legenda da folha do *Alhena*** (cap. 17): era *Dinetta 7, Dino 4*; no documento está
+  **Ginneta** e **Rino**.
+
+**Bloco B, ainda não aplicado** — são excessos de inferência, e mexem em argumento: "sete
+ficaram no Rio" (cap. 19), a prova de ausência de documentos (cap. 10), a negativa categórica
+sobre a gravidez (cap. 26), a contradição do Monte Grappa (cap. 6).
 
 **Não aplicado, e por quê:**
 

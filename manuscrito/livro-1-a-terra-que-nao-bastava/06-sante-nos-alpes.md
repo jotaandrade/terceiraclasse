@@ -173,7 +173,7 @@ Nunca emigrou. Nunca viu o Brasil. Ninguém naquela condição atravessava o Atl
 
 E existe um segundo objeto, guardado na mesma pasta.
 
-Em 8 de março de 1940 o Comune di Asolo emitiu a *carta d’identità* de Sante Forner. Ela está no acervo desta família, gasta nas dobras, com uma marca de vinte e cinco centavos colada no canto de baixo.
+Em 8 de março de 1940 o Comune di Asolo emitiu a *carta d’identità* de Sante Forner. Ela está no acervo desta família, gasta nas dobras, com um selo de direitos de secretaria do Comune di Asolo, de vinte e cinco centesimi, colado no canto de baixo.
 
 E tem a fotografia dele.
 

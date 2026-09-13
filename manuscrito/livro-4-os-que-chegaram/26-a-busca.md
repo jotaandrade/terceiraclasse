@@ -147,7 +147,7 @@ Quem contava essa história na família era João Betti, marido da Pulcheria, qu
 
 Repare no que aconteceu, porque é bonito e não é vergonhoso: uma mulher grávida com um bebê de colo é uma imagem mais forte do que uma mulher com um bebê de colo. **A memória escorrega sempre na direção da imagem que se sustenta melhor.**
 
-E o resto do que ele contou está de pé. Que a terceira classe não tinha preferência. Que elas chegaram pretas de carvão. Que os maridos passaram os olhos por elas e não as reconheceram.
+E o resto do que ele contou está de pé. Que a terceira classe não tinha preferência. Que elas chegaram pretas de carvão. Que Angelo passou os olhos por ela e não a reconheceu.
 
 Uma testemunha que erra num detalhe não é uma testemunha ruim. É uma testemunha.
 

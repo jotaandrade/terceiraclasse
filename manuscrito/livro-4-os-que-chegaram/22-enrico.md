@@ -1,7 +1,7 @@
 # 22. Enrico
 
 > Livro IV — Os que chegaram
-> 1926 a 1998. Cinco documentos, e nada além do que eles dizem.
+> 1926 a 1998. Cinco documentos, e a lembrança de quem o conheceu.
 
 ---
 
@@ -9,7 +9,7 @@ Enrico Miotto nasceu em 10 de outubro de 1926, na Itália.
 
 Morreu em 6 de outubro de 1998, no Conjunto Hospitalar de Sorocaba.
 
-Entre uma data e a outra há setenta e um anos e cinco documentos. Este capítulo é feito com eles, e não vai ter aqui nada que eles não digam.
+Entre uma data e a outra há setenta e um anos e cinco documentos. Este capítulo é feito com eles e com a lembrança de quem o conheceu, e diz de qual das duas coisas vem cada linha.
 
 Ele tinha um ano e quinze dias quando o navio afundou.
 
@@ -17,7 +17,7 @@ Estava no colo da mãe, na terceira classe, no porão. Não escolheu nada, não 
 
 É o passageiro deste livro que menos participou da própria história.
 
-Em 31 de outubro de 1927 ele entrou na Hospedaria do Brás como segunda linha da família 19270.
+Em 31 de outubro de 1927 ele entrou na Hospedaria do Brás como o registro 19277, na linha logo abaixo da mãe.
 
 ENRICO, 1 ano.
 
@@ -59,11 +59,13 @@ Solteiro em 1949, aos vinte e três.
 
 Solteiro em 1998, aos setenta e um.
 
-Nunca se casou e não teve filhos. Os dois documentos que eu tenho, separados por quase cinquenta anos, dizem a mesma coisa nessa linha.
+Nunca se casou e não teve filhos.
+
+Os dois documentos, separados por quase cinquenta anos, registram o estado civil e param aí: solteiro, e solteiro. Que não houve filho nenhum em nenhum dos dois intervalos é o que sabe quem conviveu com ele.
 
 Morreu de câncer.
 
-A certidão registra insuficiência respiratória como causa direta, e desnutrição. Declaração de Óbito nº 5501831.
+A Declaração de Óbito nº 5501831 traz, na linha da causa direta, insuficiência respiratória, e logo abaixo dela a neoplasia de orofaringe. Num campo separado, desnutrição.
 
 Setenta e um anos, aposentado, morador da Rua Cervantes, 607, Vila Assis, Sorocaba.
 
