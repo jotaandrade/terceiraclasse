@@ -1134,3 +1134,80 @@ mão) e agora **náufragos falando à imprensa em 28.10.1927**.
 | cap. 17 | os 531 do *Alhena*, discriminados por classe |
 | cap. 22 (Enrico) / 19 | **Paschoalina Retto e Eugenia Rauzini**: mais duas mães que perderam a criança na mesma noite |
 | cap. 13 | a ordem de Gênova, com terceira fonte e data |
+
+---
+
+## 4.11 · 30 de novembro de 1927 — ⭐⭐⭐⭐⭐ AS DUAS FOTOGRAFIAS DO NAUFRÁGIO
+
+`I0001838` · *O naufragio do «Principessa Mafalda» — **Duas photographias ineditas para o
+publico brasileiro** — Uma cerimonia impressionante — A ultima carta da esposa do commandante
+Gulì*
+
+### As fotografias
+
+**São duas fotografias do *Principessa Mafalda* afundando, tiradas do convés do *Alhena*, com
+hora anotada.** Trazem a marca **DM** gravada no canto.
+
+**Primeira — 18h15:**
+
+> "O 'Principessa Mafalda' visto á curta distancia, **ás 18 e 15, do vapor 'Alhena'**. Dois
+> botes com tripulantes e passageiros foram lançados nagua, emquanto um terceiro chega á
+> superficie e um quarto encontra-se em ponto de ser arriado. A' pôpa ha outras duas embarcações
+> já sobre a agua, com pessôas embarcadas por meio de escadas de 'gato'.
+> Póde-se tambem observar na photographia **os oito pares de apparelhos que sustêm as
+> embarcações, correspondentes a igual numero de botes collocados a bombordo**. Como se sabe, a
+> estibordo deve haver igual numero de embarcações."
+
+**Segunda — 18h30:**
+
+> "Nesta segunda photographia tomada **ás 18 e 30 e em plena luz** se vê o 'Principessa Mafalda'
+> em mar calmo, **apenas inclinado a bombordo, começando a afundar-se de pópa**. Todos os botes
+> de bombordo já foram arriados do vapor e **três delles navegam em direcção ao 'Alhena'**."
+
+🔴🔴🔴 **Rosa Forner, Maria Luigia e as cinco crianças foram recolhidas pelo *Alhena*.** Esta
+segunda fotografia mostra, às seis e meia da tarde de 25 de outubro de 1927, o navio delas
+afundando e **três botes remando na direção do navio que as salvaria**.
+
+Não dá para dizer que elas estão num daqueles botes. Dá para dizer que a fotografia mostra a
+travessia que elas fizeram, no momento em que foi feita.
+
+### Duas confirmações que a foto traz de graça
+
+1. **"Em plena luz", às 18h30.** As Fontes do cap. 13 já trazem o cálculo astronômico para a
+   posição do naufrágio: pôr do sol às **18h21**, fim do crepúsculo civil às **18h48**. A
+   fotografia foi tirada dentro dessa janela e o jornal a descreve exatamente assim. **O cálculo
+   que este livro fez bate com a luz que está na chapa.**
+2. **Oito pares de turcos a bombordo**, contados na fotografia — mais oito a estibordo, o que dá
+   as dezesseis baleeiras. Ineichen dá **catorze**. Divergência pequena, registrada.
+
+### ⚠️ Resolução
+
+A reprodução disponível tem cerca de 700 × 480 px por fotografia, o que serve para leitura mas
+**não para impressão**. 🔴 **Pendência: pedir à Biblioteca Nacional a página `I0001838` na maior
+resolução disponível.** É a imagem mais importante que este projeto pode ter.
+
+### A última carta da senhora Gulì
+
+Na mesma página, sob o título *Uma cerimonia impressionante*:
+
+> "O paquete **'Duca d'Aosta'**, vindo recentemente de Genova para o Rio de Janeiro, passou pelo
+> local do sinistro (…) o commandante daquelle vapor reuniu no convéz os passageiros, officiaes
+> e tripulantes para prestar uma commovida homenagem ás victimas (…) o capitão Giuseppe
+> Salvatore tomou de uma **carta que lhe fôra entregue, em Genova, pela senhora Gulì, afim de que
+> a fizesse chegar ás mãos do seu marido**, e collocou-a **dentro de um tubo de metal, que foi
+> fechado e soldado** convenientemente e a elle seguros, além de **um peso de 20 kilos**, varios
+> ramos de flores naturaes.
+> O commandante do 'Duca d'Aosta' approximou-se do parapeito e, **com lagrimas nos olhos, deixou
+> cahir, no local onde se afundára o 'Principessa Mafalda', o tubo que continha a ultima carta da
+> esposa** do commandante Gulì. Officiaes, passageiros e tripulantes atiraram ao mar, quasi que
+> ao mesmo tempo, muitas flores, como um ultimo adeus áquelles que tragicamente alli pereceram."
+
+⭐⭐⭐⭐ **A viúva de Simone Gulì escreveu uma carta ao marido morto e pediu que fosse entregue.
+Um comandante a soldou dentro de um tubo de metal, com vinte quilos de peso, e a deixou cair no
+ponto exato do naufrágio.**
+
+É a cena que falta ao cap. 16 — o capítulo do comandante que ficou. E ela não tem nada de
+fabricado: não é heroísmo de propaganda, é uma mulher mandando uma carta para o fundo do mar.
+
+⚠️ A carta está a 1.300 metros de profundidade, dentro de um tubo soldado, desde novembro de
+1927.
