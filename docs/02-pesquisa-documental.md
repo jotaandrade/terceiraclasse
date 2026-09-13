@@ -2556,3 +2556,62 @@ dizer isso.
 E vira o argumento do cap. 25 do avesso, sem desmenti-lo: **ficar não produz documento, mas
 produz gente que ainda está lá para contar.** O lado que passou cem anos produzindo papel é o
 lado que não sabia.
+
+---
+
+## 36. A Hemeroteca Digital Brasileira entra na pesquisa — 12.09.2026
+
+A imprensa brasileira de 1927 nunca tinha sido varrida. Foi aberta em 12.09.2026, e o
+caderno dessa varredura vive em arquivo proprio: **`docs/05-hemeroteca.md`**, que traz o
+mapa dos periodicos, o metodo de busca e as transcricoes pagina a pagina.
+
+O que ja mudou de estado:
+
+| Item | Antes | Depois |
+|---|---|---|
+| Adernamento na vespera | so no corpus de 20 depoimentos, sem procedencia | tambem em *O Malho*, 5.11.1927, datado e paginado |
+| Exercicio de sirene de 24.10 as 13h | idem | idem |
+| A conta do resgate | "nao fecha em nenhuma fonte" (cap. 17) | fecha em *O Malho*: 969 + 312 = 1.281 |
+| Mortalidade da tripulacao | nao medida | 46 de 288 tripulantes, contra um em cada quatro no total |
+| Rio -> Sao Paulo | "nao sei se foram de trem ou de navio" (cap. 19) | *Duca degli Abruzzi*, na segunda-feira, para Santos — **mas a data nao fecha** |
+| A morte de Guli | duas versoes (Malone x Gabassi) | tres, e um suicidio a bala com nome (Poladoro) na mesma noite |
+| A hora do afundamento | 22h10 | 21h45 no diario de bordo do *Formose* — provavel hora de bordo |
+| Grafia do navio frances | *Formosa* | **Formose** — corrigir caps. 16 e 17 |
+
+### 36.1 Verificacoes que esta rodada abriu
+
+**V-36.1 — A hora.** O diario do comandante Allemand, do *Formose*, marca o afundamento as
+21h45; o corpus de depoimentos, as 22h10. A propria reportagem registra que os relogios nao
+batem, ao notar que o *Formose* recebeu o SOS as 15h30 enquanto os depoimentos poem a ruptura
+do eixo as 16h55. Hipotese: hora de bordo corrigida por longitude. **Falta um terceiro horario
+de procedencia independente.** Ate la o livro mantem 22h10 e declara a divergencia.
+
+**V-36.2 — Os tres dias.** *O Malho* diz que os naufragos seguiram para Santos e para o Prata
+no *Duca degli Abruzzi*, "na segunda-feira" — que e 31.10, o mesmo dia em que Rosa foi
+registrada no Livro 100 da Hospedaria do Bras, em Sao Paulo. Nao fecha. Proxima acao:
+**A Tribuna, de Santos, 29.10 a 02.11.1927** (167 ocorrencias na decada, bib 153931_00).
+
+**V-36.3 — A ordem de Genova.** "A um machinista attribue-se a revelacao de que ao chegar a
+Cabo Verde o commandante Guli avisara para Genova, a companhia, que o vapor nao estava em
+condicoes de seguir viagem. Recebera, porem, como resposta, a ordem de prosseguir." Entra em
+terceira mao. Nao usar como afirmacao. So o inquerito italiano resolve.
+
+**V-36.4 — Mattiogi / Mattrazzi.** A familia de terceira classe que se salvou inteira, oito
+pessoas, com destino a Buenos Aires, aparece com duas grafias na mesma edicao. Registrar as
+duas.
+
+**V-36.5 — A imprensa italiana no Brasil.** *Il Pasquino: Coloniale* (SP, 92 ocorrencias),
+*Il Moscone* (SP, 13) e *Staffeta Rio-Grandense* (RS, 11). Nenhuma lida. E o unico angulo do
+acontecimento que este projeto ainda nao ouviu: a colonia falando na propria lingua.
+
+### 36.2 O que isto faz com a pendencia dos vinte depoimentos
+
+*O Malho* **nao** e a procedencia do corpus — os nomes nao coincidem. La: Ottaviani,
+Nazzeconi, Gabassi, Sanfilippo, Malone. Aqui: Longobardi, Helena Cyrino, Carlos Bordes, Rosa
+Zambrino, David Campodonio.
+
+Sao **dois corpora independentes**, e isso e melhor do que um so com procedencia: os fatos que
+aparecem nos dois — o adernamento na vespera, os apitos do dia 24, os botes podres, os
+escaleres sem remo nem leme, o comandante que ficou — deixam de depender de qualquer um deles.
+
+A pendencia de procedencia continua aberta. O que ela bloqueia diminuiu.

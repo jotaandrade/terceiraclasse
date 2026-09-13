@@ -36,7 +36,8 @@ livro/
 
 terceira-classe-livro-completo.md   o volume inteiro num arquivo só (gerado)
 manuscrito/           um .md por capítulo escrito (gerado)
-docs/                 dossiê, caderno de bordo, pesquisa documental, roteiros
+docs/                 dossiê, caderno de bordo, pesquisa documental, roteiros,
+                      produção e o caderno da Hemeroteca (05)
 documentos/           fontes primárias digitalizadas
 artefatos/            fontes HTML das páginas publicadas
 scripts/              histórico das rodadas de correção e escrita
@@ -213,7 +214,9 @@ uma linha cada:
 2. **Originais em alta resolução** — 41 das 43 imagens do miolo estão abaixo de 1.200 px no
    menor lado, e o problema está nos originais, não na conversão.
 3. **Procedência do corpus de vinte depoimentos** (jornal, data, página) — item de pesquisa,
-   não de liberação. Já declarado como lacuna dentro do livro.
+   não de liberação. Já declarado como lacuna dentro do livro. *(12.09.2026: continua aberta,
+   mas bloqueia menos — a Hemeroteca deu um **segundo corpus, independente e datado**, que
+   confirma vários dos mesmos fatos. Ver `docs/05-hemeroteca.md`.)*
 4. **Viagem a Castelcucco: abril de 2027** — decidido em 08.09.2026, para o capítulo 27 ser escrito de volta dela. O centenário, 25.10.2027, fica sendo o lançamento.
 5. **Os dois documentos das minas** *(aberto em 09.09.2026)* — o papel do acidente do Sante, que
    o Giorgio diz ter em casa, e o *atto di morte* de 1947 no Comune di Monfumo. Não bloqueiam a
@@ -222,6 +225,22 @@ uma linha cada:
 
 Resolvidas em 08.09.2026: as **autorizações de nome e imagem** (todas obtidas) e a **tarja de
 terceiros** (nome em arquivo público não se tarja — ver a nota de método do livro).
+
+### Correções de texto que a Hemeroteca abriu *(12.09.2026, nenhuma aplicada ainda)*
+
+Aguardam decisão do autor, porque mexem em capítulo escrito. Detalhe e transcrição em
+`docs/05-hemeroteca.md`; verificações abertas na seção 36 de `docs/02-pesquisa-documental.md`.
+
+- **Grafia:** o navio francês é **Formose**, não *Formosa* — caps. 16 e 17.
+- **Cap. 17:** a frase "a conta do resgate não fecha em nenhuma fonte" deixou de ser exata.
+  *O Malho* fecha: 969 recolhidos + 312 mortos = 1.281 a bordo.
+- **Cap. 18:** entra o número que mede a assimetria — **46 de 288 tripulantes morreram**,
+  contra um em cada quatro no total de bordo.
+- **Cap. 16:** o diário do *Formose* marca **21h45**, e o livro trabalha com 22h10.
+  Provável hora de bordo; não trocar sem um terceiro horário.
+- **Cap. 19:** os três dias entre a Ilha das Flores e o Brás têm agora um candidato a meio de
+  transporte — o *Duca degli Abruzzi* — mas **a data não fecha**. Não escrever antes de ler
+  *A Tribuna*, de Santos.
 
 ---
 
