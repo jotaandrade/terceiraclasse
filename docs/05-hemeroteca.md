@@ -984,3 +984,153 @@ E: **Luigi Bulgarini e esposa**, o advogado romano que naufragou duas vezes na m
 | cap. 18 | **houve** corpos recolhidos e sepultados no mar, com cerimônia; e pelo menos **seis** morreram já resgatados, a bordo do *Mosella* e do *Rossetti* |
 | cap. 15 | **Corrado Gini** desloca a acusação para "o elemento sírio" — a acusação muda de alvo conforme quem fala, e isso é o argumento do capítulo |
 | cap. 15 / nota de método | o comandante do *Mosella* e o tripulante do Hotel Portuense usam **o mesmo argumento defensivo**, nos mesmos dias |
+
+---
+
+## 4.9 · 29 de outubro de 1927 — ⭐⭐⭐⭐ A NOITE EM QUE O *ALHENA* CHEGOU AO RIO
+
+`I0001554` · despachos do Rio de 28 de outubro. **É a página mais importante deste acervo para
+a história desta família**, porque conta a madrugada em que Rosa Forner chegou ao Brasil.
+
+### O embaixador barrou a imprensa no portaló
+
+> "Chegou a esta cidade, aos primeiros minutos da madrugada de hoje, o vapor **'Alhena'** (…)
+> **O embaixador italiano aqui solicitou das autoridades maritimas que não permittissem o
+> ingresso a bordo, dos representantes da imprensa**, havendo, por isso, ligeiro incidente entre
+> os jornalistas que tiveram vedada a entrada e o referido diplomata."
+
+> "O sr. **Bernardo Attolico**, embaixador italiano aqui, foi o primeiro a subir a bordo (…) Os
+> jornalistas que iam na lancha da Alfandega, afim de se avistarem com os naufragos, quizeram
+> subir ao convez do paquete, **sendo impedidos pelo embaixador italiano que se poz no portaló**.
+> Houve protestos (…) sendo que alguns, dos mais exaltados, **vaiaram o sr. Bernardo Attolico**.
+> Este, não obstante o protesto, manteve a ordem de prohibição, **grosseiramente, gritando:
+> «Aqui quem manda sou eu!»**
+> **Um marinheiro do 'Alhena' cortou a corda que segurava a lancha da Alfandega**, fazendo-a
+> afastar-se do costado do navio.
+> Estes factos irritaram os presentes (…) extranhando-se geralmente o acto de prepotencia do
+> diplomata italiano, **n'um navio hollandez, dentro de um porto brasileiro**."
+
+🔴🔴🔴 **Isto aconteceu na madrugada de 28 de outubro de 1927, no porto do Rio, com Rosa
+Forner, a irmã e as cinco crianças a bordo.**
+
+### E o jornal diz por quê
+
+> "**Pelas revelações das victimas** (…) constatou-se que o naufragio teve consequencias maiores
+> do que se pensava, **parecendo que o embaixador italiano visara, prohibindo a entrada a bordo
+> do 'Alhena' aos representantes da imprensa, occultar as proporções da catastrophe**, tanto que
+> **os tripulantes do 'Principessa Mafalda' tentaram evitar que alguns naufragos, dos salvos
+> pelo 'Alhena', falassem á reportagem.**"
+
+🔴🔴🔴 **A tripulação tentou impedir que os náufragos do *Alhena* falassem com os jornalistas.**
+
+Esta é a prova mais direta da tese que entrou no cap. 15 em 12.09 — e é sobre **o navio que
+salvou esta família**. Ineichen afirma a ordem de silêncio a partir de fonte italiana; a carta
+do cônsul em Recife (§4.3) admite a barca do consulado; **aqui a cena tem nome, hora, lugar e
+frase**.
+
+### Os 531, por classe
+
+> "**O vapor hollandez trouxe 531 naufragos, sendo 4 officiaes e 145 homens da equipagem do
+> navio sinistrado; 10 passageiros de 1ª classe, 27 de segunda e 345 de terceira.**"
+
+⭐ Confere com os 530 d'*O Malho*. **Rosa, Maria Luigia e as cinco crianças estão entre os 345.**
+
+### E o desembarque, separado por classe, com hora
+
+> "Os passageiros de 1ª e 2ª classes desembarcaram **ás 3 1/2 da manhã, na guarda-moria,
+> hospedando-se em seguida em varios hoteis. Os de terceira saltaram na ilha das Flores, ficando
+> lá mesmo recolhidos.**"
+
+⭐⭐⭐⭐ **É a cena do cap. 19, com relógio.** Às três e meia da manhã, os trinta e sete
+passageiros de primeira e segunda desceram na guarda-moria e foram para hotéis. Os **345 de
+terceira** foram levados para a Ilha das Flores e ficaram recolhidos lá — por determinação do
+ministro do Exterior, **Octávio Mangabeira**.
+
+### ⭐⭐⭐ E a lista dos que foram para o Palace-Hotel
+
+> "Vindo pelo **'Alhena'**, hospedaram-se no **Palace-Hotel** os seguintes naufragos: **David
+> Campodonico**, (…) **Isabel Alfonsim**, **Honoria** […] **Pozzi**, **Laura Micheli**, **Tole
+> Micheli**, […] doctor **Giuseppe Lellis**, segundo medico […] commerciante hespanhol **José
+> Cano** e […] argentino **Patricio Rosas** e se[cretário] (…) **director do circo Hagenberk**."
+
+⭐⭐⭐⭐ Três nomes que este livro já usa:
+
+- **Patricio Rosas** é o **Patricio de Rosas** do corpus — o do abaixo-assinado que não foi
+  entregue, no cap. 13.
+- **David Campodonico** é o que viu o amigo Polaro dar um tiro no próprio ouvido.
+- O **diretor do circo Hagenbeck** é **Vollrath**, o do monóculo, que *O Malho* diz ter chegado
+  ao Palace-Hotel com um sobretudo emprestado do *Alhena*. **Duas fontes independentes, a mesma
+  cena.**
+
+**O contraste do cap. 19 deixa de ser inferência e passa a ser lista de hóspedes:** no mesmo
+casco, na mesma madrugada, dez pessoas foram para o Palace-Hotel e trezentas e quarenta e cinco
+para a Ilha das Flores.
+
+E, noutro hotel, entre os vindos do *Formose*: **"Bauli Ruzzero"** — **Ruggero Bauli**, o
+confeiteiro de Verona que viu a hélice sair do casco e que fundaria a fábrica de panetones.
+
+### Os sírios
+
+> "Acham-se recolhidos na ilha das Flores os naufragos **syrios**, abatidos e (…) não falando
+> outra lingua sinão a materna, communicando-se por meio de **signaes**."
+
+🔴 Leia junto com §4.7: **Corrado Gini acusou "o elemento syrio" de invadir a primeira classe.**
+Os mesmos que, na Ilha das Flores, se comunicavam por gestos porque ninguém os entendia. Rosa
+estava ali com eles.
+
+### Paschoalina Retto
+
+> "A immigrante italiana **Paschoalina Retto**, passageira do 'Principessa Mafalda', foi
+> recolhida a um escaler, juntamente com uma sua **filhinha de 8 mezes** de idade. Ao embate de
+> uma onda a criança foi atirada ao fundo da embarcação, e quando a mãe tornou a si, **a filha
+> tinha desapparecido**. Quiz, então, **suicidar-se**, tendo os demais passageiros evitado que
+> levasse a effeito o seu intento. **A immigrante enlouqueceu de dor.**"
+
+🔴🔴 **É a quarta mãe com criança de colo daquela noite** — com Hugolina e o pequeno Stelio, com
+Rosa Zambrino e Vetino, e com Rosa Forner e Enrico. Duas perderam o filho; duas não.
+
+E há uma quinta: **Eugenia Rauzini**, que atirou o filho à água para salvá-lo, perdeu-o no
+escuro e procurou-o em vão a bordo do *Empire Star*.
+
+### As facas
+
+> "[o industrial que viu] mulheres procurarem os escaleres. **Marinheiros da equipagem do navio,
+> munidos de canivetes, cortavam-lhes os braços, enquanto outros davam-lhes com remos** (…)
+> nesta occasião, **um tubarão cortou ao meio um naufrago, á sua vista**."
+
+🔴 Acusação direta, de um passageiro salvo pelo *Formose*. Ler junto com o cap. 15: é a versão
+mais dura que apareceu até agora, e vem de um depoente de classe alta.
+
+### A ordem de Gênova, outra vez — e agora em jornal datado
+
+> "Alguns naufragos (…) chegados pelo 'Formose', dizem que, por occasião da escala do paquete
+> [em Cabo Verde], **as machinas opinou que o navio não estava em condições de continuar a
+> viagem**, mas a companhia '**Nazzionali di Navigazzioni**' [mandou que] prosseguisse a derrota
+> no mesmo estado."
+
+⭐⭐⭐ Terceira fonte para o telegrama de São Vicente: Ineichen (2023), *O Malho* (em terceira
+mão) e agora **náufragos falando à imprensa em 28.10.1927**.
+
+### E mais três coisas
+
+- **O exercício de sirene do dia 24, às 13 horas**, aparece outra vez — terceira fonte
+  independente para o que estava no livro apoiado só no corpus.
+- **O tiro na torre de comando:** *"uma das victimas disse acreditar que o capitão Simoni Guli
+  suicidou-se, pois ouvio o estampido de um tiro disparado na torre de commando"* — é
+  exatamente o depoimento de Gabassi, publicado em 28.10.1927.
+- **Muitos negam a explosão de caldeiras:** *"não houve explosão conforme se propalou, mas
+  apenas um ruido, quando rebentou o eixo"* — contra a "terrível explosão nas caldeiras" que
+  outra página do mesmo jornal atribui ao afundamento.
+
+---
+
+## 4.10 O que esta página muda
+
+| Onde | O quê |
+|---|---|
+| cap. 15 e nota de método | a censura tem agora **cena, nome e frase**: Attolico no portaló do *Alhena*, a imprensa barrada, a corda cortada, e a tripulação impedindo náufragos de falar |
+| cap. 19 | o contraste vira **lista de hóspedes e relógio**: 3h30 da manhã, guarda-moria e Palace-Hotel para dez; Ilha das Flores para trezentos e quarenta e cinco |
+| cap. 13 | **Patricio de Rosas veio no *Alhena*** — o mesmo navio da família — e foi para o Palace-Hotel |
+| cap. 17 | os 531 do *Alhena*, discriminados por classe |
+| cap. 22 (Enrico) / 19 | **Paschoalina Retto e Eugenia Rauzini**: mais duas mães que perderam a criança na mesma noite |
+| cap. 13 | a ordem de Gênova, com terceira fonte e data |
