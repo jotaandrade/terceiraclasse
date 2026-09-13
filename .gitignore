@@ -17,3 +17,5 @@ Thumbs.db
 desktop.ini
 .DS_Store
 livro/idx.txt
+# o HTML preparado para a web (gerado por livro/publicar_web.py)
+livro/dist/

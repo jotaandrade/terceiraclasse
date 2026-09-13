@@ -388,3 +388,68 @@ sobre a gravidez (cap. 26), a contradição do Monte Grappa (cap. 6).
 **Prioridade absoluta:** gravar a avó Mafalda toda semana. Ela tem 89 anos e faz 90 em
 2 de janeiro de 2027. É a única testemunha viva da cadeia oral, e o depoimento dela já foi
 aferido contra documento primário.
+
+---
+
+## Publicar o livro em andamento na web *(13.09.2026)*
+
+O leitor navegavel esta no ar em **<https://terceiraclasse.com/livroemandamento/>**, como
+copia de trabalho. Nao esta linkado de lugar nenhum e **nao e indexavel**.
+
+### Como subir uma versao nova
+
+```sh
+python livro/build_livro.py      # gera o fragmento livro/terceira-classe.html
+python livro/publicar_web.py     # envolve num documento completo + meta robots
+
+scp livro/dist/livroemandamento/index.html vps-ovh:/tmp/livroemandamento.html
+ssh vps-ovh 'D=/srv/sites/terceiraclasse.com/public/livroemandamento
+  sudo install -o terceira -g terceira -m 644 /tmp/livroemandamento.html "$D/index.html"
+  rm -f /tmp/livroemandamento.html'
+```
+
+O Cloudflare responde `cf-cache-status: DYNAMIC` para o HTML, entao **a versao nova aparece
+na hora** — nao precisa purgar cache.
+
+### Por que existe o `publicar_web.py`
+
+O `build_livro.py` gera um **fragmento**: sem `<!DOCTYPE>`, `<html>`, `<head>` nem `<body>`.
+Tem de continuar assim, porque e o formato que o publicador de artefatos espera. Servido por
+nginx, esse fragmento ate funciona por tolerancia do navegador, mas fica **sem charset
+declarado** e sem onde pendurar a marca de nao-indexacao. O `publicar_web.py` envolve o
+fragmento e acrescenta `charset`, `viewport` e `<meta name="robots" content="noindex...">`.
+
+### Como a nao-indexacao esta feita
+
+Duas camadas, de proposito:
+
+| Camada | Onde | Vale quando |
+|---|---|---|
+| **`X-Robots-Tag`** | bloco `location /livroemandamento` no nginx | sempre — o robo nem precisa ler o HTML |
+| **`<meta name="robots">`** | dentro do HTML, posto pelo `publicar_web.py` | se o cabecalho se perder por algum proxy |
+
+O bloco no nginx **repete os quatro cabecalhos de seguranca** do `snippets/seguranca.conf`.
+Isso nao e descuido: no nginx, **um `add_header` dentro de um `location` apaga todos os
+herdados do `server`**. Sem repetir, a pagina perderia `X-Content-Type-Options`,
+`X-Frame-Options`, `Referrer-Policy` e `Permissions-Policy`.
+
+⚠️ **Nao criar `robots.txt` com `Disallow: /livroemandamento`.** Seria contraproducente: o
+`Disallow` impede o robo de **buscar** a pagina, e entao ele nunca le o `noindex` — e o
+Google pode acabar listando a URL assim mesmo, sem descricao. A regra e a inversa: deixar
+buscar, e mandar o `noindex`.
+
+🔴 **`noindex` nao e privacidade.** Quem tiver o endereco le o livro inteiro. Se a copia
+tiver de ficar mesmo fechada, o caminho e senha HTTP (`auth_basic` no mesmo bloco) ou
+Cloudflare Access — **nenhum dos dois foi feito**, porque nao foi o que se pediu.
+
+### Onde fica
+
+| | |
+|---|---|
+| Servidor | VPS OVH, `ssh vps-ovh` (**pela VPN**; o `vps-ovh-direto` so responde de IP liberado) |
+| Docroot | `/srv/sites/terceiraclasse.com/public/livroemandamento/`, dono `terceira` |
+| nginx | `/etc/nginx/sites-available/terceiraclasse.com` (backup `.bak-20260913-034906`) |
+| Frente | Cloudflare |
+
+O site principal (`prototipo/` da cena WebGL) mora em `D:/italiaminha/website` e tem a
+propria doc de publicacao. **Este bloco nao mexe nele** — so acrescenta uma subpasta.
