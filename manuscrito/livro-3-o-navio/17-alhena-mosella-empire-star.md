@@ -13,7 +13,7 @@ Não foi previdência de ninguém. Foi rota comercial. Aquele trecho do Atlânti
 
 O pedido de socorro alcançou mais navios do que se costuma contar.
 
-Os telegramas daquela noite registram **Alhena**, **Empire Star**, **Formose**, **Mosella**, **Avelona**, **Rosetti**, e ainda *Salem*, *Forthmouth*, *Frederik* e *Piauhy*.
+Os telegramas daquela noite registram **Alhena**, **Empire Star**, **Formosa**, **Mosella**, **Avelona**, **Rosetti**, e ainda *Salem*, *Forthmouth*, *Frederik* e *Piauhy*.
 
 Dez nomes. Holandês, inglês, francês, italiano, brasileiro. Nenhum deles tinha qualquer obrigação com aquela gente além da que existe entre navios.
 
@@ -55,7 +55,7 @@ Agora a parte que eu não consigo resolver, e que precisa ser dita.
 
 **Quase nenhuma conta do resgate fecha.**
 
-Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formose 151, Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
+Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formosa 151, Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
 
 Só que a bordo iam mil duzentas e cinquenta e nove. Somando os trezentos e catorze mortos, dá mil quinhentas e oitenta e oito pessoas num navio que levava mil duzentas e cinquenta e nove.
 
@@ -65,7 +65,7 @@ Uma fecha.
 
 A revista *O Malho*, do Rio, publicou em cinco de novembro de 1927 a contabilidade mais limpa que encontrei: novecentos e sessenta e nove recolhidos, trezentos e doze mortos, mil duzentas e oitenta e uma pessoas a bordo — novecentos e noventa e três passageiros e duzentos e oitenta e oito tripulantes.
 
-E distribui os salvos por quatro cascos: Alhena 530, Formose 380, Mosella 32, Rosetti 27. Os dois primeiros desembarcaram no Rio; o terceiro seguiu para a Bahia; o quarto, para o Recife.
+E distribui os salvos por quatro cascos: Alhena 530, Formosa 380, Mosella 32, Rosetti 27. Os dois primeiros desembarcaram no Rio; o terceiro seguiu para a Bahia; o quarto, para o Recife.
 
 Some. Novecentos e sessenta e nove mais trezentos e doze dão mil duzentas e oitenta e uma, que é o total de bordo. Fecha.
 

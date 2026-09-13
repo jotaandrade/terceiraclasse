@@ -221,8 +221,13 @@ oficial do *Formose* confirma o segundo: "por Rossetti Giovanni, capitão da mar
 brasileira, passageiro do *Formose*, o qual se apresentou voluntariamente". A coincidência de
 nome entre um navio e um herói da noite é armadilha de transcrição — anotar.
 
-⚠️ O livro grafa **"Formosa"**; o nome correto, e o usado na revista, é **Formose** (paquete
-francês). Corrigir nos caps. 16 e 17.
+⚠️ ~~O livro grafa "Formosa"; o nome correto, e o usado na revista, é **Formose**.~~
+🔴 **ERRO MEU, corrigido em 12.09.2026 e revertido no texto.** *O Malho* escreve *Formose*, mas
+essa e uma transcricao brasileira de 1927. O nome do navio e **Formosa** — vapor frances da
+**Compagnie des Chargeurs Reunis**, como grafam Ineichen (2023) e a compilacao em
+`sites.google.com/site/mafaldasinking`, que e a fonte que o proprio Ineichen cita. O livro ja
+estava certo. **Licao: nao corrigir grafia de nome proprio a partir de uma unica transcricao
+de epoca.**
 
 ### 2.5 O material de salvamento
 

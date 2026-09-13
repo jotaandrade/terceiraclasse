@@ -2773,7 +2773,7 @@ O que se sentiu foi a água.
 
 Andres Scavani del Vicario tinha se soltado de uma corda pouco antes, junto com o fotógrafo de bordo, com quem tinha feito amizade durante a viagem. Quando o navio afundou de vez, o redemoinho da descida arrastou os dois para longe.
 
-Foi o que os salvou. A sucção os empurrou na direção do *Formose*, e três horas depois a tripulação francesa ouviu os gritos deles e os pescou.
+Foi o que os salvou. A sucção os empurrou na direção do *Formosa*, e três horas depois a tripulação francesa ouviu os gritos deles e os pescou.
 
 O navio, ao afundar, moveu quem estava na água. Alguns para longe da ajuda, outros para perto dela. Ninguém escolheu.
 
@@ -2825,7 +2825,7 @@ Não foi previdência de ninguém. Foi rota comercial. Aquele trecho do Atlânti
 
 O pedido de socorro alcançou mais navios do que se costuma contar.
 
-Os telegramas daquela noite registram **Alhena**, **Empire Star**, **Formose**, **Mosella**, **Avelona**, **Rosetti**, e ainda *Salem*, *Forthmouth*, *Frederik* e *Piauhy*.
+Os telegramas daquela noite registram **Alhena**, **Empire Star**, **Formosa**, **Mosella**, **Avelona**, **Rosetti**, e ainda *Salem*, *Forthmouth*, *Frederik* e *Piauhy*.
 
 Dez nomes. Holandês, inglês, francês, italiano, brasileiro. Nenhum deles tinha qualquer obrigação com aquela gente além da que existe entre navios.
 
@@ -2867,7 +2867,7 @@ Agora a parte que eu não consigo resolver, e que precisa ser dita.
 
 **Quase nenhuma conta do resgate fecha.**
 
-Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formose 151, Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
+Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formosa 151, Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
 
 Só que a bordo iam mil duzentas e cinquenta e nove. Somando os trezentos e catorze mortos, dá mil quinhentas e oitenta e oito pessoas num navio que levava mil duzentas e cinquenta e nove.
 
@@ -2877,7 +2877,7 @@ Uma fecha.
 
 A revista *O Malho*, do Rio, publicou em cinco de novembro de 1927 a contabilidade mais limpa que encontrei: novecentos e sessenta e nove recolhidos, trezentos e doze mortos, mil duzentas e oitenta e uma pessoas a bordo — novecentos e noventa e três passageiros e duzentos e oitenta e oito tripulantes.
 
-E distribui os salvos por quatro cascos: Alhena 530, Formose 380, Mosella 32, Rosetti 27. Os dois primeiros desembarcaram no Rio; o terceiro seguiu para a Bahia; o quarto, para o Recife.
+E distribui os salvos por quatro cascos: Alhena 530, Formosa 380, Mosella 32, Rosetti 27. Os dois primeiros desembarcaram no Rio; o terceiro seguiu para a Bahia; o quarto, para o Recife.
 
 Some. Novecentos e sessenta e nove mais trezentos e doze dão mil duzentas e oitenta e uma, que é o total de bordo. Fecha.
 
@@ -4422,7 +4422,7 @@ João José de Andrade Neto
 - Telegramas de socorro da noite de 25 de outubro de 1927, com os nomes de dez navios.
 - Corpus de depoimentos: Nazzeconi, Beria, Solk, Ali Hassen, Domingo Milano, Maria Spinelli.
 - Relação do *Alhena*, 28 de outubro de 1927, Ilha das Flores.
-- *O Malho*, Rio de Janeiro, 5 de novembro de 1927, páginas 30-31 e 55 — a narrativa oficial do comandante Allemand, do paquete francês *Formose*, transcrita do diário de bordo; a distribuição dos novecentos e sessenta e nove recolhidos por quatro navios; e o depoimento do comissário Carlos Longobardi, sobrevivente. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+- *O Malho*, Rio de Janeiro, 5 de novembro de 1927, páginas 30-31 e 55 — a narrativa oficial do comandante Allemand, do paquete francês *Formosa*, transcrita do diário de bordo; a distribuição dos novecentos e sessenta e nove recolhidos por quatro navios; e o depoimento do comissário Carlos Longobardi, sobrevivente. Hemeroteca Digital Brasileira, Biblioteca Nacional.
 - *A soma dos resgatados não fecha em quase nenhuma fonte, e as que fecham se contradizem entre si; a discrepância está exposta no capítulo.*
 **Capítulo 18 · Os 314**
 
@@ -4612,7 +4612,7 @@ João José de Andrade Neto
 
 - Forner, Sante passim
 - Forner, Vincenzo passim
-- *Formose* 345, 353, 358-359
+- *Formosa* 345, 353, 358-359
 - Gabassi, Eugenio 306, 335, 347, 356, 373
 - Galli, Valeriano 136, 149, 322, 333, 335, 356, 373, 500-501, 509, 511-512, 539, 559
 - Ganeo, Domenica 67, 526

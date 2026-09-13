@@ -1361,7 +1361,7 @@ Andres Scavani del Vicario tinha se soltado de uma corda pouco antes, junto
 com o fotógrafo de bordo, com quem tinha feito amizade durante a viagem. Quando o navio
 afundou de vez, o redemoinho da descida arrastou os dois para longe.
 
-Foi o que os salvou. A sucção os empurrou na direção do <em>Formose</em>, e três horas
+Foi o que os salvou. A sucção os empurrou na direção do <em>Formosa</em>, e três horas
 depois a tripulação francesa ouviu os gritos deles e os pescou.
 
 O navio, ao afundar, moveu quem estava na água. Alguns para longe da ajuda, outros para
@@ -1431,7 +1431,7 @@ de 1927, tinha tráfego.""",
 """O pedido de socorro alcançou mais navios do que se costuma contar.
 
 Os telegramas daquela noite registram <strong>Alhena</strong>, <strong>Empire Star</strong>,
-<strong>Formose</strong>, <strong>Mosella</strong>, <strong>Avelona</strong>,
+<strong>Formosa</strong>, <strong>Mosella</strong>, <strong>Avelona</strong>,
 <strong>Rosetti</strong>, e ainda <em>Salem</em>, <em>Forthmouth</em>, <em>Frederik</em> e
 <em>Piauhy</em>.
 
@@ -1487,7 +1487,7 @@ Foi assim que ele chegou.""",
 
 <strong>Quase nenhuma conta do resgate fecha.</strong>
 
-Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formose 151,
+Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formosa 151,
 Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
 
 Só que a bordo iam mil duzentas e cinquenta e nove. Somando os trezentos e catorze mortos,
@@ -1505,7 +1505,7 @@ mais limpa que encontrei: novecentos e sessenta e nove recolhidos, trezentos e d
 mil duzentas e oitenta e uma pessoas a bordo — novecentos e noventa e três passageiros e
 duzentos e oitenta e oito tripulantes.
 
-E distribui os salvos por quatro cascos: Alhena 530, Formose 380, Mosella 32, Rosetti 27.
+E distribui os salvos por quatro cascos: Alhena 530, Formosa 380, Mosella 32, Rosetti 27.
 Os dois primeiros desembarcaram no Rio; o terceiro seguiu para a Bahia; o quarto, para o
 Recife.
 
@@ -5582,7 +5582,7 @@ FONTES = {
     u"Spinelli.",
     u"Relação do <em>Alhena</em>, 28 de outubro de 1927, Ilha das Flores.",
     u"<em>O Malho</em>, Rio de Janeiro, 5 de novembro de 1927, páginas 30-31 e 55 — a "
-    u"narrativa oficial do comandante Allemand, do paquete francês <em>Formose</em>, "
+    u"narrativa oficial do comandante Allemand, do paquete francês <em>Formosa</em>, "
     u"transcrita do diário de bordo; a distribuição dos novecentos e sessenta e nove "
     u"recolhidos por quatro navios; e o depoimento do comissário Carlos Longobardi, "
     u"sobrevivente. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
@@ -5743,7 +5743,7 @@ INDICE_ENTRADAS = [
  ('Forner, Rosa', ['Rosa Forner', 'Forner Rosa']),
  ('Forner, Sante', ['Sante']),
  ('Forner, Vincenzo', ['Vincenzo']),
- ('<em>Formose</em>', ['Formose']),
+ ('<em>Formosa</em>', ['Formosa']),
  ('Gabassi, Eugenio', ['Gabassi']),
  ('Galli, Valeriano', ['Galli']),
  ('Ganeo, Domenica', ['Domenica Ganeo', 'Nina']),

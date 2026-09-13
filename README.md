@@ -233,8 +233,10 @@ Detalhe e transcrição em `docs/05-hemeroteca.md`; verificações abertas na se
 
 **Aplicado:**
 
-- **Grafia:** o paquete francês é **Formose**, não *Formosa* — caps. 16 e 17 e o índice
-  onomástico.
+- ~~**Grafia:** o paquete francês é *Formose*, não *Formosa*.~~ 🔴 **Revertido em
+  12.09.2026: o erro era meu.** *O Malho* grafa *Formose*, mas é transcrição brasileira de
+  1927; o navio é o **Formosa**, francês, da Compagnie des Chargeurs Réunis. O livro já estava
+  certo, e voltou a estar.
 - **Cap. 17:** "a conta do resgate não fecha em nenhuma fonte" virou "quase nenhuma conta
   do resgate fecha", e entrou a que fecha — *O Malho*: 969 recolhidos + 312 mortos = 1.281
   a bordo, com o preço de deixar o *Empire Star* e o *Avelona* fora.
