@@ -91,9 +91,9 @@ Depois é o porão, o beliche numerado, o cheiro que o capítulo 9 já descreveu
 
 Há uma palavra num documento deste livro que só faz sentido depois de se ler essa cena inteira.
 
-Quando as duas foram anotadas numa lista, três dias depois do naufrágio, o funcionário escreveu na coluna de parentesco a mesma coisa para as duas: **CHEFE**.
+Quando as duas deram entrada na Hospedaria do Brás, seis dias depois do naufrágio, o funcionário escreveu na coluna de parentesco a mesma coisa para as duas: **CHEFE**.
 
-Aquilo não foi um erro de leitura do escrivão, nem uma delicadeza com duas náufragas.
+Aquilo não foi uma delicadeza com duas náufragas.
 
 Foi uma descrição correta do que tinha acontecido durante catorze dias no mar.
 

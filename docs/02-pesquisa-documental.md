@@ -3061,3 +3061,131 @@ E anterior a esta rodada e sobreviveu a passada de repeticoes de 08.09.2026. **N
 aqui de proposito**: redistribuir depoente entre capitulos e passada editorial propria, e fazer
 isso de afogadilho no meio de outra tarefa desmonta o que funciona. Fica anotado como o proximo
 trabalho de texto do livro.
+
+---
+
+## 41. Releitura dos vinte capitulos restantes — 13.09.2026
+
+Fecha a leitura do livro inteiro. Os sete alterados nas ultimas sessoes estao na secao 40;
+esta e a passada nos outros vinte, com varredura automatica de frases repetidas (n-gramas de
+oito palavras), dose de negrito por capitulo e busca de violacoes da folha de estilo.
+
+### 41.1 🔴 O erro mais grave — e era meu, de ontem
+
+**Cap. 25.** Ao corrigir o *"Angelo e Fausto passaram os olhos por elas"* em 12.09, a
+substituicao quebrou a concordancia e ficou no livro:
+
+> ~~Os dois homens que **passou** os olhos por **ela** e não a **reconheceu veio** daí.~~
+
+Sujeito plural, verbos no singular. Corrigido para *"O homem que passou os olhos por ela e não
+a reconheceu veio daí."* **Licao: substituicao dentro de frase muda regencia — reler a frase
+inteira depois, nao so conferir que a string sumiu.**
+
+### 41.2 🔴 O mesmo erro do CHEFE estava no cap. 10
+
+O cap. 10 dizia:
+
+> *Quando as duas foram anotadas numa lista, **tres dias depois do naufragio**, o funcionario
+> escreveu na coluna de parentesco a mesma coisa para as duas: **CHEFE**. Aquilo nao foi um erro
+> de leitura do escrivao…*
+
+Tres dias depois do naufragio e **28 de outubro**, que e a relacao do *Alhena* — e o *Alhena*
+diz **mai**, nao *chefe*. Era exatamente o erro corrigido nos caps. 17 e 19 em 12.09, e passou
+batido no 10.
+
+Corrigido: **Hospedaria do Bras, seis dias depois**. E saiu a frase *"nao foi um erro de leitura
+do escrivao"*, que hoje soa ao contrario do que se sabe — o escrivao do *Alhena* alternava
+*chefe*, *pai* e *mai* sem criterio, e chegou a escrever *mai* para um homem.
+
+### 41.3 Duplicacoes cortadas
+
+| Onde | O que estava repetido |
+|---|---|
+| **caps. 5 e 21** | o argumento inteiro *"nao foi recrutada, veio encontrar o marido"*, **com a mesma construcao** — *"e uma diferenca que parece pequena e que decide tudo"* / *"e uma distincao que parece burocratica e que decide uma vida inteira"*. Cortada no 21 |
+| **caps. 8 e 9** | o martelo *"A terceira classe nao era um lugar. Era uma tarifa / Era um preco."* Reescrito no 8 |
+| **caps. 11 e 21** | os dois documentos que poem a familia em Grama, descritos igual nos dois. Ficou no 21, que e o capitulo de Grama |
+| **caps. 14 e 15** | a familia Vacelli, com os mesmos numeros e a mesma hora de resgate. Encurtado no 15 |
+| **caps. 21 e 23** | a lista dos onze filhos. Ficou no 23, onde ela e o argumento |
+| **caps. 1 e 6** | *"em duas semanas o exercito recuou mais de cem quilometros"*, identico. Variado no 1 |
+| **caps. 3 e 7** | a explicacao do filho antes do casamento, repetida inteira. O 7 agora remete ao 3 |
+| **caps. 8, 17 e 18** | as duas viuvas, Luchini e De Rosi, em **tres** capitulos. Ficaram no 8 (onde embarcam) e no 18 (onde os maridos sao dois dos 314); saiu do 17 |
+
+### 41.4 Uma contradicao aparente que virou explicacao
+
+O cap. 17 dizia, a poucos paragrafos de distancia, que **345 passageiros de terceira classe**
+desceram na Ilha das Flores e que a relacao do *Alhena* tem **cinquenta imigrantes**. Agora
+explica: aquela folha nao e a lista de quem desceu, e a de quem estava **entrando no Brasil** —
+os outros quase trezentos seguiam para Montevideu e Buenos Aires.
+
+### 41.5 🔴 Pendencia de fato: de onde vem o "1916" de Pietro Luigi
+
+O livro afirma, em **tres capitulos** (3, 6 e 7), que Pietro Luigi Forner morreu em **1916**,
+aos vinte e sete anos. O cap. 3, no paragrafo seguinte, traz o depoimento de Giorgio Forner:
+
+> *Pietro è morto negli Stati Uniti per un incidente sul lavoro in miniera però **non so in che
+> anno** è successo questo.*
+
+E o proprio `README` do projeto registra a pendencia: **achar de onde veio o † 1916**, porque
+este acervo o repete sem procedencia.
+
+⚠️ **Nao foi mexido**, porque muda um fato em tres capitulos e depende de o autor saber de onde
+saiu a data. Mas e do mesmo tipo que o parecer externo apontou: **uma afirmacao que o proprio
+projeto sabe nao ter fonte**. Se a data nao aparecer, a frase tem de virar lacuna declarada, que
+e o que o livro faz bem.
+
+### 41.6 🟡 A folha de estilo e que esta incompleta, nao o texto
+
+A regra diz: *"Negrito e caro. Duas funcoes, e mais nenhuma: a frase que e o golpe do bloco, e a
+palavra que e a propria prova. Nome proprio, data e numero nao vao em negrito."*
+
+A varredura mostra que o livro usa **uma terceira funcao**, de forma sistematica e com bom
+efeito: **o nome que abre um verbete ou uma entrada de lista**.
+
+- cap. 8: `**Beck Josef**`, `**Ban Sandor**`, `**Ruspollo Eugenio**`, `**Forner Rosa**` — a lista
+  de passageiros de Genova
+- cap. 13: `**Antonio Zanni**`, `**Antonio Fontana**`, `**Milhem Solk**`, `**Simone Guli**` — a
+  apresentacao de cada depoente
+- cap. 24: `**Forner**`, `**Miotto**`, `**Terra**`, `**Andrade**` — a cadeia dos sobrenomes
+
+**Sugestao: declarar a terceira funcao na folha de estilo**, em vez de desfazer dezenas de
+ocorrencias que funcionam. É a regra que esta atrasada em relacao ao livro.
+
+*(Consequencia pratica: o calculo automatico de dose fica enganado. O cap. 8 aparece com um
+negrito a cada 55 palavras, o que pareceria alarmante, e sao quase todos nomes de lista.)*
+
+### 41.7 🟡 Uma frase para o autor decidir
+
+Cap. 6: *"**Durante muito tempo eu completei essa frase com outra**, dizendo que ele tinha
+morrido na guerra…"*
+
+Pode ser lida como o narrador falando do que **supunha** — legitimo — ou do que **escrevia no
+manuscrito** — proibido pela regra. É ambigua, e a decisao e do autor. *(A do cap. 13, que era
+inequivoca, ja saiu: ver secao 40.)*
+
+Nao confundir com as **remissoes internas**, que sao legitimas e o livro usa bem: *"o capitulo 3
+ja mostrou"*, *"no primeiro capitulo deste livro eu escrevi que…"*, *"fica para o capitulo dos
+mortos"*.
+
+### 41.8 Dose de negrito, mapa completo
+
+Densos (abaixo de 120 palavras por negrito): **20** (1/108), **24** (1/109), **26** (1/109) —
+e os tres sao capitulos curtos de clima alto, onde a concentracao pode ser deliberada.
+
+Esparsos: **02** (nenhum negrito em 2.441 palavras), **05** (1/1286), **06** (1/917), **04**
+(1/820), **07** (1/809), **22** (1/560, deliberado — a regra manda escrever seco o capitulo do
+Enrico).
+
+⚠️ **O Livro I inteiro quase nao usa negrito e o Livro III usa muito.** Nao e erro: capitulo
+expositivo tem menos martelo que capitulo de clímax. Fica registrado como observacao de ritmo,
+para quem fizer a preparacao final.
+
+### 41.9 O que esta leitura confirmou que esta certo
+
+- **Dakar no cap. 12** nao e erro: ali descreve-se a **rota habitual**, e o cap. 13 explica que
+  na ultima viagem a escala foi Mindelo, e por que.
+- As remissoes internas entre capitulos estao corretas e conferidas (*"daqui a cinco
+  capitulos"*, no cap. 9, cai mesmo no 14).
+- O cap. 9 declara a fonte do cozinheiro e a divergencia entre os dois galhos, como a regra
+  manda.
+- O cap. 20 diz com todas as letras o que a Patricia nao afirma, e deixa a duvida onde ela a
+  deixou.

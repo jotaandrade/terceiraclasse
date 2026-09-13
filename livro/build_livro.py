@@ -185,8 +185,7 @@ dezoito anos, um casal de quase sessenta, lavradores, um carpinteiro, um carvoei
 
 <strong>A terceira classe não era um lugar. Era uma tarifa.</strong>
 
-O que aquelas pessoas tinham em comum não era país, nem língua, nem religião, nem ofício.
-Era o preço do bilhete.
+Nem língua, nem religião, nem ofício: o bilhete.
 
 Quinze anos antes aquele porão teria sido quase todo italiano. Em 1927 já não era. Nas duas
 semanas seguintes, aquela gente ia dividir o mesmo espaço sem partilhar uma língua.""",
@@ -476,8 +475,8 @@ naquela fila, subiu e desceu aquelas escadas.
 
 E seis meses depois embarcou nele a mulher, com Gina, Pulcheria, Rino e Danilo.
 
-<strong>Ele mandou buscar a família no navio que ele mesmo tinha usado, e do qual não teve
-o que reclamar.</strong>""",
+<strong>Ele mandou buscar a família no navio que ele mesmo tinha acabado de
+usar.</strong>""",
 
 """E o Fausto?
 
@@ -516,9 +515,7 @@ conta própria.""",
 Grama, hoje São Sebastião da Grama, município da comarca de São José do Rio
 Pardo, no nordeste do estado de São Paulo. Terra de café.
 
-Dois documentos põem a família ali: o carimbo da Delegacia de Polícia de Grama na ficha de
-estrangeiro do Angelo, e o assento de casamento número 660 do cartório de Grama, de 1947,
-que registra o casamento de uma filha de Fausto e Rosa nascida naquele município.
+Há dois documentos que põem a família ali, e eles são o assunto do capítulo 21.
 
 Era para lá que aquelas sete pessoas estavam indo.""",
 
@@ -1195,9 +1192,8 @@ Elas não se completam. Elas se contradizem.
 
 E o que separa uma da outra não é honestidade. É o convés em que cada uma dormia.""",
 
-"""<strong>A família Vacelli viajava na primeira classe.</strong> O casal e três filhos, de
-quinze, treze e dez anos. Esperaram a noite inteira na popa e foram recolhidos às nove e
-meia.
+"""<strong>A família Vacelli viajava na primeira classe</strong> — são os cinco que passaram
+a noite na popa, no capítulo anterior, esperando a vez.
 
 A versão deles:
 
@@ -2576,10 +2572,8 @@ Não houve luto público. Não houve indenização. Não houve pausa.
 Ninguém deu a eles um ano para se recuperar, e eu desconfio que nem lhes tenha ocorrido
 pedir.""",
 
-"""Depois de Erminda vieram Nair, Maria Therezinha, Izaira, Fermino, Mafalda, Rosalia, Luiz,
-Dionísio, e mais uma.
-
-Onze filhos ao todo, contando o Enrico. Dez nascidos no Brasil.
+"""Depois dela vieram mais nove. Onze filhos ao todo, contando o Enrico, e dez nascidos no
+Brasil. A lista inteira, e o que ela mostra, ficam para o capítulo 23.
 
 Nem todos chegaram à idade adulta. Rosalia nasceu em 1940 e morreu em 1941, e naquele lugar e
 naquela época isso não era exceção.""",
@@ -3078,8 +3072,8 @@ dois bisnetos que não sabiam da existência um do outro.""",
 """Depois disso a gente conversou muito, e continua conversando.
 
 Unificamos as raízes, juntamos o que cada um tinha, e boa parte do que este livro conta veio
-dessas conversas. O navio de carvão veio daí. A hospedaria veio daí. Os dois homens que
-passou os olhos por ela e não a reconheceu veio daí.
+dessas conversas. O navio de carvão veio daí. A hospedaria veio daí. O homem que passou os olhos por
+ela e não a reconheceu veio daí.
 
 E de outra prima, de outro ramo desta mesma família, veio o resto: o cozinheiro que desceu ao
 porão e a menina que achou o pai no meio da multidão.
@@ -3222,10 +3216,10 @@ de mar.
 """Há uma palavra num documento deste livro que só faz sentido depois de se ler essa cena
 inteira.
 
-Quando as duas foram anotadas numa lista, três dias depois do naufrágio, o funcionário
-escreveu na coluna de parentesco a mesma coisa para as duas: <strong>CHEFE</strong>.
+Quando as duas deram entrada na Hospedaria do Brás, seis dias depois do naufrágio, o
+funcionário escreveu na coluna de parentesco a mesma coisa para as duas: <strong>CHEFE</strong>.
 
-Aquilo não foi um erro de leitura do escrivão, nem uma delicadeza com duas náufragas.
+Aquilo não foi uma delicadeza com duas náufragas.
 
 Foi uma descrição correta do que tinha acontecido durante catorze dias no mar.""",
 
@@ -4008,8 +4002,8 @@ também é um dado.""",
 
 """Em 24 de outubro de 1917 a frente italiana arrebentou em Caporetto.
 
-Em duas semanas o exército recuou mais de cem quilômetros. E parou onde? No rio
-Piave, e no Monte Grappa.
+O exército recuou até parar em duas linhas. Uma era o rio
+Piave. A outra era o Monte Grappa.
 
 Na montanha que se via da janela.
 
@@ -5570,9 +5564,8 @@ Isso não é escândalo e não é fofoca de cartório. É informação sobre com
 funcionava.
 
 Numa vila católica do Vêneto de 1926, um filho nascido antes do casamento e reconhecido
-oito semanas depois quer dizer que houve uma relação estável antes, e que a formalização
-esperou alguma coisa. Dinheiro, autorização de família, a vinda de um padre, o fim de uma
-colheita, uma papelada. Não dá para saber qual.
+oito semanas depois quer dizer o que o capítulo 3 já explicou: houve uma relação estável antes,
+e a formalização esperou alguma coisa. Não dá para saber qual.
 
 E há uma coincidência que o capítulo 3 já mostrou: <strong>trinta e nove anos antes, os
 pais de Rosa fizeram exatamente a mesma coisa.</strong> Vincenzo e Santa casaram-se em

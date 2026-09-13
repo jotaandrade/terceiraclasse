@@ -91,9 +91,7 @@ Não houve luto público. Não houve indenização. Não houve pausa.
 
 Ninguém deu a eles um ano para se recuperar, e eu desconfio que nem lhes tenha ocorrido pedir.
 
-Depois de Erminda vieram Nair, Maria Therezinha, Izaira, Fermino, Mafalda, Rosalia, Luiz, Dionísio, e mais uma.
-
-Onze filhos ao todo, contando o Enrico. Dez nascidos no Brasil.
+Depois dela vieram mais nove. Onze filhos ao todo, contando o Enrico, e dez nascidos no Brasil. A lista inteira, e o que ela mostra, ficam para o capítulo 23.
 
 Nem todos chegaram à idade adulta. Rosalia nasceu em 1940 e morreu em 1941, e naquele lugar e naquela época isso não era exceção.
 

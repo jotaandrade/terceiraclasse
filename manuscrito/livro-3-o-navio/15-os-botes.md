@@ -59,7 +59,7 @@ Elas não se completam. Elas se contradizem.
 
 E o que separa uma da outra não é honestidade. É o convés em que cada uma dormia.
 
-**A família Vacelli viajava na primeira classe.** O casal e três filhos, de quinze, treze e dez anos. Esperaram a noite inteira na popa e foram recolhidos às nove e meia.
+**A família Vacelli viajava na primeira classe** — são os cinco que passaram a noite na popa, no capítulo anterior, esperando a vez.
 
 A versão deles:
 

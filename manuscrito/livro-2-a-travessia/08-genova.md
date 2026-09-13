@@ -87,7 +87,7 @@ Iugoslavos, húngaros, italianos do norte, italianos do sul, um israelita, um sa
 
 **A terceira classe não era um lugar. Era uma tarifa.**
 
-O que aquelas pessoas tinham em comum não era país, nem língua, nem religião, nem ofício. Era o preço do bilhete.
+Nem língua, nem religião, nem ofício: o bilhete.
 
 Quinze anos antes aquele porão teria sido quase todo italiano. Em 1927 já não era. Nas duas semanas seguintes, aquela gente ia dividir o mesmo espaço sem partilhar uma língua.
 

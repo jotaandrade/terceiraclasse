@@ -51,7 +51,7 @@ Angelo Dei Agnoli conheceu aquele navio. Atravessou nele. Dormiu naquele porão,
 
 E seis meses depois embarcou nele a mulher, com Gina, Pulcheria, Rino e Danilo.
 
-**Ele mandou buscar a família no navio que ele mesmo tinha usado, e do qual não teve o que reclamar.**
+**Ele mandou buscar a família no navio que ele mesmo tinha acabado de usar.**
 
 E o Fausto?
 
@@ -81,7 +81,7 @@ O destino, esse eu sei.
 
 Grama, hoje São Sebastião da Grama, município da comarca de São José do Rio Pardo, no nordeste do estado de São Paulo. Terra de café.
 
-Dois documentos põem a família ali: o carimbo da Delegacia de Polícia de Grama na ficha de estrangeiro do Angelo, e o assento de casamento número 660 do cartório de Grama, de 1947, que registra o casamento de uma filha de Fausto e Rosa nascida naquele município.
+Há dois documentos que põem a família ali, e eles são o assunto do capítulo 21.
 
 Era para lá que aquelas sete pessoas estavam indo.
 

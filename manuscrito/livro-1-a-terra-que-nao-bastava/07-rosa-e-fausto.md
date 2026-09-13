@@ -35,7 +35,7 @@ Rosa não estava grávida na cerimônia. Estava com um bebê de quase dois meses
 
 Isso não é escândalo e não é fofoca de cartório. É informação sobre como aquela vida funcionava.
 
-Numa vila católica do Vêneto de 1926, um filho nascido antes do casamento e reconhecido oito semanas depois quer dizer que houve uma relação estável antes, e que a formalização esperou alguma coisa. Dinheiro, autorização de família, a vinda de um padre, o fim de uma colheita, uma papelada. Não dá para saber qual.
+Numa vila católica do Vêneto de 1926, um filho nascido antes do casamento e reconhecido oito semanas depois quer dizer o que o capítulo 3 já explicou: houve uma relação estável antes, e a formalização esperou alguma coisa. Não dá para saber qual.
 
 E há uma coincidência que o capítulo 3 já mostrou: **trinta e nove anos antes, os pais de Rosa fizeram exatamente a mesma coisa.** Vincenzo e Santa casaram-se em 1887, e a primeira filha, Angela, nasceu em 1886.
 
