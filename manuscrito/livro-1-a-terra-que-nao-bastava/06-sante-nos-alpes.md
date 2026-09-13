@@ -121,7 +121,7 @@ Poucos soldados na história defendem literalmente a vista da própria janela.
 
 No verão de 1918 os austro-húngaros tentaram o Grappa de novo e falharam de novo.
 
-Em 24 de outubro de 1918, um ano exato depois de Caporetto, os italianos atacaram subindo, dentro da ofensiva de Vittorio Veneto. O império austro-húngaro se desfez enquanto a batalha acontecia.
+Um ano exato depois de Caporetto, foram os italianos que subiram. O império austro-húngaro se desfez enquanto a batalha acontecia.
 
 Em 4 de novembro de 1918 acabou.
 

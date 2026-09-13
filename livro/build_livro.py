@@ -183,7 +183,7 @@ sair.""",
 Iugoslavos, húngaros, italianos do norte, italianos do sul, um israelita, um sapateiro de
 dezoito anos, um casal de quase sessenta, lavradores, um carpinteiro, um carvoeiro.
 
-<strong>A terceira classe não era um lugar. Era uma tarifa.</strong>
+<strong>Aquela gente não tinha em comum um país. Tinha em comum um preço.</strong>
 
 Nem língua, nem religião, nem ofício: o bilhete.
 
@@ -1762,11 +1762,6 @@ para sempre e nunca mais voltar à Itália</em>.
 
 O naufrágio não a impediu de chegar. Impediu-a de voltar.""",
 
-"""Naquela folha estão também as duas mulheres do capítulo 8.
-
-Subiram a prancha em Gênova ao lado dos maridos e desceram aqui sem eles. O que o funcionário
-escreveu ao lado dos nomes delas fica para o capítulo dos mortos.""",
-
 """Aquela folha de papel é o momento em que esta família volta a existir para o mundo.
 
 Entre o estrondo das cinco e quinze do dia 25 e a assinatura do intérprete no dia 28, não há
@@ -1952,25 +1947,14 @@ vivo</strong>.""",
 """Dois dos trezentos e catorze estão num documento que está em cima da minha mesa. E estão
 nele como ausência.
 
-Na lista do <em>Alhena</em>, os números 24 e 25 são Luchini Teresa, dezenove
-anos, e De Rosi Emilia, cinquenta e cinco. Aparecem sozinhas, uma
-seguida da outra, sem parentesco declarado, cada uma com um <em>x</em> marcado à margem.
+São os maridos de Luchini Teresa e de De Rosi Emilia, as duas mulheres que subiram a prancha
+em Gênova no capítulo 8.
 
-E no pé da folha, escrito à mão:
+Eles não têm nome em documento nenhum que eu tenha encontrado. O que existe daqueles dois
+homens é o <em>x</em> que um funcionário brasileiro marcou à margem do nome das mulheres deles,
+e a linha escrita a mão no pé da folha dizendo que elas pediam para voltar.
 
-<em>As passageiras constantes sob Nº 24 e 25 perderam seus maridos, e pedem de ser enviadas
-para Italia.</em>
-
-Os dois homens não têm nome em documento nenhum que eu tenha encontrado. Existem ali como
-aquilo que faltou ao lado do nome de duas mulheres.""",
-
-"""E a última coisa daquela folha é o que elas pedem.
-
-Dezessete dias antes tinham subido a prancha em Gênova ao lado dos maridos, indo embora para
-sempre. Atravessaram o Atlântico inteiro. Chegaram.
-
-<strong>E o que pedem, na primeira repartição brasileira em que puderam falar, é para
-voltar.</strong>""",
+<strong>Existem como aquilo que faltou ao lado de um nome.</strong>""",
 
 """Quase não houve recolhimento de corpos.
 
@@ -2522,8 +2506,7 @@ declarado, não seguiu para fazenda nenhuma.
 
 Ela veio encontrar o marido.
 
-<strong>Reunião familiar, não colonização.</strong> É uma distinção que parece burocrática e
-que decide uma vida inteira.""",
+<strong>Reunião familiar, não colonização.</strong>""",
 
 """Quem vinha pelo sistema de colonato chegava devendo.
 
@@ -5331,8 +5314,7 @@ Poucos soldados na história defendem literalmente a vista da própria janela.""
 
 """No verão de 1918 os austro-húngaros tentaram o Grappa de novo e falharam de novo.
 
-Em 24 de outubro de 1918, um ano exato depois de Caporetto, os italianos atacaram
-subindo, dentro da ofensiva de Vittorio Veneto. O império austro-húngaro se desfez
+Um ano exato depois de Caporetto, foram os italianos que subiram. O império austro-húngaro se desfez
 enquanto a batalha acontecia.
 
 Em 4 de novembro de 1918 acabou.
@@ -5545,9 +5527,8 @@ de causa que continua desconhecida. Tinha outro irmão, Sante, que voltou do Mon
 com três medalhas e o silêncio que normalmente vem junto. Tinha sido criada, na prática,
 pela irmã mais velha, Maria Luigia.
 
-Fausto cresceu numa vila em que ir embora era uma das coisas que os homens faziam. Do pai
-dele, Luigi Miotto, existem três aparições em papel ao longo de oitenta anos, e entre elas
-nada. Um homem que deixou o nome e não deixou rastro.
+Do pai de Fausto, Luigi Miotto, existem três aparições em papel ao longo de oitenta anos, e
+entre elas nada. Um homem que deixou o nome e não deixou rastro.
 
 Nenhum dos dois tinha herança para receber.""",
 

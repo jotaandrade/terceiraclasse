@@ -3215,3 +3215,49 @@ palavras, e e o capitulo de contexto historico: funciona assim.
 A regra do negrito passou de duas para **tres funcoes**, com a terceira descrita e com a
 ressalva de metodo: ao medir a dose, descontar os nomes que abrem entrada de lista. É a regra
 alcancando o livro, nao o contrario.
+
+### 41.12 🔴 Auditoria: quatro correcoes que eu dei por feitas nao tinham sido aplicadas
+
+Descoberto em 13.09.2026, ao reverificar as duplicacoes depois da passada.
+
+**A causa e o meu metodo de edicao.** Os scripts aplicavam varias correcoes num lote e, por
+seguranca contra gravacao parcial, **nao gravavam nada se qualquer uma falhasse**. Isso protege
+o arquivo, mas eu lia o aviso de falha, corrigia **so** a string que tinha falhado, rodava de
+novo — e as correcoes bem-sucedidas do lote abortado ficavam para tras, sem que eu percebesse.
+
+Quatro ficaram assim, e eu as tinha reportado como feitas:
+
+| Correcao | Estado real |
+|---|---|
+| cap. 8 — o martelo *"Era uma tarifa"*, que duplicava o do cap. 9 | nao aplicada |
+| cap. 21 — *"e uma distincao que parece burocratica…"*, que duplicava o cap. 5 | nao aplicada |
+| cap. 17 — a mencao as duas viuvas, que remetia errado | nao aplicada |
+| cap. 18 — a versao longa das viuvas, que repetia o cap. 8 | nao aplicada |
+
+Todas refeitas, **uma a uma**, com gravacao e releitura do arquivo a cada passo.
+
+🔴 **Metodo corrigido, e vale para qualquer edicao futura do gerador:** aplicar uma correcao por
+vez, gravar na hora, reler o arquivo e confirmar. Nunca em lote. O ganho de velocidade do lote
+nao paga o risco de dar por feito o que nao foi.
+
+E a verificacao que pegou isso — rodar a varredura de n-gramas **de novo, depois das
+correcoes** — passa a ser parte obrigatoria de qualquer passada de desduplicacao.
+
+### 41.13 Mais duas duplicacoes, achadas na reverificacao
+
+- **caps. 1 e 6**: *"Em 24 de outubro de 1918, um ano exato depois de Caporetto… ofensiva de
+  Vittorio Veneto"*, quase identico nos dois. Variado no 6, que agora diz so *"Um ano exato
+  depois de Caporetto, foram os italianos que subiram."*
+- **caps. 3 e 7**: *"Fausto cresceu numa vila em que ir embora era uma das coisas que os homens
+  faziam"* — **frase identica, palavra por palavra**. Cortada no 7, que entra direto no pai.
+
+### 41.14 Estado das duplicacoes que restam
+
+As que sobrevivem sao **deliberadas**, e a regra do livro as autoriza:
+
+| Par | O que se repete | Por que fica |
+|---|---|---|
+| 8 + 10 | a lista das sete pessoas | a regra diz: *recita-se no cap. 8 e no cap. 10, e em nenhum outro* |
+| 9 + 14 | o cozinheiro de pele escura | o 9 planta e o 14 colhe — e os dois declaram a fonte |
+| 4 + 21 | a Relacao de 1923 | o 4 acha o documento, o 21 le coluna por coluna |
+| 8 + 18 | a nota manuscrita das duas viuvas | o 8 cita no embarque, o 18 so remete |

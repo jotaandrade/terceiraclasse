@@ -85,7 +85,7 @@ Repare na composição daquela lista.
 
 Iugoslavos, húngaros, italianos do norte, italianos do sul, um israelita, um sapateiro de dezoito anos, um casal de quase sessenta, lavradores, um carpinteiro, um carvoeiro.
 
-**A terceira classe não era um lugar. Era uma tarifa.**
+**Aquela gente não tinha em comum um país. Tinha em comum um preço.**
 
 Nem língua, nem religião, nem ofício: o bilhete.
 

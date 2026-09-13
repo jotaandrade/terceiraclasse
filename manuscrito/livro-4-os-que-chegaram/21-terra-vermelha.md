@@ -53,7 +53,7 @@ Ela não foi recrutada. Não teve passagem paga pelo Estado de São Paulo, não 
 
 Ela veio encontrar o marido.
 
-**Reunião familiar, não colonização.** É uma distinção que parece burocrática e que decide uma vida inteira.
+**Reunião familiar, não colonização.**
 
 Quem vinha pelo sistema de colonato chegava devendo.
 

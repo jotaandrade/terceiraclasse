@@ -19,7 +19,7 @@ Vale olhar quem eram essas duas pessoas em 1926.
 
 Rosa tinha perdido a mãe aos onze anos. Tinha perdido um irmão, Pietro Luigi, em 1916, de causa que continua desconhecida. Tinha outro irmão, Sante, que voltou do Monte Grappa com três medalhas e o silêncio que normalmente vem junto. Tinha sido criada, na prática, pela irmã mais velha, Maria Luigia.
 
-Fausto cresceu numa vila em que ir embora era uma das coisas que os homens faziam. Do pai dele, Luigi Miotto, existem três aparições em papel ao longo de oitenta anos, e entre elas nada. Um homem que deixou o nome e não deixou rastro.
+Do pai de Fausto, Luigi Miotto, existem três aparições em papel ao longo de oitenta anos, e entre elas nada. Um homem que deixou o nome e não deixou rastro.
 
 Nenhum dos dois tinha herança para receber.
 

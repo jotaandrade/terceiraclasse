@@ -1151,7 +1151,7 @@ Poucos soldados na história defendem literalmente a vista da própria janela.
 
 No verão de 1918 os austro-húngaros tentaram o Grappa de novo e falharam de novo.
 
-Em 24 de outubro de 1918, um ano exato depois de Caporetto, os italianos atacaram subindo, dentro da ofensiva de Vittorio Veneto. O império austro-húngaro se desfez enquanto a batalha acontecia.
+Um ano exato depois de Caporetto, foram os italianos que subiram. O império austro-húngaro se desfez enquanto a batalha acontecia.
 
 Em 4 de novembro de 1918 acabou.
 
@@ -1321,7 +1321,7 @@ Vale olhar quem eram essas duas pessoas em 1926.
 
 Rosa tinha perdido a mãe aos onze anos. Tinha perdido um irmão, Pietro Luigi, em 1916, de causa que continua desconhecida. Tinha outro irmão, Sante, que voltou do Monte Grappa com três medalhas e o silêncio que normalmente vem junto. Tinha sido criada, na prática, pela irmã mais velha, Maria Luigia.
 
-Fausto cresceu numa vila em que ir embora era uma das coisas que os homens faziam. Do pai dele, Luigi Miotto, existem três aparições em papel ao longo de oitenta anos, e entre elas nada. Um homem que deixou o nome e não deixou rastro.
+Do pai de Fausto, Luigi Miotto, existem três aparições em papel ao longo de oitenta anos, e entre elas nada. Um homem que deixou o nome e não deixou rastro.
 
 Nenhum dos dois tinha herança para receber.
 
@@ -1537,7 +1537,7 @@ Repare na composição daquela lista.
 
 Iugoslavos, húngaros, italianos do norte, italianos do sul, um israelita, um sapateiro de dezoito anos, um casal de quase sessenta, lavradores, um carpinteiro, um carvoeiro.
 
-**A terceira classe não era um lugar. Era uma tarifa.**
+**Aquela gente não tinha em comum um país. Tinha em comum um preço.**
 
 Nem língua, nem religião, nem ofício: o bilhete.
 
@@ -3097,10 +3097,6 @@ E fecha o depoimento assim: *depois de três viagens à América do Sul, resolvi
 
 O naufrágio não a impediu de chegar. Impediu-a de voltar.
 
-Naquela folha estão também as duas mulheres do capítulo 8.
-
-Subiram a prancha em Gênova ao lado dos maridos e desceram aqui sem eles. O que o funcionário escreveu ao lado dos nomes delas fica para o capítulo dos mortos.
-
 Aquela folha de papel é o momento em que esta família volta a existir para o mundo.
 
 Entre o estrondo das cinco e quinze do dia 25 e a assinatura do intérprete no dia 28, não há uma linha sequer sobre elas em documento nenhum. Três dias inteiros de nada.
@@ -3253,19 +3249,11 @@ Não é a lista dos que morreram: parte daquela gente se atirou depois dele e fo
 
 Dois dos trezentos e catorze estão num documento que está em cima da minha mesa. E estão nele como ausência.
 
-Na lista do *Alhena*, os números 24 e 25 são Luchini Teresa, dezenove anos, e De Rosi Emilia, cinquenta e cinco. Aparecem sozinhas, uma seguida da outra, sem parentesco declarado, cada uma com um *x* marcado à margem.
+São os maridos de Luchini Teresa e de De Rosi Emilia, as duas mulheres que subiram a prancha em Gênova no capítulo 8.
 
-E no pé da folha, escrito à mão:
+Eles não têm nome em documento nenhum que eu tenha encontrado. O que existe daqueles dois homens é o *x* que um funcionário brasileiro marcou à margem do nome das mulheres deles, e a linha escrita a mão no pé da folha dizendo que elas pediam para voltar.
 
-*As passageiras constantes sob Nº 24 e 25 perderam seus maridos, e pedem de ser enviadas para Italia.*
-
-Os dois homens não têm nome em documento nenhum que eu tenha encontrado. Existem ali como aquilo que faltou ao lado do nome de duas mulheres.
-
-E a última coisa daquela folha é o que elas pedem.
-
-Dezessete dias antes tinham subido a prancha em Gênova ao lado dos maridos, indo embora para sempre. Atravessaram o Atlântico inteiro. Chegaram.
-
-**E o que pedem, na primeira repartição brasileira em que puderam falar, é para voltar.**
+**Existem como aquilo que faltou ao lado de um nome.**
 
 Quase não houve recolhimento de corpos.
 
@@ -3731,7 +3719,7 @@ Ela não foi recrutada. Não teve passagem paga pelo Estado de São Paulo, não 
 
 Ela veio encontrar o marido.
 
-**Reunião familiar, não colonização.** É uma distinção que parece burocrática e que decide uma vida inteira.
+**Reunião familiar, não colonização.**
 
 Quem vinha pelo sistema de colonato chegava devendo.
 
@@ -4954,32 +4942,32 @@ João José de Andrade Neto
 ## Índice onomástico
 
 - Alhena, vapor passim
-- Andrade, Carlos Aparecido de 522, 591, 603
-- Andrade, João Luca Soares de 53, 538, 587-588, 590-591, 603
+- Andrade, Carlos Aparecido de 520, 589, 601
+- Andrade, João Luca Soares de 53, 536, 585-586, 588-589, 601
 - Asolo passim
-- Beck Josef 175, 430
+- Beck Josef 175, 428
 - Beria, Batista 319, 346-347, 369, 371
-- Betti, João 325, 444, 451, 567
-- Betti, Patrícia 325, 444, 448, 450, 540, 592
-- Buenos Aires 196-197, 259, 268-269, 275, 348, 383, 415, 434
+- Betti, João 325, 442, 449, 565
+- Betti, Patrícia 325, 442, 446, 448, 538, 590
+- Buenos Aires 196-197, 259, 268-269, 275, 348, 383, 413, 432
 - Cadorna, Luigi 123
 - Cadorna, Raffaele 32, 123
 - Castelcucco passim
-- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 227, 245, 284, 424
+- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 227, 245, 284, 422
 - Dei Agnoli, Angelo passim
-- Dei Agnoli, Danilo 159, 180, 208, 227, 231, 387, 424
-- Dei Agnoli, Gina Oliva 159, 180, 208, 215, 231, 284, 387, 424, 451, 458
-- Dei Agnoli, Pulcheria Pasqua 159, 180, 200, 205, 208, 215, 231, 324-325, 387, 424, 444, 451, 453, 525, 540, 567, 569, 592
-- Dei Agnoli, Rino 159, 180, 208, 231, 387, 424, 459
-- De Rosi Emilia 177, 405, 431
+- Dei Agnoli, Danilo 159, 180, 208, 227, 231, 386, 422
+- Dei Agnoli, Gina Oliva 159, 180, 208, 215, 231, 284, 386, 422, 449, 456
+- Dei Agnoli, Pulcheria Pasqua 159, 180, 200, 205, 208, 215, 231, 324-325, 386, 422, 442, 449, 451, 523, 538, 565, 567, 590
+- Dei Agnoli, Rino 159, 180, 208, 231, 386, 422, 457
+- De Rosi Emilia 177, 404, 429
 - *Empire Star* 296-297, 320, 333, 356, 366-368, 373-374
-- Filipovich, Thomas 383, 414
+- Filipovich, Thomas 383, 412
 - Fontana, Antonio 288-289
-- Forner, Abele Alessandro 55, 554
+- Forner, Abele Alessandro 55, 552
 - Forner, Domenico 53
-- Forner, Galliano 136, 149, 537-538, 546, 548-549, 576, 597
+- Forner, Galliano 136, 149, 535-536, 544, 546-547, 574, 595
 - Forner, Giorgio passim
-- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 575
+- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 573
 - Forner, Maria Luigia passim
 - Forner, Pietro Luigi 57, 60, 124, 154
 - Forner, Rosa passim
@@ -4987,69 +4975,69 @@ João José de Andrade Neto
 - Forner, Sante passim
 - Forner, Vincenzo passim
 - *Formosa* 357, 362, 368, 373-374
-- Gabassi, Eugenio 313, 347, 359, 371, 402
-- Galli, Valeriano 136, 149, 329, 345, 347, 371, 402, 537-538, 546, 548-549, 576, 597
-- Ganeo, Domenica 67, 563
+- Gabassi, Eugenio 313, 347, 359, 371, 401
+- Galli, Valeriano 136, 149, 329, 345, 347, 371, 401, 535-536, 544, 546-547, 574, 595
+- Ganeo, Domenica 67, 561
 - Gênova passim
-- Grama (São Sebastião da Grama) 235, 245, 461-462, 471-472, 480, 504, 517
-- Gulì, Simone 287, 293, 296, 350, 358, 360-361, 395, 408, 415
-- Hassen, Ali 316, 329, 370-371, 403
-- Hospedaria de Imigrantes do Brás 202, 218, 232, 234, 413-414, 417-419, 422, 432, 438, 448, 479, 566
-- Ilha das Flores 297, 382, 414, 430, 432
+- Grama (São Sebastião da Grama) 235, 245, 459-460, 469-470, 478, 502, 515
+- Gulì, Simone 287, 293, 296, 350, 358, 360-361, 394, 406, 413
+- Hassen, Ali 316, 329, 370-371, 402
+- Hospedaria de Imigrantes do Brás 202, 218, 232, 234, 411-412, 415-417, 420, 430, 436, 446, 477, 564
+- Ilha das Flores 297, 382, 412, 428, 430
 - Leo, Domenico 333, 347
-- Luchini Teresa 177, 405
+- Luchini Teresa 177, 404
 - Lynose, Nicola 292, 295-296, 321, 337, 346, 371
-- Malone, Salvador 329, 347, 359-360, 402
+- Malone, Salvador 329, 347, 359-360, 401
 - Mandolezzi, Vincenzo 331
 - Manin, Daniele 27
-- Maser 67-69, 561
+- Maser 67-69, 559
 - Milano, Domingo 371-372
-- Miotto, Amabile Veronica 72, 76, 571
+- Miotto, Amabile Veronica 72, 76, 569
 - Miotto, Enrico passim
-- Miotto, Erminda 472, 500, 513, 566
+- Miotto, Erminda 470, 498, 511, 564
 - Miotto, Fausto passim
-- Miotto, Luigi 67-68, 70, 154, 560-561, 563-564
-- Miotto, Maria Luigia 73-74, 77, 136, 149, 608
-- Miotto, Vittorio 19, 72, 76, 125-126, 131, 253, 276, 495
+- Miotto, Luigi 67-68, 70, 154, 558-559, 561-562
+- Miotto, Maria Luigia 73-74, 77, 136, 149, 606
+- Miotto, Vittorio 19, 72, 76, 125-126, 253, 276, 493
 - Monfumo passim
 - Monte Grappa passim
-- *Mosella* 366, 368, 373-374, 389, 407
+- *Mosella* 366, 368, 373-374, 388, 405
 
 - Mussolini, Benito 161
 - Nazzeconi, Enrico 316, 326, 354, 356, 369
-- Ottaviani, Mario 336, 353, 404
-- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 219, 256, 527, 541, 557, 559, 609
+- Ottaviani, Mario 336, 353, 403
+- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 219, 256, 525, 539, 555, 557, 607
 - Pecci, Pascual 293, 348
 - Ponce, Antonio 329, 347
 - Possagno 3, 14, 127
 - *Principessa Jolanda* 248, 250-251, 256
 - *Principessa Mafalda* passim
 - Prinetti, Giulio 96, 101, 106, 108, 162
-- Rio de Janeiro 174, 177, 183, 215, 259, 287, 297, 309, 311, 313, 322, 403, 414, 421, 432
+- Rio de Janeiro 174, 177, 183, 215, 259, 287, 297, 309, 311, 313, 322, 402, 412, 419, 430
 - Riva Trigoso 248, 256-257
 - Rivarola, Camilo 289-290
 - Rosas, Patricio de 285, 288, 291
-- *Rosetti* 368, 371, 373-374, 402, 407
-- Sanfilippo, Alfio 333, 347, 371, 402
+- *Rosetti* 368, 371, 373-374, 401, 405
+- Sanfilippo, Alfio 333, 347, 371, 401
 - Santororo, Juan 345
-- Santos, porto de 97, 116, 191, 195-196, 198, 209, 230, 238, 245, 269, 415, 446
-- Savoia, Mafalda di 253, 276, 495
+- Santos, porto de 97, 116, 191, 195-196, 198, 209, 230, 238, 245, 269, 413, 444
+- Savoia, Mafalda di 253, 276, 493
 - Scavani del Vicario, Andres 357, 371
 - Solk, Milhem 198, 291, 315, 347, 369
-- Sorocaba 141, 477, 486, 491
+- Sorocaba 141, 475, 484, 489
 - São Paulo passim
 - São Vicente (Cabo Verde) 287
 - Spinelli, Maria 188, 330, 384
-- Terra, Mafalda Miotto 97, 465, 500, 508, 522
-- Terra, Marta 509, 522, 525, 538, 588, 604-605
-- Treviso 12, 21, 166, 171, 210, 580
+- Terra, Mafalda Miotto 97, 463, 498, 506, 520
+- Terra, Marta 507, 520, 523, 536, 586, 602-603
+- Treviso 12, 21, 166, 171, 210, 578
 - Vacelli, família 320, 335, 344, 356
-- Vancouver 560-562, 564, 571
+- Vancouver 558-560, 562, 569
 
-- Vargas, Getúlio 514
+- Vargas, Getúlio 512
 - Vêneto passim
 - Vial, Maria 53
-- Vittorio Emanuele III 253, 276, 495
+- Vittorio Emanuele III 253, 276, 493
 - Volpi, Pedro 314, 319, 344, 347
 - Zanni, Antonio 285
 

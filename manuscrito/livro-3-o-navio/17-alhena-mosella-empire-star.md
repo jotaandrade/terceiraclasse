@@ -159,10 +159,6 @@ E fecha o depoimento assim: *depois de três viagens à América do Sul, resolvi
 
 O naufrágio não a impediu de chegar. Impediu-a de voltar.
 
-Naquela folha estão também as duas mulheres do capítulo 8.
-
-Subiram a prancha em Gênova ao lado dos maridos e desceram aqui sem eles. O que o funcionário escreveu ao lado dos nomes delas fica para o capítulo dos mortos.
-
 Aquela folha de papel é o momento em que esta família volta a existir para o mundo.
 
 Entre o estrondo das cinco e quinze do dia 25 e a assinatura do intérprete no dia 28, não há uma linha sequer sobre elas em documento nenhum. Três dias inteiros de nada.
