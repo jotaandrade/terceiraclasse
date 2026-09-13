@@ -103,6 +103,36 @@ Do outro lado havia o contrário, e não era melhor. A imprensa de fora cobriu o
 
 Uma tinha ordem de não dizer mal. A outra tinha vontade de dizer.
 
+Isso eu tinha por dedução. Depois achei as duas coisas escritas, na mesma semana, em jornal.
+
+O *Diário da Manhã*, do Recife, subiu a bordo do cargueiro inglês que levou vinte e sete sobreviventes para Pernambuco e descreveu o próprio convés:
+
+*os jornalistas assediavam os naufragos, fazendo-lhes mil perguntas, os photographos insistiam para que elles posassem deante das objectivas, a officialidade dava ordens…*
+
+É um repórter descrevendo a própria classe. E é o retrato do lugar de onde saiu quase tudo o que este livro cita: gente tirada da água havia quatro dias, cercada, fotografada e mandada posar.
+
+Naquela mesma noite o jornal foi ao hotel onde estavam hospedados os tripulantes.
+
+Escreveu que responderam *num tom de angustia*, com *os olhos lacrimejantes*.
+
+E registrou, sem comentar, uma coisa que vale mais do que o comentário: um deles, o que falava melhor português, expressou-se *calmamente* a respeito dos navios que tinham acorrido. Disse que não se aproximaram do navio italiano por causa da rota que lhes estava traçada, e que ainda assim trabalharam por socorros imediatos.
+
+**Os outros choravam. Aquele explicava.**
+
+O desembarque foi dirigido pessoalmente pelo cônsul da Itália no Recife. Quando a barcaça com os náufragos largou do costado do navio inglês, o jornal anota que *um Alalá partido de todos os peitos* saúdou os salvadores.
+
+*Alalá* é a saudação fascista.
+
+Vinte e sete pessoas tiradas do Atlântico por ingleses, entregues em terra por um cônsul italiano, saúdam os ingleses com o grito do regime.
+
+Do outro lado, onze dias depois do naufrágio, o *La Prensa* de Buenos Aires pediu em editorial que as autoridades italianas punissem os oficiais e tripulantes *com as mais severas penas da lei*, por terem deixado de cooperar no salvamento dos passageiros.
+
+O editorial citou o embaixador italiano no Brasil pelo nome e devolveu-lhe a frase. Attolico tinha elogiado *o corajoso espirito de sacrificio dos bravos marinheiros*. O jornal respondeu que havia prova do *censuravel abandono de seu posto*.
+
+As duas coisas são da mesma quinzena. Uma sai da boca de tripulantes italianos que tinham ordem de não criticar. A outra, de um jornal que exigia punição em editorial.
+
+**Quem quiser saber o que houve naquela noite tem de ler os dois e descontar os dois.**
+
 Isso não invalida um único depoimento deste livro. Muda o que se pode pedir deles.
 
 Um homem que fala com o repórter no cais sabendo que não pode criticar o navio vai falar do que pode: do pânico dos outros, da coragem de alguém, do que viu a três metros de si. E é exatamente isso que os vinte depoimentos fazem.
@@ -127,6 +157,8 @@ A primeira parte da explicação é onde cada um morava dentro do casco.
 
 O eixo partiu a bombordo, na popa. A água entrou pela popa. O navio afundou de popa.
 
+Isso não é dedução minha em cima da planta do navio. Está dito pelo próprio navio, no dia, por escrito. O *Avelona* recebeu o primeiro pedido de socorro às cinco da tarde e pediu mais informação. O telegrafista do Mafalda respondeu que tinham sofrido a ruptura do eixo da hélice e que havia **um rombo na popa, por onde entrava enorme quantidade de água**.
+
 E a segunda classe morava na popa. O refeitório e o fumoir ficavam ali, as cabines no convés de baixo. As duas baleeiras suplementares e as seis jangadas mais próximas daquela gente estavam empilhadas em cima do refeitório deles — e estavam presas. Travadas por ventiladores pesados que ninguém conseguiu arredar, e provavelmente também por ferrugem, tinta e sal.
 
 A segunda classe passou o jantar daquela viagem inteira sentada em cima do rombo, e o salvamento mais perto dela era o que não abria.
@@ -144,6 +176,38 @@ Os tempos que os próprios sobreviventes contaram estão no capítulo seguinte: 
 Ela decidiu quem comia bacalhau e quem comia frango, quem dormia em cabine e quem dormia em dormitório de homens, quem subia pela escada principal e quem entrava por uma portinhola no costado. Quando o navio começou a afundar, parou de decidir.
 
 O que passou a decidir foi a planta do casco e o que o corpo de cada um aguentava.
+
+Isso é o que a aritmética diz hoje.
+
+Não é o que se disse em 1927.
+
+Quatro dias depois do naufrágio, o *Diário da Manhã* publicou a narração de uma sobrevivente, a senhora Cirino, e no meio dela está esta frase:
+
+*Os passageiros de terceira subiam á primeira, augmentando a desordem.*
+
+Essa frase podia ficar de fora deste livro. Ela não vai ficar. É documento, e o que ela documenta é que a terceira classe foi culpada na semana seguinte, em letra de forma, por estar subindo uma escada para não morrer.
+
+Mas a mesma página traz outras três coisas, e é por causa delas que a frase fica.
+
+*Alguns tripulantes precipitaram-se para os barcos, aggredindo a quem lhes tomava a dianteira.*
+
+*O commissario do navio sossobrado foi o primeiro a sahir de bordo.*
+
+E um industrial argentino chamado George Grenarde, salvo pelo *Formosa*, contou que viu mulheres tentando galgar os escaleres, e marinheiros da equipagem, armados de **canivetes**, cortando-lhes as mãos e os braços enquanto outros lhes davam pancadas na cabeça.
+
+Grenarde disse ainda uma coisa, e essa eu repito com a ressalva que ela pede: que um marinheiro cortou um náufrago ao meio, na frente dele.
+
+Não se corta um homem ao meio com um canivete. A frase é impossível como está.
+
+Ela é exata sobre outra coisa. Diz o estado de quem tinha acabado de sair da água, e diz o apetite de quem estava ouvindo com o lápis na mão.
+
+Quatro frases, uma página de jornal, quatro dias depois.
+
+A terceira classe subindo a escada. A tripulação correndo na frente. O comissário saindo primeiro. Os canivetes.
+
+**Não há um lado limpo nesta página.**
+
+E é por isso que ela entra inteira. Um livro que citasse só os canivetes estaria fazendo com a tripulação exatamente o que aquele jornal fez com a terceira classe.
 
 Há uma coisa, porém, em que os três lados concordam.
 

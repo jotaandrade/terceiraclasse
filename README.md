@@ -253,6 +253,24 @@ apresenta como "a terceira classe prejudicou a segunda".** Quem viaja na terceir
 onde o navio afundou, e as balsas mais próximas dela estavam travadas por ventiladores; e a
 noite foi decidida na água, não nos botes, o que favorece quem é jovem. Está assim no cap. 15.
 
+🔴 **Complemento do autor, 13.09.2026 — a acusação de classe entra, como documento.** A regra
+acima **não virou proibição de citar**. Quando a Hemeroteca deu a frase de 1927 — *"Os passageiros
+de terceira subiam á primeira, augmentando a desordem"*, *Diário da Manhã*, 29.10.1927 — o autor
+decidiu usá-la, e a razão dele é a regra do livro: **"esse livro se trata de trazer verdades de
+ambos os lados"**.
+
+**Como foi implementado, e a forma é parte da decisão:** a frase entra **atribuída ao jornal**, e
+entra **com o contradocumento da mesma página ao lado** — os tripulantes que se precipitaram aos
+botes agredindo quem estava na frente, o comissário que foi o primeiro a sair de bordo, e os
+marinheiros de canivete cortando as mãos de quem tentava subir. O bloco fecha em *"Não há um lado
+limpo nesta página"*.
+
+⚠️ **O que continua valendo:** a frase do jornal é **documento, nunca constatação do livro**. O
+narrador não assume a culpabilização — exibe-a, datada e assinada, ao lado do que a desmente. E a
+explicação da mortalidade por classe continua **estrutural**, e agora tem fonte de época: o
+telegrafista do próprio *Mafalda* respondeu ao *Avelona*, na tarde do dia 25, que havia **um rombo
+na popa** por onde entrava enorme quantidade de água.
+
 **A censura, aplicada em 12.09.2026.** Os sobreviventes italianos receberam ordem de não
 criticar o que houve a bordo nem dizer nada que prejudicasse a imagem da Itália — e a Marcha
 sobre Roma fazia cinco anos naquela mesma semana. Do outro lado, a imprensa estrangeira cobriu

@@ -139,6 +139,24 @@ Mesmo casco. Mesma madrugada. Mesma escada.
 
 **A separação que organizou a viagem inteira funcionou até o fim, inclusive depois do fim.**
 
+E foi contestada em voz alta naquela mesma ilha, no mesmo dia. Não pelos imigrantes.
+
+Na tarde de 28 de outubro, os marinheiros e os graduados inferiores do *Principessa Mafalda*, recolhidos na Ilha das Flores junto com a terceira classe, fizeram protestos tumultuosos contra os próprios superiores.
+
+A queixa era que os oficiais tinham ido para hotéis enquanto eles estavam, nas palavras do despacho, **alojados como imigrantes**.
+
+A manifestação quase virou motim. Quem foi acalmá-la foi o embaixador italiano, que se deslocou até a ilha especialmente para isso.
+
+Vale ler a queixa devagar, porque ela diz em três palavras o que este livro vem dizendo desde o começo.
+
+*Alojados como imigrantes.*
+
+Para um marinheiro italiano em outubro de 1927, aquilo era a pior coisa que podia acontecer depois de escapar com vida. Era rebaixamento, e foi preciso um embaixador para desfazê-lo.
+
+Rosa Forner tinha desembarcado naquela mesma ilha na madrugada daquele dia, com a irmã e cinco crianças.
+
+**Para ela aquilo não era rebaixamento nenhum.** Era o que ela era, e era o que ela tinha atravessado o Atlântico para continuar sendo.
+
 O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência, onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só: **Náufragos**.
 
 Cinquenta imigrantes, todos de terceira classe. Quarenta e três italianos, quatro iugoslavos, três húngaros.

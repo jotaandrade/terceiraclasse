@@ -117,6 +117,12 @@ Quem estava naquele porão em 1927 já não era só italiano.
 
 As colunas de nacionalidade mostram a virada acontecendo em cinco meses: em agosto de 1923 desembarcaram em Santos sessenta e cinco italianos e vinte e oito sírios; em janeiro de 1924, quarenta sírios e trinta e dois italianos.
 
+E da última viagem existe a conta, feita por quem tinha obrigação de fazer. Três dias depois do naufrágio, a embaixada da Itália no Rio entregou à imprensa a relação dos estrangeiros que iam na terceira classe daquele navio: **cento e dezoito sírios**, cinquenta espanhóis, trinta e oito iugoslavos, dois austríacos, um húngaro, um suíço, um argentino e um uruguaio.
+
+Duzentas e doze pessoas que não eram italianas, contadas pela própria Itália.
+
+E o maior grupo estrangeiro daquele porão não vinha da Europa. Vinha do Levante.
+
 Milhem Solk, libanês de Beirute, na terceira viagem dele à Argentina, disse depois uma frase que resume o andar inteiro: a maioria dos companheiros dele não falava italiano nem espanhol.
 
 Duas semanas dividindo o mesmo ar, a mesma fila e o mesmo cheiro, sem conseguir conversar.

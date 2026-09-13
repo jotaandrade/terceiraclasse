@@ -1695,6 +1695,12 @@ Quem estava naquele porão em 1927 já não era só italiano.
 
 As colunas de nacionalidade mostram a virada acontecendo em cinco meses: em agosto de 1923 desembarcaram em Santos sessenta e cinco italianos e vinte e oito sírios; em janeiro de 1924, quarenta sírios e trinta e dois italianos.
 
+E da última viagem existe a conta, feita por quem tinha obrigação de fazer. Três dias depois do naufrágio, a embaixada da Itália no Rio entregou à imprensa a relação dos estrangeiros que iam na terceira classe daquele navio: **cento e dezoito sírios**, cinquenta espanhóis, trinta e oito iugoslavos, dois austríacos, um húngaro, um suíço, um argentino e um uruguaio.
+
+Duzentas e doze pessoas que não eram italianas, contadas pela própria Itália.
+
+E o maior grupo estrangeiro daquele porão não vinha da Europa. Vinha do Levante.
+
 Milhem Solk, libanês de Beirute, na terceira viagem dele à Argentina, disse depois uma frase que resume o andar inteiro: a maioria dos companheiros dele não falava italiano nem espanhol.
 
 Duas semanas dividindo o mesmo ar, a mesma fila e o mesmo cheiro, sem conseguir conversar.
@@ -2429,7 +2435,7 @@ Eram cinco e quinze da tarde de 25 de outubro de 1927.
 
 Às cinco e quinze da tarde o eixo da hélice de bombordo se partiu.
 
-Não foi uma explosão, embora muita gente tenha dito depois que foi. Um eixo de hélice é uma barra de aço que atravessa o casco de dentro para fora. Quando ele se rompe girando, a ponta solta continua girando, e o que gira fora de eixo arranca o que estiver por perto.
+Não foi uma explosão, embora muita gente tenha dito depois que foi. Os sobreviventes recolhidos pelo *Formosa* desmentiram a versão ainda naquela semana: o que houve foi um ruído, quando a hélice arrebentou. Um eixo de hélice é uma barra de aço que atravessa o casco de dentro para fora. Quando ele se rompe girando, a ponta solta continua girando, e o que gira fora de eixo arranca o que estiver por perto.
 
 O que estava por perto era o casco, abaixo da linha d’água.
 
@@ -2737,6 +2743,36 @@ Do outro lado havia o contrário, e não era melhor. A imprensa de fora cobriu o
 
 Uma tinha ordem de não dizer mal. A outra tinha vontade de dizer.
 
+Isso eu tinha por dedução. Depois achei as duas coisas escritas, na mesma semana, em jornal.
+
+O *Diário da Manhã*, do Recife, subiu a bordo do cargueiro inglês que levou vinte e sete sobreviventes para Pernambuco e descreveu o próprio convés:
+
+*os jornalistas assediavam os naufragos, fazendo-lhes mil perguntas, os photographos insistiam para que elles posassem deante das objectivas, a officialidade dava ordens…*
+
+É um repórter descrevendo a própria classe. E é o retrato do lugar de onde saiu quase tudo o que este livro cita: gente tirada da água havia quatro dias, cercada, fotografada e mandada posar.
+
+Naquela mesma noite o jornal foi ao hotel onde estavam hospedados os tripulantes.
+
+Escreveu que responderam *num tom de angustia*, com *os olhos lacrimejantes*.
+
+E registrou, sem comentar, uma coisa que vale mais do que o comentário: um deles, o que falava melhor português, expressou-se *calmamente* a respeito dos navios que tinham acorrido. Disse que não se aproximaram do navio italiano por causa da rota que lhes estava traçada, e que ainda assim trabalharam por socorros imediatos.
+
+**Os outros choravam. Aquele explicava.**
+
+O desembarque foi dirigido pessoalmente pelo cônsul da Itália no Recife. Quando a barcaça com os náufragos largou do costado do navio inglês, o jornal anota que *um Alalá partido de todos os peitos* saúdou os salvadores.
+
+*Alalá* é a saudação fascista.
+
+Vinte e sete pessoas tiradas do Atlântico por ingleses, entregues em terra por um cônsul italiano, saúdam os ingleses com o grito do regime.
+
+Do outro lado, onze dias depois do naufrágio, o *La Prensa* de Buenos Aires pediu em editorial que as autoridades italianas punissem os oficiais e tripulantes *com as mais severas penas da lei*, por terem deixado de cooperar no salvamento dos passageiros.
+
+O editorial citou o embaixador italiano no Brasil pelo nome e devolveu-lhe a frase. Attolico tinha elogiado *o corajoso espirito de sacrificio dos bravos marinheiros*. O jornal respondeu que havia prova do *censuravel abandono de seu posto*.
+
+As duas coisas são da mesma quinzena. Uma sai da boca de tripulantes italianos que tinham ordem de não criticar. A outra, de um jornal que exigia punição em editorial.
+
+**Quem quiser saber o que houve naquela noite tem de ler os dois e descontar os dois.**
+
 Isso não invalida um único depoimento deste livro. Muda o que se pode pedir deles.
 
 Um homem que fala com o repórter no cais sabendo que não pode criticar o navio vai falar do que pode: do pânico dos outros, da coragem de alguém, do que viu a três metros de si. E é exatamente isso que os vinte depoimentos fazem.
@@ -2761,6 +2797,8 @@ A primeira parte da explicação é onde cada um morava dentro do casco.
 
 O eixo partiu a bombordo, na popa. A água entrou pela popa. O navio afundou de popa.
 
+Isso não é dedução minha em cima da planta do navio. Está dito pelo próprio navio, no dia, por escrito. O *Avelona* recebeu o primeiro pedido de socorro às cinco da tarde e pediu mais informação. O telegrafista do Mafalda respondeu que tinham sofrido a ruptura do eixo da hélice e que havia **um rombo na popa, por onde entrava enorme quantidade de água**.
+
 E a segunda classe morava na popa. O refeitório e o fumoir ficavam ali, as cabines no convés de baixo. As duas baleeiras suplementares e as seis jangadas mais próximas daquela gente estavam empilhadas em cima do refeitório deles — e estavam presas. Travadas por ventiladores pesados que ninguém conseguiu arredar, e provavelmente também por ferrugem, tinta e sal.
 
 A segunda classe passou o jantar daquela viagem inteira sentada em cima do rombo, e o salvamento mais perto dela era o que não abria.
@@ -2778,6 +2816,38 @@ Os tempos que os próprios sobreviventes contaram estão no capítulo seguinte: 
 Ela decidiu quem comia bacalhau e quem comia frango, quem dormia em cabine e quem dormia em dormitório de homens, quem subia pela escada principal e quem entrava por uma portinhola no costado. Quando o navio começou a afundar, parou de decidir.
 
 O que passou a decidir foi a planta do casco e o que o corpo de cada um aguentava.
+
+Isso é o que a aritmética diz hoje.
+
+Não é o que se disse em 1927.
+
+Quatro dias depois do naufrágio, o *Diário da Manhã* publicou a narração de uma sobrevivente, a senhora Cirino, e no meio dela está esta frase:
+
+*Os passageiros de terceira subiam á primeira, augmentando a desordem.*
+
+Essa frase podia ficar de fora deste livro. Ela não vai ficar. É documento, e o que ela documenta é que a terceira classe foi culpada na semana seguinte, em letra de forma, por estar subindo uma escada para não morrer.
+
+Mas a mesma página traz outras três coisas, e é por causa delas que a frase fica.
+
+*Alguns tripulantes precipitaram-se para os barcos, aggredindo a quem lhes tomava a dianteira.*
+
+*O commissario do navio sossobrado foi o primeiro a sahir de bordo.*
+
+E um industrial argentino chamado George Grenarde, salvo pelo *Formosa*, contou que viu mulheres tentando galgar os escaleres, e marinheiros da equipagem, armados de **canivetes**, cortando-lhes as mãos e os braços enquanto outros lhes davam pancadas na cabeça.
+
+Grenarde disse ainda uma coisa, e essa eu repito com a ressalva que ela pede: que um marinheiro cortou um náufrago ao meio, na frente dele.
+
+Não se corta um homem ao meio com um canivete. A frase é impossível como está.
+
+Ela é exata sobre outra coisa. Diz o estado de quem tinha acabado de sair da água, e diz o apetite de quem estava ouvindo com o lápis na mão.
+
+Quatro frases, uma página de jornal, quatro dias depois.
+
+A terceira classe subindo a escada. A tripulação correndo na frente. O comissário saindo primeiro. Os canivetes.
+
+**Não há um lado limpo nesta página.**
+
+E é por isso que ela entra inteira. Um livro que citasse só os canivetes estaria fazendo com a tripulação exatamente o que aquele jornal fez com a terceira classe.
 
 Há uma coisa, porém, em que os três lados concordam.
 
@@ -2902,6 +2972,18 @@ Uma interpretou uma silhueta. A outra interpretou um som.
 E sobre a silhueta é preciso dizer mais uma coisa. Aquele *Viva Italia* foi publicado como fato pela imprensa italiana nos dias seguintes, e a pesquisa recente mostra que a frase foi **atribuída** a Gulì, não colhida de testemunha. Malone diz ter visto. O que não dá para saber é se ele viu antes ou depois de ler nos jornais o que tinha visto.
 
 Nenhuma das duas está mentindo, e nenhuma das duas tinha como ter certeza. Aquela noite não ofereceu certeza a ninguém que estivesse dentro dela.
+
+E há uma terceira frase daquela noite, que a imprensa italiana não repetiu e que também é dele.
+
+Quatro dias depois, uma sobrevivente contou ao *Diário da Manhã*, do Recife, o que ouviu quando chegou a hora:
+
+*Estando as sirenes, a silvos, traduzindo a ordem do commandante, do “Salve-se quem puder!”, estabeleceu-se balburdia terrivel. Ninguem se entendia.*
+
+**Naquela versão o salve-se quem puder não é grito de multidão. É ordem, e foi dada a apitos.**
+
+Um comandante que manda salvar-se quem puder está dizendo que acabou o que ele tinha para fazer. É a frase mais honesta da noite, e é a única que ninguém quis pendurar em placa.
+
+Uma dessas duas frases virou notícia na Itália inteira. A outra ficou numa página de Pernambuco.
 
 Então fica o que dá para dizer.
 
@@ -3077,6 +3159,24 @@ Mesmo casco. Mesma madrugada. Mesma escada.
 
 **A separação que organizou a viagem inteira funcionou até o fim, inclusive depois do fim.**
 
+E foi contestada em voz alta naquela mesma ilha, no mesmo dia. Não pelos imigrantes.
+
+Na tarde de 28 de outubro, os marinheiros e os graduados inferiores do *Principessa Mafalda*, recolhidos na Ilha das Flores junto com a terceira classe, fizeram protestos tumultuosos contra os próprios superiores.
+
+A queixa era que os oficiais tinham ido para hotéis enquanto eles estavam, nas palavras do despacho, **alojados como imigrantes**.
+
+A manifestação quase virou motim. Quem foi acalmá-la foi o embaixador italiano, que se deslocou até a ilha especialmente para isso.
+
+Vale ler a queixa devagar, porque ela diz em três palavras o que este livro vem dizendo desde o começo.
+
+*Alojados como imigrantes.*
+
+Para um marinheiro italiano em outubro de 1927, aquilo era a pior coisa que podia acontecer depois de escapar com vida. Era rebaixamento, e foi preciso um embaixador para desfazê-lo.
+
+Rosa Forner tinha desembarcado naquela mesma ilha na madrugada daquele dia, com a irmã e cinco crianças.
+
+**Para ela aquilo não era rebaixamento nenhum.** Era o que ela era, e era o que ela tinha atravessado o Atlântico para continuar sendo.
+
 O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência, onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só: **Náufragos**.
 
 Cinquenta imigrantes, todos de terceira classe. Quarenta e três italianos, quatro iugoslavos, três húngaros.
@@ -3149,6 +3249,16 @@ E a pesquisa italiana recente chega a trezentas e vinte e quatro.
 
 De trinta e quatro a trezentas e vinte e quatro.
 
+Do outro lado do Atlântico a conta andou no sentido contrário.
+
+Em 27 de outubro, o comandante Privat, do *Mosella*, que tinha passado a noite tirando gente do mar, calculou seiscentos mortos assim que chegou a Salvador.
+
+No dia 28, com a chegada do *Alhena* ao Rio, os despachos falavam em cerca de quatrocentos.
+
+Depois desceu para trezentos e catorze.
+
+Os números italianos subiram de trinta e quatro. Os números de quem estava lá desceram de seiscentos. Encontraram-se no meio, e nenhum dos dois lados chegou ali contando corpo.
+
 A bordo iam mil duzentas e cinquenta e nove pessoas.
 
 **Um em cada quatro não chegou.**
@@ -3190,6 +3300,24 @@ A mentira que ofereceram ao violinista era sobre o morto dela.
 E ele aceitou por ela.
 
 A versão oficial daquela noite não se fez de gente mentindo por maldade. Fez-se de sobreviventes aceitando uma medalha por um feito que não houve, **para que as viúvas tivessem um herói em vez de um afogado.**
+
+Uma dos trezentos e catorze tem nome, e o nome chegou até aqui num despacho de quatro linhas.
+
+A senhora **Celina Meyer Barbosa**, viúva, paulista, viajava com os dois filhos, Celina e João.
+
+Ofereceram-lhe um cinto de salvamento e ela não quis pôr. Atirou-se na água pedindo aos filhos que não a abandonassem.
+
+Os dois foram atrás. Desapareceram os três.
+
+E o despacho seguinte, na mesma coluna, tem o mesmo tamanho e diz o contrário.
+
+Mattioggi Francesco, passageiro de terceira classe, a caminho de Buenos Aires, salvou a família inteira: mulher e seis filhos.
+
+Oito pessoas do mesmo porão, todas vivas.
+
+Os dois despachos foram escritos no mesmo dia, sobre a mesma noite e sobre o mesmo navio. O jornal pôs um embaixo do outro e não comentou nenhum dos dois.
+
+**Este livro conta sete pessoas que atravessaram aquela noite inteiras. Havia outra família assim, e ela se chamava Mattioggi.**
 
 Quatro meses depois saiu o documento oficial.
 
@@ -4702,7 +4830,8 @@ João José de Andrade Neto
 - Arquivo Público do Estado de São Paulo: vinte e cinco manifestos de desembarque do *Principessa Mafalda*, 1919 a 1924 — colunas de bagagem, dinheiro declarado e endereço de destino.
 - Corpus de depoimentos: Milhem Solk.
 
-- Tradição oral: a cozinha e o cozinheiro, lembrança atribuída a Pulcheria Dei Agnoli e transmitida por uma prima do ramo Dei Agnoli. **Não é lembrança unânime** — ver capítulo 14.
+- Tradição oral: a cozinha e o cozinheiro, lembrança atribuída a Pulcheria Dei Agnoli e transmitida por uma prima do ramo Dei Agnoli. **Não é lembrança unânime** — *Diário da Manhã*, Recife, 28 de outubro de 1927, p. 2 — *A reconstituição impressionante do naufrágio*: despachos Western do Rio, de São Salvador e de Gênova; declarações do comandante Privat, do *Mosella*, e de João Lyra Chaves, funcionário do serviço de imigração de São Paulo. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+- ver capítulo 14.
 **Capítulo 10 · Duas irmãs embarcam**
 
 - Relação do *Alhena*, 28 de outubro de 1927: coluna de parentesco, *chefe* para as duas irmãs.
@@ -4717,8 +4846,8 @@ João José de Andrade Neto
 **Capítulo 12 · 1908**
 
 - Lançamento e naufrágio do *Principessa Jolanda*, estaleiro de Riva Trigoso, 22 de setembro de 1907.
-- Lloyd Italiano: encomenda dos dois transatlânticos gêmeos; entrada em serviço do *Principessa Mafalda* em 1909.
 
+- Lloyd Italiano: encomenda dos dois transatlânticos gêmeos; entrada em serviço do *Principessa Mafalda* em 1909.
 - Leis de cota dos Estados Unidos, 1921 e 1924.
 - *A estimativa de cem mil passageiros em dezoito anos é conta do autor, declarada como tal no texto.*
 **Capítulo 13 · A última viagem**
@@ -4726,15 +4855,16 @@ João José de Andrade Neto
 - Corpus de depoimentos: Patricio de Rosas, Antonio Zanni, Antonio Fontana, Camilo Rivarola, Milhem Solk, Nicola Lynose, Pascual Pecci.
 - Saída de São Vicente, Cabo Verde, em 18 de outubro de 1927, com novecentos e setenta e um passageiros e duzentos e oitenta e oito tripulantes.
 - Museu da Imigração do Estado de São Paulo, artigo do acervo sobre os náufragos.
+- *Diário da Manhã*, Recife, 29 de outubro de 1927, p. 2 — *Quem o responsável pela catástrofe?*: narração da sra. Cirino, declarações do industrial argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.
 - Pôr do sol calculado para a posição aproximada do naufrágio, 17°54′ de latitude sul, em 25 de outubro de 1927: 18h21; fim do crepúsculo civil, 18h48.
 - INEICHEN, *Il Principessa Mafalda* (2023): a escala em Mindelo, São Vicente, e o desvio de Dakar por causa do cólera; o telegrama de Gulì à companhia e a ordem renovada de prosseguir; o cruzamento com o *Alhena* às 15h30 e com o *Empirestar*; a delegação da terceira classe punida e o abaixo-assinado da segunda que não foi entregue.
 - A ordem renovada de Gênova, dita por náufragos à imprensa em 28 de outubro de 1927: *Diário da Manhã* (Recife), 29.10.1927.
 - *Sobre quem ultrapassou quem, o depoimento de Lynose e a pesquisa recente divergem, e o texto não arbitra. A idade do comandante Simone Gulì segue em aberto.*
+
 **Capítulo 14 · A noite**
 
 - Corpus de depoimentos: Eugenio Gabassi, Pedro Volpi, Milhem Solk, Enrico Nazzeconi, Ali Hassen, Batista Beria, Nicola Lynose, família Vacelli, Mario Ottaviani.
 - *A hora do pedido de socorro — 17h35 ou 19h15 — diverge entre as fontes, e o texto não arbitra.*
-
 - Tradição oral: o porão, o cozinheiro e o bote dos cozinheiros. Lembrança de um só galho da família, atribuída no próprio capítulo.
 **Capítulo 15 · Os botes**
 
@@ -4742,21 +4872,28 @@ João José de Andrade Neto
 - Mortalidade por classe: CAMPODONICO, Pierangelo, *Tragedie dell'emigrazione italiana per mare*, Museo del Mare, Genova, 2014, p. 86, apud INEICHEN, *Il Principessa Mafalda* (2023). Sobre um total de 1.255 pessoas a bordo: 287 tripulantes, 255 salvos; 821 passageiros de terceira classe, 593 salvos; 95 de segunda, 58 mortos; 52 de primeira, 25 mortos.
 - Planta do navio, posição da segunda classe à popa, as catorze baleeiras e as seis jangadas travadas por ventiladores: INEICHEN, *Il Principessa Mafalda* (2023).
 - A ordem dada aos sobreviventes italianos de não criticar o que houve a bordo, e a desconfiança da imprensa estrangeira em relação à Itália: INEICHEN, *Il Principessa Mafalda* (2023), que remete a Giuseppe Trevisani, «L'Europeo», 1956.
+- *Diário da Manhã*, Recife, 6 de novembro de 1927, capa — *Como um transatlântico afunda*: declarações de um passageiro do *Avelona*, com a resposta do telegrafista do *Mafalda* sobre o rombo na popa. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+- *Diário da Manhã*, Recife, 29 de outubro de 1927, capa — *A chegada do «Rossetti», conduzindo 27 náufragos*: o convés descrito pelo próprio repórter, a palestra com o comandante Dennison, o desembarque dirigido pelo cônsul Gino Romizi e a lista nominal dos vinte e sete. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+- *Diário da Manhã*, Recife, 29 de outubro de 1927, p. 2 — *Quem o responsável pela catástrofe?*: narração da sra. Cirino, declarações do industrial argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+- *Diario Nacional*, São Paulo, 6 de novembro de 1927, capa — despacho da United Press de Buenos Aires sobre editorial do *La Prensa* pedindo a punição dos oficiais e tripulantes. *É notícia sobre editorial, não o editorial.* Hemeroteca Digital Brasileira, Biblioteca Nacional.
+
 - *As proporções por classe vêm de uma contabilidade que difere das outras usadas neste livro. O que se aproveita delas é a ordem de grandeza, não o decimal.*
 **Capítulo 16 · 22h10**
 
 - Divergência de horários do afundamento e a explicação do fuso: INEICHEN, *Il Principessa Mafalda* (2023); o horário do diário do *Formosa*, em *O Malho*, 5.11.1927, p. 31. O *Viva Italia* atribuído a Gulì pela imprensa italiana: INEICHEN, *Il Principessa Mafalda* (2023).
 - Corpus de depoimentos: Mario Ottaviani, Enrico Nazzeconi, Andres Scavani del Vicario, Salvador Malone, Eugenio Gabassi, família Vacelli.
+- *Diário da Manhã*, Recife, 29 de outubro de 1927, p. 2 — *Quem o responsável pela catástrofe?*: narração da sra. Cirino, declarações do industrial argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.
 - *As duas versões da morte do comandante — a saudação na ponte e os tiros — vêm de duas testemunhas na água, no escuro. O texto não escolhe.*
 **Capítulo 17 · Alhena, Mosella, Empire Star**
 
 - Telegramas de socorro da noite de 25 de outubro de 1927, com os nomes de dez navios.
-
 - Corpus de depoimentos: Nazzeconi, Beria, Solk, Ali Hassen, Domingo Milano, Maria Spinelli.
 - Relação do *Alhena*, 28 de outubro de 1927, Ilha das Flores.
 - A chegada do *Alhena* ao Rio na madrugada de 28 de outubro: o embaixador Bernardo Attolico no portaló, a imprensa barrada, a corda da lancha da Alfândega cortada, os 531 náufragos discriminados por classe, o desembarque das 3h30 na guarda-moria e a lista dos hóspedes do Palace-Hotel — *Diário da Manhã* (Recife), 29.10.1927, despachos do Rio do dia 28.
 - O comandante do *Avelona* declarando que chegou às quatro da manhã, procurou até as oito e não recolheu náufrago nenhum: *Diário da Manhã* (Recife).
 - *O Malho*, Rio de Janeiro, 5 de novembro de 1927, páginas 30-31 e 55 — a narrativa oficial do comandante Allemand, do paquete francês *Formosa*, transcrita do diário de bordo; a distribuição dos novecentos e sessenta e nove recolhidos por quatro navios; e o depoimento do comissário Carlos Longobardi, sobrevivente. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+
+- *Diário da Manhã*, Recife, 29 de outubro de 1927, p. 2 — *Quem o responsável pela catástrofe?*: narração da sra. Cirino, declarações do industrial argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.
 - *A soma dos resgatados não fecha em quase nenhuma fonte, e as que fecham se contradizem entre si; a discrepância está exposta no capítulo.*
 **Capítulo 18 · Os 314**
 
@@ -4766,9 +4903,11 @@ João José de Andrade Neto
 - A carta da senhora Gulì lacrada em tubo de metal e lançada no ponto do naufrágio pelo *Duca d'Aosta*: *Diário da Manhã* (Recife), 30 de novembro de 1927.
 - Conclusões do inquérito oficial procedido em Roma, encerrado em 31 de janeiro de 1928 e publicado em parte: *Diário da Manhã* (Recife), 1º de março de 1928. Cotejado com o resumo da revista «Hansa, Deutsche Schiffahrtszeitschrift», n. 9, 3.3.1928, p. 390, que dá 250 toneladas de água onde o texto brasileiro dá 350.
 - Corpus de depoimentos: Valeriano Galli, Salvador Malone, Alfio Sanfilippo, Eugenio Gabassi, Ali Hassen, Mario Ottaviani.
-
 - Relação do *Alhena*: passageiras nº 24 e 25, com a nota manuscrita do funcionário.
 - *O Malho*, Rio de Janeiro, 5 de novembro de 1927, página 55 — os duzentos e quarenta e dois tripulantes salvos entre duzentos e oitenta e oito, e o total de bordo de mil duzentas e oitenta e uma pessoas. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+- *Diário da Manhã*, Recife, 28 de outubro de 1927, p. 2 — *A reconstituição impressionante do naufrágio*: despachos Western do Rio, de São Salvador e de Gênova; declarações do comandante Privat, do *Mosella*, e de João Lyra Chaves, funcionário do serviço de imigração de São Paulo. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+- *Diário da Manhã*, Recife, 29 de outubro de 1927, p. 2 — *Quem o responsável pela catástrofe?*: narração da sra. Cirino, declarações do industrial argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+
 - *Não existe relação nominal dos trezentos e catorze mortos. O próprio número varia entre as fontes.*
 **Capítulo 19 · 31 de outubro**
 
@@ -4782,10 +4921,10 @@ João José de Andrade Neto
 - Tradição oral, ramo Betti: João Betti (1920–2008), marido de Pulcheria, transmitida por **Patrícia Betti**, que consentiu em ser nomeada e creditada. O carvão e o não-reconhecimento.
 - Tradição oral, outro ramo Dei Agnoli: a menina que acha o pai.
 - *Nada do que se passou entre Rosa e Fausto no reencontro chegou até aqui, e o capítulo deixa em branco.*
-
 **Capítulo 21 · Terra vermelha**
 
 - Relação do *Alhena*: a palavra *espontâneos*, na parte do intérprete e no resumo do desembarque.
+
 - Relação dos subsidiados de 23 de fevereiro de 1923: a coluna *Patrão*, preenchida antes do embarque.
 - Carimbo da Delegacia de Polícia de Grama no registro de estrangeiro de Angelo Dei Agnoli; assento de casamento nº 660 do cartório de Grama.
 **Capítulo 22 · Enrico**
@@ -4800,9 +4939,9 @@ João José de Andrade Neto
 **Capítulo 24 · Virar brasileiro**
 
 - Campanha de nacionalização do Estado Novo, a partir de novembro de 1937.
-
 - Declaração de guerra do Brasil à Itália, agosto de 1942.
 - Registro de estrangeiro de Angelo Dei Agnoli, com carimbo da Delegacia de Polícia de Grama.
+
 - Relação do *Alhena*: coluna *Instrução*, *sim* para Rosa Forner.
 **Capítulo 25 · Os que ficaram, cem anos depois**
 
@@ -4816,10 +4955,10 @@ João José de Andrade Neto
 - Province of British Columbia, *Registration of Death* nº 5509-008734: Louie Miotto, Vancouver General Hospital, 15 de agosto de 1955.
 - Fusão de perfis em árvore colaborativa, 18 de novembro de 2024, às 11h21.
 - Declaração de óbito de Fausto Miotto, 13 de agosto de 1979, que nomeia por extenso Luigi Miotto e Domenica Ganeo.
-
 **Capítulo 27 · A casa**
 
 - Fotografias e informações enviadas por Giorgio Forner, Vêneto.
+
 - *Este capítulo foi escrito por quem nunca esteve em Castelcucco, e diz isso na primeira linha.*
 **O corpus de depoimentos**
 
@@ -4833,9 +4972,9 @@ João José de Andrade Neto
 
 - *Portale Antenati*, Ministero della Cultura — atos de nascimento, casamento e óbito dos comuni de Monfumo, Castelcucco, Cavaso del Tomba e Maser.
 - *FamilySearch* — imagens de registro e árvore colaborativa.
-
 - *Arquivo Público do Estado de São Paulo* — vinte e cinco manifestos de desembarque do *Principessa Mafalda*, 1919 a 1924.
 - *Museu da Imigração do Estado de São Paulo* — Livro de Registro de Matrícula nº 100 da Hospedaria do Brás, e o artigo do acervo sobre os náufragos do *Principessa Mafalda*.
+
 - *Hemeroteca Digital da Biblioteca Nacional*.
 - CARVALHO, Maurício. *Principessa Mafalda*, em *Naufrágios do Brasil* — pesquisa secundária. É dela que vem a relação dos navios que ouviram o pedido de socorro, no capítulo 17, e o nome da estação radiotelegráfica de Amaralina, em Salvador.
 - *Albo d’Oro dei Caduti della Grande Guerra*, Ministero della Difesa.
@@ -4942,103 +5081,103 @@ João José de Andrade Neto
 ## Índice onomástico
 
 - Alhena, vapor passim
-- Andrade, Carlos Aparecido de 520, 589, 601
-- Andrade, João Luca Soares de 53, 536, 585-586, 588-589, 601
+- Andrade, Carlos Aparecido de 533, 602, 614
+- Andrade, João Luca Soares de 53, 549, 598-599, 601-602, 614
 - Asolo passim
-- Beck Josef 175, 428
-- Beria, Batista 319, 346-347, 369, 371
-- Betti, João 325, 442, 449, 565
-- Betti, Patrícia 325, 442, 446, 448, 538, 590
-- Buenos Aires 196-197, 259, 268-269, 275, 348, 383, 413, 432
+- Beck Josef 175, 441
+- Beria, Batista 319, 354-355, 378, 380
+- Betti, João 325, 455, 462, 578
+- Betti, Patrícia 325, 455, 459, 461, 551, 603
+- Buenos Aires 196-197, 259, 268-269, 275, 343, 356, 394, 410, 426, 445
 - Cadorna, Luigi 123
 - Cadorna, Raffaele 32, 123
 - Castelcucco passim
-- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 227, 245, 284, 422
+- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 227, 245, 284, 435
 - Dei Agnoli, Angelo passim
-- Dei Agnoli, Danilo 159, 180, 208, 227, 231, 386, 422
-- Dei Agnoli, Gina Oliva 159, 180, 208, 215, 231, 284, 386, 422, 449, 456
-- Dei Agnoli, Pulcheria Pasqua 159, 180, 200, 205, 208, 215, 231, 324-325, 386, 422, 442, 449, 451, 523, 538, 565, 567, 590
-- Dei Agnoli, Rino 159, 180, 208, 231, 386, 422, 457
-- De Rosi Emilia 177, 404, 429
-- *Empire Star* 296-297, 320, 333, 356, 366-368, 373-374
-- Filipovich, Thomas 383, 412
+- Dei Agnoli, Danilo 159, 180, 208, 227, 231, 397, 435
+- Dei Agnoli, Gina Oliva 159, 180, 208, 215, 231, 284, 397, 435, 462, 469
+- Dei Agnoli, Pulcheria Pasqua 159, 180, 200, 205, 208, 215, 231, 324-325, 397, 435, 455, 462, 464, 536, 551, 578, 580, 603
+- Dei Agnoli, Rino 159, 180, 208, 231, 397, 435, 470
+- De Rosi Emilia 177, 417, 442
+- *Empire Star* 296-297, 320, 333, 364, 375-377, 382-383
+- Filipovich, Thomas 394, 425
 - Fontana, Antonio 288-289
-- Forner, Abele Alessandro 55, 552
+- Forner, Abele Alessandro 55, 565
 - Forner, Domenico 53
-- Forner, Galliano 136, 149, 535-536, 544, 546-547, 574, 595
+- Forner, Galliano 136, 149, 548-549, 557, 559-560, 587, 608
 - Forner, Giorgio passim
-- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 573
+- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 586
 - Forner, Maria Luigia passim
 - Forner, Pietro Luigi 57, 60, 124, 154
 - Forner, Rosa passim
 
 - Forner, Sante passim
 - Forner, Vincenzo passim
-- *Formosa* 357, 362, 368, 373-374
-- Gabassi, Eugenio 313, 347, 359, 371, 401
-- Galli, Valeriano 136, 149, 329, 345, 347, 371, 401, 535-536, 544, 546-547, 574, 595
-- Ganeo, Domenica 67, 561
+- *Formosa* 300, 349, 365, 371, 377, 382-383
+- Gabassi, Eugenio 313, 355, 367, 380, 414
+- Galli, Valeriano 136, 149, 329, 353, 355, 380, 414, 548-549, 557, 559-560, 587, 608
+- Ganeo, Domenica 67, 574
 - Gênova passim
-- Grama (São Sebastião da Grama) 235, 245, 459-460, 469-470, 478, 502, 515
-- Gulì, Simone 287, 293, 296, 350, 358, 360-361, 394, 406, 413
-- Hassen, Ali 316, 329, 370-371, 402
-- Hospedaria de Imigrantes do Brás 202, 218, 232, 234, 411-412, 415-417, 420, 430, 436, 446, 477, 564
-- Ilha das Flores 297, 382, 412, 428, 430
-- Leo, Domenico 333, 347
-- Luchini Teresa 177, 404
-- Lynose, Nicola 292, 295-296, 321, 337, 346, 371
-- Malone, Salvador 329, 347, 359-360, 401
+- Grama (São Sebastião da Grama) 235, 245, 472-473, 482-483, 491, 515, 528
+- Gulì, Simone 287, 293, 296, 358, 366, 368, 370, 405, 419, 426
+- Hassen, Ali 316, 329, 379-380, 415
+- Hospedaria de Imigrantes do Brás 202, 218, 232, 234, 424-425, 428-430, 433, 443, 449, 459, 490, 577
+- Ilha das Flores 297, 391-392, 425, 441, 443
+- Leo, Domenico 333, 355
+- Luchini Teresa 177, 417
+- Lynose, Nicola 292, 295-296, 321, 337, 354, 380
+- Malone, Salvador 329, 355, 367-368, 414
 - Mandolezzi, Vincenzo 331
 - Manin, Daniele 27
-- Maser 67-69, 559
-- Milano, Domingo 371-372
-- Miotto, Amabile Veronica 72, 76, 569
+- Maser 67-69, 572
+- Milano, Domingo 380-381
+- Miotto, Amabile Veronica 72, 76, 582
 - Miotto, Enrico passim
-- Miotto, Erminda 470, 498, 511, 564
+- Miotto, Erminda 483, 511, 524, 577
 - Miotto, Fausto passim
-- Miotto, Luigi 67-68, 70, 154, 558-559, 561-562
-- Miotto, Maria Luigia 73-74, 77, 136, 149, 606
-- Miotto, Vittorio 19, 72, 76, 125-126, 253, 276, 493
+- Miotto, Luigi 67-68, 70, 154, 571-572, 574-575
+- Miotto, Maria Luigia 73-74, 77, 136, 149, 619
+- Miotto, Vittorio 19, 72, 76, 125-126, 253, 276, 506
 - Monfumo passim
 - Monte Grappa passim
-- *Mosella* 366, 368, 373-374, 388, 405
+- *Mosella* 375, 377, 382-383, 399, 403, 418
 
 - Mussolini, Benito 161
-- Nazzeconi, Enrico 316, 326, 354, 356, 369
-- Ottaviani, Mario 336, 353, 403
-- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 219, 256, 525, 539, 555, 557, 607
-- Pecci, Pascual 293, 348
-- Ponce, Antonio 329, 347
+- Nazzeconi, Enrico 316, 326, 362, 364, 378
+- Ottaviani, Mario 336, 361, 416
+- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 219, 256, 538, 552, 568, 570, 620
+- Pecci, Pascual 293, 356
+- Ponce, Antonio 329, 355
 - Possagno 3, 14, 127
 - *Principessa Jolanda* 248, 250-251, 256
 - *Principessa Mafalda* passim
 - Prinetti, Giulio 96, 101, 106, 108, 162
-- Rio de Janeiro 174, 177, 183, 215, 259, 287, 297, 309, 311, 313, 322, 402, 412, 419, 430
+- Rio de Janeiro 174, 177, 183, 215, 259, 287, 297, 309, 311, 313, 322, 415, 425, 432, 443
 - Riva Trigoso 248, 256-257
 - Rivarola, Camilo 289-290
 - Rosas, Patricio de 285, 288, 291
-- *Rosetti* 368, 371, 373-374, 401, 405
-- Sanfilippo, Alfio 333, 347, 371, 401
-- Santororo, Juan 345
-- Santos, porto de 97, 116, 191, 195-196, 198, 209, 230, 238, 245, 269, 413, 444
-- Savoia, Mafalda di 253, 276, 493
-- Scavani del Vicario, Andres 357, 371
-- Solk, Milhem 198, 291, 315, 347, 369
-- Sorocaba 141, 475, 484, 489
+- *Rosetti* 377, 380, 382-383, 414, 418
+- Sanfilippo, Alfio 333, 355, 380, 414
+- Santororo, Juan 353
+- Santos, porto de 97, 116, 191, 195-196, 198, 209, 230, 238, 245, 269, 426, 457
+- Savoia, Mafalda di 253, 276, 506
+- Scavani del Vicario, Andres 365, 380
+- Solk, Milhem 198, 291, 315, 355, 378
+- Sorocaba 141, 488, 497, 502
 - São Paulo passim
 - São Vicente (Cabo Verde) 287
-- Spinelli, Maria 188, 330, 384
-- Terra, Mafalda Miotto 97, 463, 498, 506, 520
-- Terra, Marta 507, 520, 523, 536, 586, 602-603
-- Treviso 12, 21, 166, 171, 210, 578
-- Vacelli, família 320, 335, 344, 356
-- Vancouver 558-560, 562, 569
+- Spinelli, Maria 188, 330, 395
+- Terra, Mafalda Miotto 97, 476, 511, 519, 533
+- Terra, Marta 520, 533, 536, 549, 599, 615-616
+- Treviso 12, 21, 166, 171, 210, 591
+- Vacelli, família 320, 335, 352, 364
+- Vancouver 571-573, 575, 582
 
-- Vargas, Getúlio 512
+- Vargas, Getúlio 525
 - Vêneto passim
 - Vial, Maria 53
-- Vittorio Emanuele III 253, 276, 493
-- Volpi, Pedro 314, 319, 344, 347
+- Vittorio Emanuele III 253, 276, 506
+- Volpi, Pedro 314, 319, 352, 355
 - Zanni, Antonio 285
 
 ---

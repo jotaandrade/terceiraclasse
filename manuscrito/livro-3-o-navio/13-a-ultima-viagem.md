@@ -173,7 +173,7 @@ Eram cinco e quinze da tarde de 25 de outubro de 1927.
 
 Às cinco e quinze da tarde o eixo da hélice de bombordo se partiu.
 
-Não foi uma explosão, embora muita gente tenha dito depois que foi. Um eixo de hélice é uma barra de aço que atravessa o casco de dentro para fora. Quando ele se rompe girando, a ponta solta continua girando, e o que gira fora de eixo arranca o que estiver por perto.
+Não foi uma explosão, embora muita gente tenha dito depois que foi. Os sobreviventes recolhidos pelo *Formosa* desmentiram a versão ainda naquela semana: o que houve foi um ruído, quando a hélice arrebentou. Um eixo de hélice é uma barra de aço que atravessa o casco de dentro para fora. Quando ele se rompe girando, a ponta solta continua girando, e o que gira fora de eixo arranca o que estiver por perto.
 
 O que estava por perto era o casco, abaixo da linha d’água.
 

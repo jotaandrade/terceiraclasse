@@ -379,6 +379,16 @@ As colunas de nacionalidade mostram a virada acontecendo em cinco meses: em agos
 desembarcaram em Santos sessenta e cinco italianos e vinte e oito sírios; em janeiro de
 1924, quarenta sírios e trinta e dois italianos.
 
+E da última viagem existe a conta, feita por quem tinha obrigação de fazer. Três dias depois
+do naufrágio, a embaixada da Itália no Rio entregou à imprensa a relação dos estrangeiros que
+iam na terceira classe daquele navio: <strong>cento e dezoito sírios</strong>, cinquenta
+espanhóis, trinta e oito iugoslavos, dois austríacos, um húngaro, um suíço, um argentino e um
+uruguaio.
+
+Duzentas e doze pessoas que não eram italianas, contadas pela própria Itália.
+
+E o maior grupo estrangeiro daquele porão não vinha da Europa. Vinha do Levante.
+
 Milhem Solk, libanês de Beirute, na terceira viagem dele à Argentina,
 disse depois uma frase que resume o andar inteiro: a maioria dos companheiros dele não
 falava italiano nem espanhol.
@@ -844,7 +854,9 @@ por isso ainda estava no mar naquele fim de tarde.""",
 
 """Às cinco e quinze da tarde o eixo da hélice de bombordo se partiu.
 
-Não foi uma explosão, embora muita gente tenha dito depois que foi. Um eixo de
+Não foi uma explosão, embora muita gente tenha dito depois que foi. Os
+sobreviventes recolhidos pelo <em>Formosa</em> desmentiram a versão ainda naquela
+semana: o que houve foi um ruído, quando a hélice arrebentou. Um eixo de
 hélice é uma barra de aço que atravessa o casco de dentro para fora. Quando ele
 se rompe girando, a ponta solta continua girando, e o que gira fora de eixo
 arranca o que estiver por perto.
@@ -1260,6 +1272,50 @@ uma desconfiança em relação à Itália que já existia antes do navio.
 
 Uma tinha ordem de não dizer mal. A outra tinha vontade de dizer.""",
 
+"""Isso eu tinha por dedução. Depois achei as duas coisas escritas, na mesma semana, em jornal.
+
+O <em>Diário da Manhã</em>, do Recife, subiu a bordo do cargueiro inglês que levou vinte e sete
+sobreviventes para Pernambuco e descreveu o próprio convés:
+
+<em>os jornalistas assediavam os naufragos, fazendo-lhes mil perguntas, os photographos insistiam
+para que elles posassem deante das objectivas, a officialidade dava ordens…</em>
+
+É um repórter descrevendo a própria classe. E é o retrato do lugar de onde saiu quase tudo o que
+este livro cita: gente tirada da água havia quatro dias, cercada, fotografada e mandada posar.""",
+
+"""Naquela mesma noite o jornal foi ao hotel onde estavam hospedados os tripulantes.
+
+Escreveu que responderam <em>num tom de angustia</em>, com <em>os olhos lacrimejantes</em>.
+
+E registrou, sem comentar, uma coisa que vale mais do que o comentário: um deles, o que
+falava melhor português, expressou-se <em>calmamente</em> a respeito dos navios que tinham
+acorrido. Disse que não se aproximaram do navio italiano por causa da rota que lhes estava
+traçada, e que ainda assim trabalharam por socorros imediatos.
+
+<strong>Os outros choravam. Aquele explicava.</strong>""",
+
+"""O desembarque foi dirigido pessoalmente pelo cônsul da Itália no Recife. Quando a barcaça com
+os náufragos largou do costado do navio inglês, o jornal anota que <em>um Alalá partido de
+todos os peitos</em> saúdou os salvadores.
+
+<em>Alalá</em> é a saudação fascista.
+
+Vinte e sete pessoas tiradas do Atlântico por ingleses, entregues em terra por um cônsul
+italiano, saúdam os ingleses com o grito do regime.""",
+
+"""Do outro lado, onze dias depois do naufrágio, o <em>La Prensa</em> de Buenos Aires pediu em
+editorial que as autoridades italianas punissem os oficiais e tripulantes <em>com as mais severas
+penas da lei</em>, por terem deixado de cooperar no salvamento dos passageiros.
+
+O editorial citou o embaixador italiano no Brasil pelo nome e devolveu-lhe a frase. Attolico
+tinha elogiado <em>o corajoso espirito de sacrificio dos bravos marinheiros</em>. O jornal
+respondeu que havia prova do <em>censuravel abandono de seu posto</em>.
+
+As duas coisas são da mesma quinzena. Uma sai da boca de tripulantes italianos que tinham
+ordem de não criticar. A outra, de um jornal que exigia punição em editorial.
+
+<strong>Quem quiser saber o que houve naquela noite tem de ler os dois e descontar os dois.</strong>""",
+
 """Isso não invalida um único depoimento deste livro. Muda o que se pode pedir deles.
 
 Um homem que fala com o repórter no cais sabendo que não pode criticar o navio vai falar do
@@ -1291,6 +1347,11 @@ A primeira parte da explicação é onde cada um morava dentro do casco.
 
 O eixo partiu a bombordo, na popa. A água entrou pela popa. O navio afundou de popa.
 
+Isso não é dedução minha em cima da planta do navio. Está dito pelo próprio navio, no dia,
+por escrito. O <em>Avelona</em> recebeu o primeiro pedido de socorro às cinco da tarde e pediu
+mais informação. O telegrafista do Mafalda respondeu que tinham sofrido a ruptura do eixo da
+hélice e que havia <strong>um rombo na popa, por onde entrava enorme quantidade de água</strong>.
+
 E a segunda classe morava na popa. O refeitório e o fumoir ficavam ali, as cabines no convés
 de baixo. As duas baleeiras suplementares e as seis jangadas mais próximas daquela gente
 estavam empilhadas em cima do refeitório deles — e estavam presas. Travadas por ventiladores
@@ -1319,6 +1380,48 @@ dormitório de homens, quem subia pela escada principal e quem entrava por uma p
 costado. Quando o navio começou a afundar, parou de decidir.
 
 O que passou a decidir foi a planta do casco e o que o corpo de cada um aguentava.""",
+
+"""Isso é o que a aritmética diz hoje.
+
+Não é o que se disse em 1927.
+
+Quatro dias depois do naufrágio, o <em>Diário da Manhã</em> publicou a narração de uma
+sobrevivente, a senhora Cirino, e no meio dela está esta frase:
+
+<em>Os passageiros de terceira subiam á primeira, augmentando a desordem.</em>
+
+Essa frase podia ficar de fora deste livro. Ela não vai ficar. É documento, e o que ela documenta
+é que a terceira classe foi culpada na semana seguinte, em letra de forma, por estar subindo uma
+escada para não morrer.""",
+
+"""Mas a mesma página traz outras três coisas, e é por causa delas que a frase fica.
+
+<em>Alguns tripulantes precipitaram-se para os barcos, aggredindo a quem lhes tomava a
+dianteira.</em>
+
+<em>O commissario do navio sossobrado foi o primeiro a sahir de bordo.</em>
+
+E um industrial argentino chamado George Grenarde, salvo pelo <em>Formosa</em>, contou que viu
+mulheres tentando galgar os escaleres, e marinheiros da equipagem, armados de <strong>canivetes</strong>,
+cortando-lhes as mãos e os braços enquanto outros lhes davam pancadas na cabeça.""",
+
+"""Grenarde disse ainda uma coisa, e essa eu repito com a ressalva que ela pede: que um marinheiro
+cortou um náufrago ao meio, na frente dele.
+
+Não se corta um homem ao meio com um canivete. A frase é impossível como está.
+
+Ela é exata sobre outra coisa. Diz o estado de quem tinha acabado de sair da água, e diz o
+apetite de quem estava ouvindo com o lápis na mão.""",
+
+"""Quatro frases, uma página de jornal, quatro dias depois.
+
+A terceira classe subindo a escada. A tripulação correndo na frente. O comissário saindo primeiro.
+Os canivetes.
+
+<strong>Não há um lado limpo nesta página.</strong>
+
+E é por isso que ela entra inteira. Um livro que citasse só os canivetes estaria fazendo com a
+tripulação exatamente o que aquele jornal fez com a terceira classe.""",
 
 """Há uma coisa, porém, em que os três lados concordam.
 
@@ -1492,6 +1595,22 @@ para saber é se ele viu antes ou depois de ler nos jornais o que tinha visto.
 
 Nenhuma das duas está mentindo, e nenhuma das duas tinha como ter certeza. Aquela noite não
 ofereceu certeza a ninguém que estivesse dentro dela.""",
+
+"""E há uma terceira frase daquela noite, que a imprensa italiana não repetiu e que também é dele.
+
+Quatro dias depois, uma sobrevivente contou ao <em>Diário da Manhã</em>, do Recife, o que ouviu
+quando chegou a hora:
+
+<em>Estando as sirenes, a silvos, traduzindo a ordem do commandante, do “Salve-se quem
+puder!”, estabeleceu-se balburdia terrivel. Ninguem se entendia.</em>
+
+<strong>Naquela versão o salve-se quem puder não é grito de multidão. É ordem, e foi dada a
+apitos.</strong>
+
+Um comandante que manda salvar-se quem puder está dizendo que acabou o que ele tinha para fazer.
+É a frase mais honesta da noite, e é a única que ninguém quis pendurar em placa.
+
+Uma dessas duas frases virou notícia na Itália inteira. A outra ficou numa página de Pernambuco.""",
 
 """Então fica o que dá para dizer.
 
@@ -1733,6 +1852,32 @@ Mesmo casco. Mesma madrugada. Mesma escada.
 <strong>A separação que organizou a viagem inteira funcionou até o fim, inclusive depois do
 fim.</strong>""",
 
+"""E foi contestada em voz alta naquela mesma ilha, no mesmo dia. Não pelos imigrantes.
+
+Na tarde de 28 de outubro, os marinheiros e os graduados inferiores do <em>Principessa
+Mafalda</em>, recolhidos na Ilha das Flores junto com a terceira classe, fizeram protestos
+tumultuosos contra os próprios superiores.
+
+A queixa era que os oficiais tinham ido para hotéis enquanto eles estavam, nas palavras do
+despacho, <strong>alojados como imigrantes</strong>.
+
+A manifestação quase virou motim. Quem foi acalmá-la foi o embaixador italiano, que se deslocou
+até a ilha especialmente para isso.""",
+
+"""Vale ler a queixa devagar, porque ela diz em três palavras o que este livro vem dizendo
+desde o começo.
+
+<em>Alojados como imigrantes.</em>
+
+Para um marinheiro italiano em outubro de 1927, aquilo era a pior coisa que podia acontecer
+depois de escapar com vida. Era rebaixamento, e foi preciso um embaixador para desfazê-lo.
+
+Rosa Forner tinha desembarcado naquela mesma ilha na madrugada daquele dia, com a irmã e cinco
+crianças.
+
+<strong>Para ela aquilo não era rebaixamento nenhum.</strong> Era o que ela era, e era o que ela
+tinha atravessado o Atlântico para continuar sendo.""",
+
 """O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência,
 onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só:
 <strong>Náufragos</strong>.
@@ -1803,6 +1948,19 @@ E a pesquisa italiana recente chega a trezentas e vinte e quatro.
 
 De trinta e quatro a trezentas e vinte e quatro.
 
+Do outro lado do Atlântico a conta andou no sentido contrário.
+
+Em 27 de outubro, o comandante Privat, do <em>Mosella</em>, que tinha passado a noite tirando
+gente do mar, calculou seiscentos mortos assim que chegou a Salvador.
+
+No dia 28, com a chegada do <em>Alhena</em> ao Rio, os despachos falavam em cerca de
+quatrocentos.
+
+Depois desceu para trezentos e catorze.
+
+Os números italianos subiram de trinta e quatro. Os números de quem estava lá desceram de
+seiscentos. Encontraram-se no meio, e nenhum dos dois lados chegou ali contando corpo.
+
 A bordo iam mil duzentas e cinquenta e nove pessoas.
 
 <strong>Um em cada quatro não chegou.</strong>""",
@@ -1857,6 +2015,30 @@ E ele aceitou por ela.""",
 """A versão oficial daquela noite não se fez de gente mentindo por maldade. Fez-se de
 sobreviventes aceitando uma medalha por um feito que não houve, <strong>para que as viúvas
 tivessem um herói em vez de um afogado.</strong>""",
+
+"""Uma dos trezentos e catorze tem nome, e o nome chegou até aqui num despacho de quatro
+linhas.
+
+A senhora <strong>Celina Meyer Barbosa</strong>, viúva, paulista, viajava com os dois filhos,
+Celina e João.
+
+Ofereceram-lhe um cinto de salvamento e ela não quis pôr. Atirou-se na água pedindo aos filhos
+que não a abandonassem.
+
+Os dois foram atrás. Desapareceram os três.""",
+
+"""E o despacho seguinte, na mesma coluna, tem o mesmo tamanho e diz o contrário.
+
+Mattioggi Francesco, passageiro de terceira classe, a caminho de Buenos Aires, salvou a família
+inteira: mulher e seis filhos.
+
+Oito pessoas do mesmo porão, todas vivas.
+
+Os dois despachos foram escritos no mesmo dia, sobre a mesma noite e sobre o mesmo navio. O
+jornal pôs um embaixo do outro e não comentou nenhum dos dois.
+
+<strong>Este livro conta sete pessoas que atravessaram aquela noite inteiras. Havia outra família
+assim, e ela se chamava Mattioggi.</strong>""",
 
 """Quatro meses depois saiu o documento oficial.
 
@@ -5900,6 +6082,10 @@ FONTES = {
     u"Corpus de depoimentos: Milhem Solk.",
     u"Tradição oral: a cozinha e o cozinheiro, lembrança atribuída a Pulcheria Dei Agnoli e "
     u"transmitida por uma prima do ramo Dei Agnoli. <strong>Não é lembrança unânime</strong> — "
+    u"<em>Diário da Manhã</em>, Recife, 28 de outubro de 1927, p. 2 — <em>A "
+    u"reconstituição impressionante do naufrágio</em>: despachos Western do Rio, de São "
+    u"Salvador e de Gênova; declarações do comandante Privat, do <em>Mosella</em>, e de "
+    u"João Lyra Chaves, funcionário do serviço de imigração de São Paulo. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
     u"ver capítulo 14."],
 10:[u"Relação do <em>Alhena</em>, 28 de outubro de 1927: coluna de parentesco, <em>chefe</em> "
     u"para as duas irmãs.",
@@ -5926,6 +6112,10 @@ FONTES = {
     u"Saída de São Vicente, Cabo Verde, em 18 de outubro de 1927, com novecentos e setenta e "
     u"um passageiros e duzentos e oitenta e oito tripulantes.",
     u"Museu da Imigração do Estado de São Paulo, artigo do acervo sobre os náufragos.",
+    u"<em>Diário da Manhã</em>, Recife, 29 de outubro de 1927, p. 2 — <em>Quem o "
+    u"responsável pela catástrofe?</em>: narração da sra. Cirino, declarações do industrial "
+    u"argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e "
+    u"despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
     u"Pôr do sol calculado para a posição aproximada do naufrágio, 17°54′ de latitude sul, em "
     u"25 de outubro de 1927: 18h21; fim do crepúsculo civil, 18h48.",
     u"INEICHEN, <em>Il Principessa Mafalda</em> (2023): a escala em Mindelo, São Vicente, e o desvio de Dakar por causa do cólera; o "
@@ -5954,6 +6144,20 @@ FONTES = {
     u"A ordem dada aos sobreviventes italianos de não criticar o que houve a bordo, e a "
     u"desconfiança da imprensa estrangeira em relação à Itália: INEICHEN, <em>Il Principessa Mafalda</em> (2023), que remete a Giuseppe "
     u"Trevisani, «L'Europeo», 1956.",
+    u"<em>Diário da Manhã</em>, Recife, 6 de novembro de 1927, capa — <em>Como um "
+    u"transatlântico afunda</em>: declarações de um passageiro do <em>Avelona</em>, com a "
+    u"resposta do telegrafista do <em>Mafalda</em> sobre o rombo na popa. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
+    u"<em>Diário da Manhã</em>, Recife, 29 de outubro de 1927, capa — <em>A chegada do "
+    u"«Rossetti», conduzindo 27 náufragos</em>: o convés descrito pelo próprio repórter, a "
+    u"palestra com o comandante Dennison, o desembarque dirigido pelo cônsul Gino Romizi "
+    u"e a lista nominal dos vinte e sete. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
+    u"<em>Diário da Manhã</em>, Recife, 29 de outubro de 1927, p. 2 — <em>Quem o "
+    u"responsável pela catástrofe?</em>: narração da sra. Cirino, declarações do industrial "
+    u"argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e "
+    u"despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
+    u"<em>Diario Nacional</em>, São Paulo, 6 de novembro de 1927, capa — despacho da "
+    u"United Press de Buenos Aires sobre editorial do <em>La Prensa</em> pedindo a punição "
+    u"dos oficiais e tripulantes. <em>É notícia sobre editorial, não o editorial.</em> Hemeroteca Digital Brasileira, Biblioteca Nacional.",
     u"<em>As proporções por classe vêm de uma contabilidade que difere das outras usadas neste "
     u"livro. O que se aproveita delas é a ordem de grandeza, não o decimal.</em>"],
 16:[u"Divergência de horários do afundamento e a explicação do fuso: INEICHEN, <em>Il Principessa Mafalda</em> (2023); o horário do diário "
@@ -5961,6 +6165,10 @@ FONTES = {
     u"atribuído a Gulì pela imprensa italiana: INEICHEN, <em>Il Principessa Mafalda</em> (2023).",
     u"Corpus de depoimentos: Mario Ottaviani, Enrico Nazzeconi, Andres Scavani del Vicario, "
     u"Salvador Malone, Eugenio Gabassi, família Vacelli.",
+    u"<em>Diário da Manhã</em>, Recife, 29 de outubro de 1927, p. 2 — <em>Quem o "
+    u"responsável pela catástrofe?</em>: narração da sra. Cirino, declarações do industrial "
+    u"argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e "
+    u"despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
     u"<em>As duas versões da morte do comandante — a saudação na ponte e os tiros — vêm de "
     u"duas testemunhas na água, no escuro. O texto não escolhe.</em>"],
 17:[u"Telegramas de socorro da noite de 25 de outubro de 1927, com os nomes de dez navios.",
@@ -5978,6 +6186,10 @@ FONTES = {
     u"transcrita do diário de bordo; a distribuição dos novecentos e sessenta e nove "
     u"recolhidos por quatro navios; e o depoimento do comissário Carlos Longobardi, "
     u"sobrevivente. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
+    u"<em>Diário da Manhã</em>, Recife, 29 de outubro de 1927, p. 2 — <em>Quem o "
+    u"responsável pela catástrofe?</em>: narração da sra. Cirino, declarações do industrial "
+    u"argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e "
+    u"despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
     u"<em>A soma dos resgatados não fecha em quase nenhuma fonte, e as que fecham se "
     u"contradizem entre si; a discrepância está exposta no capítulo.</em>"],
 18:[u"A sequência dos números divulgados: «La Stampa», 27 de outubro de 1927; «Corriere della "
@@ -6001,6 +6213,14 @@ FONTES = {
     u"quarenta e dois tripulantes salvos entre duzentos e oitenta e oito, e o total de bordo "
     u"de mil duzentas e oitenta e uma pessoas. Hemeroteca Digital Brasileira, Biblioteca "
     u"Nacional.",
+    u"<em>Diário da Manhã</em>, Recife, 28 de outubro de 1927, p. 2 — <em>A "
+    u"reconstituição impressionante do naufrágio</em>: despachos Western do Rio, de São "
+    u"Salvador e de Gênova; declarações do comandante Privat, do <em>Mosella</em>, e de "
+    u"João Lyra Chaves, funcionário do serviço de imigração de São Paulo. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
+    u"<em>Diário da Manhã</em>, Recife, 29 de outubro de 1927, p. 2 — <em>Quem o "
+    u"responsável pela catástrofe?</em>: narração da sra. Cirino, declarações do industrial "
+    u"argentino George Grenarde, das irmãs Baccarini e do comerciante Walter Borges; e "
+    u"despachos Western do Rio datados de 28 de outubro. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
     u"<em>Não existe relação nominal dos trezentos e catorze mortos. O próprio número varia "
     u"entre as fontes.</em>"],
 19:[u"Museu da Imigração do Estado de São Paulo: Livro de Registro de Matrícula nº 100 da "
