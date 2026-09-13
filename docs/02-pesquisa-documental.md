@@ -2873,3 +2873,92 @@ Biblioteca Nacional Digital esta na lista de arquivos online dele.
 
 ⚠️ **Direitos.** Os fatos sao livres; a traducao italiana de Ineichen nao. O que for usado no
 livro deve vir da fonte primaria que ele cita, ou entrar como citacao curta e atribuida.
+
+---
+
+## 39. A censura, e o fim do Bloco B — 12.09.2026
+
+### 39.1 A ordem de nao criticar
+
+**"I superstiti italiani ebbero l'ordine di non esprimere nel modo piu assoluto critiche sullo
+svolgimento dei fatti a bordo della nave affondata e di evitare qualunque osservazione che
+potesse nuocere all'immagine dell'Italia."** (Ineichen, 2023, cap. 13.)
+
+E o complemento, de Giuseppe Trevisani em 1956, citado por Ineichen: a verdade sobre o
+naufragio nao fora possivel em 1927 **nem na imprensa italiana, dirigida pela censura fascista,
+nem na estrangeira, marcada por uma profunda desconfianca em relacao a Italia**.
+
+🔴 **Isto e uma chave de leitura, nao um fato a mais.** O corpus de vinte depoimentos e a
+espinha dorsal dos caps. 13 a 18. Se parte dos depoentes falava sob ordem de silencio e a outra
+parte falava a uma imprensa predisposta contra o pais deles, a divergencia entre os relatos
+deixa de ser so efeito do escuro e do panico: **parte dela foi produzida**.
+
+Explica de uma vez:
+
+- por que os depoentes italianos culpam a terceira classe e a tripulacao, e quase nunca a
+  companhia;
+- por que **Longobardi**, comissario e portanto funcionario da NGI, e justamente quem nega o
+  revolver e o suicidio de Guli;
+- por que o *Viva Italia* virou fato publicado sem testemunha;
+- por que a *Marcia Reale* ganhou medalha.
+
+E o momento explica a ordem: o naufragio foi em **25.10.1927** e as comemoracoes dos **cinco
+anos da Marcha sobre Roma** eram naquela mesma semana. O navio era a nau capitania da marinha
+mercante italiana.
+
+**Aplicado no cap. 15**, depois do bloco em que o autor se recusa a arbitrar a disputa entre as
+classes. Nao enfraquece a recusa — da a ela uma causa documentada.
+
+### 39.2 Como o numero foi administrado
+
+| Data | Fonte | Vitimas |
+|---|---|---:|
+| 27.10.1927 | «La Stampa» | "salvas quase todas as 1.208 pessoas a bordo" |
+| 28.10.1927 | «Corriere della Sera» | **34** |
+| 28.10.1927 | imprensa estrangeira | ao menos 300 |
+| depois | Navigazione Generale Italiana | **314** |
+| 2014 | Campodonico | **324** |
+
+**Aplicado no cap. 18**, na abertura, junto da frase que ja dizia que o numero nao e pacifico.
+
+### 39.3 Bruschi e a Marcia Reale
+
+Em **11.11.1927** o *Conte Verde* atracou em Genova com a tripulacao sobrevivente. No mesmo dia
+a associacao dos professores de orquestra quis condecorar os musicos do Mafalda por terem
+tocado o hino ate o fim.
+
+**Bruschi, o segundo violino, recusou a medalha, porque nao era verdade** — ele e o outro
+violinista ja estavam ha bastante tempo a bordo do *Alhena* quando o navio afundou.
+Responderam-lhe que as medalhas ja estavam prontas, que ninguem saberia, que estava escrito nos
+jornais e que punha a Italia sob boa luz. Ele pensou nos **cinco filhos do contrabaixista
+Alessandro Usai**, que ficara no navio, e aceitou.
+
+Fonte: Ineichen (2023), que remete a «L'Europeo», n. 533, pp. 7-8.
+
+🔴 **Decisao: nao virou capitulo novo.** O livro esta fechado em 27 capitulos com estrutura
+equilibrada, e abrir o vigesimo oitavo por uma cena e como o livro engorda sem melhorar. A cena
+entrou **no cap. 18**, que e o dos mortos — e e la que ela pertence, porque a mentira oferecida
+ao violinista era sobre um dos trezentos e catorze, e a viuva daquele morto estava no cais
+naquele dia com as cinco criancas.
+
+### 39.4 Bloco B da revisao documental — encerrado
+
+| Ponto | O que dizia | O que passou a dizer |
+|---|---|---|
+| cap. 10 | *"E a prova, no papel, de que ali nao houve documento nenhum passando de mao em mao"* | nao prova que nao existisse documento; prova que o funcionario nao estava olhando para um. **E declara que a lista e do Rio, catorze dias depois de Genova**, quando documento era justamente o que a familia nao tinha mais |
+| cap. 26 | *"Rosa nao estava gravida naquele navio. Nao ha como estar."* | *"Rosa nao estava gravida **de Erminda** naquele navio"* + a lacuna declarada: de outra gestacao nenhum papel sabe |
+| cap. 6 | *"o homem que ajudou a segurar o Monte Grappa"* | *"o homem daquelas medalhas"* — o proprio capitulo, na p. anterior, declara nao saber se Sante esteve em alguma batalha |
+| cap. 19 | *"Sete ficaram no Rio"* | *"Sete nao estao naquela pagina"* (aplicado em 12.09, junto do Ineichen) |
+
+**O Bloco B esta encerrado.** Os treze pontos do parecer externo foram todos tratados: os
+verificaveis, conferidos contra o documento; os de inferencia, ajustados; e os dois em que o
+parecer errava, recusados com a razao registrada na secao 37.
+
+### 39.5 Dose de negrito, conferida
+
+A regra da folha de estilo e um negrito a cada 200 palavras, e avisa que a um a cada 90 ele
+vira textura. Depois desta rodada:
+
+- cap. 15: um a cada **165** palavras
+- cap. 18: um a cada **128** — o capitulo ja estava denso antes (um a cada 122); dois negritos
+  foram retirados nesta passada, um deles por ser **numero**, que a folha de estilo exclui.

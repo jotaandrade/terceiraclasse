@@ -91,6 +91,26 @@ Então não arbitro. Ponho as três lado a lado e deixo à vista o que elas têm
 
 Um homem da primeira classe viu a terceira invadir os botes. Um homem da terceira viu a tripulação já dentro deles. As duas coisas provavelmente aconteceram, com meia hora de diferença, em pontos distintos de um convés no escuro.
 
+E há uma segunda razão, que eu demorei a entender e que muda o jeito de ler tudo o que vem sendo citado aqui.
+
+**Nenhuma das duas imprensas que colheram aquelas falas estava livre.**
+
+Os sobreviventes italianos receberam ordem de não fazer crítica nenhuma ao que tinha acontecido a bordo, e de evitar qualquer observação capaz de prejudicar a imagem da Itália.
+
+O momento explica a ordem. O navio afundou em 25 de outubro de 1927, e a Itália tinha marcado para aquela mesma semana as comemorações dos cinco anos da Marcha sobre Roma — a festa da eficiência e da unidade de uma nação renovada. O transatlântico que tinha ido ao fundo era a nau capitânia da marinha mercante do país.
+
+Do outro lado havia o contrário, e não era melhor. A imprensa de fora cobriu o naufrágio com uma desconfiança em relação à Itália que já existia antes do navio.
+
+Uma tinha ordem de não dizer mal. A outra tinha vontade de dizer.
+
+Isso não invalida um único depoimento deste livro. Muda o que se pode pedir deles.
+
+Um homem que fala com o repórter no cais sabendo que não pode criticar o navio vai falar do que pode: do pânico dos outros, da coragem de alguém, do que viu a três metros de si. E é exatamente isso que os vinte depoimentos fazem.
+
+A divergência entre eles não é só efeito do escuro e do medo.
+
+**Parte dela foi produzida.**
+
 Há uma coisa, porém, que a aritmética diz e o testemunho não diz.
 
 A conta dos mortos, feita por classe.

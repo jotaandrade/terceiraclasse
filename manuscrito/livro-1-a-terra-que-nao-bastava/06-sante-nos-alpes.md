@@ -189,7 +189,7 @@ O documento informa, campo por campo.
 
 Bracciante é diarista. Trabalhador de enxada por dia de serviço, sem terra própria.
 
-Vinte e dois anos depois da guerra, com três medalhas emolduradas na parede de casa, a profissão declarada do homem que ajudou a segurar o Monte Grappa é diarista.
+Vinte e dois anos depois da guerra, com três medalhas emolduradas na parede de casa, a profissão declarada do homem daquelas medalhas é diarista.
 
 E vêm os *connotati e contrassegni salienti*, que é como se descrevia uma pessoa antes de a fotografia resolver o problema:
 

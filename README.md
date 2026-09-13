@@ -50,7 +50,7 @@ scripts/              histórico das rodadas de correção e escrita
 | | |
 |---|---|
 | Capítulos | 27, em 4 livros + epílogo — I: 1-7 · II: 8-11 · III: 12-18 · IV: 19-27 |
-| **Escritos** | **27 de 27 capítulos, 38.962 palavras, 622 páginas** |
+| **Escritos** | **27 de 27 capítulos, 39.671 palavras, 628 páginas** |
 | Aparato | créditos, nota de método, fontes, créditos de imagem e índice onomástico — prontos |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |
@@ -227,9 +227,19 @@ apresenta como "a terceira classe prejudicou a segunda".** Quem viaja na terceir
 onde o navio afundou, e as balsas mais próximas dela estavam travadas por ventiladores; e a
 noite foi decidida na água, não nos botes, o que favorece quem é jovem. Está assim no cap. 15.
 
-**Não incorporado ainda:** a ordem dada aos sobreviventes italianos de **não criticar** o que
-houve a bordo (muda a leitura de todo depoimento italiano de 1927); e a cena de **Bruschi
-recusando a medalha da Marcia Reale** porque a orquestra não tocou o hino.
+**A censura, aplicada em 12.09.2026.** Os sobreviventes italianos receberam ordem de não
+criticar o que houve a bordo nem dizer nada que prejudicasse a imagem da Itália — e a Marcha
+sobre Roma fazia cinco anos naquela mesma semana. Do outro lado, a imprensa estrangeira cobriu
+o naufrágio com uma desconfiança prévia em relação ao país. **Nenhuma das duas imprensas que
+colheram os vinte depoimentos estava livre**, e isso entrou no cap. 15 como chave de leitura:
+a divergência entre os relatos não é só efeito do escuro — parte dela foi produzida. No cap. 18
+entrou a sequência dos números (34 → 314 → 324) e a fabricação dos heróis.
+
+**Bruschi entrou no cap. 18, e não virou capítulo novo** *(decisão de 12.09.2026)*. O livro está
+fechado em 27 capítulos e abrir o vigésimo oitavo por uma cena é como ele engorda sem melhorar.
+A cena pertence ao capítulo dos mortos: a medalha que ofereceram ao violinista era por um feito
+que não houve, e a viúva do contrabaixista Alessandro Usai estava no cais naquele dia com as
+cinco crianças.
 
 **Pista maior que este livro abriu:** «L'Europeo», reportagem de **Giuseppe Trevisani** em sete
 partes, n. 533 a 539, de 1º de janeiro a 12 de fevereiro de 1956 — dezenas de entrevistas com

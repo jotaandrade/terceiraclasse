@@ -1217,7 +1217,7 @@ O documento informa, campo por campo.
 
 Bracciante é diarista. Trabalhador de enxada por dia de serviço, sem terra própria.
 
-Vinte e dois anos depois da guerra, com três medalhas emolduradas na parede de casa, a profissão declarada do homem que ajudou a segurar o Monte Grappa é diarista.
+Vinte e dois anos depois da guerra, com três medalhas emolduradas na parede de casa, a profissão declarada do homem daquelas medalhas é diarista.
 
 E vêm os *connotati e contrassegni salienti*, que é como se descrevia uma pessoa antes de a fotografia resolver o problema:
 
@@ -1789,7 +1789,11 @@ Forner Maria. Ginneta. Pulgheria.
 
 Não é *Maria Luigia*, não é *Gina*, não é *Pulcheria*. São os nomes como soam na boca de uma mulher do Vêneto e como caem no ouvido de um homem que escreve depressa.
 
-**Nenhum daqueles nomes foi lido. Todos foram ouvidos.** É a prova, no papel, de que ali não houve documento nenhum passando de mão em mão: houve uma mulher dizendo em voz alta o nome dos filhos, uma vez atrás da outra.
+**Aqueles nomes não foram copiados de papel nenhum. Foram ouvidos.**
+
+Isso não prova que não existisse documento. Prova que, naquele instante, o funcionário não estava olhando para um: havia uma mulher dizendo em voz alta o nome dos filhos, uma vez atrás da outra, e um homem escrevendo o que o ouvido pegava.
+
+E quando essa lista foi feita — no Rio, catorze dias depois de Gênova — documento era justamente o que aquela família não tinha mais.
 
 E então a prancha.
 
@@ -2691,6 +2695,26 @@ Então não arbitro. Ponho as três lado a lado e deixo à vista o que elas têm
 
 Um homem da primeira classe viu a terceira invadir os botes. Um homem da terceira viu a tripulação já dentro deles. As duas coisas provavelmente aconteceram, com meia hora de diferença, em pontos distintos de um convés no escuro.
 
+E há uma segunda razão, que eu demorei a entender e que muda o jeito de ler tudo o que vem sendo citado aqui.
+
+**Nenhuma das duas imprensas que colheram aquelas falas estava livre.**
+
+Os sobreviventes italianos receberam ordem de não fazer crítica nenhuma ao que tinha acontecido a bordo, e de evitar qualquer observação capaz de prejudicar a imagem da Itália.
+
+O momento explica a ordem. O navio afundou em 25 de outubro de 1927, e a Itália tinha marcado para aquela mesma semana as comemorações dos cinco anos da Marcha sobre Roma — a festa da eficiência e da unidade de uma nação renovada. O transatlântico que tinha ido ao fundo era a nau capitânia da marinha mercante do país.
+
+Do outro lado havia o contrário, e não era melhor. A imprensa de fora cobriu o naufrágio com uma desconfiança em relação à Itália que já existia antes do navio.
+
+Uma tinha ordem de não dizer mal. A outra tinha vontade de dizer.
+
+Isso não invalida um único depoimento deste livro. Muda o que se pode pedir deles.
+
+Um homem que fala com o repórter no cais sabendo que não pode criticar o navio vai falar do que pode: do pânico dos outros, da coragem de alguém, do que viu a três metros de si. E é exatamente isso que os vinte depoimentos fazem.
+
+A divergência entre eles não é só efeito do escuro e do medo.
+
+**Parte dela foi produzida.**
+
 Há uma coisa, porém, que a aritmética diz e o testemunho não diz.
 
 A conta dos mortos, feita por classe.
@@ -3021,9 +3045,53 @@ Tenho vinte depoimentos de sobreviventes, com nome, idade, classe, cidade de ori
 
 O próprio número não é pacífico. Há fonte que fala em duzentos e setenta e dois. Trezentos e catorze é o que o cruzamento sustenta, e é o que este livro usa.
 
+E vale olhar como ele foi aparecendo, porque não foi apurado. Foi administrado.
+
+Em 27 de outubro, dois dias depois, *La Stampa* anunciava que estavam salvas quase todas as mil duzentas e oito pessoas a bordo.
+
+No dia seguinte, o *Corriere della Sera* informava trinta e quatro vítimas.
+
+Na mesma data, a imprensa de fora já estimava pelo menos trezentas.
+
+Depois a companhia declarou trezentas e catorze.
+
+E a pesquisa italiana recente chega a trezentas e vinte e quatro.
+
+De trinta e quatro a trezentas e vinte e quatro.
+
 A bordo iam mil duzentas e cinquenta e nove pessoas.
 
 **Um em cada quatro não chegou.**
+
+Houve uma razão para aquele primeiro número, e não era confusão.
+
+Em vez de apurar o que tinha acontecido, a imprensa italiana fabricou heróis.
+
+Os dois radiotelegrafistas mortos viraram heróis. O comandante Gulì foi louvado por ter ficado a bordo, e puseram na boca dele um *Viva Italia* que testemunha nenhuma registrou. E a orquestra de bordo teria tocado a *Marcia Real*, o hino do Reino, enquanto o navio afundava.
+
+Essa última dá para verificar. E é falsa.
+
+Em 11 de novembro o *Conte Verde* atracou em Gênova trazendo a tripulação sobrevivente. No mesmo dia, a associação dos músicos quis condecorar a orquestra do Mafalda por ter tocado o hino até o fim.
+
+Bruschi, o segundo violino, recusou a medalha.
+
+Ele e o outro violinista tinham sido recolhidos muito antes, e estavam havia bastante tempo a bordo do *Alhena* quando o navio afundou. Ninguém tocou hino nenhum.
+
+Responderam-lhe que as medalhas já estavam prontas. Que ninguém ia saber. Que estava escrito nos jornais. E que punha a Itália sob boa luz.
+
+Bruschi pensou nos cinco filhos do contrabaixista Alessandro Usai, que tinha ficado no navio.
+
+E aceitou.
+
+Guardo essa cena aqui, no capítulo dos mortos, porque é aqui que ela pertence.
+
+Um dos trezentos e catorze era um contrabaixista com cinco filhos. A viúva dele estava no cais naquele dia, segurando as cinco crianças, perguntando aos que desciam por onde andava o marido.
+
+A mentira que ofereceram ao violinista era sobre o morto dela.
+
+E ele aceitou por ela.
+
+A versão oficial daquela noite não se fez de gente mentindo por maldade. Fez-se de sobreviventes aceitando uma medalha por um feito que não houve, **para que as viúvas tivessem um herói em vez de um afogado.**
 
 E o um em cada quatro não caiu igual sobre todo mundo. As proporções por classe estão no capítulo 15, e a única que não entrou lá é a da tripulação.
 
@@ -4151,7 +4219,9 @@ Há uma versão desta história, contada nesta família há décadas, segundo a 
 
 Enrico tinha um ano e quinze dias e estava a bordo — está no Livro 100 da Hospedaria do Brás. E a filha seguinte, Erminda, nasceu em 10 de novembro de 1928, doze meses e meio depois do naufrágio.
 
-Rosa não estava grávida naquele navio. Não há como estar.
+Rosa não estava grávida de Erminda naquele navio. Não há como estar.
+
+De outra gravidez eu não sei, e nenhum papel que eu tenha visto sabe: uma gestação que termina sem registro não deixa rastro em cartório nenhum. O que dá para afirmar é o que a data afirma — a criança que a história da família põe na barriga dela naquela noite só foi concebida no ano seguinte.
 
 Dá para localizar de onde a versão veio.
 
@@ -4514,6 +4584,7 @@ João José de Andrade Neto
 - Corpus de depoimentos: Ali Hassen, Salvador Malone, Antonio Ponce, Valeriano Galli, Maria Spinelli, Vincenzo Mandolezzi, Alfio Sanfilippo, Domenico Leo, Juan Santororo, família Vacelli, Mario Ottaviani, Nicola Lynose, Pascual Pecci.
 - Mortalidade por classe: CAMPODONICO, Pierangelo, *Tragedie dell'emigrazione italiana per mare*, Museo del Mare, Genova, 2014, p. 86, apud INEICHEN, *Il Principessa Mafalda* (2023). Sobre um total de 1.255 pessoas a bordo: 287 tripulantes, 255 salvos; 821 passageiros de terceira classe, 593 salvos; 95 de segunda, 58 mortos; 52 de primeira, 25 mortos.
 - Planta do navio, posição da segunda classe à popa, as catorze baleeiras e as seis jangadas travadas por ventiladores: INEICHEN, *Il Principessa Mafalda* (2023).
+- A ordem dada aos sobreviventes italianos de não criticar o que houve a bordo, e a desconfiança da imprensa estrangeira em relação à Itália: INEICHEN, *Il Principessa Mafalda* (2023), que remete a Giuseppe Trevisani, «L'Europeo», 1956.
 - *As proporções por classe vêm de uma contabilidade que difere das outras usadas neste livro. O que se aproveita delas é a ordem de grandeza, não o decimal.*
 **Capítulo 16 · 22h10**
 
@@ -4524,12 +4595,14 @@ João José de Andrade Neto
 
 - Telegramas de socorro da noite de 25 de outubro de 1927, com os nomes de dez navios.
 - Corpus de depoimentos: Nazzeconi, Beria, Solk, Ali Hassen, Domingo Milano, Maria Spinelli.
-- Relação do *Alhena*, 28 de outubro de 1927, Ilha das Flores.
 
+- Relação do *Alhena*, 28 de outubro de 1927, Ilha das Flores.
 - *O Malho*, Rio de Janeiro, 5 de novembro de 1927, páginas 30-31 e 55 — a narrativa oficial do comandante Allemand, do paquete francês *Formosa*, transcrita do diário de bordo; a distribuição dos novecentos e sessenta e nove recolhidos por quatro navios; e o depoimento do comissário Carlos Longobardi, sobrevivente. Hemeroteca Digital Brasileira, Biblioteca Nacional.
 - *A soma dos resgatados não fecha em quase nenhuma fonte, e as que fecham se contradizem entre si; a discrepância está exposta no capítulo.*
 **Capítulo 18 · Os 314**
 
+- A sequência dos números divulgados: «La Stampa», 27 de outubro de 1927; «Corriere della Sera», 28 de outubro de 1927; declaração da Navigazione Generale Italiana; e a estimativa recente de Campodonico (2014). Todos por INEICHEN, *Il Principessa Mafalda* (2023).
+- A fabricação dos heróis pela imprensa italiana, e a cena de Bruschi recusando a medalha da *Marcia Real* em 11 de novembro de 1927: INEICHEN, *Il Principessa Mafalda* (2023), que remete a «L'Europeo», n. 533, pp. 7-8. O contrabaixista era Alessandro Usai.
 - Corpus de depoimentos: Valeriano Galli, Salvador Malone, Alfio Sanfilippo, Eugenio Gabassi, Ali Hassen, Mario Ottaviani.
 - Relação do *Alhena*: passageiras nº 24 e 25, com a nota manuscrita do funcionário.
 - *O Malho*, Rio de Janeiro, 5 de novembro de 1927, página 55 — os duzentos e quarenta e dois tripulantes salvos entre duzentos e oitenta e oito, e o total de bordo de mil duzentas e oitenta e uma pessoas. Hemeroteca Digital Brasileira, Biblioteca Nacional.
@@ -4538,10 +4611,10 @@ João José de Andrade Neto
 
 - Museu da Imigração do Estado de São Paulo: Livro de Registro de Matrícula nº 100 da Hospedaria de Imigrantes do Brás, página 290, 31 de outubro de 1927. Registros 19265 a 19269 (Forner Maria e as quatro crianças) e 19276 e 19277 (Forner Rosa e Enrico). A numeração do livro é por pessoa, não por família.
 - Procedimento interno da Hospedaria — banho, desinfecção, estufa, inspeção médica, registro. **A cena é reconstrução declarada no próprio capítulo.**
+
 - Partida do *Conte Verde* do Rio em 31 de outubro de 1927 e do *Duca degli Abruzzi* em 2 de novembro: INEICHEN, *Il Principessa Mafalda* (2023), que remete a Garosci (2010), p. 42.
 - Ernesto Lovato: relação do *Alhena*, linha 36; Livro 100 da Hospedaria do Brás, registro 19274; e a notícia do suicídio em 1º de maio de 1929, no *Diario Nacional* (São Paulo), 1.5.1929, e em *La Sentinelle*, 7.5.1929, localizadas por INEICHEN, *Il Principessa Mafalda* (2023).
 - *Que as sete pessoas tenham seguido por terra é conclusão por eliminação, não documento: os dois navios disponíveis não serviam. Está dito assim no texto.*
-
 **Capítulo 20 · O reencontro**
 
 - Tradição oral, ramo Betti: João Betti (1920–2008), marido de Pulcheria, transmitida por **Patrícia Betti**, que consentiu em ser nomeada e creditada. O carvão e o não-reconhecimento.
@@ -4555,11 +4628,11 @@ João José de Andrade Neto
 **Capítulo 22 · Enrico**
 
 - Registro de Estrangeiros de Enrico Miotto, São Paulo, 29 de dezembro de 1949: RG 1.335.902, carteira 308.460.
+
 - Declaração de Óbito nº 5501831, Sorocaba, 6 de outubro de 1998.
 **Capítulo 23 · 1937**
 
 - Certidão de casamento de Mafalda Miotto, de 1954, reemitida em 1981 na cidade de Nova Fátima.
-
 - *Atto di nascita* de Rosa Forner, Comune di Monfumo, 24 de junho de 1903.
 - *A razão do nome não está em documento nenhum. O capítulo apresenta um padrão, não uma prova.*
 **Capítulo 24 · Virar brasileiro**
@@ -4572,11 +4645,11 @@ João José de Andrade Neto
 
 - Correspondência, fotografias e identificações enviadas por **Giorgio Forner**, Vêneto.
 - Árvore genealogica colaborativa: o cruzamento que reencontrou Patrícia Betti, a partir do casal Vincenzo Forner e Santa Pandolfo.
+
 **Capítulo 26 · A busca**
 
 - FARRONATO, *Storia di Castelcucco*: a genealogia impressa, a linha vertical que liga a segunda fileira ao irmão de Vincenzo, e o erro na data de nascimento de Rosa.
 - Índices de nascimento do Comune di Monfumo: as três grafias do nome de Santa Pandolfo.
-
 - *Carta d’identità* de Sante Forner, 8 de março de 1940: *Padre: di Vincenzo. Madre: fu Pandolfo Domenica Santa*.
 - Province of British Columbia, *Registration of Death* nº 5509-008734: Louie Miotto, Vancouver General Hospital, 15 de agosto de 1955.
 - Fusão de perfis em árvore colaborativa, 18 de novembro de 2024, às 11h21.
@@ -4589,10 +4662,10 @@ João José de Andrade Neto
 
 - Vinte relatos de sobreviventes publicados na imprensa argentina e brasileira nos dias seguintes ao naufrágio, recebidos em tradução, com nome, idade e procedência de cada depoente. São a espinha dorsal dos capítulos 13 a 18.
 - **O jornal, a data e a página de cada relato ainda não foram localizados.** Enquanto a procedência não fecha, o livro identifica cada relato pelo nome do depoente e diz, toda vez, o que ele é: gente que tinha acabado de sair da água, falando com repórter, poucos dias depois.
+
 - As pistas abertas, na ordem em que serão seguidas: o acervo reunido em histarmar.com.ar, citado pelo artigo do Museu da Imigração; e as duas obras que a pesquisa de Maurício Carvalho para o sítio *Naufrágios do Brasil* arrola — *Revista Mergulho*, ano XIII, nº 155, junho de 2009, e GARIBALDI, Luciano; GIORGERINI, Giorgio; MAGNANI BOSIO, Maria Enrica. *Principessa Mafalda. Titanic italiano*, org. R. Garosci. Novara: De Agostini, 2010.
 - INEICHEN, Stefan. *Il Principessa Mafalda*. Torino: Bollati Boringhieri, 2023 — história do navio de 1908 a 1927, com aparato de notas e pesquisa de arquivo na Itália, na Suíça, na Alemanha e no Brasil. É a obra de referência sobre o assunto, e chegou a este projeto quando o livro já estava escrito.
 - *Relazione dell'inchiesta ufficiale* sobre o naufrágio, parcialmente tornada pública em março de 1928, comentada em «Hansa, Deutsche Schiffahrtszeitschrift», ano 65, n. 9, 3 de março de 1928, p. 390.
-
 - TREVISANI, Giuseppe. Reportagem em sete partes sobre o naufrágio, em «L'Europeo», n. 533 a 539, de 1º de janeiro a 12 de fevereiro de 1956. Dezenas de entrevistas com sobreviventes, vinte e oito anos depois. **É a pista aberta para a procedência do corpus de depoimentos deste livro.**
 **Acervos consultados**
 
@@ -4604,6 +4677,7 @@ João José de Andrade Neto
 - CARVALHO, Maurício. *Principessa Mafalda*, em *Naufrágios do Brasil* — pesquisa secundária. É dela que vem a relação dos navios que ouviram o pedido de socorro, no capítulo 17, e o nome da estação radiotelegráfica de Amaralina, em Salvador.
 - *Albo d’Oro dei Caduti della Grande Guerra*, Ministero della Difesa.
 - FARRONATO, Gabriele. *Storia di Castelcucco: un comune veneto del Pedemonte del Grappa*. Castelcucco: Edizioni Acelum, 2008 — história local, com a genealogia impressa da família Forner.
+
 - Acervo da família Miotto e Forner, no Brasil e no Vêneto.
 **Epígrafe**
 
@@ -4689,103 +4763,103 @@ João José de Andrade Neto
 ## Índice onomástico
 
 - Alhena, vapor passim
-- Andrade, Carlos Aparecido de 492, 561, 572
-- Andrade, João Luca Soares de 53, 508, 557-558, 560-561, 572
+- Andrade, Carlos Aparecido de 497, 566, 577
+- Andrade, João Luca Soares de 53, 513, 562-563, 565-566, 577
 - Asolo passim
-- Beck Josef 175, 403
-- Beria, Batista 312, 337-338, 358, 360
-- Betti, João 318, 414, 421, 537
-- Betti, Patrícia 318, 414, 418, 420, 510, 562
-- Buenos Aires 195-196, 256, 265-266, 272, 339, 404, 408
+- Beck Josef 175, 408
+- Beria, Batista 312, 339-340, 360, 362
+- Betti, João 318, 419, 426, 542
+- Betti, Patrícia 318, 419, 423, 425, 515, 567
+- Buenos Aires 195-196, 256, 265-266, 272, 341, 409, 413
 - Cadorna, Luigi 123
 - Cadorna, Raffaele 32, 123
 - Castelcucco passim
-- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 224, 242, 278, 397
+- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 224, 242, 278, 402
 - Dei Agnoli, Angelo passim
-- Dei Agnoli, Danilo 159, 180, 205, 224, 228, 371, 397
-- Dei Agnoli, Gina Oliva 159, 180, 205, 212, 228, 278, 371, 397, 421, 428
-- Dei Agnoli, Pulcheria Pasqua 159, 180, 199, 202, 205, 212, 228, 317-318, 371, 397, 414, 421, 423, 495, 510, 537, 539, 562
-- Dei Agnoli, Rino 159, 180, 205, 228, 371, 397, 429
-- De Rosi Emilia 177, 369, 380, 405
-- *Empire Star* 290-291, 313, 326, 347, 355-357, 362-363
-- Filipovich, Thomas 367, 388
+- Dei Agnoli, Danilo 159, 180, 205, 224, 228, 373, 402
+- Dei Agnoli, Gina Oliva 159, 180, 205, 212, 228, 278, 373, 402, 426, 433
+- Dei Agnoli, Pulcheria Pasqua 159, 180, 199, 202, 205, 212, 228, 317-318, 373, 402, 419, 426, 428, 500, 515, 542, 544, 567
+- Dei Agnoli, Rino 159, 180, 205, 228, 373, 402, 434
+- De Rosi Emilia 177, 371, 385, 410
+- *Empire Star* 290-291, 313, 326, 349, 357-359, 364-365
+- Filipovich, Thomas 369, 393
 - Fontana, Antonio 282-283
-- Forner, Abele Alessandro 55, 524
+- Forner, Abele Alessandro 55, 529
 - Forner, Domenico 53
-- Forner, Galliano 136, 149, 507-508, 516, 518-519, 546, 566
+- Forner, Galliano 136, 149, 512-513, 521, 523-524, 551, 571
 - Forner, Giorgio passim
-- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 545
+- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 550
 - Forner, Maria Luigia passim
 - Forner, Pietro Luigi 57, 60, 124, 154
 - Forner, Rosa passim
 
 - Forner, Sante passim
 - Forner, Vincenzo passim
-- *Formosa* 348, 353, 357, 362-363
-- Gabassi, Eugenio 306, 338, 350, 360, 377
-- Galli, Valeriano 136, 149, 322, 336, 338, 360, 377, 507-508, 516, 518-519, 546, 566
-- Ganeo, Domenica 67, 533
+- *Formosa* 350, 355, 359, 364-365
+- Gabassi, Eugenio 306, 340, 352, 362, 382
+- Galli, Valeriano 136, 149, 322, 338, 340, 362, 382, 512-513, 521, 523-524, 551, 571
+- Ganeo, Domenica 67, 538
 - Gênova passim
-- Grama (São Sebastião da Grama) 232, 242, 431-432, 441-442, 450, 474, 487
-- Gulì, Simone 281, 287, 290, 341, 349-350, 352, 404
-- Hassen, Ali 309, 322, 359-360, 378
-- Hospedaria de Imigrantes do Brás 201, 229, 231, 387-388, 390-392, 395, 404, 406, 418, 449, 536
-- Ilha das Flores 291, 367, 388, 403-404, 406
-- Leo, Domenico 326, 338
-- Luchini Teresa 177, 369, 380
-- Lynose, Nicola 286, 289-290, 314, 330, 337, 360
-- Malone, Salvador 322, 338, 350, 377
+- Grama (São Sebastião da Grama) 232, 242, 436-437, 446-447, 455, 479, 492
+- Gulì, Simone 281, 287, 290, 343, 351-352, 354, 377, 409
+- Hassen, Ali 309, 322, 361-362, 383
+- Hospedaria de Imigrantes do Brás 201, 229, 231, 392-393, 395-397, 400, 409, 411, 423, 454, 541
+- Ilha das Flores 291, 369, 393, 408-409, 411
+- Leo, Domenico 326, 340
+- Luchini Teresa 177, 371, 385
+- Lynose, Nicola 286, 289-290, 314, 330, 339, 362
+- Malone, Salvador 322, 340, 352, 382
 - Mandolezzi, Vincenzo 324
 - Manin, Daniele 27
-- Maser 67-69, 531
-- Milano, Domingo 360-361
-- Miotto, Amabile Veronica 72, 76, 541
+- Maser 67-69, 536
+- Milano, Domingo 362-363
+- Miotto, Amabile Veronica 72, 76, 546
 - Miotto, Enrico passim
-- Miotto, Erminda 442, 444, 470, 483, 536
+- Miotto, Erminda 447, 449, 475, 488, 541
 - Miotto, Fausto passim
-- Miotto, Luigi 67-68, 70, 154, 530-531, 533-534
-- Miotto, Maria Luigia 73-74, 77, 136, 149, 577
-- Miotto, Vittorio 19, 72, 76, 125-126, 131, 250, 273, 465
+- Miotto, Luigi 67-68, 70, 154, 535-536, 538-539
+- Miotto, Maria Luigia 73-74, 77, 136, 149, 582
+- Miotto, Vittorio 19, 72, 76, 125-126, 131, 250, 273, 470
 - Monfumo passim
 - Monte Grappa passim
-- *Mosella* 355, 357, 362-363
+- *Mosella* 357, 359, 364-365
 
 - Mussolini, Benito 161
-- Nazzeconi, Enrico 309, 319, 345, 347, 358
-- Ottaviani, Mario 329, 344, 379
-- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 216, 253, 497, 511, 527, 529, 578
-- Pecci, Pascual 287, 339
-- Ponce, Antonio 322, 338
+- Nazzeconi, Enrico 309, 319, 347, 349, 360
+- Ottaviani, Mario 329, 346, 384
+- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 216, 253, 502, 516, 532, 534, 583
+- Pecci, Pascual 287, 341
+- Ponce, Antonio 322, 340
 - Possagno 3, 14, 127
 - *Principessa Jolanda* 245, 247-248, 253
 - *Principessa Mafalda* passim
 - Prinetti, Giulio 96, 101, 106, 108, 162
-- Rio de Janeiro 174, 177, 183, 212, 256, 281, 291, 303, 306, 315, 367, 378, 388, 394, 406
+- Rio de Janeiro 174, 177, 183, 212, 256, 281, 291, 303, 306, 315, 369, 383, 393, 399, 411
 - Riva Trigoso 245, 253-254
 - Rivarola, Camilo 283-284
 - Rosas, Patricio de 279, 282, 285
-- *Rosetti* 357, 360, 362-363, 377
-- Sanfilippo, Alfio 326, 338, 360, 377
-- Santororo, Juan 336
-- Santos, porto de 97, 116, 190, 194-195, 197, 206, 227, 235, 242, 266, 404, 416
-- Savoia, Mafalda di 250, 273, 465
-- Scavani del Vicario, Andres 348, 360
-- Solk, Milhem 197, 285, 308, 338, 358
-- Sorocaba 141, 447, 456, 461
+- *Rosetti* 359, 362, 364-365, 382
+- Sanfilippo, Alfio 326, 340, 362, 382
+- Santororo, Juan 338
+- Santos, porto de 97, 116, 190, 194-195, 197, 206, 227, 235, 242, 266, 409, 421
+- Savoia, Mafalda di 250, 273, 470
+- Scavani del Vicario, Andres 350, 362
+- Solk, Milhem 197, 285, 308, 340, 360
+- Sorocaba 141, 452, 461, 466
 - São Paulo passim
 - São Vicente (Cabo Verde) 281
-- Spinelli, Maria 187, 323, 368
-- Terra, Mafalda Miotto 97, 435, 470, 478, 492
-- Terra, Marta 479, 492, 495, 508, 558, 573-574
-- Treviso 12, 21, 166, 171, 207, 550
-- Vacelli, família 313, 328, 335, 347
-- Vancouver 530-532, 534, 541
+- Spinelli, Maria 187, 323, 370
+- Terra, Mafalda Miotto 97, 440, 475, 483, 497
+- Terra, Marta 484, 497, 500, 513, 563, 578-579
+- Treviso 12, 21, 166, 171, 207, 555
+- Vacelli, família 313, 328, 337, 349
+- Vancouver 535-537, 539, 546
 
-- Vargas, Getúlio 484
+- Vargas, Getúlio 489
 - Vêneto passim
 - Vial, Maria 53
-- Vittorio Emanuele III 250, 273, 465
-- Volpi, Pedro 307, 312, 335, 338
+- Vittorio Emanuele III 250, 273, 470
+- Volpi, Pedro 307, 312, 337, 340
 - Zanni, Antonio 279
 
 ---

@@ -139,7 +139,9 @@ Há uma versão desta história, contada nesta família há décadas, segundo a 
 
 Enrico tinha um ano e quinze dias e estava a bordo — está no Livro 100 da Hospedaria do Brás. E a filha seguinte, Erminda, nasceu em 10 de novembro de 1928, doze meses e meio depois do naufrágio.
 
-Rosa não estava grávida naquele navio. Não há como estar.
+Rosa não estava grávida de Erminda naquele navio. Não há como estar.
+
+De outra gravidez eu não sei, e nenhum papel que eu tenha visto sabe: uma gestação que termina sem registro não deixa rastro em cartório nenhum. O que dá para afirmar é o que a data afirma — a criança que a história da família põe na barriga dela naquela noite só foi concebida no ano seguinte.
 
 Dá para localizar de onde a versão veio.
 

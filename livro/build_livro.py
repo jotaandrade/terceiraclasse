@@ -1247,6 +1247,34 @@ Um homem da primeira classe viu a terceira invadir os botes. Um homem da terceir
 tripulação já dentro deles. As duas coisas provavelmente aconteceram, com meia hora de
 diferença, em pontos distintos de um convés no escuro.""",
 
+"""E há uma segunda razão, que eu demorei a entender e que muda o jeito de ler tudo o que
+vem sendo citado aqui.
+
+<strong>Nenhuma das duas imprensas que colheram aquelas falas estava livre.</strong>
+
+Os sobreviventes italianos receberam ordem de não fazer crítica nenhuma ao que tinha acontecido
+a bordo, e de evitar qualquer observação capaz de prejudicar a imagem da Itália.
+
+O momento explica a ordem. O navio afundou em 25 de outubro de 1927, e a Itália tinha marcado
+para aquela mesma semana as comemorações dos cinco anos da Marcha sobre Roma — a festa da
+eficiência e da unidade de uma nação renovada. O transatlântico que tinha ido ao fundo era a
+nau capitânia da marinha mercante do país.
+
+Do outro lado havia o contrário, e não era melhor. A imprensa de fora cobriu o naufrágio com
+uma desconfiança em relação à Itália que já existia antes do navio.
+
+Uma tinha ordem de não dizer mal. A outra tinha vontade de dizer.""",
+
+"""Isso não invalida um único depoimento deste livro. Muda o que se pode pedir deles.
+
+Um homem que fala com o repórter no cais sabendo que não pode criticar o navio vai falar do
+que pode: do pânico dos outros, da coragem de alguém, do que viu a três metros de si. E é
+exatamente isso que os vinte depoimentos fazem.
+
+A divergência entre eles não é só efeito do escuro e do medo.
+
+<strong>Parte dela foi produzida.</strong>""",
+
 """Há uma coisa, porém, que a aritmética diz e o testemunho não diz.
 
 A conta dos mortos, feita por classe.
@@ -1704,9 +1732,64 @@ geração, até 1861.
 """O próprio número não é pacífico. Há fonte que fala em duzentos e setenta e dois.
 Trezentos e catorze é o que o cruzamento sustenta, e é o que este livro usa.
 
+E vale olhar como ele foi aparecendo, porque não foi apurado. Foi administrado.
+
+Em 27 de outubro, dois dias depois, <em>La Stampa</em> anunciava que estavam salvas quase todas
+as mil duzentas e oito pessoas a bordo.
+
+No dia seguinte, o <em>Corriere della Sera</em> informava trinta e quatro vítimas.
+
+Na mesma data, a imprensa de fora já estimava pelo menos trezentas.
+
+Depois a companhia declarou trezentas e catorze.
+
+E a pesquisa italiana recente chega a trezentas e vinte e quatro.
+
+De trinta e quatro a trezentas e vinte e quatro.
+
 A bordo iam mil duzentas e cinquenta e nove pessoas.
 
 <strong>Um em cada quatro não chegou.</strong>""",
+
+"""Houve uma razão para aquele primeiro número, e não era confusão.
+
+Em vez de apurar o que tinha acontecido, a imprensa italiana fabricou heróis.
+
+Os dois radiotelegrafistas mortos viraram heróis. O comandante Gulì foi louvado por ter ficado
+a bordo, e puseram na boca dele um <em>Viva Italia</em> que testemunha nenhuma registrou. E a
+orquestra de bordo teria tocado a <em>Marcia Real</em>, o hino do Reino, enquanto o navio
+afundava.
+
+Essa última dá para verificar. E é falsa.""",
+
+"""Em 11 de novembro o <em>Conte Verde</em> atracou em Gênova trazendo a tripulação
+sobrevivente. No mesmo dia, a associação dos músicos quis condecorar a orquestra do Mafalda
+por ter tocado o hino até o fim.
+
+Bruschi, o segundo violino, recusou a medalha.
+
+Ele e o outro violinista tinham sido recolhidos muito antes, e estavam havia bastante tempo a
+bordo do <em>Alhena</em> quando o navio afundou. Ninguém tocou hino nenhum.
+
+Responderam-lhe que as medalhas já estavam prontas. Que ninguém ia saber. Que estava escrito
+nos jornais. E que punha a Itália sob boa luz.
+
+Bruschi pensou nos cinco filhos do contrabaixista Alessandro Usai, que tinha ficado no navio.
+
+E aceitou.""",
+
+"""Guardo essa cena aqui, no capítulo dos mortos, porque é aqui que ela pertence.
+
+Um dos trezentos e catorze era um contrabaixista com cinco filhos. A viúva dele estava no cais
+naquele dia, segurando as cinco crianças, perguntando aos que desciam por onde andava o marido.
+
+A mentira que ofereceram ao violinista era sobre o morto dela.
+
+E ele aceitou por ela.
+
+A versão oficial daquela noite não se fez de gente mentindo por maldade. Fez-se de
+sobreviventes aceitando uma medalha por um feito que não houve, <strong>para que as viúvas
+tivessem um herói em vez de um afogado.</strong>""",
 
 """E o um em cada quatro não caiu igual sobre todo mundo. As proporções por classe estão
 no capítulo 15, e a única que não entrou lá é a da tripulação.
@@ -2969,9 +3052,14 @@ Não é <em>Maria Luigia</em>, não é <em>Gina</em>, não é <em>Pulcheria</em>
 como soam na boca de uma mulher do Vêneto e como caem no ouvido de um homem que escreve
 depressa.
 
-<strong>Nenhum daqueles nomes foi lido. Todos foram ouvidos.</strong> É a prova, no papel, de
-que ali não houve documento nenhum passando de mão em mão: houve uma mulher dizendo em voz
-alta o nome dos filhos, uma vez atrás da outra.""",
+<strong>Aqueles nomes não foram copiados de papel nenhum. Foram ouvidos.</strong>
+
+Isso não prova que não existisse documento. Prova que, naquele instante, o funcionário não
+estava olhando para um: havia uma mulher dizendo em voz alta o nome dos filhos, uma vez atrás
+da outra, e um homem escrevendo o que o ouvido pegava.
+
+E quando essa lista foi feita — no Rio, catorze dias depois de Gênova — documento era
+justamente o que aquela família não tinha mais.""",
 
 """E então a prancha.
 
@@ -3253,7 +3341,12 @@ Enrico tinha um ano e quinze dias e estava a bordo — está no Livro 100 da Hos
 E a filha seguinte, Erminda, nasceu em 10 de novembro de 1928, doze meses e meio depois
 do naufrágio.
 
-Rosa não estava grávida naquele navio. Não há como estar.""",
+Rosa não estava grávida de Erminda naquele navio. Não há como estar.
+
+De outra gravidez eu não sei, e nenhum papel que eu tenha visto sabe: uma gestação que termina
+sem registro não deixa rastro em cartório nenhum. O que dá para afirmar é o que a data afirma —
+a criança que a história da família põe na barriga dela naquela noite só foi concebida no ano
+seguinte.""",
 
 """Dá para localizar de onde a versão veio.
 
@@ -5200,7 +5293,7 @@ comune.
 Bracciante é diarista. Trabalhador de enxada por dia de serviço, sem terra própria.
 
 Vinte e dois anos depois da guerra, com três medalhas emolduradas na parede de casa, a
-profissão declarada do homem que ajudou a segurar o Monte Grappa é diarista.""",
+profissão declarada do homem daquelas medalhas é diarista.""",
 
 """E vêm os <em>connotati e contrassegni salienti</em>, que é como se descrevia uma pessoa
 antes de a fotografia resolver o problema:
@@ -5740,6 +5833,9 @@ FONTES = {
     u"salvos; 95 de segunda, 58 mortos; 52 de primeira, 25 mortos.",
     u"Planta do navio, posição da segunda classe à popa, as catorze baleeiras e as seis "
     u"jangadas travadas por ventiladores: INEICHEN, <em>Il Principessa Mafalda</em> (2023).",
+    u"A ordem dada aos sobreviventes italianos de não criticar o que houve a bordo, e a "
+    u"desconfiança da imprensa estrangeira em relação à Itália: INEICHEN, <em>Il Principessa Mafalda</em> (2023), que remete a Giuseppe "
+    u"Trevisani, «L'Europeo», 1956.",
     u"<em>As proporções por classe vêm de uma contabilidade que difere das outras usadas neste "
     u"livro. O que se aproveita delas é a ordem de grandeza, não o decimal.</em>"],
 16:[u"Divergência de horários do afundamento e a explicação do fuso: INEICHEN, <em>Il Principessa Mafalda</em> (2023); o horário do diário "
@@ -5760,7 +5856,13 @@ FONTES = {
     u"sobrevivente. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
     u"<em>A soma dos resgatados não fecha em quase nenhuma fonte, e as que fecham se "
     u"contradizem entre si; a discrepância está exposta no capítulo.</em>"],
-18:[u"Corpus de depoimentos: Valeriano Galli, Salvador Malone, Alfio Sanfilippo, Eugenio "
+18:[u"A sequência dos números divulgados: «La Stampa», 27 de outubro de 1927; «Corriere della "
+    u"Sera», 28 de outubro de 1927; declaração da Navigazione Generale Italiana; e a estimativa "
+    u"recente de Campodonico (2014). Todos por INEICHEN, <em>Il Principessa Mafalda</em> (2023).",
+    u"A fabricação dos heróis pela imprensa italiana, e a cena de Bruschi recusando a medalha da "
+    u"<em>Marcia Real</em> em 11 de novembro de 1927: INEICHEN, <em>Il Principessa Mafalda</em> (2023), que remete a «L'Europeo», n. 533, "
+    u"pp. 7-8. O contrabaixista era Alessandro Usai.",
+    u"Corpus de depoimentos: Valeriano Galli, Salvador Malone, Alfio Sanfilippo, Eugenio "
     u"Gabassi, Ali Hassen, Mario Ottaviani.",
     u"Relação do <em>Alhena</em>: passageiras nº 24 e 25, com a nota manuscrita do funcionário.",
     u"<em>O Malho</em>, Rio de Janeiro, 5 de novembro de 1927, página 55 — os duzentos e "

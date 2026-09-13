@@ -67,7 +67,11 @@ Forner Maria. Ginneta. Pulgheria.
 
 Não é *Maria Luigia*, não é *Gina*, não é *Pulcheria*. São os nomes como soam na boca de uma mulher do Vêneto e como caem no ouvido de um homem que escreve depressa.
 
-**Nenhum daqueles nomes foi lido. Todos foram ouvidos.** É a prova, no papel, de que ali não houve documento nenhum passando de mão em mão: houve uma mulher dizendo em voz alta o nome dos filhos, uma vez atrás da outra.
+**Aqueles nomes não foram copiados de papel nenhum. Foram ouvidos.**
+
+Isso não prova que não existisse documento. Prova que, naquele instante, o funcionário não estava olhando para um: havia uma mulher dizendo em voz alta o nome dos filhos, uma vez atrás da outra, e um homem escrevendo o que o ouvido pegava.
+
+E quando essa lista foi feita — no Rio, catorze dias depois de Gênova — documento era justamente o que aquela família não tinha mais.
 
 E então a prancha.
 
