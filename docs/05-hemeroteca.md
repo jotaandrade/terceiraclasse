@@ -538,3 +538,258 @@ o navio ruim dos italianos — e a substitui por uma pior e mais verdadeira.
    (aqui: Cyrino, Bordes, Zambrino, Campodonio, Longobardi; lá: Ottaviani, Nazzeconi, Gabassi,
    Sanfilippo). São **dois corpora independentes**, o que é melhor do que um: vários fatos do
    livro que se apoiavam só no corpus sem procedência agora têm confirmação brasileira datada.
+
+---
+
+# 4. *Diário da Manhã* (Recife, PE) — a cobertura de um porto que recebeu náufragos
+
+Rua do Imperador 227, diretor **Carlos de Lima Cavalcanti**. Quinze páginas no acervo,
+de 27.10.1927 a 1.3.1928. **Quatro lidas até agora.**
+
+Recife importa porque foi lá que o *Rosetti* desembarcou vinte e sete náufragos em
+**28.10.1927**. O jornal mandou repórter e fotógrafo ao cais, ao Hotel Portuense e ao Circolo
+Italiano, e publicou material de primeira mão que não existe em nenhuma outra fonte deste
+projeto.
+
+---
+
+## 4.1 · 1º de março de 1928, p. 1 — ⭐⭐⭐ O INQUÉRITO OFICIAL
+
+`I0002682` · **SOBRE O «PRINCIPESSA MAFALDA» — As conclusões do inquerito official,
+procedido em Roma**
+
+**Esta página fecha a pendência V-36.3.** O relatório do inquérito italiano, em português,
+num jornal brasileiro, com data e página — citável.
+
+> "A commissão de inquerito nomeada para apurar as causas e as responsabilidades do lamentavel
+> sinistro maritimo do 'Principessa Mafalda', em aguas brasileiras, começou os seus trabalhos
+> em 14 de outubro de 1927 e acabou em 31 de janeiro do corrente anno."
+
+⚠️ "14 de outubro" é anterior ao naufrágio — erro do jornal ou do telegrama. Provável 14 de
+novembro. Anotar como está, e sinalizar.
+
+**A causa:**
+
+> "A causa directa do sinistro foi a soltura do eixo da helice da esquerda (…) Foram
+> immediatamente fechadas as portas estanques, mas não foram fechadas as portas de communicação
+> entre os tunneis e os locaes onde funcciona o motor do leme, e assim **em vinte minutos
+> entraram 350 toneladas de agua**."
+
+⚠️ Ineichen, citando a revista alemã «Hansa», dá **250** toneladas. Aqui são **350**. Duas
+transcrições do mesmo relatório, dois números. Registrar a divergência.
+
+> "Ter-se-ia podido providenciar fechando a porta collocada no tecto do motor, mas os seus
+> fechos não funccionaram **por defeito de manutenção das chaves**."
+
+**A culpa, nomeada:**
+
+> "**O chefe de machinas perdeu a coragem, desmoralisando-se e communicando a sua fraqueza ao
+> pessoal posto sob as suas ordens.**"
+
+⭐ O chefe de máquinas era **Silvio Scarabicchi**, o que desceu sete conveses para dizer ao
+comandante *"Comandante, andemo a fundo"*. Ele sobreviveu. O relatório oficial o acusa de
+covardia.
+
+**E a mentira central:**
+
+> "**As baleeiras estavam em optimas condições**, assim como as cinturas salva-vidas estavam a
+> seu posto nos camarotes. Faltou, porém, aos passageiros a necessaria instrucção de salvação
+> para o uso das cinturas, como faltou tambem a indicação das lanchas que deviam occupar os
+> passageiros."
+
+🔴🔴 **Isto contradiz frontalmente tudo o mais.** *O Malho* (5.11.1927): *"o material de
+salvamento do navio estava em pessimo estado. As baleeiras, mal cuidadas em taboas podres,
+faziam agua; as roldanas dos 'turcos' enferrujadas; não havia nos escaleres nem remos nem
+leme."* Ineichen: as seis jangadas estavam travadas por ventiladores, ferrugem e tinta. O
+editorial do *Vestris* (*O Malho*, 24.11.1928): *"botes de emergencia que não servem nem para o
+fogo porque estão podres"*.
+
+**O inquérito oficial diz que estavam em ótimas condições, e transfere a falha para os
+passageiros, que não sabiam usar o colete.**
+
+**A composição da tripulação — e o cozinheiro:**
+
+> "O pessoal de bordo era de **287 pessoas**, sendo apenas de **153 marinheiros** o pessoal de
+> machinas. Os restantes eram **cozinheiros, garçons e serviçaes inaptos para qualquer
+> manobra**, que se deixaram subjugar pelo panico, que se communicou fatalmente aos passageiros,
+> oppondo invenciveis obstaculos ao salvamento."
+
+⭐⭐⭐ Os 287 conferem com Campodonico. E aqui está uma coisa que este livro não pode deixar
+passar: **a tradição oral desta família credita a vida das duas irmãs a um cozinheiro. O
+inquérito oficial do Estado italiano culpa os cozinheiros pelo pânico e pelos obstáculos
+invencíveis ao salvamento.**
+
+**A absolvição por omissão:**
+
+> "A commissão de inquerito declara **não poder emittir a sua opinião a respeito da
+> responsabilidade em ordem juridica** (…) attribuida aos armadores e ás pessoas prepostas á
+> fiscalisação das condições de navegabilidade do navio."
+
+E elogia os navios salvadores *Avelona* e *Formose* — ⚠️ grafia do jornal; as fontes
+especializadas escrevem **Formosa**, e o livro usa Formosa.
+
+---
+
+## 4.2 · 29 de outubro de 1927, p. 1 — ⭐⭐⭐ A CHEGADA DO *ROSETTI*
+
+`I0001553` · *O impressionante sinistro do "Principessa Mafalda" — A chegada do "Rossetti",
+conduzindo 27 naufragos · UMA PALESTRA COM O COMMANDANTE DENNISON · As narrativas de varios
+naufragos ao "Diario da Manhã" · SCENAS DANTESCAS E EPISODIOS LANCINANTES*
+
+**Fotografia própria do jornal**, creditada *(Photo e clichê «DIARIO DA MANHÃ»)*:
+passageiros e tripulantes do *Principessa Mafalda* à porta do **Circolo Italiano** de Recife e
+no salão do mesmo; embaixo, o navio *Rossetti*. **Uma boia salva-vidas com o nome PRINCIPESSA
+MAFALDA aparece no chão, diante do grupo.** É a única fotografia deste projeto com procedência
+completa — jornal, data, página e crédito do próprio veículo.
+
+**A lista dos vinte e sete**, transcrita com as lacunas do papel:
+
+> "…tti trouxe para esta [capital os] seguintes naufragos: […] **Gabassi**, italiano; […]
+> Angelo, italiano; […]agio, italiano; Gatto […], italiano; Pusutti Gio[vanni], italiano; Roost
+> Ernest, […]ganti Luige, italiano; […]ninico, italiano; Co[…]nnine, italiano; Ne[…]vel, slavo;
+> Divicenzi […]ano; Brasil Cassey, […]m Jussef, arabe; Ivo[…], franceza; Fatima […]ux,
+> algeriana; Mosa[…], Antonino Cantafio, […]da, Guasneri Basilio, […] Giovarci, Fillippone […]
+> **Vetino Zambrino**, […]la **Zambrino**, todos [italia]nos. **A' excepção destes dois ultimos,
+> os restantes faziam parte da tripulação do [Mafalda]**."
+
+⭐⭐ **Vetino Zambrino e Rosa Zambrino** — a mãe que *O Malho* descreveria uma semana depois
+passando dez horas num escaler meio submerso, com água pelo pescoço, erguendo o filho acima da
+própria cabeça. **Aqui está o desembarque dos dois, dois dias depois da noite.**
+
+**Dois que não chegaram:**
+
+> "[Os naufr]agos fallecidos a bor[do do Ros]setti foram a sra. […] Giovannini, de 48 [annos] e
+> Pietro Capitia[no], de 17 annos, ambos naturaes [da Italia]. [Os corp]os foram atirados ao
+> [mar]."
+
+⭐ **Duas pessoas foram resgatadas vivas e morreram a bordo do navio de salvamento, e foram
+lançadas ao mar.** Não estão nos trezentos e catorze, e não têm sepultura. É material do
+cap. 18.
+
+**O gesto do comandante Dennison:** abriu uma subscrição a bordo do *Rossetti* em favor de uma
+passageira, **Ivonne**, salva com a filha; a importância seria convertida em cheque contra um
+banco de Buenos Aires, para onde ela seguia.
+⭐ *Ivonne* é quase certamente a **Yvonne Sinnard** que Rosa Zambrino cita, n'*O Malho*, como
+uma das que desceram com ela ao escaler.
+
+**Eugenio Gambassi:**
+
+> "Uma das victimas de saliencia no naufragio do Principessa Mafalda é o **cav. Gambassi
+> Eugenio, agente consular italiano em Ponta Grossa, do Paraná**. O cav. Gambassi encontra-se
+> hospedado no Gloria-Hotel tendo desembarcado numa ambulancia da Assistencia Publica, em vista
+> do seu estado de saude."
+
+⭐⭐ O corpus de vinte depoimentos deste livro tem um **Eugenio Gabassi** — o que ouviu tiros
+vindos da ponte e concluiu que o comandante e o primeiro maquinista tinham se matado (cap. 16).
+**Se for o mesmo homem, ele não era imigrante de terceira classe: era agente consular italiano**,
+e desembarcou em Recife de ambulância.
+⚠️ Na mesma página, a lista dos vinte e sete traz um "Gabassi" entre os que seriam tripulantes.
+Pode haver dois. **Não resolver antes de ler as páginas de 27 e 28 de outubro.**
+
+**E a versão do suicídio, publicada em Recife três dias depois:**
+
+> "O commandante do Principessa Mafalda e outros officiaes do mesmo navio, segundo consta,
+> **suicidou-se no momento em que o seu barco sossobrava**."
+
+**A entrevista com os tripulantes**, sob o título *FALAM NO "PORTUENSE" OS TRIPULANTES DO
+"PRINCIPESSA MAFALDA"*:
+
+> "[Estivem]os, hontem, á noite, [no hotel] Portuense, onde estão [hospedados] os tripulantes do
+> [Principessa] Mafalda. […] [A's nos]sas primeiras inquiri[ções respo]nderam-nos num tom [de
+> angusti]a. […] Um del[es], melhor conhecedor [da nossa] lingua, expressou-se [calmamente] a
+> respeito da […] collaboração dos navios [no salvam]ento (…) Estes, é certo, não se
+> aproxi[maram do] navio italiano, dada [a rota que] lhes estava traçada. [Entanto],
+> trabalharam por soc[corros im]mediatos."
+
+⚠️ Leia isto junto com §4.3: o tom "calmo" e defensivo de um tripulante italiano, três dias
+depois, tem explicação.
+
+---
+
+## 4.3 · 9 de novembro de 1927 — ⭐⭐⭐ A CENSURA, CONFESSADA EM PORTUGUÊS
+
+`I0001655` · *Os commentarios tendenciosos sobre o naufragio do «Mafalda»* — carta publicada
+a pedido, da colônia italiana.
+
+**Esta página é a prova brasileira da tese que entrou no cap. 15.**
+
+Primeiro, o luto que vira catálogo:
+
+> "A catastrophe, embora enorme, embora tenha lacerado a nossa alma, não nos abateu: pois que
+> **no proximo anno teremos a mais bella, a mais numerosa, a mais efficiente frota** das que
+> navegam na America do Sul. Além do 'Conte Rosso', 'Conte Verde', 'Giulio Cesare' e 'Saturnia',
+> actualmente em linha, teremos as duas potentes unidades o '**Augustus**' e o 'Vulcania'."
+
+⭐ É o mesmo movimento do editorial *Lutto Italiano* do *Pasquino Coloniale* — o navio novo
+anunciado dentro do texto de luto. **Duas fontes independentes, a mesma retórica.**
+
+Depois, a acusação:
+
+> "O que mais nos entristece, nesse caso, é a **campanha diffamatoria que certos jornaes
+> emprehenderam com o unico fim de lançar o descredito em torno da Marinha Mercante Italiana**."
+
+Os números do embaixador:
+
+> "…communicado de s. exc. o embaixador **Bernardo Attolico**, a saber: que de **152 mulheres
+> embarcadas foram salvas 158** e de **68 crianças salvaram-se 60**, o que claramente demonstra
+> que os marinheiros italianos, fieis ás suas antigas tradições, souberam cumprir fielmente o
+> seu dever."
+
+🔴 **De cento e cinquenta e duas mulheres, salvaram-se cento e cinquenta e oito.** O comunicado
+oficial da Embaixada, publicado para provar que a tripulação cumpriu o dever, traz um número
+aritmeticamente impossível. Erro de tipografia ou do telegrama — mas está impresso assim, e é o
+que a colônia leu.
+
+O que a defesa admite sem perceber:
+
+> "…quando não havia mais esperança, e o commandante lançava o grito desesperado de
+> '**salve-se quem puder**', não é justo inculpar aquelles que, com os gestos de marinheiros
+> experimentados (…) encontraram em si mesmos forças para salvar a propria vida."
+
+⭐⭐ **Aqui a última palavra de Gulì é "salve-se quem puder"** — e não o *Viva Italia* que a
+mesma colônia repetia como palavra de ordem na capa do *Pasquino*. As duas peças de propaganda
+não combinam entre si.
+
+**E a confissão:**
+
+> "…accusam o Real representante do Governo Italiano (…) é de presumir que sejam iguaes ás
+> feitas aqui ao nosso **R. Consul Dr. Romizi**, em um jornal da cidade, **censurando-o por ter
+> prejudicado o seu serviço de reportagem**; entretanto a verdade é que **se tivessemos querido
+> fazer pressão sobre o espirito dos naufragos e occultar suas declarações não teriamos levado
+> nenhum jornalista na barca que era nossa porque estava ao serviço do Real Consulado**."
+
+🔴🔴🔴 **A barca que levou os jornalistas até os náufragos era do Consulado italiano.**
+
+Um jornal de Recife acusou o cônsul de atrapalhar a reportagem; a defesa do cônsul é que ele
+deixou jornalistas embarcarem — na barca dele. **O acesso da imprensa aos sobreviventes, em
+Recife, passava pelo consulado.**
+
+Ineichen afirma, a partir de fonte italiana, que os sobreviventes receberam ordem de não
+criticar. **Esta página é a mesma coisa vista do lado brasileiro, escrita pelo próprio lado que
+organizava o acesso.** E explica o tom das entrevistas do Hotel Portuense.
+
+---
+
+## 4.4 Ainda não lidas
+
+`I0001533` `I0001534` `I0001536` (27.10, a primeira notícia) · `I0001546` (28.10, **declarações
+do comandante do *Mosella***) · `I0001554` (*Quem é responsável pela catástrofe?*) ·
+`I0001562` (**novos depoimentos de náufragos**) · `I0001599` · `I0001626` (**declarações de um
+passageiro do *Avelona***) · `I0001627` (6.11) · `I0001678` (12.11, *nos destroços*) ·
+`I0001723` (17.11) · `I0001838` (30.11, **duas fotografias inéditas**)
+
+---
+
+# 5. O que estas leituras mudam
+
+1. **A pendência do inquérito oficial está fechada** — e o documento é pior do que se supunha:
+   ele diz que as baleeiras estavam em ótimas condições.
+2. **A censura deixou de ser afirmação de terceiro.** Há prova brasileira, publicada, de que o
+   consulado controlava o acesso da imprensa aos náufragos em Recife.
+3. **O cozinheiro da tradição familiar tem um contraponto oficial**: o inquérito culpa os
+   cozinheiros.
+4. **Dois mortos a mais**, que não estão nos 314: os que morreram a bordo do *Rossetti* e foram
+   atirados ao mar.
+5. **Rosa Zambrino e o filho têm data e porto de desembarque.**
+6. **Eugenio Gabassi pode não ser quem o livro supõe** — verificação aberta.
+7. **Uma fotografia com procedência completa**, do *Diário da Manhã*, com a boia do navio.
