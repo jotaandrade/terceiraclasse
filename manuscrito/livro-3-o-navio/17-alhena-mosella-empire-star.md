@@ -13,7 +13,7 @@ Não foi previdência de ninguém. Foi rota comercial. Aquele trecho do Atlânti
 
 O pedido de socorro alcançou mais navios do que se costuma contar.
 
-Os telegramas daquela noite registram **Alhena**, **Empire Star**, **Formosa**, **Mosella**, **Avelona**, **Rosetti**, e ainda *Salem*, *Forthmouth*, *Frederik* e *Piauhy*.
+Os telegramas daquela noite registram *Alhena*, *Empire Star*, *Formosa*, *Mosella*, *Avelona*, *Rosetti*, e ainda *Salem*, *Forthmouth*, *Frederik* e *Piauhy*.
 
 Dez nomes. Holandês, inglês, francês, italiano, brasileiro. Nenhum deles tinha qualquer obrigação com aquela gente além da que existe entre navios.
 
@@ -71,6 +71,12 @@ Some. Novecentos e sessenta e nove mais trezentos e doze dão mil duzentas e oit
 
 O preço dessa clareza é que ela deixa o *Empire Star* e o *Avelona* de fora — e há fonte que dá a esses dois, juntos, mais de quinhentos salvos.
 
+Do *Avelona*, pelo menos, sabe-se por quê.
+
+O comandante dele falou à imprensa no Rio. Estava a duzentas e oitenta milhas quando ouviu o pedido de socorro, chegou às quatro da manhã, procurou até as oito e **não achou ninguém**. Não levou um único náufrago para o porto.
+
+E disse mais uma coisa, que é a frase mais dura que um comandante de navio de resgate pode dizer: com os botes que tinha a bordo, teria salvado todo mundo — tripulação e passageiros — se tivesse chegado dez horas antes.
+
 Até a aritmética que fecha discorda das outras sobre quem tirou quem da água.
 
 Isso não é desleixo de quem contou.
@@ -95,7 +101,43 @@ Porque o que ficou dessa passagem, e ficou por cem anos, foi o carvão.
 
 **Elas chegaram pretas.** As duas mulheres e as cinco crianças, cobertas de pó de carvão da cabeça aos pés.
 
-Em 28 de outubro de 1927, o vapor holandês *Alhena* entrou no porto do Rio de Janeiro.
+O *Alhena* entrou na baía de Guanabara pouco depois da meia-noite de 28 de outubro. Não atracou: ficou fundeado, com quinhentas e trinta e uma pessoas a bordo que não eram dele.
+
+Quatro oficiais e cento e quarenta e cinco homens da tripulação do Mafalda. Dez passageiros de primeira classe. Vinte e sete de segunda.
+
+E trezentos e quarenta e cinco de terceira.
+
+A primeira pessoa a subir aquela escada não foi um médico, nem a autoridade do porto.
+
+Foi o embaixador da Itália.
+
+Bernardo Attolico subiu primeiro, e atrás dele o pessoal da embaixada.
+
+Os jornalistas tinham vindo na lancha da Alfândega e quiseram subir também. O embaixador pôs-se no portaló e não deixou.
+
+Houve protesto. Os mais exaltados o vaiaram. Ele manteve a proibição e respondeu, gritando: *Aqui quem manda sou eu.*
+
+Então um marinheiro do *Alhena* cortou a corda que prendia a lancha da Alfândega ao costado, e a lancha se afastou.
+
+O jornal que contou isso fez questão de registrar onde tinha acontecido: num navio holandês, dentro de um porto brasileiro.
+
+E escreveu também o que achava que aquilo significava:
+
+*parecendo que o embaixador italiano visara, prohibindo a entrada a bordo do 'Alhena' aos representantes da imprensa, occultar as proporções da catastrophe, tanto que os tripulantes do 'Principessa Mafalda' tentaram evitar que alguns naufragos, dos salvos pelo 'Alhena', falassem á reportagem.*
+
+**A tripulação sobrevivente tentou impedir que os náufragos falassem.**
+
+Isso não é leitura de quem escreve noventa anos depois. É um repórter brasileiro contando, na mesma semana, o que viu no cais.
+
+Às três e meia da manhã o desembarque começou, e foi feito em duas partes.
+
+Os passageiros de primeira e de segunda classe desceram na guarda-moria e foram para hotéis. Dez deles foram para o Palace-Hotel, e os nomes saíram no jornal — entre eles o banqueiro argentino Patricio Rosas, o mesmo que semanas antes tinha desistido de assinar o abaixo-assinado contra o estado do navio.
+
+Os trezentos e quarenta e cinco de terceira classe foram levados para a Ilha das Flores, e ficaram recolhidos lá.
+
+Mesmo casco. Mesma madrugada. Mesma escada.
+
+**A separação que organizou a viagem inteira funcionou até o fim, inclusive depois do fim.**
 
 O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência, onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só: **Náufragos**.
 

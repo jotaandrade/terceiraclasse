@@ -1554,10 +1554,9 @@ de 1927, tinha tráfego.""",
 
 """O pedido de socorro alcançou mais navios do que se costuma contar.
 
-Os telegramas daquela noite registram <strong>Alhena</strong>, <strong>Empire Star</strong>,
-<strong>Formosa</strong>, <strong>Mosella</strong>, <strong>Avelona</strong>,
-<strong>Rosetti</strong>, e ainda <em>Salem</em>, <em>Forthmouth</em>, <em>Frederik</em> e
-<em>Piauhy</em>.
+Os telegramas daquela noite registram <em>Alhena</em>, <em>Empire Star</em>, <em>Formosa</em>,
+<em>Mosella</em>, <em>Avelona</em>, <em>Rosetti</em>, e ainda <em>Salem</em>,
+<em>Forthmouth</em>, <em>Frederik</em> e <em>Piauhy</em>.
 
 Dez nomes. Holandês, inglês, francês, italiano, brasileiro. Nenhum deles tinha qualquer
 obrigação com aquela gente além da que existe entre navios.""",
@@ -1639,7 +1638,17 @@ que é o total de bordo. Fecha.
 O preço dessa clareza é que ela deixa o <em>Empire Star</em> e o <em>Avelona</em> de fora
 — e há fonte que dá a esses dois, juntos, mais de quinhentos salvos.
 
-Até a aritmética que fecha discorda das outras sobre quem tirou quem da água.""",
+Do <em>Avelona</em>, pelo menos, sabe-se por quê.
+
+O comandante dele falou à imprensa no Rio. Estava a duzentas e oitenta milhas quando ouviu o
+pedido de socorro, chegou às quatro da manhã, procurou até as oito e <strong>não achou
+ninguém</strong>. Não levou um único náufrago para o porto.
+
+E disse mais uma coisa, que é a frase mais dura que um comandante de navio de resgate pode
+dizer: com os botes que tinha a bordo, teria salvado todo mundo — tripulação e passageiros —
+se tivesse chegado dez horas antes.""",
+
+"""Até a aritmética que fecha discorda das outras sobre quem tirou quem da água.""",
 
 """Isso não é desleixo de quem contou.
 
@@ -1672,10 +1681,61 @@ Porque o que ficou dessa passagem, e ficou por cem anos, foi o carvão.
 <strong>Elas chegaram pretas.</strong> As duas mulheres e as cinco crianças, cobertas de pó
 de carvão da cabeça aos pés.""",
 
-"""Em 28 de outubro de 1927, o vapor holandês <em>Alhena</em> entrou no
-porto do Rio de Janeiro.
+"""O <em>Alhena</em> entrou na baía de Guanabara pouco depois da meia-noite de 28 de
+outubro. Não atracou: ficou fundeado, com quinhentas e trinta e uma pessoas a bordo que não
+eram dele.
 
-O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência,
+Quatro oficiais e cento e quarenta e cinco homens da tripulação do Mafalda. Dez passageiros de
+primeira classe. Vinte e sete de segunda.
+
+E trezentos e quarenta e cinco de terceira.""",
+
+"""A primeira pessoa a subir aquela escada não foi um médico, nem a autoridade do porto.
+
+Foi o embaixador da Itália.
+
+Bernardo Attolico subiu primeiro, e atrás dele o pessoal da embaixada.
+
+Os jornalistas tinham vindo na lancha da Alfândega e quiseram subir também. O embaixador pôs-se
+no portaló e não deixou.
+
+Houve protesto. Os mais exaltados o vaiaram. Ele manteve a proibição e respondeu, gritando:
+<em>Aqui quem manda sou eu.</em>
+
+Então um marinheiro do <em>Alhena</em> cortou a corda que prendia a lancha da Alfândega ao
+costado, e a lancha se afastou.
+
+O jornal que contou isso fez questão de registrar onde tinha acontecido: num navio holandês,
+dentro de um porto brasileiro.""",
+
+"""E escreveu também o que achava que aquilo significava:
+
+<em>parecendo que o embaixador italiano visara, prohibindo a entrada a bordo do 'Alhena' aos
+representantes da imprensa, occultar as proporções da catastrophe, tanto que os tripulantes do
+'Principessa Mafalda' tentaram evitar que alguns naufragos, dos salvos pelo 'Alhena', falassem
+á reportagem.</em>
+
+<strong>A tripulação sobrevivente tentou impedir que os náufragos falassem.</strong>
+
+Isso não é leitura de quem escreve noventa anos depois. É um repórter brasileiro contando, na
+mesma semana, o que viu no cais.""",
+
+"""Às três e meia da manhã o desembarque começou, e foi feito em duas partes.
+
+Os passageiros de primeira e de segunda classe desceram na guarda-moria e foram para hotéis.
+Dez deles foram para o Palace-Hotel, e os nomes saíram no jornal — entre eles o banqueiro
+argentino Patricio Rosas, o mesmo que semanas antes tinha desistido de assinar o abaixo-assinado
+contra o estado do navio.
+
+Os trezentos e quarenta e cinco de terceira classe foram levados para a Ilha das Flores, e
+ficaram recolhidos lá.
+
+Mesmo casco. Mesma madrugada. Mesma escada.
+
+<strong>A separação que organizou a viagem inteira funcionou até o fim, inclusive depois do
+fim.</strong>""",
+
+"""O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência,
 onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só:
 <strong>Náufragos</strong>.
 
@@ -1785,7 +1845,52 @@ naquele dia, segurando as cinco crianças, perguntando aos que desciam por onde 
 
 A mentira que ofereceram ao violinista era sobre o morto dela.
 
-E ele aceitou por ela.
+E ele aceitou por ela.""",
+
+"""Quatro meses depois saiu o documento oficial.
+
+A comissão de inquérito nomeada para apurar as causas e as responsabilidades terminou os
+trabalhos em 31 de janeiro de 1928, e o relatório foi publicado em parte. Os jornais brasileiros
+o imprimiram em março.
+
+Ele acerta a mecânica. Diz que o eixo da hélice de bombordo se soltou, que as portas de
+comunicação entre os túneis e a casa do leme não foram fechadas, e que em vinte minutos entraram
+trezentas e cinquenta toneladas de água. Diz que os fechos da porta que teria salvado o navio
+não funcionaram <em>por defeito de manutenção das chaves</em>.
+
+E aí ele faz três coisas.
+
+A primeira é culpar um homem pelo nome: <em>o chefe de machinas perdeu a coragem,
+desmoralisando-se e communicando a sua fraqueza ao pessoal posto sob as suas ordens.</em>
+
+A segunda é esta: <strong><em>As baleeiras estavam em optimas condições.</em></strong>
+
+Todo sobrevivente que falou àquela altura tinha dito o contrário. Que as baleeiras faziam água,
+que as roldanas estavam enferrujadas, que não havia remo nem leme nos escaleres. O professor
+Corrado Gini, que era alto funcionário do Estado italiano e minimizou tudo o que pôde, não
+conseguiu negar essa parte.
+
+O relatório oficial nega. E transfere a falha para quem morreu: faltou aos passageiros,
+diz ele, <em>a necessaria instrucção de salvação para o uso das cinturas</em>.""",
+
+"""A terceira coisa é sobre a tripulação.
+
+O relatório informa que dos duzentos e oitenta e sete homens de bordo apenas cento e cinquenta
+e três eram marinheiros e pessoal de máquinas. Os outros cento e trinta e quatro eram, nas
+palavras dele, <em>cozinheiros, garçons e serviçaes inaptos para qualquer manobra, que se
+deixaram subjugar pelo panico, que se communicou fatalmente aos passageiros, oppondo invenciveis
+obstaculos ao salvamento</em>.
+
+Vale parar aqui.
+
+A história que atravessou cem anos nesta família diz que quem tirou as duas irmãs e as cinco
+crianças do porão foi um cozinheiro.
+
+O Estado italiano, no seu documento oficial, diz que os cozinheiros foram o obstáculo invencível
+ao salvamento.
+
+Uma das duas versões é de gente que estava lá. A outra é de uma comissão que, no parágrafo
+seguinte, <strong>declarou não poder emitir opinião sobre a responsabilidade dos armadores.</strong>
 
 A versão oficial daquela noite não se fez de gente mentindo por maldade. Fez-se de
 sobreviventes aceitando uma medalha por um feito que não houve, <strong>para que as viúvas
@@ -1866,14 +1971,45 @@ sempre. Atravessaram o Atlântico inteiro. Chegaram.
 <strong>E o que pedem, na primeira repartição brasileira em que puderam falar, é para
 voltar.</strong>""",
 
-"""Não houve recolhimento de corpos.
+"""Quase não houve recolhimento de corpos.
 
 Os navios que chegaram naquela noite estavam apanhando gente viva no escuro, e foram embora
 ao amanhecer, cada um para o porto que já era o seu destino. Ninguém voltou àquele ponto do
 mar.
 
+Houve, porém, seis pessoas que foram tiradas vivas da água e não sobreviveram ao resgate.
+
+Quatro morreram a bordo do <em>Mosella</em>, em estado desesperador, depois de uma noite em que
+os médicos de bordo tentaram tudo. Duas morreram no <em>Rosetti</em>: uma senhora Giovannini, de
+quarenta e oito anos, e Pietro Capitiano, de dezessete. Os dois eram italianos.
+
+Às nove da manhã do dia 26, no <em>Mosella</em>, os corpos foram lançados ao mar. Um frade que
+viajava a bordo rezou. Passageiros e tripulação inteira assistiram.
+
+É o único enterro que aquela noite teve.
+
 Quem morreu ali ficou ali. <strong>Não existe sepultura de nenhum dos trezentos e catorze, em
 lugar nenhum, com nome nenhum.</strong>""",
+
+"""Houve uma exceção, e ela é de uma pessoa só.
+
+Semanas depois, o paquete <em>Duca d'Aosta</em> veio de Gênova para o Rio e passou pelo ponto do
+naufrágio. O comandante reuniu no convés os passageiros, os oficiais e a tripulação.
+
+Ele trazia uma carta.
+
+Tinha sido entregue a ele em Gênova pela senhora Gulì, com o pedido de que a fizesse chegar às
+mãos do marido.
+
+Puseram a carta dentro de um tubo de metal. Fecharam o tubo e soldaram. Amarraram a ele um peso
+de vinte quilos e alguns ramos de flores naturais.
+
+O comandante se aproximou do parapeito e deixou cair, no lugar onde o navio tinha afundado, o
+tubo com a carta dentro. Os que estavam no convés atiraram flores ao mar quase ao mesmo tempo.
+
+Ela está lá até hoje, a mil e trezentos metros de profundidade, dentro de um tubo soldado.
+
+<strong>É a única correspondência que chegou ao endereço certo.</strong>""",
 
 """Aqui eu preciso admitir uma coisa sobre este livro.
 
@@ -5816,6 +5952,8 @@ FONTES = {
     u"telegrama de Gulì à companhia e a ordem renovada de prosseguir; o cruzamento com o "
     u"<em>Alhena</em> às 15h30 e com o <em>Empirestar</em>; a delegação da terceira classe "
     u"punida e o abaixo-assinado da segunda que não foi entregue.",
+    u"A ordem renovada de Gênova, dita por náufragos à imprensa em 28 de outubro de 1927: <em>Diário da Manhã</em> (Recife), "
+    u"29.10.1927.",
     u"<em>Sobre quem ultrapassou quem, o depoimento de Lynose e a pesquisa recente divergem, "
     u"e o texto não arbitra. A idade do comandante Simone Gulì segue em aberto.</em>"],
 14:[u"Corpus de depoimentos: Eugenio Gabassi, Pedro Volpi, Milhem Solk, Enrico Nazzeconi, "
@@ -5849,6 +5987,12 @@ FONTES = {
     u"Corpus de depoimentos: Nazzeconi, Beria, Solk, Ali Hassen, Domingo Milano, Maria "
     u"Spinelli.",
     u"Relação do <em>Alhena</em>, 28 de outubro de 1927, Ilha das Flores.",
+    u"A chegada do <em>Alhena</em> ao Rio na madrugada de 28 de outubro: o embaixador Bernardo "
+    u"Attolico no portaló, a imprensa barrada, a corda da lancha da Alfândega cortada, os 531 "
+    u"náufragos discriminados por classe, o desembarque das 3h30 na guarda-moria e a lista dos "
+    u"hóspedes do Palace-Hotel — <em>Diário da Manhã</em> (Recife), 29.10.1927, despachos do Rio do dia 28.",
+    u"O comandante do <em>Avelona</em> declarando que chegou às quatro da manhã, procurou até as "
+    u"oito e não recolheu náufrago nenhum: <em>Diário da Manhã</em> (Recife).",
     u"<em>O Malho</em>, Rio de Janeiro, 5 de novembro de 1927, páginas 30-31 e 55 — a "
     u"narrativa oficial do comandante Allemand, do paquete francês <em>Formosa</em>, "
     u"transcrita do diário de bordo; a distribuição dos novecentos e sessenta e nove "
@@ -5862,6 +6006,14 @@ FONTES = {
     u"A fabricação dos heróis pela imprensa italiana, e a cena de Bruschi recusando a medalha da "
     u"<em>Marcia Real</em> em 11 de novembro de 1927: INEICHEN, <em>Il Principessa Mafalda</em> (2023), que remete a «L'Europeo», n. 533, "
     u"pp. 7-8. O contrabaixista era Alessandro Usai.",
+    u"Os quatro mortos a bordo do <em>Mosella</em> e os dois do <em>Rosetti</em>, e o "
+    u"sepultamento no mar às nove da manhã do dia 26: <em>Diário da Manhã</em> (Recife), 28 e 30 de outubro de 1927.",
+    u"A carta da senhora Gulì lacrada em tubo de metal e lançada no ponto do naufrágio pelo "
+    u"<em>Duca d'Aosta</em>: <em>Diário da Manhã</em> (Recife), 30 de novembro de 1927.",
+    u"Conclusões do inquérito oficial procedido em Roma, encerrado em 31 de janeiro de 1928 e "
+    u"publicado em parte: <em>Diário da Manhã</em> (Recife), 1º de março de 1928. Cotejado com o resumo da revista «Hansa, "
+    u"Deutsche Schiffahrtszeitschrift», n. 9, 3.3.1928, p. 390, que dá 250 toneladas de água onde "
+    u"o texto brasileiro dá 350.",
     u"Corpus de depoimentos: Valeriano Galli, Salvador Malone, Alfio Sanfilippo, Eugenio "
     u"Gabassi, Ali Hassen, Mario Ottaviani.",
     u"Relação do <em>Alhena</em>: passageiras nº 24 e 25, com a nota manuscrita do funcionário.",
