@@ -45,12 +45,12 @@ scripts/              histórico das rodadas de correção e escrita
 
 ---
 
-## Estado (09.09.2026)
+## Estado (12.09.2026)
 
 | | |
 |---|---|
 | Capítulos | 27, em 4 livros + epílogo — I: 1-7 · II: 8-11 · III: 12-18 · IV: 19-27 |
-| **Escritos** | **27 de 27 capítulos, 37.162 palavras, 612 páginas** |
+| **Escritos** | **27 de 27 capítulos, 37.423 palavras, 614 páginas** |
 | Aparato | créditos, nota de método, fontes, créditos de imagem e índice onomástico — prontos |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |
@@ -226,21 +226,33 @@ uma linha cada:
 Resolvidas em 08.09.2026: as **autorizações de nome e imagem** (todas obtidas) e a **tarja de
 terceiros** (nome em arquivo público não se tarja — ver a nota de método do livro).
 
-### Correções de texto que a Hemeroteca abriu *(12.09.2026, nenhuma aplicada ainda)*
+### O que a Hemeroteca mudou no texto *(12.09.2026)*
 
-Aguardam decisão do autor, porque mexem em capítulo escrito. Detalhe e transcrição em
-`docs/05-hemeroteca.md`; verificações abertas na seção 36 de `docs/02-pesquisa-documental.md`.
+Detalhe e transcrição em `docs/05-hemeroteca.md`; verificações abertas na seção 36 de
+`docs/02-pesquisa-documental.md`.
 
-- **Grafia:** o navio francês é **Formose**, não *Formosa* — caps. 16 e 17.
-- **Cap. 17:** a frase "a conta do resgate não fecha em nenhuma fonte" deixou de ser exata.
-  *O Malho* fecha: 969 recolhidos + 312 mortos = 1.281 a bordo.
-- **Cap. 18:** entra o número que mede a assimetria — **46 de 288 tripulantes morreram**,
-  contra um em cada quatro no total de bordo.
-- **Cap. 16:** o diário do *Formose* marca **21h45**, e o livro trabalha com 22h10.
-  Provável hora de bordo; não trocar sem um terceiro horário.
-- **Cap. 19:** os três dias entre a Ilha das Flores e o Brás têm agora um candidato a meio de
-  transporte — o *Duca degli Abruzzi* — mas **a data não fecha**. Não escrever antes de ler
-  *A Tribuna*, de Santos.
+**Aplicado:**
+
+- **Grafia:** o paquete francês é **Formose**, não *Formosa* — caps. 16 e 17 e o índice
+  onomástico.
+- **Cap. 17:** "a conta do resgate não fecha em nenhuma fonte" virou "quase nenhuma conta
+  do resgate fecha", e entrou a que fecha — *O Malho*: 969 recolhidos + 312 mortos = 1.281
+  a bordo, com o preço de deixar o *Empire Star* e o *Avelona* fora.
+- **Cap. 18:** entrou o número que mede a assimetria — **46 mortos em 288 tripulantes**, um
+  em cada seis, contra mais de um em cada quatro entre os passageiros.
+- **Fontes** dos caps. 17 e 18 atualizadas; a nota do 17 que dizia que nenhuma soma fechava
+  foi corrigida.
+
+**Não aplicado, e por quê:**
+
+- **Cap. 16 — a hora.** O diário do *Formose* marca **21h45**; o livro usa 22h10. A própria
+  reportagem denuncia que os relógios não batem (SOS às 15h30 contra ruptura do eixo às
+  16h55), e em 1927 a hora de bordo era corrigida por longitude. Provavelmente são a mesma
+  hora em dois relógios. **Não trocar sem um terceiro horário de procedência independente.**
+- **Cap. 19 — os três dias.** *O Malho* diz que os náufragos seguiram para Santos no *Duca
+  degli Abruzzi* "na segunda-feira", que é 31.10 — o mesmo dia do registro da Rosa no Brás,
+  em São Paulo. **A data não fecha.** Não escrever antes de ler *A Tribuna*, de Santos
+  (bib 153931_00, 29.10 a 02.11.1927).
 
 ---
 

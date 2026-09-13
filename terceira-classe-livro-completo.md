@@ -2773,7 +2773,7 @@ O que se sentiu foi a água.
 
 Andres Scavani del Vicario tinha se soltado de uma corda pouco antes, junto com o fotógrafo de bordo, com quem tinha feito amizade durante a viagem. Quando o navio afundou de vez, o redemoinho da descida arrastou os dois para longe.
 
-Foi o que os salvou. A sucção os empurrou na direção do *Formosa*, e três horas depois a tripulação francesa ouviu os gritos deles e os pescou.
+Foi o que os salvou. A sucção os empurrou na direção do *Formose*, e três horas depois a tripulação francesa ouviu os gritos deles e os pescou.
 
 O navio, ao afundar, moveu quem estava na água. Alguns para longe da ajuda, outros para perto dela. Ninguém escolheu.
 
@@ -2825,7 +2825,7 @@ Não foi previdência de ninguém. Foi rota comercial. Aquele trecho do Atlânti
 
 O pedido de socorro alcançou mais navios do que se costuma contar.
 
-Os telegramas daquela noite registram **Alhena**, **Empire Star**, **Formosa**, **Mosella**, **Avelona**, **Rosetti**, e ainda *Salem*, *Forthmouth*, *Frederik* e *Piauhy*.
+Os telegramas daquela noite registram **Alhena**, **Empire Star**, **Formose**, **Mosella**, **Avelona**, **Rosetti**, e ainda *Salem*, *Forthmouth*, *Frederik* e *Piauhy*.
 
 Dez nomes. Holandês, inglês, francês, italiano, brasileiro. Nenhum deles tinha qualquer obrigação com aquela gente além da que existe entre navios.
 
@@ -2865,13 +2865,25 @@ Foi assim que ele chegou.
 
 Agora a parte que eu não consigo resolver, e que precisa ser dita.
 
-**A conta do resgate não fecha em nenhuma fonte.**
+**Quase nenhuma conta do resgate fecha.**
 
-Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formosa 151, Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
+Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formose 151, Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
 
 Só que a bordo iam mil duzentas e cinquenta e nove. Somando os trezentos e catorze mortos, dá mil quinhentas e oitenta e oito pessoas num navio que levava mil duzentas e cinquenta e nove.
 
 Outra fonte, com números diferentes, comete o mesmo excesso. E lista dois navios, *Athenas* e *Alhena*, com exatamente o mesmo número de salvos — quase certamente o mesmo navio, contado duas vezes.
+
+Uma fecha.
+
+A revista *O Malho*, do Rio, publicou em cinco de novembro de 1927 a contabilidade mais limpa que encontrei: novecentos e sessenta e nove recolhidos, trezentos e doze mortos, mil duzentas e oitenta e uma pessoas a bordo — novecentos e noventa e três passageiros e duzentos e oitenta e oito tripulantes.
+
+E distribui os salvos por quatro cascos: Alhena 530, Formose 380, Mosella 32, Rosetti 27. Os dois primeiros desembarcaram no Rio; o terceiro seguiu para a Bahia; o quarto, para o Recife.
+
+Some. Novecentos e sessenta e nove mais trezentos e doze dão mil duzentas e oitenta e uma, que é o total de bordo. Fecha.
+
+O preço dessa clareza é que ela deixa o *Empire Star* e o *Avelona* de fora — e há fonte que dá a esses dois, juntos, mais de quinhentos salvos.
+
+Até a aritmética que fecha discorda das outras sobre quem tirou quem da água.
 
 Isso não é desleixo de quem contou.
 
@@ -2948,6 +2960,18 @@ O próprio número não é pacífico. Há fonte que fala em duzentos e setenta e
 A bordo iam mil duzentas e cinquenta e nove pessoas.
 
 **Um em cada quatro não chegou.**
+
+E o um em cada quatro não caiu igual sobre todo mundo.
+
+A mesma fonte que fecha a conta do resgate traz o dado que falta em todas as outras: dos duzentos e oitenta e oito tripulantes, salvaram-se duzentos e quarenta e dois.
+
+Morreram quarenta e seis.
+
+Quarenta e seis em duzentos e oitenta e oito é um em cada seis. Pela mesma contabilidade, entre os novecentos e noventa e três passageiros morreram duzentos e sessenta e seis — mais de um em cada quatro.
+
+**Morria-se menos trabalhando naquele navio do que viajando nele.**
+
+Não é acusação, e não precisa ser. Um tripulante sabia onde ficava cada bote e qual escada dava no convés. A família de terceira classe descobriu a planta do navio enquanto ele afundava.
 
 O que se sabe sobre como aquelas pessoas morreram não vem de laudo, de perícia nem de inquérito.
 
@@ -4384,12 +4408,14 @@ João José de Andrade Neto
 - Telegramas de socorro da noite de 25 de outubro de 1927, com os nomes de dez navios.
 - Corpus de depoimentos: Nazzeconi, Beria, Solk, Ali Hassen, Domingo Milano, Maria Spinelli.
 - Relação do *Alhena*, 28 de outubro de 1927, Ilha das Flores.
-- *A soma dos resgatados não fecha em fonte nenhuma; a discrepância está exposta no capítulo.*
+- *O Malho*, Rio de Janeiro, 5 de novembro de 1927, páginas 30-31 e 55 — a narrativa oficial do comandante Allemand, do paquete francês *Formose*, transcrita do diário de bordo; a distribuição dos novecentos e sessenta e nove recolhidos por quatro navios; e o depoimento do comissário Carlos Longobardi, sobrevivente. Hemeroteca Digital Brasileira, Biblioteca Nacional.
+- *A soma dos resgatados não fecha em quase nenhuma fonte, e as que fecham se contradizem entre si; a discrepância está exposta no capítulo.*
 **Capítulo 18 · Os 314**
 
 - Corpus de depoimentos: Valeriano Galli, Salvador Malone, Alfio Sanfilippo, Eugenio Gabassi, Ali Hassen, Mario Ottaviani.
-- Relação do *Alhena*: passageiras nº 24 e 25, com a nota manuscrita do funcionário.
 
+- Relação do *Alhena*: passageiras nº 24 e 25, com a nota manuscrita do funcionário.
+- *O Malho*, Rio de Janeiro, 5 de novembro de 1927, página 55 — os duzentos e quarenta e dois tripulantes salvos entre duzentos e oitenta e oito, e o total de bordo de mil duzentas e oitenta e uma pessoas. Hemeroteca Digital Brasileira, Biblioteca Nacional.
 - *Não existe relação nominal dos trezentos e catorze mortos. O próprio número varia entre as fontes.*
 **Capítulo 19 · 31 de outubro**
 
@@ -4404,8 +4430,8 @@ João José de Andrade Neto
 
 - Relação do *Alhena*: a palavra *espontâneos*, na parte do intérprete e no resumo do desembarque.
 - Relação dos subsidiados de 23 de fevereiro de 1923: a coluna *Patrão*, preenchida antes do embarque.
-- Carimbo da Delegacia de Polícia de Grama no registro de estrangeiro de Angelo Dei Agnoli; assento de casamento nº 660 do cartório de Grama.
 
+- Carimbo da Delegacia de Polícia de Grama no registro de estrangeiro de Angelo Dei Agnoli; assento de casamento nº 660 do cartório de Grama.
 **Capítulo 22 · Enrico**
 
 - Registro de Estrangeiros de Enrico Miotto, São Paulo, 29 de dezembro de 1949: RG 1.335.902, carteira 308.460.
@@ -4540,102 +4566,102 @@ João José de Andrade Neto
 ## Índice onomástico
 
 - Alhena, vapor passim
-- Andrade, Carlos Aparecido de 482, 551, 562
-- Andrade, João Luca Soares de 53, 498, 547-548, 550-551, 562
+- Andrade, Carlos Aparecido de 484, 553, 564
+- Andrade, João Luca Soares de 53, 500, 549-550, 552-553, 564
 - Asolo passim
-- Beck Josef 175, 396
+- Beck Josef 175, 398
 - Beria, Batista 312, 334-335, 354, 356
-- Betti, João 318, 404, 411, 527
-- Betti, Patrícia 318, 404, 408, 410, 500, 552
-- Buenos Aires 195-196, 256, 265-266, 272, 336, 398
+- Betti, João 318, 406, 413, 529
+- Betti, Patrícia 318, 406, 410, 412, 502, 554
+- Buenos Aires 195-196, 256, 265-266, 272, 336, 400
 - Cadorna, Luigi 123
 - Cadorna, Raffaele 32, 123
 - Castelcucco passim
-- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 224, 242, 278, 391
+- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 224, 242, 278, 393
 - Dei Agnoli, Angelo passim
-- Dei Agnoli, Danilo 159, 180, 205, 224, 228, 366, 391
-- Dei Agnoli, Gina Oliva 159, 180, 205, 212, 228, 278, 366, 391, 411, 418
-- Dei Agnoli, Pulcheria Pasqua 159, 180, 199, 202, 205, 212, 228, 317-318, 366, 391, 404, 411, 413, 485, 500, 527, 529, 552
-- Dei Agnoli, Rino 159, 180, 205, 228, 391, 419
-- De Rosi Emilia 177, 364, 374, 397
-- *Empire Star* 290-291, 313, 326, 344, 351-353, 358
-- Filipovich, Thomas 362, 382
+- Dei Agnoli, Danilo 159, 180, 205, 224, 228, 367, 393
+- Dei Agnoli, Gina Oliva 159, 180, 205, 212, 228, 278, 367, 393, 413, 420
+- Dei Agnoli, Pulcheria Pasqua 159, 180, 199, 202, 205, 212, 228, 317-318, 367, 393, 406, 413, 415, 487, 502, 529, 531, 554
+- Dei Agnoli, Rino 159, 180, 205, 228, 393, 421
+- De Rosi Emilia 177, 365, 376, 399
+- *Empire Star* 290-291, 313, 326, 344, 351-353, 358-359
+- Filipovich, Thomas 363, 384
 - Fontana, Antonio 282-283
-- Forner, Abele Alessandro 55, 514
+- Forner, Abele Alessandro 55, 516
 - Forner, Domenico 53
-- Forner, Galliano 136, 149, 497-498, 506, 508-509, 536, 556
+- Forner, Galliano 136, 149, 499-500, 508, 510-511, 538, 558
 - Forner, Giorgio passim
-- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 535
+- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 537
 - Forner, Maria Luigia passim
 - Forner, Pietro Luigi 57, 60, 124, 154
 - Forner, Rosa passim
 
 - Forner, Sante passim
 - Forner, Vincenzo passim
-- *Formosa* 345, 353, 358
-- Gabassi, Eugenio 306, 335, 347, 356, 371
-- Galli, Valeriano 136, 149, 322, 333, 335, 356, 371, 497-498, 506, 508-509, 536, 556
-- Ganeo, Domenica 67, 523
+- *Formose* 345, 353, 358-359
+- Gabassi, Eugenio 306, 335, 347, 356, 373
+- Galli, Valeriano 136, 149, 322, 333, 335, 356, 373, 499-500, 508, 510-511, 538, 558
+- Ganeo, Domenica 67, 525
 - Gênova passim
-- Grama (São Sebastião da Grama) 232, 242, 421-422, 431-432, 440, 464, 477
+- Grama (São Sebastião da Grama) 232, 242, 423-424, 433-434, 442, 466, 479
 - Gulì, Simone 287, 290, 338, 346, 349
-- Hassen, Ali 309, 322, 355-356, 372
-- Hospedaria de Imigrantes do Brás 201, 229, 231, 381-382, 384-386, 389, 408, 439, 526
-- Ilha das Flores 291, 362, 382, 396
+- Hassen, Ali 309, 322, 355-356, 374
+- Hospedaria de Imigrantes do Brás 201, 229, 231, 383-384, 386-388, 391, 410, 441, 528
+- Ilha das Flores 291, 363, 384, 398
 - Leo, Domenico 326, 335
-- Luchini Teresa 177, 364, 374
+- Luchini Teresa 177, 365, 376
 - Lynose, Nicola 286, 289-290, 314, 330, 334, 356
-- Malone, Salvador 322, 335, 347, 371
+- Malone, Salvador 322, 335, 347, 373
 - Mandolezzi, Vincenzo 324
 - Manin, Daniele 27
-- Maser 67-69, 521
+- Maser 67-69, 523
 - Milano, Domingo 356-357
-- Miotto, Amabile Veronica 72, 76, 531
+- Miotto, Amabile Veronica 72, 76, 533
 - Miotto, Enrico passim
-- Miotto, Erminda 432, 434, 460, 473, 526
+- Miotto, Erminda 434, 436, 462, 475, 528
 - Miotto, Fausto passim
-- Miotto, Luigi 67-68, 70, 154, 520-521, 523-524
-- Miotto, Maria Luigia 73-74, 77, 136, 149, 567
-- Miotto, Vittorio 19, 72, 76, 125-126, 131, 250, 273, 455
+- Miotto, Luigi 67-68, 70, 154, 522-523, 525-526
+- Miotto, Maria Luigia 73-74, 77, 136, 149, 569
+- Miotto, Vittorio 19, 72, 76, 125-126, 131, 250, 273, 457
 - Monfumo passim
 - Monte Grappa passim
-- *Mosella* 351, 353, 358
+- *Mosella* 351, 353, 358-359
 
 - Mussolini, Benito 161
 - Nazzeconi, Enrico 309, 319, 342, 344, 354
-- Ottaviani, Mario 329, 341, 373
-- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 216, 253, 487, 501, 517, 519, 568
+- Ottaviani, Mario 329, 341, 375
+- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 216, 253, 489, 503, 519, 521, 570
 - Pecci, Pascual 287, 336
 - Ponce, Antonio 322, 335
 - Possagno 3, 14, 127
 - *Principessa Jolanda* 245, 247-248, 253
 - *Principessa Mafalda* passim
 - Prinetti, Giulio 96, 101, 106, 108, 162
-- Rio de Janeiro 174, 177, 183, 212, 256, 291, 303, 306, 315, 362, 372, 382, 388
+- Rio de Janeiro 174, 177, 183, 212, 256, 291, 303, 306, 315, 363, 374, 384, 390
 - Riva Trigoso 245, 253-254
 - Rivarola, Camilo 283-284
 - Rosas, Patricio de 279, 282, 285
-- *Rosetti* 353, 356, 358, 371
-- Sanfilippo, Alfio 326, 335, 356, 371
+- *Rosetti* 353, 356, 358-359, 373
+- Sanfilippo, Alfio 326, 335, 356, 373
 - Santororo, Juan 333
-- Santos, porto de 97, 116, 190, 194-195, 197, 206, 227, 235, 242, 266, 406
-- Savoia, Mafalda di 250, 273, 455
+- Santos, porto de 97, 116, 190, 194-195, 197, 206, 227, 235, 242, 266, 408
+- Savoia, Mafalda di 250, 273, 457
 - Scavani del Vicario, Andres 345, 356
 - Solk, Milhem 197, 285, 308, 335, 354
-- Sorocaba 141, 437, 446, 451
+- Sorocaba 141, 439, 448, 453
 - São Paulo passim
 - São Vicente (Cabo Verde) 281
-- Spinelli, Maria 187, 323, 363
-- Terra, Mafalda Miotto 97, 425, 460, 468, 482
-- Terra, Marta 469, 482, 485, 498, 548, 563-564
-- Treviso 12, 21, 166, 171, 207, 540
+- Spinelli, Maria 187, 323, 364
+- Terra, Mafalda Miotto 97, 427, 462, 470, 484
+- Terra, Marta 471, 484, 487, 500, 550, 565-566
+- Treviso 12, 21, 166, 171, 207, 542
 - Vacelli, família 313, 328, 332, 344
-- Vancouver 520-522, 524, 531
+- Vancouver 522-524, 526, 533
 
-- Vargas, Getúlio 474
+- Vargas, Getúlio 476
 - Vêneto passim
 - Vial, Maria 53
-- Vittorio Emanuele III 250, 273, 455
+- Vittorio Emanuele III 250, 273, 457
 - Volpi, Pedro 307, 312, 332, 335
 - Zanni, Antonio 279
 

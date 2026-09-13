@@ -1361,7 +1361,7 @@ Andres Scavani del Vicario tinha se soltado de uma corda pouco antes, junto
 com o fotógrafo de bordo, com quem tinha feito amizade durante a viagem. Quando o navio
 afundou de vez, o redemoinho da descida arrastou os dois para longe.
 
-Foi o que os salvou. A sucção os empurrou na direção do <em>Formosa</em>, e três horas
+Foi o que os salvou. A sucção os empurrou na direção do <em>Formose</em>, e três horas
 depois a tripulação francesa ouviu os gritos deles e os pescou.
 
 O navio, ao afundar, moveu quem estava na água. Alguns para longe da ajuda, outros para
@@ -1431,7 +1431,7 @@ de 1927, tinha tráfego.""",
 """O pedido de socorro alcançou mais navios do que se costuma contar.
 
 Os telegramas daquela noite registram <strong>Alhena</strong>, <strong>Empire Star</strong>,
-<strong>Formosa</strong>, <strong>Mosella</strong>, <strong>Avelona</strong>,
+<strong>Formose</strong>, <strong>Mosella</strong>, <strong>Avelona</strong>,
 <strong>Rosetti</strong>, e ainda <em>Salem</em>, <em>Forthmouth</em>, <em>Frederik</em> e
 <em>Piauhy</em>.
 
@@ -1485,9 +1485,9 @@ Foi assim que ele chegou.""",
 
 """Agora a parte que eu não consigo resolver, e que precisa ser dita.
 
-<strong>A conta do resgate não fecha em nenhuma fonte.</strong>
+<strong>Quase nenhuma conta do resgate fecha.</strong>
 
-Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formosa 151,
+Uma delas soma os salvos assim: Alhena 450, Avelona 300, Empire Star 202, Formose 151,
 Rosetti 122, Mosella 49. Total: mil duzentos e setenta e quatro pessoas resgatadas.
 
 Só que a bordo iam mil duzentas e cinquenta e nove. Somando os trezentos e catorze mortos,
@@ -1497,6 +1497,25 @@ duzentas e cinquenta e nove.
 Outra fonte, com números diferentes, comete o mesmo excesso. E lista dois navios,
 <em>Athenas</em> e <em>Alhena</em>, com exatamente o mesmo número de salvos — quase
 certamente o mesmo navio, contado duas vezes.""",
+
+"""Uma fecha.
+
+A revista <em>O Malho</em>, do Rio, publicou em cinco de novembro de 1927 a contabilidade
+mais limpa que encontrei: novecentos e sessenta e nove recolhidos, trezentos e doze mortos,
+mil duzentas e oitenta e uma pessoas a bordo — novecentos e noventa e três passageiros e
+duzentos e oitenta e oito tripulantes.
+
+E distribui os salvos por quatro cascos: Alhena 530, Formose 380, Mosella 32, Rosetti 27.
+Os dois primeiros desembarcaram no Rio; o terceiro seguiu para a Bahia; o quarto, para o
+Recife.
+
+Some. Novecentos e sessenta e nove mais trezentos e doze dão mil duzentas e oitenta e uma,
+que é o total de bordo. Fecha.
+
+O preço dessa clareza é que ela deixa o <em>Empire Star</em> e o <em>Avelona</em> de fora
+— e há fonte que dá a esses dois, juntos, mais de quinhentos salvos.
+
+Até a aritmética que fecha discorda das outras sobre quem tirou quem da água.""",
 
 """Isso não é desleixo de quem contou.
 
@@ -1592,6 +1611,23 @@ Trezentos e catorze é o que o cruzamento sustenta, e é o que este livro usa.
 A bordo iam mil duzentas e cinquenta e nove pessoas.
 
 <strong>Um em cada quatro não chegou.</strong>""",
+
+"""E o um em cada quatro não caiu igual sobre todo mundo.
+
+A mesma fonte que fecha a conta do resgate traz o dado que falta em todas as outras: dos
+duzentos e oitenta e oito tripulantes, salvaram-se duzentos e quarenta e dois.
+
+Morreram quarenta e seis.
+
+Quarenta e seis em duzentos e oitenta e oito é um em cada seis. Pela mesma contabilidade,
+entre os novecentos e noventa e três passageiros morreram duzentos e sessenta e seis — mais
+de um em cada quatro.
+
+<strong>Morria-se menos trabalhando naquele navio do que viajando nele.</strong>
+
+Não é acusação, e não precisa ser. Um tripulante sabia onde ficava cada bote e qual escada
+dava no convés. A família de terceira classe descobriu a planta do navio enquanto ele
+afundava.""",
 
 """O que se sabe sobre como aquelas pessoas morreram não vem de laudo, de perícia nem de
 inquérito.
@@ -5523,11 +5559,20 @@ FONTES = {
     u"Corpus de depoimentos: Nazzeconi, Beria, Solk, Ali Hassen, Domingo Milano, Maria "
     u"Spinelli.",
     u"Relação do <em>Alhena</em>, 28 de outubro de 1927, Ilha das Flores.",
-    u"<em>A soma dos resgatados não fecha em fonte nenhuma; a discrepância está exposta no "
-    u"capítulo.</em>"],
+    u"<em>O Malho</em>, Rio de Janeiro, 5 de novembro de 1927, páginas 30-31 e 55 — a "
+    u"narrativa oficial do comandante Allemand, do paquete francês <em>Formose</em>, "
+    u"transcrita do diário de bordo; a distribuição dos novecentos e sessenta e nove "
+    u"recolhidos por quatro navios; e o depoimento do comissário Carlos Longobardi, "
+    u"sobrevivente. Hemeroteca Digital Brasileira, Biblioteca Nacional.",
+    u"<em>A soma dos resgatados não fecha em quase nenhuma fonte, e as que fecham se "
+    u"contradizem entre si; a discrepância está exposta no capítulo.</em>"],
 18:[u"Corpus de depoimentos: Valeriano Galli, Salvador Malone, Alfio Sanfilippo, Eugenio "
     u"Gabassi, Ali Hassen, Mario Ottaviani.",
     u"Relação do <em>Alhena</em>: passageiras nº 24 e 25, com a nota manuscrita do funcionário.",
+    u"<em>O Malho</em>, Rio de Janeiro, 5 de novembro de 1927, página 55 — os duzentos e "
+    u"quarenta e dois tripulantes salvos entre duzentos e oitenta e oito, e o total de bordo "
+    u"de mil duzentas e oitenta e uma pessoas. Hemeroteca Digital Brasileira, Biblioteca "
+    u"Nacional.",
     u"<em>Não existe relação nominal dos trezentos e catorze mortos. O próprio número varia "
     u"entre as fontes.</em>"],
 19:[u"Museu da Imigração do Estado de São Paulo: Livro de Registro de Matrícula nº 100 da "
@@ -5675,7 +5720,7 @@ INDICE_ENTRADAS = [
  ('Forner, Rosa', ['Rosa Forner', 'Forner Rosa']),
  ('Forner, Sante', ['Sante']),
  ('Forner, Vincenzo', ['Vincenzo']),
- ('<em>Formosa</em>', ['Formosa']),
+ ('<em>Formose</em>', ['Formose']),
  ('Gabassi, Eugenio', ['Gabassi']),
  ('Galli, Valeriano', ['Galli']),
  ('Ganeo, Domenica', ['Domenica Ganeo', 'Nina']),
