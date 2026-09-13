@@ -32,7 +32,7 @@ livro/
   export_md.py        exporta manuscrito/ e docs/ em Markdown
   export_livro_unico.py  exporta o volume inteiro num único Markdown
   html2md.py          conversor HTML → Markdown usado pelo export
-  img/                98 imagens em webp, embutidas no HTML em base64
+  img/                116 imagens em webp, embutidas no HTML em base64
 
 terceira-classe-livro-completo.md   o volume inteiro num arquivo só (gerado)
 manuscrito/           um .md por capítulo escrito (gerado)
@@ -50,7 +50,7 @@ scripts/              histórico das rodadas de correção e escrita
 | | |
 |---|---|
 | Capítulos | 27, em 4 livros + epílogo — I: 1-7 · II: 8-11 · III: 12-18 · IV: 19-27 |
-| **Escritos** | **27 de 27 capítulos, 40.721 palavras, 636 páginas** |
+| **Escritos** | **27 de 27 capítulos, 40.721 palavras, 655 páginas** |
 | Aparato | créditos, nota de método, fontes, créditos de imagem e índice onomástico — prontos |
 | Falta | só o **epílogo**, que depende de gravar a avó Mafalda |
 | Centenário do naufrágio | 25.10.2027 |

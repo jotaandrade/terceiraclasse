@@ -6086,7 +6086,25 @@ FONTES = {
 FAM = u'Acervo da família Miotto e Forner.'
 GIO = u'Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.'
 CONF = u'Peça de época, de uso público; procedência não localizada.'
+MI   = (u'Acervo do Museu da Imigração do Estado de São Paulo. '
+        u'<em>Número de catálogo a completar.</em>')
+DMR  = u'<em>Diário da Manhã</em>, Recife, 30 de novembro de 1927. Reprodução de jornal.'
 PROV = {
+ # ---- remessa de 13.09.2026 -------------------------------------------------
+ # O autor informou a origem: acervo do Museu da Imigração do Estado de São
+ # Paulo. Falta a numeração de catálogo de cada peça, e ela não se inventa.
+ 'bagagem_no_cais': MI, 'convez_da_terceira_classe': MI, 'familia_de_emigrantes': MI,
+ 'principessa_mafalda_embandeirado': MI, 'planta_dos_conveses': MI,
+ 'postal_lloyd_italiano': MI, 'vapor_mosella': MI, 'bote_de_naufragos': MI,
+ 'sobreviventes_primeira_classe': MI, 'hospedaria_vista_aerea': MI,
+ 'sala_de_chamada': MI, 'sala_de_matricula': MI, 'refeitorio_do_bras': MI,
+ # ---- reproduções de jornal, com data ---------------------------------------
+ 'mafalda_afundando_1815': DMR + u' <em>Resolução da digitalização disponível é insuficiente '
+                                 u'para impressão: pedir a chapa à Biblioteca Nacional.</em>',
+ 'mafalda_afundando_1830': DMR + u' <em>Mesma ressalva de resolução.</em>',
+ 'diagrama_do_eixo': u'<em>O Malho</em>, Rio de Janeiro, 5 de novembro de 1927. '
+                     u'Ilustração explicativa de imprensa, declarada como tal na legenda.',
+
  'panfleto_in_america': u'Reprodução de época, de uso público, sem autoria identificável; procedência não localizada.',
  'mafalda_barcelona':   u'Cartão-postal de época, série 128. Museu de la Targeta Postal de Catalunya, L’Ametlla del Vallès — Colección Jorge Venini, Barcelona, cat. CAT XXX 01 TP 1939.',
  'cartaz_lloyd_italiano': u'Cartaz do Lloyd Italiano. ' + CONF,
@@ -6312,16 +6330,32 @@ IMG_BY_CAP = {
       ('carta_identidade_aberta','A carta d’identità de Sante Forner aberta, com o brasão do Regno d’Italia e o Comune di Asolo.','montada'),
       ('sante_forner_documento','Carta d’identità de Sante Forner, Comune di Asolo, 8 de março de 1940. Nato il 16 aprile 1893 a Monfumo. Professione: bracciante. Statura 1,62. Assinada pelo Podestà e datada A. XVIII, o ano dezoito da era fascista.','montada')],
  7:  [('fausto','Fausto Miotto, nascido em Castelcucco em 1904. Casou-se com Rosa Forner em 1926 e partiu sozinho para o Brasil.','oval')],
+ 8:  [('bagagem_no_cais','A bagagem de uma leva de emigrantes, empilhada no cais antes do embarque: baús, malas de madeira, trouxas amarradas, cestos. O navio ao fundo. Tudo o que uma família consegue levar cabe nessa pilha — e tudo o que esta família levou afundou com o navio. Acervo do Museu da Imigração do Estado de São Paulo.','montada')],
  9:  [('imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890','Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por volta de 1890. Acervo público.','montada'),
+      ('convez_da_terceira_classe','O convés de terceira classe de um navio de emigrantes, cheio, entre dois ventiladores de casco. Homens de boné, mulheres de lenço, crianças no meio. É a paisagem dos catorze dias. Acervo do Museu da Imigração do Estado de São Paulo.','montada'),
+      ('familia_de_emigrantes','Uma família de emigrantes inteira, fotografada na chegada: o pai, a mãe com o bebê no colo, e as crianças descalças na frente. Sete pessoas, que é exatamente o número das que este livro segue. Acervo do Museu da Imigração do Estado de São Paulo.','montada'),
       ('pulcheria','<strong>Pulcheria Pasqua Dei Agnoli</strong>, 1921 a 2013. Tinha seis anos na noite do naufrágio, e era ela quem não saía da cozinha. Fotografia de documento, 18 de abril de 1980.','montada')],
  11: [('angelo__dei_agnoli','Passaporte italiano de Angelo Dei Agnoli, Regno d’Italia, com o visto do Consulado Geral do Brasil.','montada'),
       ('angelo_dei_agnoli__jpg','Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de São Paulo. Angelo Dei Agnoli, nascido em 12 de junho de 1898 em Cavaso, filho de Antonio Dei Agnoli e Paschoa Colla, lavrador, casado com Maria Luiza Forner, nascida em 5 de março de 1896 em Monfumo. <em>Desembarcado em 30/4/1927, no porto de Santos, da embarcação Principessa Mafalda.</em> Carimbo da Delegacia de Polícia de Grama.','montada')],
  12: [('cartaz_lloyd_italiano','Cartaz do <strong>Lloyd Italiano</strong> anunciando o <em>Principessa Mafalda</em>: <em>servizio speciale extra-rapido dall’Europa al Plata</em>, saída de Gênova, escalas em Barcelona e Las Palmas, chegada a Buenos Aires. <strong>Navigazione effettiva 14 giorni.</strong> Traz impressa a lista de passageiros da travessia.','montada'),
-      ('princess_mafalda_of_savoy','Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.','oval')],
- 13: [('mafalda_barcelona','<em>Barcelona. 128 — Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.</em> Cartão-postal de época, com a legenda repetida embaixo <strong>em esperanto</strong>: <em>Haveno. Mara stacidomo.</em> Barcelona era a primeira escala do navio, e foi onde a última viagem parou um dia por avaria.','montada')],
- 17: [('passageiros_agnoli','A família Dei Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>, com os nomes como o escrivão os escreveu: Forner Maria de 31, Ginneta de 7, Pulgheria de 6, Rino de 4 e Danilo de 2, todos em terceira classe.','montada')],
+      ('princess_mafalda_of_savoy','Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.','oval'),
+      ('principessa_mafalda_embandeirado','O <em>Principessa Mafalda</em> embandeirado, com o convés cheio e o nome legível no costado. Acervo do Museu da Imigração do Estado de São Paulo.','montada'),
+      ('planta_dos_conveses','<em>Piroscafo Principessa Mafalda</em> — a planta dos conveses, um sobre o outro. Em cima, a primeira classe e o comando; embaixo, no ventre do navio, os dormitórios de terceira, sobre a casa de máquinas. A hierarquia inteira da travessia cabe neste desenho. Acervo do Museu da Imigração do Estado de São Paulo.','montada'),
+      ('postal_lloyd_italiano','Cartão-postal do <strong>Lloyd Italiano</strong>: <em>vap.e Principessa Mafalda</em>, com as duas chaminés fumegando. O navio como a companhia queria que ele fosse visto. Acervo do Museu da Imigração do Estado de São Paulo.','montada')],
+ 13: [('mafalda_barcelona','<em>Barcelona. 128 — Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.</em> Cartão-postal de época, com a legenda repetida embaixo <strong>em esperanto</strong>: <em>Haveno. Mara stacidomo.</em> Barcelona era a primeira escala do navio, e foi onde a última viagem parou um dia por avaria.','montada'),
+      ('diagrama_do_eixo','Gráfico publicado pela revista <em>O Malho</em> em 5 de novembro de 1927, dez dias depois, explicando ao leitor o que tinha acontecido: <em>ruptura do tunel por onde entrou a agua</em>, o porão do túnel, o eixo, a luva, e a <em>helice lateral que fugio deixando entrar agua</em>. É <strong>ilustração explicativa</strong>, não documento técnico — a imprensa desenhando o acidente para quem não é do mar. <em>O Malho</em>, Rio de Janeiro, 5.11.1927.','montada')],
+ 16: [('mafalda_afundando_1815','<strong>Às seis e quinze da tarde de 25 de outubro de 1927.</strong> O <em>Principessa Mafalda</em> fotografado do convés do <em>Alhena</em>, uma hora depois do eixo partir. Dois botes já estão na água, um terceiro chega à superfície e um quarto está para ser arriado; à popa, mais duas embarcações, com gente descendo por escadas de gato. Dá para contar os oito pares de turcos de bombordo. Reprodução de jornal: <em>Diário da Manhã</em>, Recife, 30 de novembro de 1927, que a publicou como inédita.','montada'),
+      ('mafalda_afundando_1830','<strong>Quinze minutos depois, às seis e meia, ainda em plena luz.</strong> O navio apenas inclinado a bombordo, começando a afundar de popa, no mar calmo. Todos os botes daquele bordo já foram arriados, e <strong>três deles remam na direção do <em>Alhena</em></strong> — que é o navio de onde a fotografia está sendo tirada, e o navio que recolheu as sete pessoas deste livro. Reprodução de jornal: <em>Diário da Manhã</em>, Recife, 30 de novembro de 1927.','montada')],
+ 17: [('passageiros_agnoli','A família Dei Agnoli na relação dos náufragos recolhidos pelo <em>Alhena</em>, com os nomes como o escrivão os escreveu: Forner Maria de 31, Ginneta de 7, Pulgheria de 6, Rino de 4 e Danilo de 2, todos em terceira classe.','montada'),
+      ('bote_de_naufragos','Um bote lotado de náufragos na água, ao lado do casco. Acervo do Museu da Imigração do Estado de São Paulo.','montada'),
+      ('vapor_mosella','O vapor francês <em>Mosella</em>, um dos que passaram a noite recolhendo gente. Quatro dos que ele tirou da água morreram a bordo antes do amanhecer. Acervo do Museu da Imigração do Estado de São Paulo.','montada'),
+      ('sobreviventes_primeira_classe','Um grupo de sobreviventes de primeira classe, posando em terra. Um deles ainda com a cabeça enfaixada. Acervo do Museu da Imigração do Estado de São Paulo.','montada')],
  19: [('rosa_forner','<strong>Rosa Forner Miotto</strong>, 1903 a 1986. Sobreviveu ao naufrágio aos vinte e quatro anos, com o filho de um ano no colo. <em>Restauração feita pelo autor: o original está muito danificado.</em>','oval'),
-      ('rosa_forner_documento','A cédula de identidade dela, emitida no Brasil décadas depois.','montada')],
+      ('rosa_forner_documento','A cédula de identidade dela, emitida no Brasil décadas depois.','montada'),
+      ('hospedaria_vista_aerea','A Hospedaria de Imigrantes do Brás vista do alto, com os <strong>trilhos entrando no terreno</strong>. Não é um prédio perto da estação: é um prédio em que a estação entra. O imigrante descia do vagão já do lado de dentro do muro. Acervo do Museu da Imigração do Estado de São Paulo.','montada'),
+      ('sala_de_chamada','A sala de chamada: bancos corridos de madeira, em fileiras, e o arco ao fundo por onde se passava. Esperava-se aqui até o nome ser dito em voz alta. Acervo do Museu da Imigração do Estado de São Paulo.','montada'),
+      ('sala_de_matricula','<strong>A sala de matrícula.</strong> O balcão comprido de madeira, a divisória, as mesas dos escreventes atrás. Foi de um lado deste balcão que Rosa Forner disse o próprio nome, a idade, a última residência e o nome do filho — e do outro lado um funcionário escreveu, na página 290 do Livro 100, o registro 19276. Acervo do Museu da Imigração do Estado de São Paulo.','montada'),
+      ('refeitorio_do_bras','O refeitório, com a placa na parede. Mesas compridas, bancos sem encosto, serventes de branco entre as filas. Centenas de pessoas comendo ao mesmo tempo, três vezes por dia. Acervo do Museu da Imigração do Estado de São Paulo.','montada')],
  20: [('maria_lugia_forner','Maria Luigia Forner, 1896 a 1992, irmã de Rosa.','oval'),
       ('forner_maria_luigia_col_marito_dei_agnoli_angelo','Maria Luigia Forner e Angelo Dei Agnoli com os filhos.','montada'),
       ('gina','<strong>Gina Oliva Dei Agnoli</strong>, nascida em 28 de março de 1920. Tinha sete anos na noite do naufrágio. Uma das duas meninas que podem ter achado o pai.','oval'),

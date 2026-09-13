@@ -1573,6 +1573,10 @@ Mil duzentas e cinquenta e nove pessoas a bordo, a maior parte delas no porão. 
 
 Trezentas e catorze não chegariam.
 
+![A bagagem de uma leva de emigrantes, empilhada no cais antes do embarque: baús, malas de…](livro/img/bagagem_no_cais.webp)
+
+*A bagagem de uma leva de emigrantes, empilhada no cais antes do embarque: baús, malas de madeira, trouxas amarradas, cestos. O navio ao fundo. Tudo o que uma família consegue levar cabe nessa pilha — e tudo o que esta família levou afundou com o navio. Acervo do Museu da Imigração do Estado de São Paulo.*
+
 ## 9. A terceira classe
 
 > O porão por dentro: beliches, comida racionada, os corpos jogados ao mar.
@@ -1718,6 +1722,14 @@ Não registrou isso.
 ![Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por volta de 1890. Acervo…](livro/img/imigrantes_italianos_na_hospedaria_dos_imigrantes_em_são_paulo_cerca_de_1890.webp)
 
 *Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por volta de 1890. Acervo público.*
+
+![O convés de terceira classe de um navio de emigrantes, cheio, entre dois ventiladores de…](livro/img/convez_da_terceira_classe.webp)
+
+*O convés de terceira classe de um navio de emigrantes, cheio, entre dois ventiladores de casco. Homens de boné, mulheres de lenço, crianças no meio. É a paisagem dos catorze dias. Acervo do Museu da Imigração do Estado de São Paulo.*
+
+![Uma família de emigrantes inteira, fotografada na chegada: o pai, a mãe com o bebê no…](livro/img/familia_de_emigrantes.webp)
+
+*Uma família de emigrantes inteira, fotografada na chegada: o pai, a mãe com o bebê no colo, e as crianças descalças na frente. Sete pessoas, que é exatamente o número das que este livro segue. Acervo do Museu da Imigração do Estado de São Paulo.*
 
 ![Pulcheria Pasqua Dei Agnoli, 1921 a 2013. Tinha seis anos na noite do naufrágio, e era…](livro/img/pulcheria.webp)
 
@@ -2231,6 +2243,18 @@ A maior coisa construída que qualquer uma das duas tinha visto na vida.
 
 *Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Tinha seis anos quando o casco recebeu o nome dela.*
 
+![O Principessa Mafalda embandeirado, com o convés cheio e o nome legível no costado.…](livro/img/principessa_mafalda_embandeirado.webp)
+
+*O *Principessa Mafalda* embandeirado, com o convés cheio e o nome legível no costado. Acervo do Museu da Imigração do Estado de São Paulo.*
+
+![Piroscafo Principessa Mafalda — a planta dos conveses, um sobre o outro. Em cima, a…](livro/img/planta_dos_conveses.webp)
+
+**Piroscafo Principessa Mafalda* — a planta dos conveses, um sobre o outro. Em cima, a primeira classe e o comando; embaixo, no ventre do navio, os dormitórios de terceira, sobre a casa de máquinas. A hierarquia inteira da travessia cabe neste desenho. Acervo do Museu da Imigração do Estado de São Paulo.*
+
+![Cartão-postal do Lloyd Italiano: vap.e Principessa Mafalda, com as duas chaminés…](livro/img/postal_lloyd_italiano.webp)
+
+*Cartão-postal do **Lloyd Italiano**: *vap.e Principessa Mafalda*, com as duas chaminés fumegando. O navio como a companhia queria que ele fosse visto. Acervo do Museu da Imigração do Estado de São Paulo.*
+
 ## 13. A última viagem
 
 > Catorze dias de avaria, dois passageiros que quase pararam o navio, e às cinco e quinze da tarde o eixo se parte.
@@ -2486,6 +2510,10 @@ Todas as sete.
 ![Barcelona. 128 — Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.…](livro/img/mafalda_barcelona.webp)
 
 **Barcelona. 128 — Puerto. Estación Marítima. Llegada del vapor Principessa Mafalda.* Cartão-postal de época, com a legenda repetida embaixo **em esperanto**: *Haveno. Mara stacidomo.* Barcelona era a primeira escala do navio, e foi onde a última viagem parou um dia por avaria.*
+
+![Gráfico publicado pela revista O Malho em 5 de novembro de 1927, dez dias depois,…](livro/img/diagrama_do_eixo.webp)
+
+*Gráfico publicado pela revista *O Malho* em 5 de novembro de 1927, dez dias depois, explicando ao leitor o que tinha acontecido: *ruptura do tunel por onde entrou a agua*, o porão do túnel, o eixo, a luva, e a *helice lateral que fugio deixando entrar agua*. É **ilustração explicativa**, não documento técnico — a imprensa desenhando o acidente para quem não é do mar. *O Malho*, Rio de Janeiro, 5.11.1927.*
 
 ## 14. A noite
 
@@ -2901,6 +2929,14 @@ Homens agarrados à quilha de botes virados. Mulheres em tábuas. Crianças dent
 
 E, a alguns quilômetros dali, com os holofotes acesos, os navios vindo no escuro.
 
+![Às seis e quinze da tarde de 25 de outubro de 1927. O Principessa Mafalda fotografado do…](livro/img/mafalda_afundando_1815.webp)
+
+***Às seis e quinze da tarde de 25 de outubro de 1927.** O *Principessa Mafalda* fotografado do convés do *Alhena*, uma hora depois do eixo partir. Dois botes já estão na água, um terceiro chega à superfície e um quarto está para ser arriado; à popa, mais duas embarcações, com gente descendo por escadas de gato. Dá para contar os oito pares de turcos de bombordo. Reprodução de jornal: *Diário da Manhã*, Recife, 30 de novembro de 1927, que a publicou como inédita.*
+
+![Quinze minutos depois, às seis e meia, ainda em plena luz. O navio apenas inclinado a…](livro/img/mafalda_afundando_1830.webp)
+
+***Quinze minutos depois, às seis e meia, ainda em plena luz.** O navio apenas inclinado a bombordo, começando a afundar de popa, no mar calmo. Todos os botes daquele bordo já foram arriados, e **três deles remam na direção do *Alhena*** — que é o navio de onde a fotografia está sendo tirada, e o navio que recolheu as sete pessoas deste livro. Reprodução de jornal: *Diário da Manhã*, Recife, 30 de novembro de 1927.*
+
 ## 17. Alhena, Mosella, Empire Star
 
 > O resgate a noite inteira.
@@ -3074,6 +3110,18 @@ Vivos.
 ![A família Dei Agnoli na relação dos náufragos recolhidos pelo Alhena, com os nomes como o…](livro/img/passageiros_agnoli.webp)
 
 *A família Dei Agnoli na relação dos náufragos recolhidos pelo *Alhena*, com os nomes como o escrivão os escreveu: Forner Maria de 31, Ginneta de 7, Pulgheria de 6, Rino de 4 e Danilo de 2, todos em terceira classe.*
+
+![Um bote lotado de náufragos na água, ao lado do casco. Acervo do Museu da Imigração do…](livro/img/bote_de_naufragos.webp)
+
+*Um bote lotado de náufragos na água, ao lado do casco. Acervo do Museu da Imigração do Estado de São Paulo.*
+
+![O vapor francês Mosella, um dos que passaram a noite recolhendo gente. Quatro dos que ele…](livro/img/vapor_mosella.webp)
+
+*O vapor francês *Mosella*, um dos que passaram a noite recolhendo gente. Quatro dos que ele tirou da água morreram a bordo antes do amanhecer. Acervo do Museu da Imigração do Estado de São Paulo.*
+
+![Um grupo de sobreviventes de primeira classe, posando em terra. Um deles ainda com a…](livro/img/sobreviventes_primeira_classe.webp)
+
+*Um grupo de sobreviventes de primeira classe, posando em terra. Um deles ainda com a cabeça enfaixada. Acervo do Museu da Imigração do Estado de São Paulo.*
 
 ## 18. Os 314
 
@@ -3484,6 +3532,22 @@ O naufrágio foi um acidente no meio de uma coisa muito mais comum.
 ![A cédula de identidade dela, emitida no Brasil décadas depois.](livro/img/rosa_forner_documento.webp)
 
 *A cédula de identidade dela, emitida no Brasil décadas depois.*
+
+![A Hospedaria de Imigrantes do Brás vista do alto, com os trilhos entrando no terreno. Não…](livro/img/hospedaria_vista_aerea.webp)
+
+*A Hospedaria de Imigrantes do Brás vista do alto, com os **trilhos entrando no terreno**. Não é um prédio perto da estação: é um prédio em que a estação entra. O imigrante descia do vagão já do lado de dentro do muro. Acervo do Museu da Imigração do Estado de São Paulo.*
+
+![A sala de chamada: bancos corridos de madeira, em fileiras, e o arco ao fundo por onde se…](livro/img/sala_de_chamada.webp)
+
+*A sala de chamada: bancos corridos de madeira, em fileiras, e o arco ao fundo por onde se passava. Esperava-se aqui até o nome ser dito em voz alta. Acervo do Museu da Imigração do Estado de São Paulo.*
+
+![A sala de matrícula. O balcão comprido de madeira, a divisória, as mesas dos escreventes…](livro/img/sala_de_matricula.webp)
+
+***A sala de matrícula.** O balcão comprido de madeira, a divisória, as mesas dos escreventes atrás. Foi de um lado deste balcão que Rosa Forner disse o próprio nome, a idade, a última residência e o nome do filho — e do outro lado um funcionário escreveu, na página 290 do Livro 100, o registro 19276. Acervo do Museu da Imigração do Estado de São Paulo.*
+
+![O refeitório, com a placa na parede. Mesas compridas, bancos sem encosto, serventes de…](livro/img/refeitorio_do_bras.webp)
+
+*O refeitório, com a placa na parede. Mesas compridas, bancos sem encosto, serventes de branco entre as filas. Centenas de pessoas comendo ao mesmo tempo, três vezes por dia. Acervo do Museu da Imigração do Estado de São Paulo.*
 
 ## 20. O reencontro
 
@@ -4485,6 +4549,10 @@ Eu não sei o que vou dizer. Sei que é para isso que este livro está sendo esc
 
 *Divino Aparecido Betti, 1948 a 1992, filho de Pulcheria e pai de Patrícia Betti.*
 
+![Acervo da família Miotto e Forner.](livro/img/dormitorio_do_bras.webp)
+
+*Acervo da família Miotto e Forner.*
+
 ![Documento de identificação de Enrico Miotto.](livro/img/enrico_miotto.webp)
 
 *Documento de identificação de Enrico Miotto.*
@@ -4548,6 +4616,10 @@ Eu não sei o que vou dizer. Sei que é para isso que este livro está sendo esc
 ![Pandolfo Antonio, 1942 a 2025, primo de Mafalda, filho de Miotto Asia, irmã de Fausto.](livro/img/pandolfo_antonio.webp)
 
 *Pandolfo Antonio, 1942 a 2025, primo de Mafalda, filho de Miotto Asia, irmã de Fausto.*
+
+![Acervo da família Miotto e Forner.](livro/img/patio_da_hospedaria.webp)
+
+*Acervo da família Miotto e Forner.*
 
 ![Sante Forner, 1893 a 1947.](livro/img/sante.webp)
 
@@ -4800,20 +4872,37 @@ João José de Andrade Neto
 - Cap. 06 — Carta d’identità de Sante Forner, Comune di Asolo, 8 de março de…. Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.
 - Cap. 07 — Fausto Miotto, nascido em Castelcucco em 1904. Acervo da família Miotto e Forner.
 
+- Cap. 08 — A bagagem de uma leva de emigrantes, empilhada no cais antes do…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
 - Cap. 09 — Imigrantes italianos na Hospedaria dos Imigrantes, São Paulo, por…. Hospedaria dos Imigrantes, São Paulo, c. 1890. Acervo público; instituição não identificada.
+- Cap. 09 — O convés de terceira classe de um navio de emigrantes, cheio, entre…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
+- Cap. 09 — Uma família de emigrantes inteira, fotografada na chegada: o pai, a…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
 - Cap. 09 — Pulcheria Pasqua Dei Agnoli, 1921 a 2013. Acervo da família Miotto e Forner.
 - Cap. 11 — Passaporte italiano de Angelo Dei Agnoli, Regno d’Italia, com o…. Passaporte de Angelo Dei Agnoli, Regno d’Italia. Acervo da família.
 - Cap. 11 — Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de…. Certidão do Registro de Estrangeiros nº 61, Polícia do Estado de São Paulo. Acervo da família.
 - Cap. 12 — Cartaz do Lloyd Italiano anunciando o Principessa Mafalda: servizio…. Cartaz do Lloyd Italiano. Peça de época, de uso público; procedência não localizada.
 - Cap. 12 — Mafalda di Savoia, segunda filha de Vittorio Emanuele III. Retrato de Mafalda di Savoia. Peça de época, de uso público; procedência não localizada.
+- Cap. 12 — O Principessa Mafalda embandeirado, com o convés cheio e o nome…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
+- Cap. 12 — Piroscafo Principessa Mafalda — a planta dos conveses, um sobre o…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
+- Cap. 12 — Cartão-postal do Lloyd Italiano: vap.e Principessa Mafalda, com as…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
 - Cap. 13 — Llegada del vapor Principessa Mafalda. Cartão-postal de época, série 128. Museu de la Targeta Postal de Catalunya, L’Ametlla del Vallès — Colección Jorge Venini, Barcelona, cat. CAT XXX 01 TP 1939.
+
+- Cap. 13 — Gráfico publicado pela revista O Malho em 5 de novembro de 1927,…. *O Malho*, Rio de Janeiro, 5 de novembro de 1927. Ilustração explicativa de imprensa, declarada como tal na legenda.
+- Cap. 16 — Às seis e quinze da tarde de 25 de outubro de 1927. *Diário da Manhã*, Recife, 30 de novembro de 1927. Reprodução de jornal. *Resolução da digitalização disponível é insuficiente para impressão: pedir a chapa à Biblioteca Nacional.*
+- Cap. 16 — Quinze minutos depois, às seis e meia, ainda em plena luz. *Diário da Manhã*, Recife, 30 de novembro de 1927. Reprodução de jornal. *Mesma ressalva de resolução.*
 - Cap. 17 — A família Dei Agnoli na relação dos náufragos recolhidos pelo…. Intendência de Imigração, relação do vapor *Alhena*, 28 de outubro de 1927. Reprodução parcial de documento de acervo público.
+- Cap. 17 — Um bote lotado de náufragos na água, ao lado do casco. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
+- Cap. 17 — O vapor francês Mosella, um dos que passaram a noite recolhendo…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
+- Cap. 17 — Um grupo de sobreviventes de primeira classe, posando em terra. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
 - Cap. 19 — Rosa Forner Miotto, 1903 a 1986. Acervo da família. *Restauração digital do autor.*
 - Cap. 19 — A cédula de identidade dela, emitida no Brasil décadas depois.. Acervo da família Miotto e Forner.
+- Cap. 19 — A Hospedaria de Imigrantes do Brás vista do alto, com os trilhos…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
+- Cap. 19 — A sala de chamada: bancos corridos de madeira, em fileiras, e o…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
+- Cap. 19 — O balcão comprido de madeira, a divisória, as mesas dos escreventes…. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
+- Cap. 19 — O refeitório, com a placa na parede. Acervo do Museu da Imigração do Estado de São Paulo. *Número de catálogo a completar.*
+
 - Cap. 20 — Maria Luigia Forner, 1896 a 1992, irmã de Rosa.. Acervo da família Miotto e Forner.
 - Cap. 20 — Maria Luigia Forner e Angelo Dei Agnoli com os filhos.. Acervo da família Miotto e Forner.
 - Cap. 20 — Gina Oliva Dei Agnoli, nascida em 28 de março de 1920. Acervo da família Miotto e Forner.
-
 - Cap. 20 — Rino Dei Agnoli, nascido em 26 de janeiro de 1923. Acervo da família Miotto e Forner.
 - Cap. 20 — Maria Luigia Forner e Angelo Dei Agnoli. Acervo da família Miotto e Forner.
 - Cap. 22 — Enrico Miotto, 1926 a 1998. Acervo da família Miotto e Forner.
@@ -4824,10 +4913,10 @@ João José de Andrade Neto
 - Cap. 23 — Mafalda e os bisnetos.. Acervo da família Miotto e Forner.
 - Cap. 25 — Sante Forner e família, na Itália.. Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.
 - Cap. 25 — Galliano Forner, filho de Sante, com as tropas alpinas em 1950.. Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.
+
 - Cap. 25 — Giorgio Forner e família, o ramo que permaneceu no Vêneto.. Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.
 - Cap. 25 — Galliano Forner, filho de Sante, e a mulher.. Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.
 - Cap. 25 — Giorgio Forner e o pai, Galliano. Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.
-
 - Cap. 25 — Giorgio Forner e os netos, no Vêneto. Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.
 - Cap. 26 — Miotto Amabile Veronica, irmã de Fausto, com o marido Parisotto…. Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.
 - Cap. 27 — Mafalda e o autor.. Acervo da família Miotto e Forner.
@@ -4839,10 +4928,10 @@ João José de Andrade Neto
 - Aline, o autor e João Luca.. Acervo da família Miotto e Forner.
 - Carlos Aparecido de Andrade e o neto João Luca.. Acervo da família Miotto e Forner.
 - Divino Aparecido Betti, 1948 a 1992, filho de Pulcheria e pai de…. Acervo da família Miotto e Forner.
+
 - Documento de identificação de Enrico Miotto.. Acervo da família Miotto e Forner.
 - A família do autor.. Acervo da família Miotto e Forner.
 - Maria Luigia Forner e Angelo Dei Agnoli.. Acervo da família Miotto e Forner.
-
 - Galliano Forner, retrato emoldurado conservado pela família na…. Acervo da família Miotto e Forner.
 - Giorgio Forner, neto de Sante, reencontrado em pesquisa genealógica.. Acervo da família Miotto e Forner.
 - Giorgio Forner e o pai.. Acervo da família Miotto e Forner.
@@ -4853,114 +4942,114 @@ João José de Andrade Neto
 - Marta Terra Andrade, filha de Mafalda, e os netos.. Acervo da família Miotto e Forner.
 - Marta Terra Andrade com os filhos e os netos.. Acervo da família Miotto e Forner.
 - Mattia, da família Forner na Itália.. Acervo da família Forner, Vêneto. Enviada por Giorgio Forner.
+
 - Mauro Forner, filho de Giorgio.. Acervo da família Miotto e Forner.
 - Maria Luigia Miotto e Sante Forner.. Acervo da família Miotto e Forner.
 - Pandolfo Antonio, 1942 a 2025, primo de Mafalda, filho de Miotto…. Acervo da família Miotto e Forner.
-
 - Sante Forner, 1893 a 1947.. Acervo da família Miotto e Forner.
 - Sante Forner, retrato.. Acervo da família Miotto e Forner.
 
 ## Índice onomástico
 
 - Alhena, vapor passim
-- Andrade, Carlos Aparecido de 505, 574, 585
-- Andrade, João Luca Soares de 53, 521, 570-571, 573-574, 585
+- Andrade, Carlos Aparecido de 521, 590, 602
+- Andrade, João Luca Soares de 53, 537, 586-587, 589-590, 602
 - Asolo passim
-- Beck Josef 175, 416
-- Beria, Batista 312, 339-340, 360, 362
-- Betti, João 318, 427, 434, 550
-- Betti, Patrícia 318, 427, 431, 433, 523, 575
-- Buenos Aires 195-196, 256, 265-266, 272, 341, 417, 421
+- Beck Josef 175, 428
+- Beria, Batista 319, 346-347, 369, 371
+- Betti, João 325, 443, 450, 566
+- Betti, Patrícia 325, 443, 447, 449, 539, 591
+- Buenos Aires 196-197, 259, 268-269, 275, 348, 429, 433
 - Cadorna, Luigi 123
 - Cadorna, Raffaele 32, 123
 - Castelcucco passim
-- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 224, 242, 278, 410
+- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 227, 245, 284, 422
 - Dei Agnoli, Angelo passim
-- Dei Agnoli, Danilo 159, 180, 205, 224, 228, 378, 410
-- Dei Agnoli, Gina Oliva 159, 180, 205, 212, 228, 278, 378, 410, 434, 441
-- Dei Agnoli, Pulcheria Pasqua 159, 180, 199, 202, 205, 212, 228, 317-318, 378, 410, 427, 434, 436, 508, 523, 550, 552, 575
-- Dei Agnoli, Rino 159, 180, 205, 228, 378, 410, 442
-- De Rosi Emilia 177, 376, 392, 418
-- *Empire Star* 290-291, 313, 326, 349, 357-359, 364-365
-- Filipovich, Thomas 374, 401
-- Fontana, Antonio 282-283
-- Forner, Abele Alessandro 55, 537
+- Dei Agnoli, Danilo 159, 180, 208, 227, 231, 387, 422
+- Dei Agnoli, Gina Oliva 159, 180, 208, 215, 231, 284, 387, 422, 450, 457
+- Dei Agnoli, Pulcheria Pasqua 159, 180, 200, 205, 208, 215, 231, 324-325, 387, 422, 443, 450, 452, 524, 539, 566, 568, 591
+- Dei Agnoli, Rino 159, 180, 208, 231, 387, 422, 458
+- De Rosi Emilia 177, 385, 404, 430
+- *Empire Star* 296-297, 320, 333, 356, 366-368, 373-374
+- Filipovich, Thomas 383, 413
+- Fontana, Antonio 288-289
+- Forner, Abele Alessandro 55, 553
 - Forner, Domenico 53
-- Forner, Galliano 136, 149, 520-521, 529, 531-532, 559, 579
+- Forner, Galliano 136, 149, 536-537, 545, 547-548, 575, 596
 - Forner, Giorgio passim
-- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 558
+- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 574
 - Forner, Maria Luigia passim
 - Forner, Pietro Luigi 57, 60, 124, 154
 - Forner, Rosa passim
 
 - Forner, Sante passim
 - Forner, Vincenzo passim
-- *Formosa* 350, 355, 359, 364-365
-- Gabassi, Eugenio 306, 340, 352, 362, 389
-- Galli, Valeriano 136, 149, 322, 338, 340, 362, 389, 520-521, 529, 531-532, 559, 579
-- Ganeo, Domenica 67, 546
+- *Formosa* 357, 362, 368, 373-374
+- Gabassi, Eugenio 313, 347, 359, 371, 401
+- Galli, Valeriano 136, 149, 329, 345, 347, 371, 401, 536-537, 545, 547-548, 575, 596
+- Ganeo, Domenica 67, 562
 - Gênova passim
-- Grama (São Sebastião da Grama) 232, 242, 444-445, 454-455, 463, 487, 500
-- Gulì, Simone 281, 287, 290, 343, 351-352, 354, 382, 395, 417
-- Hassen, Ali 309, 322, 361-362, 390
-- Hospedaria de Imigrantes do Brás 201, 229, 231, 400-401, 403-405, 408, 417, 419, 431, 462, 549
-- Ilha das Flores 291, 373-374, 401, 416-417, 419
-- Leo, Domenico 326, 340
-- Luchini Teresa 177, 376, 392
-- Lynose, Nicola 286, 289-290, 314, 330, 339, 362
-- Malone, Salvador 322, 340, 352, 389
-- Mandolezzi, Vincenzo 324
+- Grama (São Sebastião da Grama) 235, 245, 460-461, 470-471, 479, 503, 516
+- Gulì, Simone 287, 293, 296, 350, 358-359, 361, 394, 407, 429
+- Hassen, Ali 316, 329, 370-371, 402
+- Hospedaria de Imigrantes do Brás 202, 232, 234, 412-413, 415-417, 420, 429, 431, 437, 447, 478, 565
+- Ilha das Flores 297, 382-383, 413, 428-429, 431
+- Leo, Domenico 333, 347
+- Luchini Teresa 177, 385, 404
+- Lynose, Nicola 292, 295-296, 321, 337, 346, 371
+- Malone, Salvador 329, 347, 359, 401
+- Mandolezzi, Vincenzo 331
 - Manin, Daniele 27
-- Maser 67-69, 544
-- Milano, Domingo 362-363
-- Miotto, Amabile Veronica 72, 76, 554
+- Maser 67-69, 560
+- Milano, Domingo 371-372
+- Miotto, Amabile Veronica 72, 76, 570
 - Miotto, Enrico passim
-- Miotto, Erminda 455, 457, 483, 496, 549
+- Miotto, Erminda 471, 473, 499, 512, 565
 - Miotto, Fausto passim
-- Miotto, Luigi 67-68, 70, 154, 543-544, 546-547
-- Miotto, Maria Luigia 73-74, 77, 136, 149, 590
-- Miotto, Vittorio 19, 72, 76, 125-126, 131, 250, 273, 478
+- Miotto, Luigi 67-68, 70, 154, 559-560, 562-563
+- Miotto, Maria Luigia 73-74, 77, 136, 149, 607
+- Miotto, Vittorio 19, 72, 76, 125-126, 131, 253, 276, 494
 - Monfumo passim
 - Monte Grappa passim
-- *Mosella* 357, 359, 364-365, 394
+- *Mosella* 366, 368, 373-374, 389, 406
 
 - Mussolini, Benito 161
-- Nazzeconi, Enrico 309, 319, 347, 349, 360
-- Ottaviani, Mario 329, 346, 391
-- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 216, 253, 510, 524, 540, 542, 591
-- Pecci, Pascual 287, 341
-- Ponce, Antonio 322, 340
+- Nazzeconi, Enrico 316, 326, 354, 356, 369
+- Ottaviani, Mario 336, 353, 403
+- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 219, 256, 526, 540, 556, 558, 608
+- Pecci, Pascual 293, 348
+- Ponce, Antonio 329, 347
 - Possagno 3, 14, 127
-- *Principessa Jolanda* 245, 247-248, 253
+- *Principessa Jolanda* 248, 250-251, 256
 - *Principessa Mafalda* passim
 - Prinetti, Giulio 96, 101, 106, 108, 162
-- Rio de Janeiro 174, 177, 183, 212, 256, 281, 291, 303, 306, 315, 390, 401, 407, 419
-- Riva Trigoso 245, 253-254
-- Rivarola, Camilo 283-284
-- Rosas, Patricio de 279, 282, 285
-- *Rosetti* 359, 362, 364-365, 389, 394
-- Sanfilippo, Alfio 326, 340, 362, 389
-- Santororo, Juan 338
-- Santos, porto de 97, 116, 190, 194-195, 197, 206, 227, 235, 242, 266, 417, 429
-- Savoia, Mafalda di 250, 273, 478
-- Scavani del Vicario, Andres 350, 362
-- Solk, Milhem 197, 285, 308, 340, 360
-- Sorocaba 141, 460, 469, 474
+- Rio de Janeiro 174, 177, 183, 215, 259, 287, 297, 309, 311, 313, 322, 402, 413, 419, 431
+- Riva Trigoso 248, 256-257
+- Rivarola, Camilo 289-290
+- Rosas, Patricio de 285, 288, 291
+- *Rosetti* 368, 371, 373-374, 401, 406
+- Sanfilippo, Alfio 333, 347, 371, 401
+- Santororo, Juan 345
+- Santos, porto de 97, 116, 191, 195-196, 198, 209, 230, 238, 245, 269, 429, 445
+- Savoia, Mafalda di 253, 276, 494
+- Scavani del Vicario, Andres 357, 371
+- Solk, Milhem 198, 291, 315, 347, 369
+- Sorocaba 141, 476, 485, 490
 - São Paulo passim
-- São Vicente (Cabo Verde) 281
-- Spinelli, Maria 187, 323, 375
-- Terra, Mafalda Miotto 97, 448, 483, 491, 505
-- Terra, Marta 492, 505, 508, 521, 571, 586-587
-- Treviso 12, 21, 166, 171, 207, 563
-- Vacelli, família 313, 328, 337, 349
-- Vancouver 543-545, 547, 554
+- São Vicente (Cabo Verde) 287
+- Spinelli, Maria 188, 330, 384
+- Terra, Mafalda Miotto 97, 464, 499, 507, 521
+- Terra, Marta 508, 521, 524, 537, 587, 603-604
+- Treviso 12, 21, 166, 171, 210, 579
+- Vacelli, família 320, 335, 344, 356
+- Vancouver 559-561, 563, 570
 
-- Vargas, Getúlio 497
+- Vargas, Getúlio 513
 - Vêneto passim
 - Vial, Maria 53
-- Vittorio Emanuele III 250, 273, 478
-- Volpi, Pedro 307, 312, 337, 340
-- Zanni, Antonio 279
+- Vittorio Emanuele III 253, 276, 494
+- Volpi, Pedro 314, 319, 344, 347
+- Zanni, Antonio 285
 
 ---
 
