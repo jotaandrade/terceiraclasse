@@ -3261,3 +3261,155 @@ As que sobrevivem sao **deliberadas**, e a regra do livro as autoriza:
 | 9 + 14 | o cozinheiro de pele escura | o 9 planta e o 14 colhe — e os dois declaram a fonte |
 | 4 + 21 | a Relacao de 1923 | o 4 acha o documento, o 21 le coluna por coluna |
 | 8 + 18 | a nota manuscrita das duas viuvas | o 8 cita no embarque, o 18 so remete |
+
+---
+
+## 42. A terceira Mafalda — material do epílogo (Ineichen, cap. 14) — 13.09.2026
+
+Fonte: Stefan Ineichen, *Il Principessa Mafalda*, cap. 14, **"A Capri con Göring — Dalla Bulgaria
+a Buchenwald"**. É o capítulo que o autor dedica à princesa que deu nome ao navio. Lido inteiro.
+
+### 42.1 ⭐ O achado que fecha o epílogo
+
+> *Il 30 ottobre 1927, pochi giorni dopo l'affondamento del piroscafo che portava il suo nome, la
+> principessa Mafalda diede alla luce il secondo figlio, **Enrico**.*
+
+**Cinco dias depois do naufrágio**, a princesa Mafalda deu à luz um filho e chamou-o **Enrico**.
+
+No mesmo mês, do outro lado do Atlântico, uma mulher de vinte e cinco anos tinha atravessado
+aquela noite no mar com um menino de um ano nos braços. O menino chamava-se **Enrico**.
+
+Dez anos depois, essa mulher deu a uma filha o nome **Mafalda**.
+
+⚠️ **A coincidência é coincidência, e o livro tem de dizê-lo.** Rosa não soube do parto — não há
+nenhuma razão para supor que soubesse. O que o epílogo pode fazer é pôr os três nomes lado a lado
+e deixar o leitor ver a simetria, sem transformá-la em causa. A regra do livro sobre não afirmar
+o que não se sabe vale aqui com força dobrada, porque a tentação é enorme.
+
+Ineichen acrescenta, e é honesto: *"Non è dato sapere come la principessa Mafalda abbia accolto
+la notizia del naufragio"* — **não se sabe como ela recebeu a notícia**. Nenhuma declaração, nenhum
+gesto público. O silêncio dela é um fato, e é utilizável.
+
+### 42.2 O que a *Neue Zürcher Zeitung* de 1.11.1927 publicou
+
+Ineichen registra que a edição de **1.º de novembro de 1927** deu o nascimento; a **edição da
+noite do mesmo dia** deu duas notícias do naufrágio:
+
+- os passageiros suíços **ainda não identificados**;
+- perderam-se **34 sacas de correspondência** e mais 14 com encomendas.
+
+🟡 As 34 sacas de cartas ligam-se diretamente à carta da senhora Guli, que o livro já usa no cap.
+18 — a única correspondência daquela viagem que chegou ao endereço certo, e chegou soldada num
+tubo de metal, lançada no ponto do naufrágio. As outras 34 sacas afundaram.
+
+### 42.3 A casa de Savoia e os navios com nome dela
+
+O naufrágio do *Principessa Mafalda* não foi o primeiro desastre de um navio com nome da família:
+
+| Navio | O que aconteceu |
+|---|---|
+| *Principessa Jolanda* | virou no próprio lançamento |
+| *Regina Elena* | torpedeado na Primeira Guerra |
+| *Principe Umberto* | torpedeado na Primeira Guerra — **cerca de 1.900 mortos** |
+
+⚠️ Verificar o *Principe Umberto* em segunda fonte antes de usar o número.
+
+### 42.4 🔴 A princesa que o selo de 1995 não mostra
+
+Este é o ponto difícil, e Ineichen não o poupa. A cronologia que ele estabelece:
+
+- **1930** — o marido, **Filippo d'Assia**, entra no NSDAP; depois na SA; torna-se governador de
+  Hessen-Nassau
+- **1934** — Mafalda ao lado de Mussolini na final da Copa do Mundo
+- **1935** — acompanha a lua de mel de **Göring** nos Bálcãs
+- **1936** — visita Carinhall, a propriedade de Göring; pede a **Adolf Hitler que seja padrinho**
+  do filho Otto; aparece na janela do Palazzo Venezia na proclamação da vitória sobre a Abissínia
+- **membro pagante da NS-Frauenschaft**
+- **1938** — Filippo leva a Mussolini a carta de Hitler sobre o *Anschluss*; participa das
+  negociações de Munique
+- **1939** — Hitler visita o casal em Kassel
+- **1943** — Filippo passa o verão na Wolfsschanze; é retido lá
+
+Depois a virada. Em **25 de julho de 1943** Mussolini é deposto; Mafalda, segundo o filho Enrico,
+**não sabia de nada**. Está em Sofia, onde o cunhado, o czar **Boris III** da Bulgária, morre em
+28 de agosto em circunstâncias nunca esclarecidas. Volta a uma Roma ocupada pela Wehrmacht — trem
+até Budapeste, avião até Pescara, carro até Chieti, trem até Roma, onde chega em **21 de setembro**.
+Vê os três filhos menores, que o rei tinha deixado no Vaticano ao fugir.
+
+Na manhã seguinte vai à embaixada alemã, onde lhe tinham prometido uma ligação segura com o
+marido. **Era uma armadilha.** Carro à porta, avião para a Alemanha, e semanas depois **Buchenwald**.
+
+### 42.5 O barracão, e a testemunha
+
+Presa não no campo, mas num **barracão de isolamento** entre os edifícios da SS e a fábrica de
+armas Wilhelm-Gustloff-Werk II, cercado por uma paliçada de três metros. Categoria de **"presa
+especial" ou "de honra"** — refém, não condenada: quartos mobiliados, livros, comida suficiente.
+Chamavam-na **Frau Weber**.
+
+Dividia o barracão com **Tony e Rudolf Breitscheid** (ele fora líder da bancada do SPD até 1933) e
+com **Maria Ruhnau**, deportada em 1939 por ser **testemunha de Jeová**, designada como empregada.
+
+Tony Breitscheid sobreviveu e escreveu depois da guerra **à mãe de Mafalda**. É o depoimento
+central, e é de uma sobrevivente sobre outra mulher — o mesmo tipo de documento que este livro
+usa o tempo todo:
+
+> *"Um mês depois do início da nossa dura detenção especial apareceu uma senhora que ocupou a
+> outra metade do barracão. Estava muito abatida. Chamávamo-la Frau Weber. […] Continuava a
+> chorar e não conseguíamos consolá-la; e no entanto, quando entendeu que a sua sorte era
+> parecida com a nossa, começou aos poucos a confiar em nós e contou-nos a história da prisão."*
+
+E o fim, na mesma carta:
+
+- **24 de agosto de 1944** — bombardeio americano sobre as fábricas vizinhas. Três bombas caem ao
+  lado da trincheira: a segunda cobre-os de terra, a terceira incendeia o barracão. *"Ouvi a
+  princesa que rezava em voz alta, depois perdi os sentidos."* Rudolf Breitscheid morreu ali.
+- O braço esquerdo de Mafalda, queimado até o osso. Dois dias depois, amputação inevitável.
+- **26 de agosto** — a operação. O coração não suportou a anestesia.
+- **Noite de 26 para 27 de agosto de 1944** — morreu.
+
+### 42.6 O selo de 1995, e o que Ineichen diz dele
+
+Em 1995 os Correios italianos emitiram um selo com o retrato de Mafalda diante dos barracões e do
+arame farpado: *I CAMPI DI CONCENTRAMENTO, MAFALDA DI SAVOIA*. Ineichen chama a leitura de
+**"singular"**, e alinha por quê: membro do NSDAP, férias com os Göring, Hitler padrinho do filho,
+a janela do Palazzo Venezia na vitória sobre a Etiópia — *"brutalmente invadida"*, escreve ele.
+
+E fecha com a frase que lhe atribuem, dita a um prisioneiro italiano pouco antes da operação:
+
+> *"Italiani, io muoio. Ricordatemi: non come una principessa, ma come una vostra sorella
+> italiana."*
+
+⚠️ **Note o "avrebbe confidato"** — o próprio Ineichen usa o condicional. É frase de tradição, não
+documentada. Se entrar no livro, entra **declarada como tradição**, exatamente como o livro faz
+com o cozinheiro.
+
+### 42.7 🔴 O que isto propõe para o epílogo — e o que ele não pode fazer
+
+O epílogo *As Três Mafaldas* ganha a terceira ponta, e ela é desconfortável:
+
+1. **O navio** — afundou em 25 de outubro de 1927 com 314 pessoas, quase todas de terceira classe.
+2. **A princesa** — deu à luz um Enrico cinco dias depois, sustentou dois regimes, morreu num
+   barracão de Buchenwald em agosto de 1944, com um braço amputado.
+3. **A filha de Rosa** — a Mafalda que ela teve dez anos depois e que faz **90 anos em 02.01.2027**.
+
+⚠️ **O risco é óbvio e tem de ser dito aqui:** a simetria é bonita demais. Se o epílogo insinuar
+que Rosa deu o nome à filha por causa da princesa, ou que o destino cobrou alguma conta, o livro
+inteiro perde o direito que passou vinte e sete capítulos construindo, que é o de só afirmar o que
+tem documento. **A pergunta "por que Rosa chamou a filha de Mafalda?" é exatamente o que falta
+perguntar à avó Mafalda na gravação** — e é a única pessoa viva que pode responder.
+
+🟡 **Portanto o epílogo continua bloqueado pela gravação**, e agora sabe-se com precisão o que
+perguntar.
+
+### 42.8 Detalhes menores, para a caixa
+
+- **Ricardo Zamora**, o goleiro espanhol, atravessou para a América do Sul a bordo do *Principessa
+  Mafalda* em **1926** — um ano antes.
+- **Walter Mocchi**, empresário lírico que aparece no corpus do navio, assinou delações contra o
+  barítono **Titta Ruffo** em 1937, colaborou na redação do manifesto da República de Salò, fugiu
+  para a América do Sul e **morreu no Rio de Janeiro em 1955**.
+- **Filippo d'Assia** foi "agente artístico" de Hitler na Itália, comprando Ticiano, Tintoretto e
+  Canaletto para o museu projetado em Linz.
+- **Hadamar**: como governador de Hessen-Nassau, Filippo hesitou em entregar o hospital
+  psiquiátrico regional ao programa de eutanásia, foi falar com Hitler, e entregou. **10.000
+  pessoas** mortas nas câmaras de gás do porão até o verão de 1941.

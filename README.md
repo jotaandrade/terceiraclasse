@@ -230,6 +230,21 @@ imprensa; a **mortalidade por classe**; os três dias entre a Ilha das Flores e 
 por eliminação; **De Rosi Emilia** identificada no Brás; **Ernesto Lovato**; e a referência
 bibliográfica correta do Garosci (2010).
 
+⭐ **Capítulo 14, lido em 13.09.2026 — o material do epílogo.** *“A Capri con Göring — Dalla
+Bulgaria a Buchenwald”* é o capítulo que Ineichen dedica à princesa. O achado central:
+**em 30 de outubro de 1927, cinco dias depois do naufrágio, a princesa Mafalda deu à luz um
+filho e chamou-o Enrico** — o mesmo nome do menino de um ano que Rosa Forner atravessou
+aquela noite carregando. Ineichen registra também que **não se sabe como ela recebeu a
+notícia**. O resto do capítulo é a trajetória política do casal (NSDAP, Göring, Palazzo
+Venezia) e a prisão em Buchenwald até a morte, na noite de 26 para 27 de agosto de 1944.
+Tudo transcrito e avaliado na seção 42 de `docs/02-pesquisa-documental.md`.
+
+⚠️ **Regra para o epílogo, fixada junto com o achado.** A simetria dos três nomes — o navio,
+o Enrico da princesa, a Mafalda de Rosa — **é coincidência e tem de ser apresentada como tal**.
+O epílogo põe os nomes lado a lado e não insinua causa: nem que Rosa batizou a filha por causa
+da princesa, nem que houve conta cobrada. E o livro não transforma a princesa em vítima —
+Ineichen é explícito sobre o que ela sustentou até a prisão, e o livro segue-o.
+
 🔴 **Regra fixada pelo autor sobre a mortalidade por classe.** A terceira classe foi a que menos
 morreu entre os passageiros (28%, contra 48% na primeira e 61% na segunda). **Isso não se
 apresenta como "a terceira classe prejudicou a segunda".** Quem viaja na terceira sabe que não
@@ -264,7 +279,11 @@ A lista completa, com prazos e manifesto de arquivos, está em **`docs/04-produc
 uma linha cada:
 
 1. **Gravações com Mafalda Miotto Terra** — o epílogo depende delas, e ela faz 90 em
-   02.01.2027. É a única pendência sem substituto.
+   02.01.2027. É a única pendência sem substituto. 🔴 *(13.09.2026: agora sabe-se a
+   pergunta que falta fazer — **por que Rosa deu o nome Mafalda à filha?** Ela é a única
+   pessoa viva que pode responder, e a resposta decide se o epílogo tem três pontas ou
+   duas. Fazer a pergunta sem sugerir a resposta e sem contar antes a história da
+   princesa.)*
 2. **Originais em alta resolução** — 41 das 43 imagens do miolo estão abaixo de 1.200 px no
    menor lado, e o problema está nos originais, não na conversão.
 3. **Procedência do corpus de vinte depoimentos** (jornal, data, página) — item de pesquisa,
