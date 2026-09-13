@@ -3413,3 +3413,301 @@ perguntar.
 - **Hadamar**: como governador de Hessen-Nassau, Filippo hesitou em entregar o hospital
   psiquiátrico regional ao programa de eutanásia, foi falar com Hitler, e entregou. **10.000
   pessoas** mortas nas câmaras de gás do porão até o verão de 1941.
+
+---
+
+## 43. *Diário da Manhã*, Recife — as páginas de 28 e 29 de outubro — 13.09.2026
+
+As duas páginas que o índice marcava com ⭐ e que eu tinha catalogado sem transcrever. São as
+mais ricas do acervo inteiro, e mudam ou confirmam **sete** pontos do livro.
+
+Ambas são de **Recife**, e isso por si é um achado: o livro conta a chegada dos náufragos pelo
+Rio, a bordo do *Alhena*. Mas houve **um segundo desembarque, em Pernambuco**, pelo cargueiro
+inglês *Rossetti* — 27 pessoas — e **um terceiro, em Salvador**, pelo *Mosella* — 22 tripulantes.
+Rosa não estava em nenhum dos dois. Mas o *Diário da Manhã* entrevistou os que estavam, na hora,
+e por isso este jornal tem coisas que o corpus dos vinte depoimentos não tem.
+
+---
+
+### 43.1 A página de **sexta, 28.10.1927**, p. 2 — *A reconstituição impressionante do naufrágio*
+
+#### ⭐⭐⭐ A linha do tempo do rádio, hora a hora
+
+Vem de um radiotelegrama de bordo do paquete *Massilia*, recebido no Rio:
+
+| Hora | O que aconteceu |
+|---|---|
+| **17h00** | o *Mafalda* radiotelegrafa ao *Formosa* dando a **sua posição**. O *Formosa*, **suspeitando de alguma anormalidade**, pergunta se precisa de assistência imediata. A resposta é **positiva, com pedido de socorro** |
+| — | o *Formosa* avisa que **chegaria três horas depois**, tendo já forçado a marcha, "lançando-se a toda velocidade das máchinas" |
+| — | novo despacho do navio sinistrado: **"Sim. Vinde em nosso soccorro, pois temos a bordo muitos passageiros"** |
+| **18h00** | (por outra fonte, abaixo) o *Mosella* começa a receber rádios: o *Mafalda* está **a 30 milhas ao sul**, com **"uma helice deslocada, fazendo muita agua"** |
+| **19h00** | o *Mafalda* anuncia que **a electricidade não funcciona mais a bordo**, impossibilitando as comunicações radiotelegráficas **pelo posto principal**. Tinham **armado postos de socorro**, e era por eles que se comunicavam |
+| **20h25** | (comandante Privat, do *Mosella*) **"desde as 20 horas e 25 minutos, o 'Principessa Mafalda' pedia soccorro"** |
+| **20h40** | (João Lyra Chaves, a bordo do *Mosella*) **os últimos sinais da ponte de comando, projeções vermelhas, anunciando a submersão** |
+| **23h00** | anuncia-se a bordo do *Formosa*, **já no local**, que **todos os botes do *Mafalda* estavam sobre a água**. Com o *Empire Star* e o *Alhena*, o *Formosa* **intensificava o salvamento** |
+
+🔴 **A hora do afundamento fica pior, não melhor.** O livro intitula o cap. 16 com **22h10**. O
+caderno já registrava um grupo de fontes em torno de **21h30–21h45**. Agora entra um **20h40**, e
+é de testemunha ocular nomeada, funcionário do serviço de imigração brasileiro, publicado três
+dias depois. Isso **não** resolve a divergência — agrava-a. A explicação do fuso, que o Ineichen
+dá e o livro já usa, cobre parte: o *Mosella* é francês e o *Mafalda* italiano, e nenhum dos dois
+estava na hora de Recife. ⚠️ **Não mexer no cap. 16 sem uma passada só sobre isto**, com as cinco
+horas lado a lado e o fuso declarado. É trabalho próprio, não de afogadilho.
+
+🟡 **"A electricidade não funcciona mais a bordo" às 19h** é fato novo e utilizável: explica por
+que os pedidos de socorro ficaram irregulares, e por que os horários das outras fontes divergem —
+quem estava na água não tinha relógio, e quem tinha relógio estava recebendo rádio intermitente.
+
+#### ⭐⭐⭐ A composição da terceira classe, pela embaixada italiana
+
+> *RIO, 27 (Western) — Segundo uma nota fornecida pela embaixada italiana aqui, ha entre os
+> passageiros de 3.ª classe do "Principessa Mafalda" os seguintes: **118 syrios, 38 yugo-slavos,
+> 2 austriacos, 1 hungaro, 1 suisso, 50 hespanhóes, 1 argentino e 1 uruguayo**.*
+
+🔴 **Este é o documento que faltava para o "elemento syrio"**, que estava no caderno sem fonte
+datada. São **212 não-italianos** declarados pela própria embaixada da Itália, três dias depois
+do naufrágio — e **118 deles sírios**, o maior grupo estrangeiro isolado, maior que os espanhóis.
+
+A terceira classe daquele navio **não era italiana**. Era um porão em que italianos eram a
+maioria mas dividiam o lugar com mais de duzentas pessoas de oito outras origens, e o maior
+contingente estrangeiro vinha do Levante. Isso é do tamanho de um bloco no cap. 15, e a fonte é
+citável: jornal, praça, data, agência.
+
+⚠️ A nota diz *"ha entre os passageiros"*, e não dá o total nem o número de italianos. **Não
+inferir o total a partir dela.**
+
+#### O *Duca d'Abbruzzi*, e os três dias
+
+> *RIO, 27 (Western) — O paquete "Duca d'Abbruzzi", que se acha presentemente em Buenos Aires,
+> foi posto á disposição da embaixada italiana aqui para a continuação da viagem dos naufragos.*
+
+✅ **Confirma por documento** o que o livro tinha fechado por eliminação: o *Duca degli Abruzzi*
+era o navio destinado a levar os náufragos adiante, e estava em Buenos Aires em 27.10. Rosa e
+Maria não esperaram por ele — foram por terra.
+
+#### O comandante Privat, do *Mosella*
+
+Falou em Salvador, a bordo, com autoridades, o vice-cônsul italiano e jornalistas, **"com os
+olhos rasos d'agua"**:
+
+> *"Ainda tem nos ouvidos os gritos desvairados das mulheres, crianças, velhos e moços que
+> pereciam."*
+
+- o mar estava **"agitado por ventos contrarios, coalhado de naufragos"**
+- **"Deante da extensão do desastre, o capitão Privat calcula em 600 o numero de mortos."**
+- **"O capitão do 'Mosella' confirma que a causa do sinistro do paquete italiano foi a ruptura de
+  uma helice."**
+- o *Mosella* chegou a Salvador **às 7h50** e trouxe **22 tripulantes** do *Mafalda*
+- Privat **lamentou não ter podido fazer mais do que fez**
+
+🟡 **Os 600 mortos** entram na série de números administrados do cap. 18 — é a estimativa de um
+comandante que estava lá, no dia seguinte, e é o dobro do número final de 314. Serve exatamente
+ao argumento do capítulo: o número foi caindo conforme quem contava mudava.
+
+#### 🔴 Gulì: duas mortes diferentes, no mesmo jornal, com um dia de intervalo
+
+**28.10:**
+> *O commandante Simoni Guli, do "Principessa Mafalda", **permaneceu no seu posto até o sossobro
+> do navio, constando que morreu**, bem como um radiotelegraphista.*
+
+**29.10:**
+> *O commandante do "Principessa Mafalda" e outros officiaes do mesmo navio, **segundo consta,
+> suicidou-se no momento em que o seu barco sossobrava**.*
+
+As duas vêm hedgeadas — *"constando"*, *"segundo consta"* — e **nenhuma das duas é depoimento**.
+São o que corria em Recife em dois dias seguidos. O livro já trata da morte de Gulì; isto
+acrescenta que **a versão do suicídio circulava desde o quarto dia**, e que o mesmo jornal
+publicou as duas sem notar que se contradiziam.
+
+#### O que João Lyra Chaves viu, e que ninguém mais conta
+
+Funcionário do **serviço de imigração em São Paulo**, viajava no *Mosella* de Santos para o
+Recife. É uma testemunha com cargo oficial brasileiro, e não está no corpus dos vinte.
+
+> *"Quando o 'Mosella' chegou ao local indicado pelo navio em perigo, já estando tudo prompto,
+> vimos, então, varias luzes. Pareceu-nos que era o 'Principessa Mafalda'. Verificou-se depois,
+> porem, que eram outros navios que o soccorriam. Aproximando-nos, ouvimos rumores e vimos
+> **longas projecções vermelhas**: eram os ultimos signaes que a ponte de commando do
+> 'Principessa Mafalda' dava, annunciando a submersão."*
+
+- **"Havia 6 vapores em torno do local do desastre."**
+- *"Foi o nosso o navio que chegou mais perto."*
+- 🔴 *"Havia á flor d'agua, para onde foram descidos rapidamente os botes do 'Mosella', **corpos
+  mutilados**…"*
+
+⚠️ **"Corpos mutilados à flor d'água"** contradiz em parte o cap. 18, que diz que não houve
+recolhimento de corpos além de seis. Não contradiz o fato — ninguém os recolheu —, mas contradiz
+a impressão que o capítulo deixa, de um mar vazio. Havia corpos, e estavam mutilados, e foram
+deixados. ⚠️ **Decisão do autor**, porque muda o tom de um capítulo inteiro.
+
+---
+
+### 43.2 A página de **sábado, 29.10.1927**, capa — *A chegada do "Rossetti", conduzindo 27 náufragos*
+
+Capa inteira, com **fotografia de um grupo de náufragos** à porta e no salão do Círculo Italiano
+do Recife, creditada *(Photo e clichê «DIARIO DA MANHÃ»)*.
+
+#### ⭐⭐⭐ A jangada de Emanuele Brunatti — e a menina
+
+O jornal aborda um náufrago a bordo e o transcreve em primeira pessoa. O nome dele aparece
+adiante, na mesma página: **Emanuele Brunatti, graxeiro do *Mafalda*** — um homem da casa de
+máquinas.
+
+> *"Consegui salvar-me numa jangada e logo que nella me encontrei julguei-me seguro, apesar de
+> não ver, no momento, nada que me pudesse prestar soccorros. Confiei, entretanto, na Providencia
+> e deixei que a embarcação vogasse ao sabor das ondas. Felizmente, tive logo opportunidade de
+> ser util aos meus companheiros. **Consegui salvar dez pessoas, inclusive uma senhora que se
+> debatia nas ondas com a filhinha presa ao collo.**"*
+>
+> *"Passámos na embarcação 12 horas, isto é, toda a noite até 10 horas do dia seguinte, quando
+> nos veio auxilio de bordo deste navio."*
+>
+> *"A nossa jangada, como lhe disse, não tinha rumo, o desanimo invadia a todos, **a creança
+> chorava e pedia insistentemente á sua mãe um abrigo; queixava-se de instante a instante:
+> 'Mamãe, eu tenho frio!'** E os lamentos daquella pequenina eram para nós uma provação maior do
+> que o proprio horror do naufragio… Nada podiamos fazer no momento. O dia, entretanto, veio
+> trazer-nos algum alento, mas estavamos semi-nús, famintos e castigados por emoções demasiado
+> fortes."*
+>
+> *"Não. Ninguem poderá descrever o que foi o naufragio do Principessa Mafalda."*
+
+⭐ **A mãe e a menina têm nome.** Mais abaixo, na mesma página:
+
+> *UM GESTO NOBRE — O cap. Dennison, commandante do "Rossetti", abriu uma **subscripção a bordo do
+> seu navio, em favor da passageira Ivonne Simard, que foi salva com a sua filhinha**. A
+> importancia dessa subscripção será convertida em cheque contra um dos Bancos de Buenos Aires,
+> para onde se dirige a beneficiada.*
+
+E na lista de náufragos: ***Ivone Simard, franceza***.
+
+🔴 **A história fecha inteira, com quatro documentos numa página só:** um graxeiro italiano da
+casa de máquinas sobe numa jangada, tira dez pessoas da água entre elas uma francesa com a filha
+ao colo; a menina passa doze horas dizendo *"Mamãe, eu tenho frio"*; o capitão inglês que os
+recolhe às dez da manhã abre uma vaquinha a bordo para a mãe, a ser paga em Buenos Aires.
+
+⚠️ **É o material mais forte que a Hemeroteca deu até agora, e não é da nossa família.** O livro
+tem uma regra sobre isso — não roubar a cena de outra pessoa para iluminar a nossa. Mas Rosa
+atravessou aquela mesma noite com um menino de um ano no colo, e o livro nunca teve uma fala de
+criança dentro da água. **Decisão do autor**, e eu recomendo usar **declarando de quem é**: a
+menina não é a nossa, e é por não ser que ela serve.
+
+#### 🔴 Os jornalistas, vistos por um jornalista
+
+> *"A bordo do **Rossetti** era grande a confusão. **Os jornalistas assediavam os naufragos,
+> fazendo-lhes mil perguntas, os photographos insistiam para que elles pósassem deante das
+> objectivas, a officialidade dava ordens…**"*
+
+Um repórter descrevendo a própria classe a cercar sobreviventes recém-tirados da água, no dia. É
+**prova direta** da tese do cap. 15 sobre as condições em que os depoimentos foram colhidos — e
+vem do lado de dentro, o que é raro.
+
+#### 🔴 O *Alalá* no Recife
+
+> *O DESEMBARQUE dos naufragos effectuou-se em ordem, dirigido pessoalmente pelo **cav. Gino
+> Romizi, consul da Italia**. Desceram todos para a alvarenga que os agentes do Rossetti, os srs.
+> **Williams & Cia.**, puseram á disposição do consulado italiano. Varias pessoas de destaque da
+> colonia auxiliavam aos naufragos… Ao largar esta do costado do Rossetti, **um Alálá! partido de
+> todos os peitos** saudou os bravos salvadores.*
+
+**"Alalá"** é a saudação fascista (*eja eja alalà*). Em Recife, em outubro de 1927, o desembarque
+de náufragos é dirigido pelo cônsul da Itália e termina com um grito fascista dirigido a uma
+tripulação inglesa. Entra direto no cap. 15, ao lado da censura aos sobreviventes e dos cinco
+anos da Marcha sobre Roma naquela mesma semana.
+
+#### 🔴🔴 A frase defensiva, e quem a disse
+
+*FALAM NO "PORTUENSE", OS TRIPULANTES DO "PRINCIPESSA MAFALDA"* — o repórter vai ao hotel onde
+estão hospedados os tripulantes, à noite:
+
+> *A's nossas primeiras inquirições, responderam-nos **num tom de angustia**… Reviviam, atravéz a
+> fala, num timbre de derramada amargura e os olhos lacrimejantes, todos aquelles lances…*
+>
+> *Um delles, **melhor conhecedor da nossa lingua**, expressou-se **calmamente** a respeito da
+> **propalada collaboração dos navios varios** no salvamento… **Estes, é certo, não se
+> aproximaram do navio italiano, dada a rota que lhes estava traçada. Entanto, trabalharam por
+> soccorros immediatos.***
+
+**Esta é a "frase defensiva repetida" que estava no caderno sem origem.** Agora tem origem, data e
+circunstância: hotel Portuense, Recife, noite de 28.10.1927, dita por **o tripulante que falava
+melhor português**, **calmamente**, enquanto os outros choravam. O repórter registra o contraste
+sem comentar, e o contraste é o documento.
+
+#### A lista nominal dos 27 do *Rossetti*
+
+> *Eugenio Gabassi, italiano; Hangellim Angelo, italiano; Heban Biagio, italiano; Gatto
+> Francesco, italiano; Pusutti Giovannini, italiano; **Roost Ernest, suisso**; Verganti Luige,
+> italiano; Aslotti Dominico, italiano; Cogulu Giovannine, italiano; **Nedeko Kotevel, slavo**;
+> Divicenzi Luigi, italiano; **Brasil Cassey, arabe; Assem Jussef, arabe**; **Ivone Simard,
+> franceza**; **Fatima Ben Brasieux, algeriana**; Mosahtte Natali, Antonino Cantafio, Pietro
+> Fadda, Guasneri Basilio, Vottuani Giovarci, Filippone Francesco, Vetino Zambrino, Rossa Floria
+> Zambrino, todos estes italianos. **A' excepção destes dois ultimos, os restantes faziam parte
+> da tripulação do Mafalda.***
+
+⚠️ A ressalva final (*"à exceção destes dois últimos"*) aplica-se ao **último subgrupo**, o que
+vem depois de *"todos estes italianos"* — não à lista inteira, senão Gabassi seria tripulante, e
+não era. **Ler com cuidado antes de citar.**
+
+⭐ A lista mostra o que a nota da embaixada dizia por números: **um suíço, um eslavo, dois árabes,
+uma francesa, uma argelina** entre vinte e sete pessoas.
+
+#### ✅ Gabassi resolvido — e o susto que ele deu
+
+A mesma página traz, **noutra coluna**, o título *UM AGENTE CONSULAR ITALIANO **VICTIMA** DO
+NAUFRAGIO*:
+
+> *Uma das victimas de saliencia no naufragio do Principessa Mafalda, é o **cav. Gambassi
+> Eugenio, agente consular italiano em Ponta Grossa, do Paraná**. O cav. Gambassi encontra-se
+> hospedado no **Gloria-Hotel** tendo desembarcado **numa ambulancia da Assistencia Publica**, em
+> vista do seu estado de saude.*
+
+**"Vítima" aqui significa atingido, não morto** — ele está no Glória-Hotel. Não há contradição
+com a lista de sobreviventes da mesma página. E agora sabe-se um fato que nenhuma das duas fontes
+anteriores tinha: **Gabassi desembarcou em Recife, do *Rossetti*, de ambulância.**
+
+🟡 **A divergência do consulado continua aberta**, e este documento não a fecha: o corpus põe-no
+em **Paraná, na Argentina**; o *Diário da Manhã* põe-no em **Ponta Grossa, no Paraná**. Ter
+desembarcado no Brasil por doença não decide para onde ele ia. ⚠️ Continua precisando de terceira
+fonte.
+
+#### Os dois que morreram a bordo, com nome
+
+> *Os naufragos fallecidos a bordo do Rossetti foram a **sra. Dotta Carlo Giovannini, de 48 annos
+> de edade** e **Pietro Capitiano, de 17 annos**, ambos naturaes da Italia. **Os corpos foram
+> atirados ao mar.***
+
+✅ **A aritmética fecha:** o *Rossetti* recolheu **29** (Dennison), dois morreram pela madrugada
+"cerca de 3 horas", e desembarcaram **27** — que é o número do título.
+
+⚠️ **Mas "os corpos foram atirados ao mar" bate de frente com o tom do cap. 18**, que descreve os
+sepultamentos no mar com um frade rezando e a tripulação no convés, às nove da manhã do dia 26.
+São navios diferentes e provavelmente os dois são verdade — o *Rosetti* não é o *Mosella* —, mas
+o capítulo hoje generaliza a cerimônia. ⚠️ **Conferir a fonte do frade antes de manter a
+generalização.**
+
+---
+
+### 43.3 🔴 O *Empire Star*, que o livro deixa de fora
+
+O cap. 17 diz que a conta que fecha **deixa o *Empire Star* e o *Avelona* de fora**. A página de
+28.10 diz o contrário sobre o primeiro:
+
+> *Juntamente com o "Empire Star" e o "Alhena", **que tambem haviam accorrido em soccorro** do
+> "Principessa Mafalda", ás 23 horas, o "Formose" intensificava o serviço de salvamento.*
+
+⚠️ Acorrer e salvar não são a mesma coisa — o *Avelona* acorreu e não salvou ninguém, e o livro
+já explica isso com a declaração do comandante. **O *Empire Star* pode ser o mesmo caso.** Não
+mexer sem conferir: ou o livro acrescenta uma linha dizendo que acorreu mas não consta que tenha
+recolhido, ou acha-se o número dele.
+
+---
+
+### 43.4 ✅ *Formosa*: a reversão está certa, e agora há prova
+
+A grafia do navio francês aparece **nesta mesma página, em dois lugares, de dois jeitos
+diferentes**: *"Formase"* na chamada e *"Formose"* no corpo — e o *O Malho* dava *"Formose"*. Três
+grafias brasileiras para um nome francês, nenhuma igual à outra.
+
+🔴 **Isto confirma que eu estava errado ao trocar *Formosa* por *Formose* a partir do O Malho, e
+que a reversão (commit `0589a8c`) foi correta.** Transcrição brasileira de nome francês em
+telegrama de 1927 é a **pior** evidência possível para grafia de nome próprio. Fica como regra:
+nome próprio não se corrige por transcrição de época, e menos ainda por uma só.
