@@ -679,9 +679,8 @@ naquela linha.""",
 
 """Na escala africana o Mafalda parou outra vez, por avaria na máquina de bombordo.
 
-Escrevi <em>algum porto</em> durante muito tempo, porque as descrições da rota habitual do
-navio citam Dakar. Não foi Dakar. Foi <strong>Mindelo, na ilha de São Vicente, em Cabo
-Verde</strong>, e o desvio tem um motivo que um passageiro de segunda classe explicou ao pai
+As descrições da rota habitual do navio citam Dakar. Não foi Dakar: foi <strong>Mindelo, na
+ilha de São Vicente, em Cabo Verde</strong>, e o desvio tem um motivo que um passageiro de segunda classe explicou ao pai
 numa carta: em Dakar tinha estourado <em>cólera</em>.
 
 Ficaram vinte e quatro horas em São Vicente, quando outros vapores gastavam quatro ou seis
@@ -1481,11 +1480,6 @@ Ele estava na ponte quando o navio afundou.""",
 Salvador Malone, já içado a bordo do <em>Alhena</em>, diz que assistiu ao
 fim de longe e que viu o comandante na ponte, se despedindo com um <em>Viva Italia</em>.
 
-⁂ Sobre essa frase é preciso dizer uma coisa. A imprensa italiana a publicou como fato nos
-dias seguintes, e a pesquisa recente registra que ela foi <strong>atribuída</strong> a Gulì,
-não colhida de testemunha. Malone diz ter visto; o que não dá para saber é se ele viu antes ou
-depois de ler nos jornais o que tinha visto.
-
 Eugenio Gabassi, ainda na água, conta outra coisa: ouviu tiros vindos da
 ponte, onde estavam o comandante e o primeiro maquinista, e concluiu que os dois tinham se
 matado.""",
@@ -1494,6 +1488,11 @@ matado.""",
 precisar.
 
 Uma interpretou uma silhueta. A outra interpretou um som.
+
+E sobre a silhueta é preciso dizer mais uma coisa. Aquele <em>Viva Italia</em> foi publicado
+como fato pela imprensa italiana nos dias seguintes, e a pesquisa recente mostra que a frase foi
+<strong>atribuída</strong> a Gulì, não colhida de testemunha. Malone diz ter visto. O que não dá
+para saber é se ele viu antes ou depois de ler nos jornais o que tinha visto.
 
 Nenhuma das duas está mentindo, e nenhuma das duas tinha como ter certeza. Aquela noite não
 ofereceu certeza a ninguém que estivesse dentro dela.""",
@@ -1516,10 +1515,13 @@ bordo.</strong>""",
 seria desonesto fingir que é.
 
 O diário de bordo do <em>Formosa</em>, o vapor francês, registra o afundamento às nove e
-quarenta e cinco. O protocolo das comunicações de rádio e a pesquisa italiana mais recente
-apontam para uma hora antes disso ainda, perto das nove e meia.
+quarenta e cinco da noite. O protocolo das comunicações de rádio e a pesquisa italiana mais
+recente apontam para mais cedo ainda, perto das nove e meia. E um passageiro do <em>Avelona</em>,
+entrevistado no Rio dias depois, contou que o primeiro pedido de socorro saiu às quatro e
+quarenta da tarde e que o navio levou quase cinco horas para sumir — o que dá vinte para as
+dez.
 
-Nenhum dos três está mentindo, e é provável que os três estejam marcando o mesmo instante.
+Nenhum dos quatro está mentindo, e é provável que os quatro estejam marcando o mesmo instante.
 
 Um navio, em 1927, acertava o relógio pela longitude, e cada um acertava o seu. Os
 radiotelegrafistas trabalhavam no horário de Greenwich, os passageiros viviam na hora de bordo,
@@ -1739,9 +1741,14 @@ fim.</strong>""",
 onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só:
 <strong>Náufragos</strong>.
 
-Cinquenta imigrantes, todos de terceira classe, todos desembarcados na
-Ilha das Flores. Quarenta e três italianos, quatro iugoslavos, três
-húngaros.
+Cinquenta imigrantes, todos de terceira classe. Quarenta e três italianos, quatro
+iugoslavos, três húngaros.
+
+Cinquenta, e não trezentos e quarenta e cinco, porque aquela folha não é a lista de quem desceu
+do navio. É a lista de quem estava <em>entrando no Brasil</em>.
+
+Os outros quase trezentos iam para Montevidéu e Buenos Aires, e só estavam ali porque o navio
+que os levava tinha afundado no meio do caminho.
 
 Nas linhas 26 e 27, e depois nas linhas 44 a 48, estão as sete pessoas deste livro.""",
 
@@ -1759,12 +1766,10 @@ para sempre e nunca mais voltar à Itália</em>.
 
 O naufrágio não a impediu de chegar. Impediu-a de voltar.""",
 
-"""Naquela folha estão as duas mulheres do capítulo 8.
+"""Naquela folha estão também as duas mulheres do capítulo 8.
 
-Luchini Teresa, dezenove anos. De Rosi Emilia, cinquenta e cinco. Números 24
-e 25, uma seguida da outra, cada uma com um <em>x</em> marcado à margem.
-
-Subiram a prancha em Gênova ao lado dos maridos. Desceram aqui sem eles.""",
+Subiram a prancha em Gênova ao lado dos maridos e desceram aqui sem eles. O que o funcionário
+escreveu ao lado dos nomes delas fica para o capítulo dos mortos.""",
 
 """Aquela folha de papel é o momento em que esta família volta a existir para o mundo.
 
@@ -1811,6 +1816,17 @@ A bordo iam mil duzentas e cinquenta e nove pessoas.
 
 <strong>Um em cada quatro não chegou.</strong>""",
 
+"""E o um em cada quatro não caiu igual sobre todo mundo. As proporções por classe estão
+no capítulo 15, e a única que não entrou lá é a da tripulação.
+
+De cada cem tripulantes, morreram onze.
+
+<strong>Morria-se menos trabalhando naquele navio do que viajando nele.</strong>
+
+Não é acusação, e não precisa ser. Um tripulante sabia onde ficava cada bote e qual escada
+dava no convés. A família de terceira classe descobriu a planta do navio enquanto ele
+afundava.""",
+
 """Houve uma razão para aquele primeiro número, e não era confusão.
 
 Em vez de apurar o que tinha acontecido, a imprensa italiana fabricou heróis.
@@ -1846,6 +1862,10 @@ naquele dia, segurando as cinco crianças, perguntando aos que desciam por onde 
 A mentira que ofereceram ao violinista era sobre o morto dela.
 
 E ele aceitou por ela.""",
+
+"""A versão oficial daquela noite não se fez de gente mentindo por maldade. Fez-se de
+sobreviventes aceitando uma medalha por um feito que não houve, <strong>para que as viúvas
+tivessem um herói em vez de um afogado.</strong>""",
 
 """Quatro meses depois saiu o documento oficial.
 
@@ -1890,22 +1910,7 @@ O Estado italiano, no seu documento oficial, diz que os cozinheiros foram o obst
 ao salvamento.
 
 Uma das duas versões é de gente que estava lá. A outra é de uma comissão que, no parágrafo
-seguinte, <strong>declarou não poder emitir opinião sobre a responsabilidade dos armadores.</strong>
-
-A versão oficial daquela noite não se fez de gente mentindo por maldade. Fez-se de
-sobreviventes aceitando uma medalha por um feito que não houve, <strong>para que as viúvas
-tivessem um herói em vez de um afogado.</strong>""",
-
-"""E o um em cada quatro não caiu igual sobre todo mundo. As proporções por classe estão
-no capítulo 15, e a única que não entrou lá é a da tripulação.
-
-De cada cem tripulantes, morreram onze.
-
-<strong>Morria-se menos trabalhando naquele navio do que viajando nele.</strong>
-
-Não é acusação, e não precisa ser. Um tripulante sabia onde ficava cada bote e qual escada
-dava no convés. A família de terceira classe descobriu a planta do navio enquanto ele
-afundava.""",
+seguinte, <strong>declarou não poder emitir opinião sobre a responsabilidade dos armadores.</strong>""",
 
 """O que se sabe sobre como aquelas pessoas morreram não vem de laudo, de perícia nem de
 inquérito.
@@ -2067,8 +2072,24 @@ CAP26 = [
 O intérprete Thomas Filipovich assinou a parte dele no Rio de Janeiro em 28 de outubro. A
 entrada na Hospedaria do Brás, em São Paulo, é de 31.
 
-O que aconteceu no meio, eu quase não sei. Não sei
-onde dormiram, não sei o que comeram, não sei quem pagou.""",
+O que aconteceu no meio, eu quase não sei.""",
+
+"""Uma parte desses três dias dá para fechar, e fecha por eliminação.
+
+Naqueles dias saíram do Rio dois navios com náufragos do Mafalda a bordo.
+
+O <em>Conte Verde</em> zarpou em 31 de outubro, levando a tripulação sobrevivente de volta
+para a Itália. Não servia.
+
+O <em>Duca degli Abruzzi</em> — que até 1924 tinha sido comandado pelo próprio Simone Gulì —
+levou para Santos, Montevidéu e Buenos Aires a maioria dos passageiros que iam para lá. Mas
+saiu em 2 de novembro, e Rosa já estava registrada em São Paulo no dia 31.
+
+<strong>Elas não foram por mar.</strong> Foram por terra, como quase todo imigrante que
+desembarcava no Rio com destino ao interior paulista.
+
+O resto continua em branco: não sei onde dormiram, não sei o que comeram, não sei quem
+pagou.""",
 
 """O que dá para dizer é o que elas não tinham.
 
@@ -2229,24 +2250,6 @@ Brás em 31 de outubro, e mais uma no dia seguinte.
 
 Sete não estão naquela página. Para onde foram, eu não sei — e ficar no Rio é só uma das
 coisas que podem ter acontecido com elas.""",
-
-"""Dos três dias entre a Ilha das Flores e o Brás, uma parte já dá para fechar, e fecha por
-eliminação.
-
-Naqueles dias saíram do Rio dois navios com náufragos do Mafalda a bordo.
-
-O <em>Conte Verde</em> zarpou em 31 de outubro, levando a tripulação sobrevivente de volta
-para a Itália. Não servia.
-
-O <em>Duca degli Abruzzi</em> — que até 1924 tinha sido comandado pelo próprio Simone Gulì —
-levou para Santos, Montevidéu e Buenos Aires a maioria dos passageiros que iam para lá. Mas
-saiu em <strong>2 de novembro</strong>, e Rosa já estava registrada em São Paulo no dia 31.
-
-<strong>Elas não foram por mar.</strong> Foram por terra, como quase todo imigrante que
-desembarcava no Rio com destino ao interior paulista, e chegaram à Hospedaria do jeito que
-todo mundo chegava: pelo desvio ferroviário, do lado de dentro do muro.
-
-Continuo sem saber onde dormiram, o que comeram e quem pagou.""",
 
 """Há uma coisa nessa sobreposição que eu queria saber e não sei.
 

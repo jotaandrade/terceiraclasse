@@ -141,7 +141,11 @@ Mesmo casco. Mesma madrugada. Mesma escada.
 
 O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência, onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só: **Náufragos**.
 
-Cinquenta imigrantes, todos de terceira classe, todos desembarcados na Ilha das Flores. Quarenta e três italianos, quatro iugoslavos, três húngaros.
+Cinquenta imigrantes, todos de terceira classe. Quarenta e três italianos, quatro iugoslavos, três húngaros.
+
+Cinquenta, e não trezentos e quarenta e cinco, porque aquela folha não é a lista de quem desceu do navio. É a lista de quem estava *entrando no Brasil*.
+
+Os outros quase trezentos iam para Montevidéu e Buenos Aires, e só estavam ali porque o navio que os levava tinha afundado no meio do caminho.
 
 Nas linhas 26 e 27, e depois nas linhas 44 a 48, estão as sete pessoas deste livro.
 
@@ -155,11 +159,9 @@ E fecha o depoimento assim: *depois de três viagens à América do Sul, resolvi
 
 O naufrágio não a impediu de chegar. Impediu-a de voltar.
 
-Naquela folha estão as duas mulheres do capítulo 8.
+Naquela folha estão também as duas mulheres do capítulo 8.
 
-Luchini Teresa, dezenove anos. De Rosi Emilia, cinquenta e cinco. Números 24 e 25, uma seguida da outra, cada uma com um *x* marcado à margem.
-
-Subiram a prancha em Gênova ao lado dos maridos. Desceram aqui sem eles.
+Subiram a prancha em Gênova ao lado dos maridos e desceram aqui sem eles. O que o funcionário escreveu ao lado dos nomes delas fica para o capítulo dos mortos.
 
 Aquela folha de papel é o momento em que esta família volta a existir para o mundo.
 

@@ -2307,7 +2307,7 @@ Nada disso, sozinho, é catástrofe. Tudo isso junto é um navio que já não de
 
 Na escala africana o Mafalda parou outra vez, por avaria na máquina de bombordo.
 
-Escrevi *algum porto* durante muito tempo, porque as descrições da rota habitual do navio citam Dakar. Não foi Dakar. Foi **Mindelo, na ilha de São Vicente, em Cabo Verde**, e o desvio tem um motivo que um passageiro de segunda classe explicou ao pai numa carta: em Dakar tinha estourado *cólera*.
+As descrições da rota habitual do navio citam Dakar. Não foi Dakar: foi **Mindelo, na ilha de São Vicente, em Cabo Verde**, e o desvio tem um motivo que um passageiro de segunda classe explicou ao pai numa carta: em Dakar tinha estourado *cólera*.
 
 Ficaram vinte e quatro horas em São Vicente, quando outros vapores gastavam quatro ou seis para carvoar. Encheram as carvoeiras, tentaram mais uma vez consertar a máquina e embarcaram um boi, porcos e galinhas vivas, porque as câmaras frias estavam paradas havia dias.
 
@@ -2891,13 +2891,13 @@ Ele estava na ponte quando o navio afundou.
 
 Salvador Malone, já içado a bordo do *Alhena*, diz que assistiu ao fim de longe e que viu o comandante na ponte, se despedindo com um *Viva Italia*.
 
-⁂ Sobre essa frase é preciso dizer uma coisa. A imprensa italiana a publicou como fato nos dias seguintes, e a pesquisa recente registra que ela foi **atribuída** a Gulì, não colhida de testemunha. Malone diz ter visto; o que não dá para saber é se ele viu antes ou depois de ler nos jornais o que tinha visto.
-
 Eugenio Gabassi, ainda na água, conta outra coisa: ouviu tiros vindos da ponte, onde estavam o comandante e o primeiro maquinista, e concluiu que os dois tinham se matado.
 
 As duas testemunhas estavam na água, no escuro, a distâncias que nenhuma delas soube precisar.
 
 Uma interpretou uma silhueta. A outra interpretou um som.
+
+E sobre a silhueta é preciso dizer mais uma coisa. Aquele *Viva Italia* foi publicado como fato pela imprensa italiana nos dias seguintes, e a pesquisa recente mostra que a frase foi **atribuída** a Gulì, não colhida de testemunha. Malone diz ter visto. O que não dá para saber é se ele viu antes ou depois de ler nos jornais o que tinha visto.
 
 Nenhuma das duas está mentindo, e nenhuma das duas tinha como ter certeza. Aquela noite não ofereceu certeza a ninguém que estivesse dentro dela.
 
@@ -2913,9 +2913,9 @@ O que se sabe é que ele ficou.
 
 Essa é a hora que os sobreviventes deram, e é a que este livro usa. Mas ela não é firme, e seria desonesto fingir que é.
 
-O diário de bordo do *Formosa*, o vapor francês, registra o afundamento às nove e quarenta e cinco. O protocolo das comunicações de rádio e a pesquisa italiana mais recente apontam para uma hora antes disso ainda, perto das nove e meia.
+O diário de bordo do *Formosa*, o vapor francês, registra o afundamento às nove e quarenta e cinco da noite. O protocolo das comunicações de rádio e a pesquisa italiana mais recente apontam para mais cedo ainda, perto das nove e meia. E um passageiro do *Avelona*, entrevistado no Rio dias depois, contou que o primeiro pedido de socorro saiu às quatro e quarenta da tarde e que o navio levou quase cinco horas para sumir — o que dá vinte para as dez.
 
-Nenhum dos três está mentindo, e é provável que os três estejam marcando o mesmo instante.
+Nenhum dos quatro está mentindo, e é provável que os quatro estejam marcando o mesmo instante.
 
 Um navio, em 1927, acertava o relógio pela longitude, e cada um acertava o seu. Os radiotelegrafistas trabalhavam no horário de Greenwich, os passageiros viviam na hora de bordo, e ninguém, naquela noite, parou para conferir com o vizinho. A mesma reportagem que traz o diário do *Formosa* já estranhava, dez dias depois do naufrágio, que o francês dissesse ter recebido o pedido de socorro às três e meia da tarde, quando o eixo só partiu às cinco e quinze.
 
@@ -3077,7 +3077,11 @@ Mesmo casco. Mesma madrugada. Mesma escada.
 
 O intérprete Thomas Filipovich subiu a bordo e recebeu uma lista. Na coluna de procedência, onde deveria estar o nome de um porto, o funcionário escreveu uma palavra só: **Náufragos**.
 
-Cinquenta imigrantes, todos de terceira classe, todos desembarcados na Ilha das Flores. Quarenta e três italianos, quatro iugoslavos, três húngaros.
+Cinquenta imigrantes, todos de terceira classe. Quarenta e três italianos, quatro iugoslavos, três húngaros.
+
+Cinquenta, e não trezentos e quarenta e cinco, porque aquela folha não é a lista de quem desceu do navio. É a lista de quem estava *entrando no Brasil*.
+
+Os outros quase trezentos iam para Montevidéu e Buenos Aires, e só estavam ali porque o navio que os levava tinha afundado no meio do caminho.
 
 Nas linhas 26 e 27, e depois nas linhas 44 a 48, estão as sete pessoas deste livro.
 
@@ -3091,11 +3095,9 @@ E fecha o depoimento assim: *depois de três viagens à América do Sul, resolvi
 
 O naufrágio não a impediu de chegar. Impediu-a de voltar.
 
-Naquela folha estão as duas mulheres do capítulo 8.
+Naquela folha estão também as duas mulheres do capítulo 8.
 
-Luchini Teresa, dezenove anos. De Rosi Emilia, cinquenta e cinco. Números 24 e 25, uma seguida da outra, cada uma com um *x* marcado à margem.
-
-Subiram a prancha em Gênova ao lado dos maridos. Desceram aqui sem eles.
+Subiram a prancha em Gênova ao lado dos maridos e desceram aqui sem eles. O que o funcionário escreveu ao lado dos nomes delas fica para o capítulo dos mortos.
 
 Aquela folha de papel é o momento em que esta família volta a existir para o mundo.
 
@@ -3153,6 +3155,14 @@ A bordo iam mil duzentas e cinquenta e nove pessoas.
 
 **Um em cada quatro não chegou.**
 
+E o um em cada quatro não caiu igual sobre todo mundo. As proporções por classe estão no capítulo 15, e a única que não entrou lá é a da tripulação.
+
+De cada cem tripulantes, morreram onze.
+
+**Morria-se menos trabalhando naquele navio do que viajando nele.**
+
+Não é acusação, e não precisa ser. Um tripulante sabia onde ficava cada bote e qual escada dava no convés. A família de terceira classe descobriu a planta do navio enquanto ele afundava.
+
 Houve uma razão para aquele primeiro número, e não era confusão.
 
 Em vez de apurar o que tinha acontecido, a imprensa italiana fabricou heróis.
@@ -3181,6 +3191,8 @@ A mentira que ofereceram ao violinista era sobre o morto dela.
 
 E ele aceitou por ela.
 
+A versão oficial daquela noite não se fez de gente mentindo por maldade. Fez-se de sobreviventes aceitando uma medalha por um feito que não houve, **para que as viúvas tivessem um herói em vez de um afogado.**
+
 Quatro meses depois saiu o documento oficial.
 
 A comissão de inquérito nomeada para apurar as causas e as responsabilidades terminou os trabalhos em 31 de janeiro de 1928, e o relatório foi publicado em parte. Os jornais brasileiros o imprimiram em março.
@@ -3208,16 +3220,6 @@ A história que atravessou cem anos nesta família diz que quem tirou as duas ir
 O Estado italiano, no seu documento oficial, diz que os cozinheiros foram o obstáculo invencível ao salvamento.
 
 Uma das duas versões é de gente que estava lá. A outra é de uma comissão que, no parágrafo seguinte, **declarou não poder emitir opinião sobre a responsabilidade dos armadores.**
-
-A versão oficial daquela noite não se fez de gente mentindo por maldade. Fez-se de sobreviventes aceitando uma medalha por um feito que não houve, **para que as viúvas tivessem um herói em vez de um afogado.**
-
-E o um em cada quatro não caiu igual sobre todo mundo. As proporções por classe estão no capítulo 15, e a única que não entrou lá é a da tripulação.
-
-De cada cem tripulantes, morreram onze.
-
-**Morria-se menos trabalhando naquele navio do que viajando nele.**
-
-Não é acusação, e não precisa ser. Um tripulante sabia onde ficava cada bote e qual escada dava no convés. A família de terceira classe descobriu a planta do navio enquanto ele afundava.
 
 O que se sabe sobre como aquelas pessoas morreram não vem de laudo, de perícia nem de inquérito.
 
@@ -3345,7 +3347,19 @@ Entre a Ilha das Flores e a Hospedaria do Brás existem três dias que ninguém 
 
 O intérprete Thomas Filipovich assinou a parte dele no Rio de Janeiro em 28 de outubro. A entrada na Hospedaria do Brás, em São Paulo, é de 31.
 
-O que aconteceu no meio, eu quase não sei. Não sei onde dormiram, não sei o que comeram, não sei quem pagou.
+O que aconteceu no meio, eu quase não sei.
+
+Uma parte desses três dias dá para fechar, e fecha por eliminação.
+
+Naqueles dias saíram do Rio dois navios com náufragos do Mafalda a bordo.
+
+O *Conte Verde* zarpou em 31 de outubro, levando a tripulação sobrevivente de volta para a Itália. Não servia.
+
+O *Duca degli Abruzzi* — que até 1924 tinha sido comandado pelo próprio Simone Gulì — levou para Santos, Montevidéu e Buenos Aires a maioria dos passageiros que iam para lá. Mas saiu em 2 de novembro, e Rosa já estava registrada em São Paulo no dia 31.
+
+**Elas não foram por mar.** Foram por terra, como quase todo imigrante que desembarcava no Rio com destino ao interior paulista.
+
+O resto continua em branco: não sei onde dormiram, não sei o que comeram, não sei quem pagou.
 
 O que dá para dizer é o que elas não tinham.
 
@@ -3464,18 +3478,6 @@ São os mesmos que estão na lista do *Alhena*, três dias antes, no Rio.
 Cinquenta pessoas desembarcaram na Ilha das Flores. Quarenta e duas deram entrada no Brás em 31 de outubro, e mais uma no dia seguinte.
 
 Sete não estão naquela página. Para onde foram, eu não sei — e ficar no Rio é só uma das coisas que podem ter acontecido com elas.
-
-Dos três dias entre a Ilha das Flores e o Brás, uma parte já dá para fechar, e fecha por eliminação.
-
-Naqueles dias saíram do Rio dois navios com náufragos do Mafalda a bordo.
-
-O *Conte Verde* zarpou em 31 de outubro, levando a tripulação sobrevivente de volta para a Itália. Não servia.
-
-O *Duca degli Abruzzi* — que até 1924 tinha sido comandado pelo próprio Simone Gulì — levou para Santos, Montevidéu e Buenos Aires a maioria dos passageiros que iam para lá. Mas saiu em **2 de novembro**, e Rosa já estava registrada em São Paulo no dia 31.
-
-**Elas não foram por mar.** Foram por terra, como quase todo imigrante que desembarcava no Rio com destino ao interior paulista, e chegaram à Hospedaria do jeito que todo mundo chegava: pelo desvio ferroviário, do lado de dentro do muro.
-
-Continuo sem saber onde dormiram, o que comeram e quem pagou.
 
 Há uma coisa nessa sobreposição que eu queria saber e não sei.
 
@@ -4952,32 +4954,32 @@ João José de Andrade Neto
 ## Índice onomástico
 
 - Alhena, vapor passim
-- Andrade, Carlos Aparecido de 521, 590, 602
-- Andrade, João Luca Soares de 53, 537, 586-587, 589-590, 602
+- Andrade, Carlos Aparecido de 522, 591, 603
+- Andrade, João Luca Soares de 53, 538, 587-588, 590-591, 603
 - Asolo passim
-- Beck Josef 175, 428
+- Beck Josef 175, 430
 - Beria, Batista 319, 346-347, 369, 371
-- Betti, João 325, 443, 450, 566
-- Betti, Patrícia 325, 443, 447, 449, 539, 591
-- Buenos Aires 196-197, 259, 268-269, 275, 348, 429, 433
+- Betti, João 325, 444, 451, 567
+- Betti, Patrícia 325, 444, 448, 450, 540, 592
+- Buenos Aires 196-197, 259, 268-269, 275, 348, 383, 415, 434
 - Cadorna, Luigi 123
 - Cadorna, Raffaele 32, 123
 - Castelcucco passim
-- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 227, 245, 284, 422
+- Cavaso del Tomba 3, 14-15, 18, 69, 127, 159, 227, 245, 284, 424
 - Dei Agnoli, Angelo passim
-- Dei Agnoli, Danilo 159, 180, 208, 227, 231, 387, 422
-- Dei Agnoli, Gina Oliva 159, 180, 208, 215, 231, 284, 387, 422, 450, 457
-- Dei Agnoli, Pulcheria Pasqua 159, 180, 200, 205, 208, 215, 231, 324-325, 387, 422, 443, 450, 452, 524, 539, 566, 568, 591
-- Dei Agnoli, Rino 159, 180, 208, 231, 387, 422, 458
-- De Rosi Emilia 177, 385, 404, 430
+- Dei Agnoli, Danilo 159, 180, 208, 227, 231, 387, 424
+- Dei Agnoli, Gina Oliva 159, 180, 208, 215, 231, 284, 387, 424, 451, 458
+- Dei Agnoli, Pulcheria Pasqua 159, 180, 200, 205, 208, 215, 231, 324-325, 387, 424, 444, 451, 453, 525, 540, 567, 569, 592
+- Dei Agnoli, Rino 159, 180, 208, 231, 387, 424, 459
+- De Rosi Emilia 177, 405, 431
 - *Empire Star* 296-297, 320, 333, 356, 366-368, 373-374
-- Filipovich, Thomas 383, 413
+- Filipovich, Thomas 383, 414
 - Fontana, Antonio 288-289
-- Forner, Abele Alessandro 55, 553
+- Forner, Abele Alessandro 55, 554
 - Forner, Domenico 53
-- Forner, Galliano 136, 149, 536-537, 545, 547-548, 575, 596
+- Forner, Galliano 136, 149, 537-538, 546, 548-549, 576, 597
 - Forner, Giorgio passim
-- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 574
+- Forner, Luigi (1817–1905) 24, 27-28, 30, 47-48, 51, 53, 60, 62, 124, 575
 - Forner, Maria Luigia passim
 - Forner, Pietro Luigi 57, 60, 124, 154
 - Forner, Rosa passim
@@ -4985,69 +4987,69 @@ João José de Andrade Neto
 - Forner, Sante passim
 - Forner, Vincenzo passim
 - *Formosa* 357, 362, 368, 373-374
-- Gabassi, Eugenio 313, 347, 359, 371, 401
-- Galli, Valeriano 136, 149, 329, 345, 347, 371, 401, 536-537, 545, 547-548, 575, 596
-- Ganeo, Domenica 67, 562
+- Gabassi, Eugenio 313, 347, 359, 371, 402
+- Galli, Valeriano 136, 149, 329, 345, 347, 371, 402, 537-538, 546, 548-549, 576, 597
+- Ganeo, Domenica 67, 563
 - Gênova passim
-- Grama (São Sebastião da Grama) 235, 245, 460-461, 470-471, 479, 503, 516
-- Gulì, Simone 287, 293, 296, 350, 358-359, 361, 394, 407, 429
-- Hassen, Ali 316, 329, 370-371, 402
-- Hospedaria de Imigrantes do Brás 202, 232, 234, 412-413, 415-417, 420, 429, 431, 437, 447, 478, 565
-- Ilha das Flores 297, 382-383, 413, 428-429, 431
+- Grama (São Sebastião da Grama) 235, 245, 461-462, 471-472, 480, 504, 517
+- Gulì, Simone 287, 293, 296, 350, 358, 360-361, 395, 408, 415
+- Hassen, Ali 316, 329, 370-371, 403
+- Hospedaria de Imigrantes do Brás 202, 232, 234, 413-414, 417-419, 422, 432, 438, 448, 479, 566
+- Ilha das Flores 297, 382, 414, 430, 432
 - Leo, Domenico 333, 347
-- Luchini Teresa 177, 385, 404
+- Luchini Teresa 177, 405
 - Lynose, Nicola 292, 295-296, 321, 337, 346, 371
-- Malone, Salvador 329, 347, 359, 401
+- Malone, Salvador 329, 347, 359-360, 402
 - Mandolezzi, Vincenzo 331
 - Manin, Daniele 27
-- Maser 67-69, 560
+- Maser 67-69, 561
 - Milano, Domingo 371-372
-- Miotto, Amabile Veronica 72, 76, 570
+- Miotto, Amabile Veronica 72, 76, 571
 - Miotto, Enrico passim
-- Miotto, Erminda 471, 473, 499, 512, 565
+- Miotto, Erminda 472, 474, 500, 513, 566
 - Miotto, Fausto passim
-- Miotto, Luigi 67-68, 70, 154, 559-560, 562-563
-- Miotto, Maria Luigia 73-74, 77, 136, 149, 607
-- Miotto, Vittorio 19, 72, 76, 125-126, 131, 253, 276, 494
+- Miotto, Luigi 67-68, 70, 154, 560-561, 563-564
+- Miotto, Maria Luigia 73-74, 77, 136, 149, 608
+- Miotto, Vittorio 19, 72, 76, 125-126, 131, 253, 276, 495
 - Monfumo passim
 - Monte Grappa passim
-- *Mosella* 366, 368, 373-374, 389, 406
+- *Mosella* 366, 368, 373-374, 389, 407
 
 - Mussolini, Benito 161
 - Nazzeconi, Enrico 316, 326, 354, 356, 369
-- Ottaviani, Mario 336, 353, 403
-- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 219, 256, 526, 540, 556, 558, 608
+- Ottaviani, Mario 336, 353, 404
+- Pandolfo, Santa 51, 55, 58, 64, 119-120, 140, 219, 256, 527, 541, 557, 559, 609
 - Pecci, Pascual 293, 348
 - Ponce, Antonio 329, 347
 - Possagno 3, 14, 127
 - *Principessa Jolanda* 248, 250-251, 256
 - *Principessa Mafalda* passim
 - Prinetti, Giulio 96, 101, 106, 108, 162
-- Rio de Janeiro 174, 177, 183, 215, 259, 287, 297, 309, 311, 313, 322, 402, 413, 419, 431
+- Rio de Janeiro 174, 177, 183, 215, 259, 287, 297, 309, 311, 313, 322, 403, 414, 421, 432
 - Riva Trigoso 248, 256-257
 - Rivarola, Camilo 289-290
 - Rosas, Patricio de 285, 288, 291
-- *Rosetti* 368, 371, 373-374, 401, 406
-- Sanfilippo, Alfio 333, 347, 371, 401
+- *Rosetti* 368, 371, 373-374, 402, 407
+- Sanfilippo, Alfio 333, 347, 371, 402
 - Santororo, Juan 345
-- Santos, porto de 97, 116, 191, 195-196, 198, 209, 230, 238, 245, 269, 429, 445
-- Savoia, Mafalda di 253, 276, 494
+- Santos, porto de 97, 116, 191, 195-196, 198, 209, 230, 238, 245, 269, 415, 446
+- Savoia, Mafalda di 253, 276, 495
 - Scavani del Vicario, Andres 357, 371
 - Solk, Milhem 198, 291, 315, 347, 369
-- Sorocaba 141, 476, 485, 490
+- Sorocaba 141, 477, 486, 491
 - São Paulo passim
 - São Vicente (Cabo Verde) 287
 - Spinelli, Maria 188, 330, 384
-- Terra, Mafalda Miotto 97, 464, 499, 507, 521
-- Terra, Marta 508, 521, 524, 537, 587, 603-604
-- Treviso 12, 21, 166, 171, 210, 579
+- Terra, Mafalda Miotto 97, 465, 500, 508, 522
+- Terra, Marta 509, 522, 525, 538, 588, 604-605
+- Treviso 12, 21, 166, 171, 210, 580
 - Vacelli, família 320, 335, 344, 356
-- Vancouver 559-561, 563, 570
+- Vancouver 560-562, 564, 571
 
-- Vargas, Getúlio 513
+- Vargas, Getúlio 514
 - Vêneto passim
 - Vial, Maria 53
-- Vittorio Emanuele III 253, 276, 494
+- Vittorio Emanuele III 253, 276, 495
 - Volpi, Pedro 314, 319, 344, 347
 - Zanni, Antonio 285
 

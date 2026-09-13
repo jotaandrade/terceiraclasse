@@ -2962,3 +2962,102 @@ vira textura. Depois desta rodada:
 - cap. 15: um a cada **165** palavras
 - cap. 18: um a cada **128** — o capitulo ja estava denso antes (um a cada 122); dois negritos
   foram retirados nesta passada, um deles por ser **numero**, que a folha de estilo exclui.
+
+---
+
+## 40. Releitura dos sete capitulos alterados — 13.09.2026
+
+O livro passou de 612 para 656 paginas em duas sessoes, com blocos novos nos caps. 13, 15, 16,
+17, 18, 19 e 22. Esta e a passada de leitura inteira que faltava.
+
+### 40.1 O que eu mesmo tinha quebrado
+
+**Cap. 18 — ordem desmontada.** Ao inserir o inquerito oficial, eu o enfiei **dentro** do bloco
+que terminava com o martelo do Bruschi, e o martelo ficou orfao, quatro blocos adiante do
+Bruschi. E o bloco da mortalidade da tripulacao (*"E o um em cada quatro nao caiu igual sobre
+todo mundo"*) tinha ficado a dezenas de linhas do *"Um em cada quatro nao chegou"* que e a
+ancora dele. **Reordenado:** numeros administrados → um em cada quatro → a tripulacao → herois
+fabricados → Bruschi → o martelo → o inquerito.
+
+**Cap. 16 — asterismo e paralelo quebrado.** Eu tinha aberto a ressalva sobre o *Viva Italia*
+com um `⁂`, sinal que o livro nao usa em lugar nenhum, e a tinha posto **entre** Malone e
+Gabassi, quebrando o paralelo das duas testemunhas. A ressalva passou para depois de *"Uma
+interpretou uma silhueta. A outra interpretou um som."*, que e onde ela pertence.
+
+**Cap. 19 — pergunta no comeco, resposta 120 linhas depois.** Eu tinha trocado *"eu nao sei"*
+por *"eu quase nao sei"* na abertura e deixado a resposta (a eliminacao pelos dois navios) la
+no meio do capitulo, depois da cena da Hospedaria. O bloco subiu para logo depois da abertura.
+E ele **repetia o desvio ferroviario**, que o capitulo ja explica em detalhe paginas antes:
+cortado.
+
+**Cap. 13 — violacao de regra explicita.** Eu escrevi *"Escrevi <em>algum porto</em> durante
+muito tempo…"*. O README e taxativo: *o narrador nao pode dizer o que escreveu antes; passagens
+sobre versoes anteriores do proprio manuscrito nao entram no livro*. Reescrito.
+
+**Cap. 17 — fato errado.** Eu escrevi que Patricio Rosas tinha desistido do abaixo-assinado
+*"semanas antes"*. Foi **dias** antes, ainda a bordo, na mesma viagem.
+
+### 40.2 Duplicacoes cortadas
+
+**As duas viuvas, em dois capitulos seguidos.** O mesmo paragrafo — *Luchini Teresa, dezenove
+anos. De Rosi Emilia, cinquenta e cinco. Numeros 24 e 25, cada uma com um x a margem* — estava
+no fim do cap. 17 e no meio do cap. 18. O lugar delas e o 18, que e o capitulo dos mortos e onde
+o pedido de voltar a Italia tem peso. No 17 sobrou uma linha que aponta para frente.
+
+### 40.3 Uma contradicao aparente que virou achado
+
+O cap. 17 dizia, a poucos paragrafos de distancia, que **345 passageiros de terceira classe**
+desceram na Ilha das Flores e que a relacao do *Alhena* tem **cinquenta imigrantes**. O leitor
+tropeca nisso e parece erro. Nao e:
+
+> Cinquenta, e nao trezentos e quarenta e cinco, porque aquela folha nao e a lista de quem desceu
+> do navio. E a lista de quem estava *entrando no Brasil*. Os outros quase trezentos iam para
+> Montevideu e Buenos Aires, e so estavam ali porque o navio que os levava tinha afundado no meio
+> do caminho.
+
+### 40.4 Folha de estilo
+
+Doses de negrito depois da passada, contra a referencia de **um a cada 200 palavras**:
+
+| Capitulo | Antes | Depois |
+|---|---:|---:|
+| 13 | 142 | 142 |
+| 15 | 165 | 165 |
+| 16 | 208 | 208 |
+| 17 | **111** | **189** |
+| 18 | **118** | 145 |
+| 19 | **133** | 144 |
+| 22 | 560 | 560 |
+
+Dois casos eram violacao de regra, nao de gosto: **seis nomes de navio em negrito** na lista de
+telegramas do cap. 17 (a regra manda italico para nome de navio e exclui nome proprio do
+negrito) e **uma data em negrito** no cap. 19.
+
+### 40.5 ✅ Verificacao que se fechou sozinha
+
+Eu tinha aberto duvida sobre **Eugenio Gabassi** — se o depoente do corpus seria o mesmo *cav.
+Gambassi Eugenio, agente consular italiano*, do <em>Diario da Manha</em>. **O livro ja sabia**:
+o cap. 14 o apresenta como *"Gabassi, vice-consul italiano na cidade argentina de Parana,
+cinquenta e seis anos"*. A preocupacao era infundada — o livro nunca o tratou como imigrante de
+terceira classe.
+
+🟡 **Mas sobra uma divergencia nova, menor:** o corpus poe o consulado dele em **Parana, na
+Argentina**; o *Diario da Manha* de 29.10.1927 poe em **Ponta Grossa, no Parana** brasileiro.
+As duas leituras sao plausiveis para um italiano a caminho da America do Sul. Nao resolver sem
+terceira fonte.
+
+### 40.6 🔴 Pendencia editorial que esta passada NAO resolveu
+
+A regra do livro diz: *cada depoente tem o capitulo dele — Sanfilippo nos botes, Gabassi nos
+314, Ottaviani no 22h10*. A varredura mostra que isso nao esta valendo:
+
+| Depoente | Capitulos |
+|---|---|
+| **Gabassi** | 14, 15, 16, 17 e **18** — cinco |
+| **Ali Hassen** | 14, 15, 17, 18 — quatro |
+| **Maria Spinelli** | 9, 15, 17 — tres |
+
+E anterior a esta rodada e sobreviveu a passada de repeticoes de 08.09.2026. **Nao foi mexido
+aqui de proposito**: redistribuir depoente entre capitulos e passada editorial propria, e fazer
+isso de afogadilho no meio de outra tarefa desmonta o que funciona. Fica anotado como o proximo
+trabalho de texto do livro.

@@ -9,7 +9,19 @@ Entre a Ilha das Flores e a Hospedaria do Brás existem três dias que ninguém 
 
 O intérprete Thomas Filipovich assinou a parte dele no Rio de Janeiro em 28 de outubro. A entrada na Hospedaria do Brás, em São Paulo, é de 31.
 
-O que aconteceu no meio, eu quase não sei. Não sei onde dormiram, não sei o que comeram, não sei quem pagou.
+O que aconteceu no meio, eu quase não sei.
+
+Uma parte desses três dias dá para fechar, e fecha por eliminação.
+
+Naqueles dias saíram do Rio dois navios com náufragos do Mafalda a bordo.
+
+O *Conte Verde* zarpou em 31 de outubro, levando a tripulação sobrevivente de volta para a Itália. Não servia.
+
+O *Duca degli Abruzzi* — que até 1924 tinha sido comandado pelo próprio Simone Gulì — levou para Santos, Montevidéu e Buenos Aires a maioria dos passageiros que iam para lá. Mas saiu em 2 de novembro, e Rosa já estava registrada em São Paulo no dia 31.
+
+**Elas não foram por mar.** Foram por terra, como quase todo imigrante que desembarcava no Rio com destino ao interior paulista.
+
+O resto continua em branco: não sei onde dormiram, não sei o que comeram, não sei quem pagou.
 
 O que dá para dizer é o que elas não tinham.
 
@@ -128,18 +140,6 @@ São os mesmos que estão na lista do *Alhena*, três dias antes, no Rio.
 Cinquenta pessoas desembarcaram na Ilha das Flores. Quarenta e duas deram entrada no Brás em 31 de outubro, e mais uma no dia seguinte.
 
 Sete não estão naquela página. Para onde foram, eu não sei — e ficar no Rio é só uma das coisas que podem ter acontecido com elas.
-
-Dos três dias entre a Ilha das Flores e o Brás, uma parte já dá para fechar, e fecha por eliminação.
-
-Naqueles dias saíram do Rio dois navios com náufragos do Mafalda a bordo.
-
-O *Conte Verde* zarpou em 31 de outubro, levando a tripulação sobrevivente de volta para a Itália. Não servia.
-
-O *Duca degli Abruzzi* — que até 1924 tinha sido comandado pelo próprio Simone Gulì — levou para Santos, Montevidéu e Buenos Aires a maioria dos passageiros que iam para lá. Mas saiu em **2 de novembro**, e Rosa já estava registrada em São Paulo no dia 31.
-
-**Elas não foram por mar.** Foram por terra, como quase todo imigrante que desembarcava no Rio com destino ao interior paulista, e chegaram à Hospedaria do jeito que todo mundo chegava: pelo desvio ferroviário, do lado de dentro do muro.
-
-Continuo sem saber onde dormiram, o que comeram e quem pagou.
 
 Há uma coisa nessa sobreposição que eu queria saber e não sei.
 

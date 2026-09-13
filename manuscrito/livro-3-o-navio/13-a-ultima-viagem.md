@@ -53,7 +53,7 @@ Nada disso, sozinho, é catástrofe. Tudo isso junto é um navio que já não de
 
 Na escala africana o Mafalda parou outra vez, por avaria na máquina de bombordo.
 
-Escrevi *algum porto* durante muito tempo, porque as descrições da rota habitual do navio citam Dakar. Não foi Dakar. Foi **Mindelo, na ilha de São Vicente, em Cabo Verde**, e o desvio tem um motivo que um passageiro de segunda classe explicou ao pai numa carta: em Dakar tinha estourado *cólera*.
+As descrições da rota habitual do navio citam Dakar. Não foi Dakar: foi **Mindelo, na ilha de São Vicente, em Cabo Verde**, e o desvio tem um motivo que um passageiro de segunda classe explicou ao pai numa carta: em Dakar tinha estourado *cólera*.
 
 Ficaram vinte e quatro horas em São Vicente, quando outros vapores gastavam quatro ou seis para carvoar. Encheram as carvoeiras, tentaram mais uma vez consertar a máquina e embarcaram um boi, porcos e galinhas vivas, porque as câmaras frias estavam paradas havia dias.
 
