@@ -20,17 +20,19 @@ Recife, Rua do Imperador 117. **Não foi pedido, e é o lote mais valioso dos tr
 onde o *Rosetti* desembarcou vinte e sete náufragos, e o jornal fez cobertura própria, diária,
 com entrevistas de primeira mão.
 
+🔴 **Estado da leitura, 13.09.2026.** Todas as 34 páginas foram **catalogadas** — é o que esta tabela é. **Transcritas de fato** são as do *O Malho* e **cinco** das outras, marcadas com ✅ e a seção do caderno onde estão. As demais continuam **catalogadas e não lidas**: catalogar não é ler, e foi confundir as duas coisas que fez a fila parecer menor do que era.
+
 | # | Arquivo (prefixo) | Data | O que traz |
 |---|---|---|---|
 | 1 | I0001533 | qui. **27.10.1927** | capa: *Uma tragédia em plena noite no oceano* — serviço telegráfico especial |
 | 2 | I0001534 | qui. 27.10.1927, p. 2 | continuação |
 | 3 | I0001536 | qui. 27.10.1927 | continuação + *A Polícia por dentro e por fora* |
-| 4 | I0001546 | 28.10.1927 *(a confirmar)* | ⭐ *A horrorosa tragédia do "Principessa Mafalda" — a reconstituição impressionante do naufrágio*. **Declarações do comandante do paquete francês *Mosella*** |
-| 5 | I0001553 | sáb. **29.10.1927** | ⭐⭐ *A chegada do "Rossetti", conduzindo 27 náufragos* · **palestra com o comandante Dennison** · **narrativas de vários náufragos ao próprio jornal** · **fotografia de um grupo de náufragos** |
-| 6 | I0001554 | *(a confirmar)* | *A catástrofe do "Principessa Mafalda" — mais detalhes* · **Quem é responsável pela catástrofe?** |
+| 4 ✅ **§43.1** | I0001546 | 28.10.1927 *(a confirmar)* | ⭐ *A horrorosa tragédia do "Principessa Mafalda" — a reconstituição impressionante do naufrágio*. **Declarações do comandante do paquete francês *Mosella*** |
+| 5 ✅ **§43.2** | I0001553 | sáb. **29.10.1927** | ⭐⭐ *A chegada do "Rossetti", conduzindo 27 náufragos* · **palestra com o comandante Dennison** · **narrativas de vários náufragos ao próprio jornal** · **fotografia de um grupo de náufragos** |
+| 6 ✅ **§45** | I0001554 | *(a confirmar)* | *A catástrofe do "Principessa Mafalda" — mais detalhes* · **Quem é responsável pela catástrofe?** |
 | 7 | I0001562 | *(a confirmar)* | ⭐ *Ainda o naufrágio* — **novos depoimentos de náufragos**; a chegada do *Mosella* |
 | 8 | I0001599 | *(a confirmar)* | miscelânea |
-| 9 | I0001626 | *(a confirmar)* | ⭐ *Como um transatlântico afunda — como se portaram os navios que socorreram o "Principessa Mafalda"*. **Declarações de um passageiro do *Avelona*** |
+| 9 ✅ **§44.1** | I0001626 | *(a confirmar)* | ⭐ *Como um transatlântico afunda — como se portaram os navios que socorreram o "Principessa Mafalda"*. **Declarações de um passageiro do *Avelona*** |
 | 10 | I0001627 | dom. **6.11.1927**, p. 2 | última hora |
 | 11 | I0001655 | qua. **9.11.1927**, p. 2 | ⭐ *O comentário condenatório sobre o naufrágio do "Mafalda"* |
 | 12 | I0001678 | sáb. **12.11.1927** | ⭐ *Nos destroços do "Principessa Mafalda"* |
@@ -105,7 +107,7 @@ E depois o navio afundou de verdade.
 | # | Arquivo (prefixo) | Data | O que traz |
 |---|---|---|---|
 | 1 | I0000790 | qui. **3.11.1927** | *Os perigos do álcool*; do exterior |
-| 2 | I0000807 | dom. **6.11.1927** | ⭐⭐ **"A Prensa", em editorial, pede a punição dos officiaes e tripulantes do "Principeza Mafalda" com as mais severas penas da lei** — despacho de Buenos Aires, 5 (U.P.) |
+| 2 ✅ **§44.2** | I0000807 | dom. **6.11.1927** | ⭐⭐ **"A Prensa", em editorial, pede a punição dos officiaes e tripulantes do "Principeza Mafalda" com as mais severas penas da lei** — despacho de Buenos Aires, 5 (U.P.) |
 | 3 | I0000818 | dom. **6.11.1927** | ⭐ *Um náufrago do "Mafalda" e os cheques "Sudan"* |
 | 4 | I0000851 | sáb. **12.11.1927** | ⭐ *O "Principessa Mafalda" foi visto ao nível d'água* (rodapé) |
 | 5 | I0001036 | ter. **20.12.1927** | fuzilamentos de 1924 |
