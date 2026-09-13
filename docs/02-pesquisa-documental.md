@@ -3851,3 +3851,253 @@ nenhum dos vinte depoimentos pode ser lido como relato neutro.
 ⚠️ Vale registrar a cadeia: é o *Diario Nacional* de São Paulo publicando um despacho da **United
 Press** de Buenos Aires sobre um editorial do *La Prensa*. **Três intermediários.** Citar como
 *"o Diario Nacional noticiou que o La Prensa escrevera"*, nunca como se fosse o editorial direto.
+
+---
+
+## 45. *Diário da Manhã*, Recife, **sábado, 29.10.1927, p. 2** — *Quem o responsável pela catástrofe?*
+
+É a página 2 da mesma edição cuja capa trazia o *Rossetti* (seção 43.2). E é **a página mais
+importante de todo o acervo da Hemeroteca**, porque resolve três pendências abertas do livro e
+abre uma quarta que o autor vai ter de decidir.
+
+Chamada completa, que já é um sumário:
+
+> *A narração dramatica de um naufrago — **Saque do «Mafalda»** — **Suicidios e casos de loucura
+> subita** — **Não houve explosão** e sim a ruptura violenta da helice — **O «Mafalda» viajava em
+> pessimo estado** — **Graves accusações á tripulação que assaltava as baleeiras, golpeando a
+> canivete as senhoras que se procuravam salvar** — Scenas lancinantas descriptas pelos naufragos
+> — Grave incidente entre o Embaixador italiano e os representantes da imprensa, no Rio*
+
+---
+
+### 45.1 ✅ RESOLVIDO: **não houve explosão**
+
+O caderno tinha isto como verificação em aberto, e havia fonte dos dois lados — o capitão
+Dennison, do *Rossetti*, chegou a falar em *"a explosão"*. A resposta está aqui, e é de quem
+estava dentro:
+
+> *Muitos dos salvos pelo "Formose" affirmam que **não houve explosão a bordo do "Principessa
+> Mafalda", conforme se propalou a principio. O que houve foi um ruido, quando rebentou a
+> helice.***
+
+🔴 **É um grupo de sobreviventes, não uma testemunha só**, e a explicação é mecanicamente
+coerente com tudo o mais: o eixo rompeu, a hélice arrebentou, o barulho foi tomado por explosão.
+Dennison estava a bordo de outro navio e repetia o que ouvira dos náufragos. **A versão da
+explosão pode ser dada como desmentida**, e o livro pode dizer de onde ela veio.
+
+### 45.2 ✅ RESOLVIDO: os marinheiros com canivetes têm fonte, data e testemunha
+
+Estava no caderno como achado sem procedência. Agora tem as três coisas:
+
+> *O industrial argentino **George Grenarde**, residente em Bruxellas, e tambem naufrago do
+> "Principessa Mafalda", salvo pelo "Formose", confirmou acharem-se **em pessimo estado de
+> conservação os barcos de salvamento** do paquete italiano, e corroborou as accusações á
+> tripulação do "Principessa Mafalda", **inclusive o seu commandante, que não se portou como
+> devia**.*
+>
+> *Narrou este industrial que **viu mulheres procurarem galgar os escaleres. Marinheiros da
+> equipagem do navio sinistrado, armados de canivetes, cortavam-lhes os braços e as mãos,
+> emquanto outros davam-lhes pancadas na cabeça. Em certa occasião, um cortou ao meio o corpo de
+> um naufrago, á sua frente.***
+
+⚠️ **A última frase é impossível como literal** — ninguém corta um corpo ao meio com um canivete.
+É linguagem de choque, de um homem que acabara de sair da água, num jornal a caçar manchete. **Se
+entrar no livro, entra com a ressalva**, e a ressalva é parte do documento: mostra o estado de
+quem falava e o apetite de quem ouvia.
+
+🔴 O livro **não tem a palavra "canivete" em lugar nenhum** (zero ocorrências). Isto é matéria
+nova, e é pesada.
+
+### 45.3 ✅ RESOLVIDO: **"Salve-se quem puder!"** era ordem do comandante
+
+O caderno registrava a tensão entre *"Viva Italia"* e *"salve-se quem puder"* sem saber a origem
+da segunda. Aqui está, e muda o sentido:
+
+> *Depois, chegou a hora do desastre. **Estando as sirenes, a silvos, traduzindo a ordem do
+> commandante, do "Salve-se quem puder!"**, estabeleceu-se balburdia terrivel. Ninguem se
+> entendia.*
+
+**Não era um grito da multidão. Era a ordem do comandante, transmitida a apitos de sirene.** O
+livro trata *Viva Italia* como frase atribuída pela imprensa. Esta, ao contrário, é descrita como
+um ato de comando, com o meio de transmissão especificado.
+
+🔴 O livro **não tem "salve-se quem puder"** (zero ocorrências). Entra, e entra no cap. 16, ao
+lado do *Viva Italia*: as duas frases que aquela noite deixou, uma inventada pelos jornais para
+um herói, a outra ordenada pelo comandante para o pânico.
+
+### 45.4 🔴🔴 A PENDÊNCIA NOVA, e é a mais delicada do livro
+
+Na mesma narração, três linhas antes:
+
+> *Alguns tripulantes precipitaram-se para os barcos, aggredindo a quem lhes tomava a dianteira.
+> **Os passageiros de terceira subiam á primeira, augmentando a desordem.***
+
+E, das irmãs Baccarini:
+
+> *disseram que **os homens atracavam-se aos botes, ferindo as mulheres**, emquanto a tripulação
+> do "Principessa Mafalda", **em vez de auxiliar o serviço de salvamento, atrapalhava-o. As
+> mulheres apresentaram-se mais calmas do que os homens.***
+
+⚠️⚠️ **Isto é exatamente o que o autor vetou em 12.09.2026**, e o veto está certo. A frase *"os
+passageiros de terceira subiam à primeira, aumentando a desordem"* é **preconceito de classe de
+1927 escrito como se fosse observação**: quem escreve está na redação, quem sobe a escada está
+fugindo de água. A regra do README — *a explicação é estrutural, não moral* — cobre este caso, e
+**a frase não pode entrar no livro como constatação**.
+
+🟡 **Mas pode entrar como documento**, e aí serve: é a prova de que a terceira classe foi
+culpabilizada na semana seguinte, por um jornal, sem que ninguém perguntasse o que fariam os
+outros no lugar dela. O livro tem um capítulo sobre como o naufrágio foi contado. É lá.
+
+**Decisão do autor.** Eu recomendo usar, atribuindo ao jornal e comentando — e não usar calado.
+
+### 45.5 O navio já ia mal antes, e há testemunha disso
+
+> *…adernando. Os passageiros alarmaram-se com o facto, mas **o commandante os tranquillisou,
+> allegando que o navio adernava por collocação defeituosa da carga**. Entretanto, **o paquete
+> navegava vagarosamente, parando de quando em quando para concertos nas machinas. Os
+> frigorificos não funccionavam.***
+>
+> ***No dia 24, o commandante Simoni Guli ordenou as primeiras manobras de salvamento. Creou-se,
+> então, em todo o navio, um ambiente de temor. No dia seguinte, ás 13 horas, a sirene alarmou os
+> passageiros, que trataram de se approximar dos escaleres.***
+
+🔴🔴 **Isto é cronologia nova e grave.** O exercício de salvamento foi no **dia 24** — véspera. E
+às **13h do dia 25**, quatro horas antes do primeiro S.O.S. das 17h, a sirene já chamara os
+passageiros aos escaleres. Somado ao adernamento, às paradas para conserto e aos frigoríficos
+parados, desenha um navio que sabia estar em apuros **antes** do eixo romper.
+
+⚠️ **Conferir no Ineichen** antes de usar: se ele tem a mesma cronologia, o livro pode afirmar;
+se não tem, entra como o que este jornal publicou.
+
+### 45.6 Vozes novas, com nome
+
+| Quem | O que disse | Está no livro? |
+|---|---|---|
+| **sra. Cirino** | *"atirei-me ao mar. Lutei com as ondas até alcançar o 'Formose'. **Todos os naufragos se salvariam si não fosse o pessimo estado dos barcos de salvamento**… Quanto a mim, contei apenas com os meus braços"* | não com esta grafia |
+| **George Grenarde**, industrial argentino residente em Bruxelas | os canivetes; o comandante *"não se portou como devia"* | 🔴 não |
+| **as irmãs Baccarini** | os homens feriam as mulheres nos botes; a tripulação atrapalhava | 🔴 não |
+| **Walter Borges**, comerciante | ver abaixo | 🔴 não |
+
+⭐ **As irmãs Baccarini** — duas irmãs salvas juntas pelo *Formosa*. Rosa e Maria Luigia também
+eram duas irmãs. Não é a mesma história e não deve ser costurada como se fosse; mas o livro
+diz em algum lugar que não sabe de outras irmãs, e agora sabe.
+
+#### A travessia de Walter Borges, e os tubarões
+
+> *O sr. Walter Borges, commerciante… disse que [elle e] sua senhora, ambos munidos de
+> salva-vidas… O navio submergia. Em dado momento, agarrou a esposa pelas costas e disse-lhe que
+> [saltasse]. Esta pediu-lhe, desesperada, que tal [não fizesse]. Nesse momento, **o navio soltou
+> quatro apitos, que pareceram um signal**. Não titubeou mais. [Saltou], e a mulher, saltando
+> atraz. Juntos submergiram, vindo novamente á flor d'agua. Vendo que despencava [uma parte] da
+> chaminé do navio, julgou-se perdido. [Mas, ao cahi]rem, não os alcançou. Criou coragem e nadou,
+> rebocando a mulher, em direcção ao "Formose", cujas luzes via ao longe. **Tubarões appareciam
+> aos [montes]. Um, ha tres metros apenas delle, abocanhou outro naufrago que nadava
+> desesperadamente [em procura] de soccorro.** Achava-se exhausto já… quando um bote o recolheu.*
+
+⭐ **"o navio soltou quatro apitos"** — outro sinal sonoro, e outra hora não declarada. O livro já
+fala de tubarões (8 menções); esta é uma testemunha nomeada e datada para eles, com distância
+medida.
+
+#### Três linhas soltas que valem um bloco cada
+
+- ***"O commissario do navio sossobrado foi o primeiro a sahir de bordo."*** — dito assim, seco,
+  numa linha só. É a acusação mais econômica da página.
+- ***"Faltando luz, os gritos e gemidos das victimas tornavam mais tetrico ainda o quadro."*** —
+  casa com a falha elétrica das 19h documentada na seção 43.
+- *"Uma senhorita, de cujo nome não se recorda, enlouqueceu e tirou as roupas, ficando
+  inteiramente nua."* — ⚠️ **não usar.** É uma mulher sem nome exposta por um jornal; o livro não
+  faz isso. Fica registrado aqui porque a chamada anuncia *"casos de loucura subita"* e alguém
+  vai querer saber o que era.
+
+---
+
+### 45.7 🔴🔴🔴 O quase-motim na Ilha das Flores
+
+> *RIO, 28 (Western) — **Os inferiores e marinheiros do "Principessa Mafalda", que se acham
+> recolhidos á ilha das Flores, fizeram, hoje á tarde, protestos tumultuosos contra os seus
+> superiores, allegando que estes estão hospedados em hoteis, enquanto elles se acham alojados
+> como immigrantes.***
+>
+> ***A manifestação tomou quasi o aspecto de motim**, tendo sido acalmada devido á intervenção do
+> embaixador italiano, que foi á ilha especialmente intervir no caso.*
+>
+> *Acham-se recolhidos á ilha das Flores varios officiaes do "Principessa Mafalda".*
+
+**"Alojados como immigrantes."** É a tese inteira do livro em três palavras, e quem a escreve não
+é o livro: é a queixa dos próprios marinheiros, publicada em 29 de outubro de 1927.
+
+O cap. 17 já conta a divisão do desembarque — trinta e sete para hotéis, trezentos e quarenta e
+cinco para a Ilha das Flores. **O que faltava era o que aconteceu depois**, e é isto: os de baixo
+reclamaram de ter sido tratados como imigrantes, quase houve motim, e o embaixador foi à ilha
+acalmar.
+
+🔴 O livro **não tem a palavra "motim"** (zero ocorrências). Isto entra no cap. 17, e fecha o
+capítulo com um fato em vez de uma interpretação.
+
+⚠️ E note a ironia que o livro não precisa sublinhar: **Rosa estava naquela ilha**, alojada como
+imigrante, que era o que ela era. Os marinheiros consideravam aquilo uma ofensa.
+
+---
+
+### 45.8 Celina Meyer Barbosa, e a terceira mãe
+
+> *RIO, 28 (Western) — A senhora **Celina Meyer Barbosa, viuva, paulista**, viajava no
+> "Principessa Mafalda", acompanhada dos seus filhos **Celina e João**. Por occasião do naufragio
+> do paquete, **a viuva não quiz collocar o cinto de salvamento que lhe foi offerecido, e
+> atirou-se á agua, pedindo aos filhos que não a abandonassem. Estes, num impulso de amor filial,
+> attenderam-na, desapparecendo todos tres nas aguas.***
+
+🔴 **Uma terceira mãe**, ao lado de Paschoalina Retto e Eugenia Rauzini que já estão no caderno —
+e esta é **brasileira, paulista, viúva**, e morreu com os dois filhos porque recusou o colete. O
+livro **não tem o nome Celina** em lugar nenhum.
+
+⚠️ *"num impulso de amor filial"* é do jornal, não do fato. Se entrar, entra sem o adjetivo.
+
+### 45.9 Mattioggi Francesco — a família que se salvou inteira
+
+> *RIO, 28 (Western) — O passageiro de terceira classe, **Mattiogi Francesco**, do "Principessa
+> Mafalda", que se dirigia a Buenos Aires, **salvou toda a sua familia, composta de mulher e seis
+> filhos**.*
+
+⭐⭐ **Oito pessoas de terceira classe, salvas inteiras.** É o paralelo exato do grupo de Rosa —
+sete pessoas, todas salvas — e é o único outro caso documentado de família de terceira classe que
+atravessou completa.
+
+✅ **E ele já está no acervo:** o arquivo `o-malho_1927-11-05_p39_fotos-mae-e-familia-mattiogi.jpg`
+traz fotografias da família. O livro **não tem o nome** (zero ocorrências), mas tem a fotografia
+em disco.
+
+🔴 **Isto é candidato a bloco do cap. 10 ou 23**, ao lado dos sete de Rosa, e com imagem.
+
+### 45.10 Os números continuam caindo
+
+> *As ultimas noticias… dizem que o numero de victimas da catastrophe **sobe a cerca de 400**.*
+>
+> *Ainda não ha noticia do capitão Simoni Guli, commandante do navio sinistrado.*
+
+A série do cap. 18 ganha mais um degrau, e agora está completa e datada:
+**600** (Privat, 27.10) → **400** (Rio, 28.10) → **314** (número final).
+
+✅ E confirma-se que, em 28.10, **ainda não se sabia o destino de Gulì** — o que explica que no
+dia 29 o mesmo jornal publicasse as duas versões contraditórias da morte dele (seção 43.1).
+
+### 45.11 ✅ A chegada do *Alhena* confere com o que o livro já diz
+
+> *RIO, 28 (Western) — Chegou a esta cidade, **aos primeiros minutos da madrugada de hoje**, o
+> vapor "Alhena"… não tendo atracado ao caes do porto. **O embaixador italiano aqui solicitou das
+> autoridades maritimas que não permittissem o ingresso a bordo dos representantes da imprensa**,
+> havendo, por isso, ligeiro incidente entre os jornalistas que tiveram vedada a entrada e o
+> referido diplomata.*
+>
+> *O sr. Bernardo Attolico… **foi o primeiro a subir a bordo**… Os jornalistas que iam na lancha
+> da Alfandega… quizeram subir ao convez, **sendo impedidos pelo embaixador italiano que se poz
+> no portaló**.*
+>
+> *Os naufragos trazidos pelo "Alhena" fizeram a viagem em perfeita normalidade, sendo recolhidos
+> á ilha das Flores, **de accordo com a determinação do sr. Octavio Mangabeira, ministro do
+> Exterior**.*
+
+✅ **Segunda fonte para a cena do portaló** que o livro já pôs no cap. 17. Confirma o essencial e
+acrescenta dois fatos: o pedido formal de Attolico às autoridades marítimas **antes** de o navio
+chegar, e o nome de quem determinou o destino dos náufragos — **Octávio Mangabeira, ministro do
+Exterior**, decisão do governo brasileiro, não do consulado italiano.
