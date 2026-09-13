@@ -65,7 +65,7 @@ Etimologia de família é sempre um pouco verdade e um pouco poesia, e eu não c
 
 Em 24 de outubro de 1917 a frente italiana arrebentou em Caporetto.
 
-O exército recuou até parar em duas linhas. Uma era o rio Piave. A outra era o Monte Grappa.
+Quando o recuo enfim parou, a nova linha de frente passava pelo Monte Grappa.
 
 Na montanha que se via da janela.
 

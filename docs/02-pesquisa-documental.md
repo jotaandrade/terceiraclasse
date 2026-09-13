@@ -3189,3 +3189,29 @@ para quem fizer a preparacao final.
   manda.
 - O cap. 20 diz com todas as letras o que a Patricia nao afirma, e deixa a duvida onde ela a
   deixou.
+
+### 41.10 Fecho da leitura — os 27 capitulos foram lidos
+
+Terminada em 13.09.2026. Os cinco que faltavam (1, 2, 3, 6 e 26) foram lidos por inteiro, e
+nao so por varredura. Mais tres achados:
+
+🔴 **Eu criei uma duplicacao nova ao corrigir outra.** A minha reescrita de Caporetto no cap. 1
+ficou quase identica a frase que ja existia no cap. 6 — *"O exercito recuou ate parar em duas
+linhas"*. Reescrita outra vez, agora do angulo da vila: *"Quando o recuo enfim parou, a nova
+linha de frente passava pelo Monte Grappa."* **Licao: ao desduplicar, conferir a frase nova
+contra o outro capitulo, e nao so contra o original.**
+
+🟡 **O ano de Pietro Luigi ganhou a lacuna que faltava.** O cap. 3 ja tratava muito bem a
+*causa* da morte — poe lado a lado o silencio do Albo d'Oro e o depoimento de Giorgio sobre a
+mina nos Estados Unidos, e diz que nao vai escrever que esta provado. Mas afirmava o **ano** sem
+dizer de onde vinha. Acrescentado: *"O ano vem do acervo desta familia e se repete em tudo o que
+eu herdei. O documento que o confirme, eu ainda nao vi."*
+
+✅ **O cap. 2 nao precisou de nada.** E o unico do livro sem um negrito sequer, em 2.441
+palavras, e e o capitulo de contexto historico: funciona assim.
+
+### 41.11 Folha de estilo atualizada
+
+A regra do negrito passou de duas para **tres funcoes**, com a terceira descrita e com a
+ressalva de metodo: ao medir a dose, descontar os nomes que abrem entrada de lista. É a regra
+alcancando o livro, nao o contrario.

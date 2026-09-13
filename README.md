@@ -156,11 +156,22 @@ que os documentos dão (data, nome, idade, planta do navio) e o **procedimento d
 era escrito e igual para todo mundo. O que nunca entra é o que se passou dentro de alguém.
 Memória do autor também não é reconstrução: se só o João viveu, só o João escreve.
 
-**Negrito é caro.** *(08.09.2026)* Duas funções, e mais nenhuma: a **frase que é o golpe do
-bloco**, e a **palavra que é a própria prova** (CHEFE, Náufragos, Espontâneos, Subsidiados,
-*di*, *fu*). Nome próprio, data e número não vão em negrito. Fala de documento vai em
-**itálico**. Referência de dose: um negrito a cada **200 palavras**; a um a cada 90 o negrito
-para de destacar e vira textura.
+**Negrito é caro.** *(08.09.2026, terceira função acrescentada em 13.09.2026)* Três funções,
+e mais nenhuma:
+
+1. a **frase que é o golpe do bloco**;
+2. a **palavra que é a própria prova** (CHEFE, Náufragos, Espontâneos, Subsidiados, *di*, *fu*);
+3. o **nome que abre um verbete ou uma entrada de lista** — a relação de passageiros do cap. 8,
+   a apresentação de cada depoente no cap. 13, a cadeia de sobrenomes no cap. 24.
+
+A terceira **não é exceção à regra de que nome próprio não vai em negrito**: ali o nome não está
+sendo enfatizado, está marcando o início de uma entrada, como faria um travessão ou um versalete.
+Fora de lista, nome próprio, data e número continuam sem negrito. Fala de documento vai em
+**itálico**.
+
+Referência de dose: um negrito a cada **200 palavras**; a um a cada 90 o negrito para de destacar
+e vira textura. ⚠️ **Ao medir, descontar os da terceira função** — senão um capítulo de lista
+como o 8 aparece com um negrito a cada 55 palavras e o número não quer dizer nada.
 
 **Um fato, uma vez.** *(08.09.2026)* Nome, número e depoimento entram **num capítulo só**.
 A lista das sete pessoas se recita no cap. 8 (a relação de Gênova) e no cap. 10 (o capítulo

@@ -205,7 +205,7 @@ Etimologia de família é sempre um pouco verdade e um pouco poesia, e eu não c
 
 Em 24 de outubro de 1917 a frente italiana arrebentou em Caporetto.
 
-O exército recuou até parar em duas linhas. Uma era o rio Piave. A outra era o Monte Grappa.
+Quando o recuo enfim parou, a nova linha de frente passava pelo Monte Grappa.
 
 Na montanha que se via da janela.
 
@@ -608,6 +608,8 @@ Roberto morreu em 3 de julho, com vinte e três dias. Ausilio viveu até 1989.
 Nasceram no mesmo dia, e entre a morte de um e a do outro passaram oitenta anos.
 
 Em 1916 morreu Pietro Luigi Forner, o segundo filho, com vinte e sete anos.
+
+O ano vem do acervo desta família e se repete em tudo o que eu herdei. O documento que o confirme, eu ainda não vi.
 
 A explicação óbvia se escreve sozinha: era idade de convocação, a Itália estava no segundo ano de guerra, e aquela casa ficava a poucos quilômetros do que viraria a frente do Monte Grappa.
 

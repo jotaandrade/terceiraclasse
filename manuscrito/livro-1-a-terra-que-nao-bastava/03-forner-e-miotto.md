@@ -77,6 +77,8 @@ Nasceram no mesmo dia, e entre a morte de um e a do outro passaram oitenta anos.
 
 Em 1916 morreu Pietro Luigi Forner, o segundo filho, com vinte e sete anos.
 
+O ano vem do acervo desta família e se repete em tudo o que eu herdei. O documento que o confirme, eu ainda não vi.
+
 A explicação óbvia se escreve sozinha: era idade de convocação, a Itália estava no segundo ano de guerra, e aquela casa ficava a poucos quilômetros do que viraria a frente do Monte Grappa.
 
 Fui procurar o nome dele no registro oficial dos militares italianos mortos naquela guerra. Não está lá.
