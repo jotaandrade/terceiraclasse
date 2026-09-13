@@ -793,3 +793,194 @@ passageiro do *Avelona***) · `I0001627` (6.11) · `I0001678` (12.11, *nos destr
 5. **Rosa Zambrino e o filho têm data e porto de desembarque.**
 6. **Eugenio Gabassi pode não ser quem o livro supõe** — verificação aberta.
 7. **Uma fotografia com procedência completa**, do *Diário da Manhã*, com a boia do navio.
+
+---
+
+## 4.5 · 28 de outubro de 1927, p. 2 — o fim da noite, visto do *Mosella*
+
+`I0001546` · *A horrorosa tragedia do «PRINCIPESSA MAFALDA» — A reconstituição impressionante
+do naufragio* · **"Ainda tenho [nos ouvidos o]s gritos desvairados das mulheres, creanças,
+velhos e moços que pereciam", declarou o commandante do paquete francez «Mosella»**
+
+> "Somente o commandante **Privat** ficou a bordo do 'Mosella', dando ordens. Até o commissario
+> **Henri Pauvert** desceu, remando, num bote de soccorro. (…)
+> O serviço de salvamento foi dado por prompto **a uma hora da madrugada**, ficando, porem, os
+> botes arriados. **Fez-se, então, absoluto silencio a bordo. De quando em quando, ouvia-se um
+> gemido partido de um dos botes que recolhiam os naufragos. E assim passou-se a noite.**
+> **A's 9 horas lançaram-se ao mar os corpos dos mortos**, tendo **frei Mariano Fermo**, que
+> viaja no 'Mosella', pronunciado sentida allocução. Depois desta cerimonia que a todos
+> commoveu, o 'Mosella' partiu, afastando-se do local sinistro."
+
+⭐ **O silêncio absoluto e os gemidos vindos dos botes** é a cena do fim daquela noite, e o
+livro não a tem.
+
+⭐⭐ **E corrige o cap. 18.** O capítulo diz: *"Não houve recolhimento de corpos. (…) Quem morreu
+ali ficou ali."* Isso continua verdadeiro para quem se afogou — mas **houve corpos recolhidos e
+sepultados no mar na manhã seguinte, com cerimônia religiosa e a tripulação toda presente.**
+
+**O número, dito a quente:**
+
+> "O sr. **Lyra Chaves** ainda declarou que, segundo se calculava a bordo do 'Mosella',
+> **morreram cerca de 600 pessoas** (…) e accrescentou terem perecido **quasi todos os
+> passageiros das primeira e segunda classes**."
+
+⭐⭐⭐ Três dias depois da noite, alguém que estava no *Mosella* já dizia que a primeira e a
+segunda classe tinham sido dizimadas. **É a confirmação, a quente, da estatística de Campodonico
+que entrou no cap. 15.**
+
+**A lista dos tripulantes salvos pelo *Mosella* e chegados a Salvador** inclui *Attilio Bosea*,
+segundo oficial; *Carlo Quitto*, primeiro oficial de máquinas; e ⭐ ***Romeo Piflini,
+violoncellista da orchestra de bordo*** — que é o violoncelista que Ineichen dá como salvo no
+*Mosella*. A orquestra estava espalhada por vários navios de resgate: mais um prego no caixão da
+*Marcia Real*.
+
+---
+
+## 4.6 · *Como um transatlântico afunda* — o passageiro do *Avelona*
+
+`I0001626` · *Como se portaram os navios que soccorreram o «Principessa Mafalda» — Interessantes
+declarações de um passageiro do «Avelona»*
+
+O depoente é o milionário argentino **Juan Castex** (o jornal grafa "Boca Cartex"), entrevistado
+no Rio à passagem do *Avelona*.
+
+⭐⭐ **RETRATO DE SIMONE GULÌ.** A página traz, em destaque, o rosto do comandante de quepe:
+*"No alto, á direita: o capitão Simone Guli, commandante do 'Principessa Mafalda'."* É uma
+imagem dele, com legenda, em jornal brasileiro datado.
+
+⚠️ **E a ilustração grande NÃO é do Mafalda.** A legenda declara: *"Em baixo: — Uma scena
+altamente dramatica, semelhante á do 'Principessa Mafalda'. **O naufragio do 'Titanic'**…"* O
+jornal usou uma gravura do Titanic como similar, e disse que estava fazendo isso. Pela regra de
+imagens deste projeto, ela só entraria com a legenda dizendo o que é — e é um exemplo do que o
+livro argumenta: a iconografia do naufrágio italiano foi montada com imagens do inglês.
+
+**O horário:**
+
+> "O primeiro pedido de soccorro do Principessa Mafalda foi dado **ás 16 horas e 40 minutos** e
+> o navio afundou completamente **alguns minutos depois das 2[1] horas**, após a terrivel
+> explosão nas caldeiras." — sob o título **QUASI CINCO HORAS PARA DESAPPARECER TOTALMENTE**
+
+⭐⭐⭐ **16h40 + quase cinco horas = por volta de 21h40.** Converge com o diário de bordo do
+*Formosa* (21h45) e com Campodonico (~21h30). **São agora três fontes independentes contra as
+22h10 do corpus de depoimentos**, que é a hora que dá nome ao cap. 16.
+
+**O bote do *Alhena*:**
+
+> "**UM BOTE DO 'ALHENA' COM TODA A TRIPULAÇÃO FOI TRAGADO PELO MAR QUANDO SE DEU O NAUFRAGIO**
+> (…) Dentre essas pequenas embarcações estava mesmo encostado ao seu casco um pequeno bote
+> salva-vidas do Alhena. Indo ao fundo, o Principessa Mafalda occasionou forte deslocamento
+> d'agua, que formando um grande redemoinho, envolveu o pequeno bote, tragando-o nas suas
+> malhas. Assim, a tripulação do valente bote hollandez **pagou com a vida** a grande abnegação
+> que tão elevadamente provava naquelle momento."
+
+⭐⭐⭐⭐ **O navio que salvou Rosa, a irmã e as cinco crianças perdeu um bote inteiro, com a
+tripulação dentro, sugado pelo redemoinho do Mafalda.** O cap. 17 tem a corda esticada ao longo
+do casco do *Alhena* e não tem isto.
+
+**E o *Avelona* não salvou ninguém:**
+
+> "O Avelona, que foi o ultimo navio a chegar no local do desastre, pois estava a **280 milhas**
+> do mesmo (…) permaneceu fazendo pesquizas de victimas **das 4 ás 8 horas**; todavia, nada
+> encontrou, motivo por que **não recolheu nenhum naufrago para esta capital**. Disse o
+> commandante do mesmo que (…) **teria salvo toda a tripulação e passageiros do Principessa
+> Mafalda se tivesse chegado a tempo, isto é, com 10 horas de avanço sobre a hora que chegou**."
+
+⭐⭐⭐ **Isto corrige o cap. 17.** O capítulo cita uma contabilidade que dá *"Avelona 300"*
+salvos, e diz que a conta d'*O Malho* fecha ao preço de deixar o *Empire Star* e o *Avelona* de
+fora. **Agora se sabe por que o *Avelona* ficou de fora: ele não salvou ninguém.** O comandante
+declarou isso à imprensa. A conta que fecha fica mais forte, e o bloco escrito em 12.09 precisa
+de um ajuste.
+
+---
+
+## 4.7 · 30 de outubro de 1927 — Corrado Gini, Longobardi e a entrevista com o *Mosella*
+
+`I0001562` · duas matérias na mesma página.
+
+### O comandante do *Mosella* ao *Diário da Manhã*
+
+> "*Approximámo-nos o mais possível, mas compreende que **não íamos aventurar os nossos navios,
+> cheios também de passageiros, n'um lugar fora da nossa rota**. Depois a noite estava muito
+> escura e era preciso cautela.*"
+
+⚠️ É o **mesmo argumento** que o tripulante italiano usou no Hotel Portuense na véspera. Ler
+junto com §4.3: havia uma linha defensiva em circulação.
+
+> "*— Quantos passageiros do 'Mafalda' morreram a bordo do 'Mosella'?*
+> *— **Quatro**, que recolhemos em estado desesperador. Os medicos de bordo empregaram todos os
+> recursos para salval-os, mas tudo foi inutil. (…)*
+> *— Foram lançados ao mar?*
+> *— Sim, depois das formalidades da lei. A cerimonia (…) tendo feito uma commovedora oração
+> funebre o **rev. padre Angelo Monterubiana, do convento de N. S. da Piedade**.*"
+
+⭐⭐ **Quatro mortos no *Mosella*, dois no *Rossetti*.** Pelo menos **seis pessoas foram tiradas
+vivas da água e morreram nos navios de salvamento**, e foram sepultadas no mar. Não estão nos
+trezentos e catorze, e não têm sepultura.
+⚠️ O nome do celebrante diverge do dado em 28.10 (*frei Mariano Fermo*). Podem ter sido duas
+cerimônias, ou é erro de um dos dois dias. **Não resolver sem terceira fonte.**
+
+E uma nota de percurso: **os náufragos de Recife seguiram para o Rio no vapor *Raul Soares*.**
+
+### ⭐⭐⭐ *Novos depoimentos de naufragos — o que disseram o prof. Corrado Gini e o commissario
+Longobardi* (RIO, 29, Western)
+
+> "um matutino publica a entrevista que lhe concedeu hontem o **professor Corrado Gini**, dos
+> naufragos salvos pelo 'Formose'. O entrevistado opinou que o naufragio (…) **foi um capricho
+> da fatalidade**; diz elle, exaggeros sobre as condições do paquete, e que o desastre poderia
+> occorrer até com um navio novo, **mas confessa que o estado das machinas e do material de
+> salvamento não era bom, tanto que os escaleres faziam agua**."
+
+⭐⭐⭐⭐ **Corrado Gini estava a bordo.** É o estatístico do índice de Gini, então presidente do
+**Istituto Centrale di Statistica**, criado pelo regime em 1926. *O Malho* o citaria dias depois
+como a testemunha *"que não póde ser suspeito"*.
+
+E a fala dele é a censura inteira em três linhas: minimiza ("capricho da fatalidade", "exageros",
+"aconteceria até com navio novo") e **mesmo assim não consegue negar** que as máquinas e o
+material de salvamento estavam ruins e que os escaleres faziam água.
+
+> "Contesta em seguida as declarações das **[Sras.] Baccarini** sobre o assalto de que foram
+> victimas os passageiros de primeira classe, dizendo ter havido momento de panico **quando se
+> deu a invasão da [terceira] classe pelo elemento syrio**, que viajava em [terceira]. Houve,
+> sim, alguns tripulantes incorrectos, porque mais de dois terços da equipagem portaram-se
+> correctamente."
+
+🔴 **As Sras. Baccarini são as da fotografia d'*O Malho*** (*"Na primeira gravura estão as Sras.
+Baccarini"*). Elas acusaram a terceira classe; Gini as contesta e **desloca a acusação para "o
+elemento sírio"**.
+
+🔴🔴 **Material delicado, e o livro precisa dele.** A acusação muda de alvo conforme quem fala:
+os de primeira culpam a terceira; um alto funcionário do regime culpa os sírios; os de terceira
+culpam a tripulação. **Isso fortalece o cap. 15 e precisa entrar com a regra do projeto de não
+expor ninguém** — o racismo é da fonte, e se cita como fonte.
+
+> "O sr. **Carlo Longobardi**, commissario (…) **a mais alta patente sobrevivente**, falou hoje
+> á imprensa, **pela primeira vez**. (…) o navio foi sacudido como se tivesse batido numa pedra.
+> Quebrara-se o eixo da helice. (…) Pararam as machinas. Diminuiu-se a pressão das caldeiras.
+> Apagaram-se as fornalhas. Uma turma de marinheiros adextrados tentou reparar a avaria (…) Era
+> tarde, porem. As paredes lateraes cederam (…)
+> Já terminado o serviço de salvamento quando o 'Principessa Mafalda' empinou, no ultimo esforço
+> de movimento para submergir, o commandante Simoni Guli **tirou o bonet e desappareceu**.
+> **O commissario Longobardi contesta que Simoni Guli tenha se suicidado, pois não conduzia arma
+> alguma no momento, nem mesmo usava.**"
+
+⭐⭐ É o **mesmo depoimento** que *O Malho* publicaria em 5.11 — o gesto do quepe, a negativa do
+suicídio, o mesmo argumento da arma. **Aqui está a primeira vez que ele falou: 29.10.1927.** A
+consistência do depoente entre as duas datas é um dado sobre a qualidade da fonte.
+
+⚠️ Longobardi diz "já terminado o serviço de salvamento" quando o navio empinou — o que não
+combina com as centenas ainda a bordo que outras fontes descrevem. Anotar.
+
+E: **Luigi Bulgarini e esposa**, o advogado romano que naufragou duas vezes na mesma viagem
+(Ineichen), **foram salvos pelo *Alhena***.
+
+---
+
+## 4.8 O que estas três páginas mudam no livro
+
+| Onde | O quê |
+|---|---|
+| cap. 16 | **três fontes independentes** põem o afundamento perto de 21h30-21h45; 22h10 é a mais tardia e a mais frágil |
+| cap. 17 | **o *Avelona* não recolheu ninguém** — declaração do próprio comandante. E o ***Alhena* perdeu um bote com toda a tripulação**, sugado pelo redemoinho |
+| cap. 18 | **houve** corpos recolhidos e sepultados no mar, com cerimônia; e pelo menos **seis** morreram já resgatados, a bordo do *Mosella* e do *Rossetti* |
+| cap. 15 | **Corrado Gini** desloca a acusação para "o elemento sírio" — a acusação muda de alvo conforme quem fala, e isso é o argumento do capítulo |
+| cap. 15 / nota de método | o comandante do *Mosella* e o tripulante do Hotel Portuense usam **o mesmo argumento defensivo**, nos mesmos dias |
