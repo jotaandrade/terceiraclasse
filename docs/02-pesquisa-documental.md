@@ -3711,3 +3711,143 @@ grafias brasileiras para um nome francês, nenhuma igual à outra.
 que a reversão (commit `0589a8c`) foi correta.** Transcrição brasileira de nome francês em
 telegrama de 1927 é a **pior** evidência possível para grafia de nome próprio. Fica como regra:
 nome próprio não se corrige por transcrição de época, e menos ainda por uma só.
+
+---
+
+## 44. Mais duas páginas: o *Avelona* e o editorial do *La Prensa* — 13.09.2026
+
+### 44.1 *Diário da Manhã*, Recife, **domingo, 6.11.1927**, capa — *Como um transatlântico afunda*
+
+Subtítulo: *Como se portaram os navios que soccorreram o «Principessa Mafalda» — Interessantes
+declarações de um passageiro do «Avelona»*.
+
+⚠️ **Nota editorial da própria página, e ela é reveladora.** A matéria é ilustrada com uma gravura
+de um transatlântico afundando de proa, e a legenda declara o que é: *"Uma scena altamente
+dramatica, semelhante á do 'Principessa Mafalda'. **O naufragio do 'Titanic'**, provocado pelo
+abalroamento do grande paquete com formidaveis 'Ice-Bergs', perdidos no Atlantico norte."* Ou
+seja: onze dias depois, o jornal ainda não tinha imagem do naufrágio e usou o *Titanic*,
+**dizendo que era o Titanic**. 🟡 Vale como nota sobre a economia de imagens do episódio — e
+contrasta com as duas fotografias inéditas que o mesmo jornal publicaria em **30.11**.
+
+⭐ A página traz também um **retrato do capitão Simone Gulì** (*"No alto, á direita: o capitão
+Simone Guli, commandante do 'Principessa Mafalda'"*). É candidato a imagem do livro, se a
+resolução permitir.
+
+#### ⭐⭐ O primeiro S.O.S., às 17h — segunda fonte independente
+
+> *UM "S.O.S." A DUZENTAS MILHAS — "Navegava o Avelona magnificamente, com um mar calmo e tempo
+> encantador, a **duzentas milhas mais ou menos da ilha dos Abrolhos**, quando, na tarde do
+> sinistro, **ás 17 horas approximadamente**, a estação radio-telegraphica de bordo recebeu o
+> **primeiro S.O.S.**, pedido de soccorro de uma embarcação que estava em perigo. Chamada á fala,
+> a estação transmissora logo respondeu, dizendo ser de bordo do Principessa Mafalda que estava
+> em perigo de eminente naufragio."*
+
+✅ **As 17h da seção 43 ficam confirmadas por uma segunda fonte que não é a mesma.** Lá era um
+radiotelegrama do *Massilia*; aqui é a estação do *Avelona*. Dois navios diferentes registram o
+primeiro pedido no mesmo horário.
+
+#### 🔴🔴 O rombo era **na popa** — e isso é a prova estrutural do cap. 15
+
+> *"Pedimos maiores detalhes e o apparelho transmissor adiantou que o referido navio estava na
+> altura dos Abrolhos e tinha soffrido a ruptura do eixo da helice, **tendo um rombo na pôpa, por
+> onde entrava enorme quantidade d'agua**, sendo de prever que o mesmo não resistisse por muito
+> tempo no estado em que se achava, e que a bordo era esperada a submersão a todo o momento."*
+
+**O livro explica a mortalidade por classe dizendo que a segunda classe morava na popa, que foi
+por onde a água entrou.** Até agora esse era um argumento de planta de navio. Agora há uma fonte
+de época, datada, e ela é a melhor possível: **é o próprio operador de rádio do *Mafalda*,
+respondendo a um pedido de detalhes, na tarde do dia 25**, dizendo onde estava o rombo.
+
+⭐ **Isto deve entrar no cap. 15.** É a confirmação documental da regra que o autor fixou sobre
+mortalidade por classe, e vem de dentro do navio, antes de haver versão oficial para defender.
+
+#### A corrida do *Avelona*, e por que ela não adiantou
+
+> *"Fazendo funccionar **as tres caldeiras das quatro que possue**, o Avelona rumou em demanda aos
+> Abrolhos, fazendo uma média de **22 milhas horarias**, o maximo que podia vencer. Não obstante,
+> porém, a grande velocidade que levava, o Avelona, devido á grande distancia em que se achava,
+> só pôde chegar ao local do desastre **ás 4 horas da madrugada do dia 26**, fazendo, portanto, o
+> percurso em **11 horas e pouco**."*
+
+✅ Fecha com o que o livro já diz no cap. 17 (chegou às quatro, não achou ninguém). E a
+aritmética fecha sozinha: 17h + 11h = 4h.
+
+🟡 A frase do cap. 17 — *"teria salvado todo mundo se tivesse chegado dez horas antes"* — ganha
+aqui a sua medida exata: ele estava a duzentas milhas e queimou três caldeiras de quatro. **Não
+havia como chegar antes.** Isso muda o tom da frase de acusação para tragédia aritmética, e o
+capítulo pode dizê-lo.
+
+#### 🔴🔴🔴 Os navios no local: sete, com nacionalidade — e dois que o livro não tem
+
+> *DESTROÇOS DE TODA A ESPECIE — "Quando o Avelona chegou ao local do sinistro, o Principessa
+> Mafalda já estava de todo submerso. A perspectiva do local era deveras desoladora. **Illuminado
+> pelos reflectores dos navios presentes, que eram o Empire Star, o Rossette e o King Frederic,
+> inglezes, Formose e Mosella, francezes, e Alhena, hollandez, e um pequeno barco grego**, o mar
+> offerecia um espectaculo verdadeiramente contristador — barcos, jangadas, pedaços de madeira,
+> bagagens de toda a sorte, calhaus, latas, pedaços de lona, enfim, destroços de toda a especie,
+> dansavam em direcções desencontradas, ao sabor das ondas, não obstante mansas e suaves, como se
+> fossem as ultimas lembranças do magestoso pala[cio flutuante]…"*
+
+| Navio | Bandeira (segundo a fonte) | Está no livro? |
+|---|---|---|
+| *Empire Star* | inglês | sim (12 menções) |
+| *Rossetti* ("Rossette") | inglês | sim, grafado **Rosetti** (9) |
+| ***King Frederick*** ("King Frederic") | inglês | 🔴 **não — zero menções** |
+| *Formosa* ("Formose") | francês | sim (10) |
+| *Mosella* | francês | sim (10) |
+| *Alhena* | **holandês** | sim (48) |
+| ***um pequeno barco grego*** | grego | 🔴 **não — zero menções** |
+
+🔴 **Dois navios novos.** O *King Frederick* e um pequeno barco grego sem nome. Somados, são
+**sete embarcações** no local — e João Lyra Chaves, na seção 43, contou **"6 vapores"**. As duas
+contas conciliam se o barco grego não for vapor, ou se um dos sete tiver chegado depois.
+
+⚠️ **Não acrescentar ao livro antes de conferir em segunda fonte.** Nome de navio é exatamente o
+tipo de coisa que a lição do *Formosa* manda não aceitar de uma transcrição só. Mas **procurar**
+o *King Frederick* no Ineichen e na Hemeroteca passa a ser tarefa.
+
+✅ **A nacionalidade holandesa do *Alhena* fica confirmada** por fonte de época — é o navio da
+Rosa, e o livro o trata como holandês.
+
+---
+
+### 44.2 *Diario Nacional*, São Paulo, **domingo, 6.11.1927**, capa, n.º 100
+
+Redator-chefe **Amadeu Amaral**; diretores J. A. Marrey Junior e Paulo Nogueira Filho. Manchete
+principal da capa — não é nota de pé de página:
+
+> ***"La Prensa", em editorial, pede a punição dos officiaes e tripulantes do "Principessa
+> Mafalda" com as mais severas penas da lei***
+>
+> *BUENOS AIRES, 5 (U.P.) — 'La Prensa' continua a se occupar do naufragio do "Principessa
+> Mafalda". Num editorial diz, hoje, que **ás autoridades italianas compete punir os officiaes e
+> tripulantes, que deixaram de cooperar para o salvamento dos passageiros, com as mais severas
+> penas da lei**. Accrescenta "La Prensa", que, **apesar das categoricas declarações do embaixador
+> italiano junto ao governo brasileiro, sr. Attolico, elogiando "o corajoso espirito de
+> sacrificio dos bravos marinheiros"**, [há provas irrecusa]**veis do censuravel abandono de seu
+> posto** em que, em tão grave [momento, devia] cada um ter se conservado.*
+
+*(Os trechos entre colchetes estão na dobra da página e foram reconstituídos pelo sentido —
+marcar assim se for citado.)*
+
+🔴🔴🔴 **Este é o documento que o cap. 18 precisava para o bloco dos "heróis fabricados".** O livro
+já argumenta que a heroicidade da tripulação foi construída depois. Aqui está, **em 5 de novembro
+de 1927**, o maior jornal de Buenos Aires:
+
+1. **exigindo punição** de oficiais e tripulantes por não terem cooperado no salvamento;
+2. **citando e contradizendo o embaixador italiano pelo nome**, com a frase dele entre aspas —
+   *"o corajoso espirito de sacrificio dos bravos marinheiros"*;
+3. afirmando haver **provas do "censuravel abandono de seu posto"**.
+
+⭐ **Attolico ganha voz, e não só números.** O caderno já registrava os números impossíveis dele
+(152 mulheres embarcadas, 158 salvas). Agora há a retórica que acompanhava os números, e há quem
+a contestasse na semana seguinte.
+
+🟡 **E serve à tese das duas imprensas não-livres do cap. 15, dos dois lados ao mesmo tempo:** a
+imprensa italiana estava proibida de criticar; a imprensa argentina pedia as penas mais severas
+da lei doze dias depois. O leitor vê as duas pressões na mesma página do livro, e entende por que
+nenhum dos vinte depoimentos pode ser lido como relato neutro.
+
+⚠️ Vale registrar a cadeia: é o *Diario Nacional* de São Paulo publicando um despacho da **United
+Press** de Buenos Aires sobre um editorial do *La Prensa*. **Três intermediários.** Citar como
+*"o Diario Nacional noticiou que o La Prensa escrevera"*, nunca como se fosse o editorial direto.
